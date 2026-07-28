@@ -3,7 +3,7 @@ type: synthesis
 title: "Ôn thi cuối kỳ — Master Synthesis (LN1 + LN2 + LN3)"
 tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis]
 created: 2026-07-24
-updated: 2026-07-26
+updated: 2026-07-28
 status: complete
 ---
 
@@ -402,5 +402,6 @@ nguyên hậu GFC/pandemic? (L35)**
   [[l35-kakhkharov-2025-banking-geopolitical-change]],
   [[l36-minford-2025-monetary-policy-lessons]]
 - **Bản tương tác (Artifact)**: mindmap có thể bấm mở/đóng từng paper + tab "Tự test" dạng
-  flashcard — https://claude.ai/code/artifact/b1704073-2623-44b9-8b64-b0cf8461d866
-  (private, cần Share nếu muốn gửi cho người khác)
+  flashcard (đều private, cần bấm Share trên trang đó nếu muốn gửi cho người khác):
+  - Toàn tiếng Việt: https://claude.ai/code/artifact/c65cd0f4-2ac9-413e-890f-f82651314290
+  - Toàn tiếng Anh (để gửi GS Heshmati/bạn quốc tế): https://claude.ai/code/artifact/720594d7-477d-4936-9c9f-f81bf4314f2a
