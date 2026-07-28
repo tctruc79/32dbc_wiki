@@ -31,7 +31,7 @@ jobs:
 
       - run: npm run install-plugins
 
-      - run: npx quartz build
+      - run: ./scripts/build-site.sh
 
       - uses: actions/upload-pages-artifact@v3
         with:
