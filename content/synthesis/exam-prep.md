@@ -403,5 +403,6 @@ nguyên hậu GFC/pandemic? (L35)**
   [[l36-minford-2025-monetary-policy-lessons]]
 - **Bản tương tác (Artifact)**: mindmap có thể bấm mở/đóng từng paper + tab "Tự test" dạng
   flashcard (đều private, cần bấm Share trên trang đó nếu muốn gửi cho người khác):
+  - Song ngữ (bản gốc, VI diễn giải + giữ thuật ngữ EN): https://claude.ai/code/artifact/b1704073-2623-44b9-8b64-b0cf8461d866
   - Toàn tiếng Việt: https://claude.ai/code/artifact/c65cd0f4-2ac9-413e-890f-f82651314290
   - Toàn tiếng Anh (để gửi GS Heshmati/bạn quốc tế): https://claude.ai/code/artifact/720594d7-477d-4936-9c9f-f81bf4314f2a

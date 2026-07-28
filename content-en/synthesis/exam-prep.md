@@ -435,5 +435,6 @@ post-GFC/pandemic era? (L35)**
   [[l36-minford-2025-monetary-policy-lessons]]
 - **Interactive version (Artifact)**: a mindmap with expandable/collapsible papers + a "Self-test"
   flashcard tab (both private, need to click Share on that page to send to someone else):
+  - Bilingual (original, VI explanations + EN terminology): https://claude.ai/code/artifact/b1704073-2623-44b9-8b64-b0cf8461d866
   - Full Vietnamese: https://claude.ai/code/artifact/c65cd0f4-2ac9-413e-890f-f82651314290
   - Full English (to send to Prof. Heshmati/international colleagues): https://claude.ai/code/artifact/720594d7-477d-4936-9c9f-f81bf4314f2a
