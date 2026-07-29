@@ -36,3 +36,5 @@ directions are more likely to receive in-depth supervision.
 ## Links
 
 - [[syllabus-2026]], [[ln1-economic-development]].
+- [[k31-final-exam]] — Question 6 of the K31 exam asks directly about the Heshmati &
+  Rashidghalam (2020) paper on urban infrastructure and urbanization in China.

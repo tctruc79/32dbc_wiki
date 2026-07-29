@@ -383,6 +383,16 @@ nguyên hậu GFC/pandemic? (L35)**
   hơn dữ liệu vĩ mô truyền thống có độ trễ — nhưng áp dụng cho 2 loại khủng hoảng khác nhau
   (ngân hàng nội sinh vs cú sốc pandemic bên ngoài).
 
+## 6. Đề thi khóa trước (tham khảo định dạng thật)
+
+- [[k31-final-exam]] — đề thi viết cuối kỳ K31 (khóa trước, cùng môn/GS): luật thi thật (120 phút,
+  compulsory Q1-2 + elective chọn tối thiểu 2/4, PASS ≥27.5/50 mỗi phần) + 6 câu hỏi + đáp án chi
+  tiết. 6 paper trong đề này KHÔNG trùng reading list LN1-LN3 hiện có (khác K31/K32), riêng Q4
+  (Baron, Verner & Xiong 2021) trùng 100% với [[l31-baron-2021-banking-crises-without-panics]] và
+  Q6 (Heshmati & Rashidghalam 2020) là paper của chính giáo sư môn này. Giá trị chính: làm quen
+  **dạng câu hỏi** ("trình bày findings + drivers/impacts/mechanism của 1 paper cụ thể") — khả
+  năng cao xuất hiện lại ở đề K32.
+
 ## Liên kết
 
 - [[overview]] · [[all-papers-mindmap]] · [[ln1-economic-development]] ·

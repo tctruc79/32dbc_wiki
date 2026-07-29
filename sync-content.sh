@@ -10,7 +10,7 @@ DEST="$(cd "$(dirname "$0")" && pwd)/content"
 rm -rf "$DEST"
 mkdir -p "$DEST"
 
-for d in sources lectures concepts people synthesis; do
+for d in sources lectures concepts people exams synthesis; do
   if [ -d "$SRC/$d" ]; then
     cp -R "$SRC/$d" "$DEST/$d"
   fi

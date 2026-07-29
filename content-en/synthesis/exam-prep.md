@@ -415,6 +415,17 @@ post-GFC/pandemic era? (L35)**
   is more reliable than traditional macro data, which lags — but applied to two different types
   of crisis (an endogenous banking crisis vs. an external pandemic shock).
 
+## 6. Past exam from a previous cohort (real-format reference)
+
+- [[k31-final-exam]] — K31's final written exam (the previous cohort, same course/professor):
+  real exam rules (120 minutes, compulsory Q1–2 + electives choosing a minimum of 2 of 4, PASS
+  ≥27.5/50 on each part) plus 6 questions with detailed model answers. The 6 papers in this exam
+  do NOT overlap with the current LN1–LN3 reading list, except Q4 (Baron, Verner & Xiong 2021),
+  which is identical to [[l31-baron-2021-banking-crises-without-panics]], and Q6 (Heshmati &
+  Rashidghalam 2020), which is a paper by this course's own professor. Main value: getting used
+  to the **question format** ("present the findings + drivers/impacts/mechanism of a specific
+  paper") — a format very likely to reappear on the current cohort's exam.
+
 ## Links
 
 - [[overview]] · [[all-papers-mindmap]] · [[ln1-economic-development]] ·

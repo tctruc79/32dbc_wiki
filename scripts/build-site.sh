@@ -9,6 +9,12 @@ rm -rf public
 npx quartz build -d content -o public/vi
 npx quartz build -d content-en -o public/en
 
+# Quartz nhung san data-basepath tu cfg.baseUrl (vd "/32dbc_wiki"), thieu doan "/vi" hay
+# "/en" -- can vi ca 2 cay dung chung 1 baseUrl trong quartz.config.yaml. Vá lại ngay sau
+# build, truoc khi Explorer/Graph/Search doc gia tri nay luc runtime (xem fix-basepath.mjs).
+node scripts/fix-basepath.mjs public/vi /vi
+node scripts/fix-basepath.mjs public/en /en
+
 # Root "/" redirect sang "/vi/" (ban mac dinh) -- giu link cu/bookmark vao root van di duoc.
 cat > public/index.html << 'EOF'
 <!DOCTYPE html>

@@ -33,3 +33,5 @@ trong lecture và exam; essay càng gần các hướng này càng dễ được
 ## Liên kết
 
 - [[syllabus-2026]], [[ln1-economic-development]].
+- [[k31-final-exam]] — đề thi K31 câu 6 hỏi trực tiếp về paper Heshmati & Rashidghalam (2020),
+  urban infrastructure & urbanization Trung Quốc.

@@ -71,3 +71,4 @@ không phải nguyên nhân — panic thường xảy ra **sau** khi bank equity
 ## Liên kết
 
 - Bài giảng: [[ln3-financial-crisis-and-pandemics]] · Concept: [[banking-crisis]]
+- [[k31-final-exam]] — đề thi K31 câu 4 hỏi trực tiếp về paper này (cùng paper, đề thi khóa khác).

@@ -77,3 +77,5 @@ panics typically occur **after** bank equity has already declined sharply.
 ## Links
 
 - Lecture: [[ln3-financial-crisis-and-pandemics]] · Concept: [[banking-crisis]]
+- [[k31-final-exam]] — Question 4 of the K31 exam asks directly about this same paper (a
+  different cohort's exam, same reading).
