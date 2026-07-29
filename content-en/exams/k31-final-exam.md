@@ -3,7 +3,7 @@ type: exam
 title: "K31 Final Written Exam — Development Issues and Business Cycle"
 tags: [exam, past-exam, k31, land-consolidation, poverty-inequality, construction-digitalization, banking-crisis, trade-policy, urban-infrastructure]
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-07-29
 status: complete
 source_file: "raw/4. PAST EXAMS/K31 final written exam/k31-exam-page1-questions.jpeg"
 also_covers:
@@ -85,41 +85,48 @@ development of Vietnam's urban infrastructure.
 
 ### Question 1 — Land consolidation, rice production, Vietnam (Do, Nguyen & Grote, EAP 2023)
 
+✅ **Updated 2026-07-29**: this paper has now been fully deep-ingested as reading L42 of
+[[ln4-agriculture-climate-change-natural-disasters]] — see the full page:
+[[l42-do-2023-land-consolidation-vietnam]] (no longer paywalled; the complete Economic Analysis
+and Policy 77: 157–173 text has been read). The answer below has been updated with the exact
+figures, replacing the earlier abstract-based estimates.
+
 **Confirmed source**: Do, Manh Hung; Nguyen, Trung Thanh; Grote, Ulrike (2023), *"Land
 consolidation, rice production, and agricultural transformation: Evidence from household panel
 data for Vietnam"*, **Economic Analysis and Policy**, 77(C), 157–173 (DOI:
-10.1016/j.eap.2022.11.010) — confirmed via IDEAS/RePEc, matching the ScienceDirect record. An
-earlier working paper exists: *"Is land consolidation policy a solution for rice production and
-agricultural transformation in Vietnam?"*, TVSEP Working Paper wp-028 (Leibniz Universität
-Hannover) — Ulrike Grote's institution — confirming this uses household panel data from the TVSEP
-project (Thailand Vietnam Socio-Economic Panel, surveying ~2,200 households across three central
-provinces — Ha Tinh, Thua Thien Hue, and Dak Lak — ⚠️ a reasonable inference from the TVSEP
-series, not directly confirmed as this exact paper's sample, since the full text is paywalled).
+10.1016/j.eap.2022.11.010). Data: TVSEP (Thailand Vietnam Socio-Economic Panel), 995 rice-growing
+households, three central provinces (Ha Tinh, Thua Thien Hue, Dak Lak), three survey waves
+(2010/2013/2017) — now confirmed directly from the full text.
 
-**Methodology**: Household panel data; an econometric strategy combining heteroscedasticity-based
-instrumental variables (to address the endogeneity of households' voluntary participation in
-consolidation) with simultaneous-equation regression models; references to panel/matching methods
-(a Mundlak-type specification, Smith & Todd 2005, Ho et al. 2007) as robustness checks.
+**Methodology**: land fragmentation measured via the Simpson index; farming efficiency estimated
+using a true random-effects stochastic frontier (translog, Greene 2005) with Mundlak (1978)
+correlated random effects; a simultaneous-equations system linking farming efficiency and land
+consolidation participation, estimated via 3SLS with heteroscedasticity-based instrumental
+variables (Lewbel 2012) to address endogeneity; SURE regression for farm/non-farm income; and
+propensity score matching combined with difference-in-differences (PSM-DD) for production costs
+and poverty.
 
-**Key findings (drivers, economic & social impacts)**:
-- **Self-selection driver**: households that participate in land consolidation tend to be **more
-  efficient farmers** to begin with — i.e., consolidation is not random but correlated with
-  pre-existing farming efficiency, which is why the paper needs to address endogeneity via IV.
-- **Economic impact**: significantly lower **land preparation costs** and **harvest costs**;
-  higher **farm income**.
-- **Social impact**: **poverty reduction**.
-- **Policy implication** (per the abstract): land consolidation should be promoted as a tool to
-  **reallocate land** from households exiting agriculture to those remaining, thereby facilitating
-  labor reallocation toward the non-farm sector — consistent with the "agricultural
-  transformation" framing in the title.
-- ⚠️ Specific quantitative figures (percentages, coefficients) could not be accessed since the
-  full paper is paywalled — the findings above are taken directly from the abstract, with no
-  numbers invented.
+**Key findings (drivers, economic & social impacts)** — exact figures from the full text:
+- **Self-selection driver**: farming efficiency has a significant POSITIVE effect on the
+  probability of participating in land consolidation (more efficient households are more likely
+  to participate), but the reverse direction — participation affecting farming efficiency — is
+  NOT statistically significant (Table 4).
+- **Economic impact (PSM-DD)**: land consolidation lowers land preparation costs by PPP$24.35/ha
+  and harvest costs by PPP$41.82/ha; raises agricultural income per worker and increases the
+  share of farm income in total household income (lowering the non-farm income share — evidence
+  of rural transformation).
+- **Social impact**: poverty reduction as measured by the FGT (Foster-Greer-Thorbecke) index at
+  two thresholds, PPP$2.05 and PPP$3.20/day.
+- **Policy implication**: land consolidation should be promoted as a tool to reallocate land from
+  households exiting agriculture to those remaining, facilitating labor reallocation toward the
+  non-farm sector.
 
 **Course connections**: shares a theme of rural-urban land/labor reallocation with
-[[l14-sasges-2025-vietnam-policies]] (LN1, Vietnam 1980–2019), though from a different angle
-(microeconomic household level vs. macro national policy) — both show that land/institutional
-reform is an important driver of Vietnam's economic transformation.
+[[l14-sasges-2025-vietnam-policies]] (LN1, Vietnam 1980–2019) — microeconomic household level vs.
+macro national policy. Within LN4, L42 also pairs directly with
+[[l41-ho-2021-land-tenure-vietnam]] — both address "Vietnamese land institutions" but through
+different channels (property rights/tenure security in L41 vs. land fragmentation/consolidation
+in L42); see [[institutions]], section "Empirical application in LN4."
 
 ### Question 2 — Poverty reduction, growth & inequality, Vietnam (Nguyen & Pham, APEL 2018)
 

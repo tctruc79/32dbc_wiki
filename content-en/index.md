@@ -4,7 +4,7 @@ type: overview
 title: "Course Overview — Development Issues and Business Cycle (Class 32, 2026)"
 tags: [course-map, syllabus]
 created: 2026-07-20
-updated: 2026-07-26
+updated: 2026-07-29
 status: complete
 
 ---
@@ -54,10 +54,20 @@ Map of the course. Sources: [[syllabus-2026]], [[essays-instructions]].
    ([[l34-cai-2023-natural-resources-financial-development-vietnam]]), Kakhkharov & Yarashov
    2025 ([[l35-kakhkharov-2025-banking-geopolitical-change]]), Minford 2025
    ([[l36-minford-2025-monetary-policy-lessons]]).
-4. **Agriculture, Climate Change and Natural Disasters** — Ho 2021 (land tenure VN),
-   Do-Nguyen-Grote 2023, Le 2020 (floods), Vo & Tran 2022, Tran et al. 2022, Hastuti et al. 2025.
-5. **Entrepreneurship and Economic Development** — Nguyen 2023, Huis et al. 2019, Naudé 2010,
-   Méndez-Picazo et al. 2012, Stein et al. 2026, Sharma-Subba 2025.
+4. **Agriculture, Climate Change and Natural Disasters** — [[ln4-agriculture-climate-change-natural-disasters]]
+   — readings: Ho 2021 ([[l41-ho-2021-land-tenure-vietnam]], land tenure VN), Do, Nguyen & Grote
+   2023 ([[l42-do-2023-land-consolidation-vietnam]], land consolidation VN), Le 2020
+   ([[l43-le-2020-floods-household-welfare]], floods), Vo & Tran 2022
+   ([[l44-vo-tran-2022-rural-vulnerability-vietnam]]), Tran et al. 2022
+   ([[l45-tran-2022-rice-farmers-vulnerability-nghean]]), Hastuti et al. 2025
+   ([[l46-hastuti-2025-climate-labor-mobility-indonesia]], Indonesia).
+5. **Entrepreneurship and Economic Development** — [[ln5-entrepreneurship-economic-development]] —
+   readings: Nguyen 2023 ([[l51-nguyen-2023-entrepreneurial-orientation-women-smes-vietnam]]), Huis
+   et al. 2019 ([[l52-huis-2019-get-training-microfinance-vietnam]]), Naudé 2010
+   ([[l53-naude-2010-entrepreneurship-development-economics]]), Méndez-Picazo et al. 2012
+   ([[l54-mendez-picazo-2012-governance-entrepreneurship-growth]]), Stein et al. 2026
+   ([[l55-stein-2026-digital-entrepreneurship-fintech-denmark]]), Sharma & Subba 2025
+   ([[l56-sharma-subba-2025-green-startups-sustainability]]).
 6. **Innovation, Technology, Growth, Inequality and Poverty** — Heshmati & Rashidghalam 2020
    (TFP), Lööf & Heshmati 2006, Tran-Alkire-Klasen 2015, Nguyen & Pham 2018, Nguyen et al. 2019.
 7. **Investment in Development Infrastructure, Health, Education** — Heshmati & Rashidghalam
@@ -104,4 +114,6 @@ Centered on: [[technology-upgrading]], [[middle-income-trap]], [[middle-innovati
 | 1. Economic Development | Complete — lecture note ([[ln1-economic-development]]) + all 5 readings deep-ingested |
 | 2. Governance, Institutions and Policy Making | Complete — lecture note ([[ln2-governance-institutions-policy-making]]) + all 6 readings deep-ingested |
 | 3. Financial Crisis and Pandemics | Complete — lecture note ([[ln3-financial-crisis-and-pandemics]]) + all 6 readings deep-ingested (L35, L36 limited by paywall — abstract only) |
-| 4–10 | No material yet in raw sources |
+| 4. Agriculture, Climate Change and Natural Disasters | Complete — lecture note ([[ln4-agriculture-climate-change-natural-disasters]]) + all 6 readings deep-ingested |
+| 5. Entrepreneurship and Economic Development | Complete — lecture note ([[ln5-entrepreneurship-economic-development]]) + all 6 readings deep-ingested |
+| 6–10 | No material yet in raw sources |

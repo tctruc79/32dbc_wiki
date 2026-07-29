@@ -1,27 +1,29 @@
 ---
 type: synthesis
-title: "Mindmap toàn bộ Required Readings — LN1, LN2 & LN3"
-tags: [mindmap, overview, convergence, institutions, deep-roots, banking-crisis]
+title: "Mindmap toàn bộ Required Readings — LN1–LN5"
+tags: [mindmap, overview, convergence, institutions, deep-roots, banking-crisis, agriculture, entrepreneurship]
 created: 2026-07-24
-updated: 2026-07-26
+updated: 2026-07-29
 status: complete
 ---
 
-# Mindmap toàn bộ Required Readings — LN1, LN2 & LN3
+# Mindmap toàn bộ Required Readings — LN1–LN5
 
-Tổng hợp từ [[ln1-economic-development]], [[ln2-governance-institutions-policy-making]] và
-[[ln3-financial-crisis-and-pandemics]] (17 papers, lectures 4–10 chưa có tài liệu trong `raw/`
-— xem [[overview]]). Khác với mindmap riêng của từng lecture (vốn đi theo đúng thứ tự slide),
-trang này nhóm 17 paper theo **5 cụm chủ đề xuyên lecture** để lộ ra các connection không nằm
-gọn trong 1 buổi học — đặc biệt cụm Institutions, nơi Acemoglu et al. (2001) đóng vai trò
-"trunk" lý thuyết mà 3 paper LN2 khác build trên qua 3 kênh cụ thể, và cụm Banking Crisis, nơi
-Baron, Verner & Xiong (2021) đóng vai trò tương tự cho 5 paper LN3 còn lại.
+Tổng hợp từ [[ln1-economic-development]], [[ln2-governance-institutions-policy-making]],
+[[ln3-financial-crisis-and-pandemics]], [[ln4-agriculture-climate-change-natural-disasters]] và
+[[ln5-entrepreneurship-economic-development]] (29 papers, lectures 6–10 chưa có tài liệu trong
+`raw/` — xem [[overview]]). Khác với mindmap riêng của từng lecture (vốn đi theo đúng thứ tự
+slide), trang này nhóm 29 paper theo **7 cụm chủ đề xuyên lecture** để lộ ra các connection không
+nằm gọn trong 1 buổi học — đặc biệt cụm Institutions, nơi Acemoglu et al. (2001) đóng vai trò
+"trunk" lý thuyết mà nhiều paper khác (LN2, và nay cả LN4/LN5) build trên; cụm Banking Crisis, nơi
+Baron, Verner & Xiong (2021) đóng vai trò tương tự cho 5 paper LN3 còn lại; và cụm Entrepreneurship
+mới, nơi Naudé (2010) đóng vai trò trunk programmatic cho 5 paper LN5 còn lại.
 
 ## Mindmap theo cụm chủ đề
 
 ```mermaid
 mindmap
-  root(("17 Required Readings<br/>LN1 + LN2 + LN3"))
+  root(("29 Required Readings<br/>LN1 – LN5"))
     ("A. Deep Roots &amp;<br/>Historical Determinants")
       ("L13 Spolaore &amp; Wacziarg 2013<br/>Geography 44% + ancestry → persistence")
     ("B. Convergence &amp;<br/>Growth Trajectories")
@@ -44,6 +46,20 @@ mindmap
         ("L34 Cai &amp; Le 2023 — tài nguyên/tài chính/CSR, green growth VN")
         ("L35 Kakhkharov &amp; Yarashov 2025 — review geopolitics/ngân hàng")
         ("L36 Minford 2025 — bài học chính sách tiền tệ")
+    ("F. Agriculture, Land Institutions<br/>&amp; Climate Vulnerability")
+      ("L41 Ho 2021<br/>Land tenure VN — property rights KHÔNG hoàn chỉnh, tác động khiêm tốn")
+        ("L42 Do, Nguyen &amp; Grote 2023 — kênh land fragmentation/consolidation")
+      ("L43 Le 2020<br/>Floods, outcome-based (thu nhập/chi tiêu/SWB), MODIS satellite")
+      ("L44 Vo &amp; Tran 2022<br/>LVI/LVI-IPCC liên vùng VN — Bắc/DH Nam Trung Bộ dễ tổn thương nhất")
+        ("L45 Tran et al. 2022 — cùng LVI + beta regression, driver cấp hộ Nghệ An")
+      ("L46 Hastuti et al. 2025<br/>Indonesia — climate → labor mobility (exit), duy nhất ngoài VN")
+    ("G. Entrepreneurship<br/>trunk: Naudé 2010")
+      ("L53 Naudé 2010<br/>'Black box' institutions + entrepreneurship = binding constraint")
+        ("L51 Nguyen 2023 — kênh vi mô: EO↔performance women-owned SME VN")
+        ("L52 Huis et al. 2019 — kênh RCT: empowerment qua microfinance VN")
+        ("L54 Méndez-Picazo et al. 2012 — kênh vĩ mô: governance→entrepreneurship→growth")
+        ("L55 Stein et al. 2026 — kênh mở 'black box': institutional entrepreneurs FinTech Đan Mạch")
+        ("L56 Sharma &amp; Subba 2025 — kênh sustainability: green startups")
 ```
 
 ## Giải thích 5 cụm
@@ -88,18 +104,45 @@ liệu tài chính là tín hiệu sớm" sang dự báo phục hồi COVID-19 V
 tài nguyên-tài chính-tăng trưởng xanh Việt Nam, còn Kakhkharov & Yarashov và Minford là 2 bài
 review/chính sách vĩ mô đặt khung địa chính trị và lịch sử tiền tệ dài hạn cho toàn cụm.
 
+### F. Agriculture, Land Institutions & Climate Vulnerability
+
+Cụm mới từ LN4 (6/29 paper), cấu trúc KHÁC 2 cụm trunk-based trên — đây là 2 trục độc lập gộp
+chung vì cùng bối cảnh "hộ nông thôn Việt Nam/Đông Nam Á": (i) **thể chế đất đai** — L41 (Ho 2021,
+property rights/tenure security, tác động khiêm tốn vì incomplete) và L42 (Do, Nguyen & Grote
+2023, land fragmentation/consolidation) — cùng chủ đề đất đai VN nhưng 2 kênh độc lập, xem
+[[institutions]]; (ii) **thiên tai/biến đổi khí hậu** — L43 (Le 2020, floods, đo outcome-based),
+L44+L45 (Vo & Tran 2022; Tran et al. 2022, cùng công cụ LVI/LVI-IPCC nhưng khác độ phân giải/mục
+đích, xem [[livelihood-vulnerability-index]]), và L46 (Hastuti et al. 2025, Indonesia — duy nhất
+coi labor mobility là chiến lược "exit" thay vì thích ứng tại chỗ).
+
+### G. Entrepreneurship & Institutions
+
+Cụm mới từ LN5 (6/29 paper), cấu trúc trunk giống cụm C/E: [[entrepreneurship-and-development]]
+(Naudé 2010) là trunk programmatic — đặt 2 gap nghị sự (entrepreneurship bị đánh giá thấp;
+institutions = "black box") mà 5 paper còn lại cụ thể hóa qua các kênh khác nhau: Nguyen (2023) và
+Huis et al. (2019) là 2 kênh vi mô/hộ gia đình Việt Nam (EO↔performance SME nữ; RCT empowerment
+qua microfinance), Méndez-Picazo et al. (2012) là kênh vĩ mô (governance→entrepreneurship→growth,
+trích trực tiếp khung Acemoglu 2003 — cầu nối rõ sang [[institutions]] LN2), Stein et al. (2026)
+"mở" chính hộp đen mà Naudé đặt ra bằng case study institutional entrepreneurs cụ thể (FinTech Đan
+Mạch), còn Sharma & Subba (2025) mở rộng logic sang sustainability/green startups.
+
 ## So sánh với mindmap theo lecture
 
 - Mindmap trong [[ln1-economic-development]],
-  [[ln2-governance-institutions-policy-making]] và [[ln3-financial-crisis-and-pandemics]]: theo
-  đúng **thứ tự slide giáo sư giảng**, hữu ích để ôn theo buổi học.
+  [[ln2-governance-institutions-policy-making]], [[ln3-financial-crisis-and-pandemics]],
+  [[ln4-agriculture-climate-change-natural-disasters]] và
+  [[ln5-entrepreneurship-economic-development]]: theo đúng **thứ tự slide giáo sư giảng**, hữu ích
+  để ôn theo buổi học.
 - Mindmap trang này: theo **chủ đề xuyên lecture**, hữu ích để thấy paper nào cùng trả lời một
   câu hỏi lý thuyết dù nằm ở lecture khác nhau — ví dụ khi ôn thi theo dạng câu hỏi so sánh
-  ("so sánh cách 2 paper X, Y giải thích Z").
+  ("so sánh cách 2 paper X, Y giải thích Z"). Cụm F và G đặc biệt đáng chú ý vì cả hai đều bắc cầu
+  ngược lại tới [[institutions]] (LN2) — L41/L42/L54 đều xây dựng trực tiếp trên khung Acemoglu.
 
 ## Liên kết
 
 - [[overview]] · [[ln1-economic-development]] · [[ln2-governance-institutions-policy-making]] ·
-  [[ln3-financial-crisis-and-pandemics]]
+  [[ln3-financial-crisis-and-pandemics]] · [[ln4-agriculture-climate-change-natural-disasters]] ·
+  [[ln5-entrepreneurship-economic-development]]
 - Concepts: [[deep-roots-of-development]], [[unconditional-convergence]],
-  [[high-quality-development]], [[institutions]], [[middle-income-trap]], [[banking-crisis]]
+  [[high-quality-development]], [[institutions]], [[middle-income-trap]], [[banking-crisis]],
+  [[livelihood-vulnerability-index]], [[entrepreneurship-and-development]]

@@ -1,16 +1,16 @@
 ---
 type: synthesis
-title: "Ôn thi cuối kỳ — Master Synthesis (LN1 + LN2 + LN3)"
-tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis]
+title: "Ôn thi cuối kỳ — Master Synthesis (LN1–LN5)"
+tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis, agriculture, climate-vulnerability, entrepreneurship]
 created: 2026-07-24
-updated: 2026-07-28
+updated: 2026-07-29
 status: complete
 ---
 
 # Ôn thi cuối kỳ — Master Synthesis
 
-Điểm tra cứu trung tâm để ôn thi, gom toàn bộ 17 papers đã deep-ingest (LN1+LN2+LN3) thành:
-bảng tra nhanh, 5 cụm chủ đề, **tranh luận/căng thẳng giữa các paper** (trọng tâm câu hỏi thi
+Điểm tra cứu trung tâm để ôn thi, gom toàn bộ 29 papers đã deep-ingest (LN1–LN5) thành:
+bảng tra nhanh, 7 cụm chủ đề, **tranh luận/căng thẳng giữa các paper** (trọng tâm câu hỏi thi
 dạng so sánh), concept map, và ngân hàng câu hỏi. Trang này cập nhật liên tục — mỗi khi có
 lecture/reading mới được ingest, bổ sung ngay vào đây theo quy tắc trong CLAUDE.md. Xem thêm
 bản visual: mindmap Artifact (link đã gửi trong chat) và [[all-papers-mindmap]] (bản mindmap
@@ -18,11 +18,13 @@ mermaid nhóm theo cùng cụm, ít chữ hơn).
 
 ## Quy trình ôn thi 5 bước
 
-1. **Nắm bản đồ tổng trước** (~10 phút) — đọc mục 1 (bảng tra nhanh) + mục 2 (5 cụm chủ đề)
+1. **Nắm bản đồ tổng trước** (~10 phút) — đọc mục 1 (bảng tra nhanh) + mục 2 (7 cụm chủ đề)
    dưới đây, hoặc trang [[all-papers-mindmap]].
 2. **Học theo cụm, không theo thứ tự slide** — Deep Roots (L13) → Convergence (L11, L14, L15)
    → Institutions (L21 trunk + L22/23/24/26) → Policy Critique (L12, L25) → Banking Crisis
-   (L31 trunk + L32/33/34/35/36). Đề thi hay hỏi so sánh *trong* cụm.
+   (L31 trunk + L32/33/34/35/36) → Agriculture & Land Institutions/Climate Vulnerability (L41/42
+   trunk cặp + L43/44/45/46) → Entrepreneurship & Institutions (L53 trunk + L51/52/54/55/56). Đề
+   thi hay hỏi so sánh *trong* cụm.
 3. **Học phần "tranh luận" (mục 3) — quan trọng nhất.** Đúng dạng câu hỏi so sánh hay ra thi;
    học luận điểm **cả 2 phía**, không chỉ 1 phía.
 4. **Tự test chủ động, đừng chỉ đọc lại.** Che đáp án, tự trả lời trước, rồi mới mở kiểm tra
@@ -38,9 +40,9 @@ Nếu chỉ còn ít thời gian: ưu tiên bước 3 + 4, bỏ qua đọc lại
 |---|---|
 | Shortlist 20 bài cho written exam | ⏳ Giáo sư gửi 23/8 — **CHƯA có**, đây mới là phạm vi thi thật sự |
 | Ngày Written Exam | ⚠️ Mâu thuẫn: syllabus ghi 30/8, LN0 (17/07 — mới hơn) ghi 06/9 — xem [[ln0-course-intro]] |
-| Phạm vi wiki hiện tại | LN1 (5) + LN2 (6) + LN3 (6) = 17 papers. Lecture 4–10 **chưa có** tài liệu trong `raw/` |
+| Phạm vi wiki hiện tại | LN1 (5) + LN2 (6) + LN3 (6) + LN4 (6) + LN5 (6) = 29 papers. Lecture 6–10 **chưa có** tài liệu trong `raw/` |
 
-## 1. Bảng tra cứu nhanh — 17 papers
+## 1. Bảng tra cứu nhanh — 29 papers
 
 | Mã  | Paper                              | Lecture | Phương pháp                                       | Finding chính (1 dòng)                                                      |
 | --- | ---------------------------------- | ------- | ------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -61,8 +63,20 @@ Nếu chỉ còn ít thời gian: ưu tiên bước 3 + 4, bỏ qua đọc lại
 | L34 | Cai & Le 2023                      | LN3     | PMG-ARDL, Việt Nam 1999–2018                      | Tài nguyên/tài chính/CSR: quan hệ dài hạn dương, ngắn hạn âm với green growth |
 | L35 | Kakhkharov & Yarashov 2025         | LN3     | Review (Encyclopedia entry)                       | Ngân hàng thị trường mới nổi dễ tổn thương trước phân mảnh địa chính trị     |
 | L36 | Minford 2025                       | LN3     | Policy essay (Encyclopedia entry)                 | 3 bài học ổn định tiền tệ hậu khủng hoảng/pandemic                          |
+| L41 | Ho 2021, World Development          | LN4     | Panel FE/RE + Oster (2019) bias-adjustment, nighttime lights proxy | 1% land-use certs → light +1.7% (bivariate) còn +0.6% (full controls); modest, có thể về 0 |
+| L42 | Do, Nguyen & Grote 2023, EAP        | LN4     | True RE stochastic frontier + 3SLS/Lewbel (2012) IV + PSM-DD | Farming efficiency → participation land consolidation (có ý nghĩa), ngược lại không; giảm chi phí, giảm nghèo |
+| L43 | Le 2020, EDCC                       | LN4     | Reduced-form (Dell et al. 2014) + MODIS satellite flood data | Lũ giảm thu nhập NN, tăng chi y tế +48.5%/giáo dục +42.0%; chỉ remittance coping hiệu quả |
+| L44 | Vo & Tran 2022, HERA                | LN4     | LVI + LVI-IPCC, VARHS 2018, 1852 hộ 12 tỉnh       | Bắc Trung Bộ & DH Nam Trung Bộ dễ tổn thương nhất (exposure cao); ĐBSCL đe dọa hạn hán/xâm nhập mặn |
+| L45 | Tran et al. 2022, EC                | LN4     | Cùng LVI + correlation matrix + beta regression, Nghệ An | 76% hộ "slightly vulnerable"; tín dụng chính thức/tưới tiêu TĂNG vulnerability (phản trực giác) |
+| L46 | Hastuti et al. 2025, WDP            | LN4     | IV (altitude/latitude), IFLS panel Indonesia      | CV mưa +1%→mobility +0.47pp, CV nhiệt độ +1%→+1.38pp; kênh farm production cost; DUY NHẤT ngoài VN |
+| L51 | Nguyen 2023, JAFEB                  | LN5     | OLS regression, survey 258 women-owned SME VN     | 4/5 khía cạnh EO dương; risk-taking ÂM có ý nghĩa (ngược lý thuyết EO chuẩn), R²=77% |
+| L52 | Huis et al. 2019, World Development | LN5     | RCT, TYM microfinance Bắc VN, 4041 borrowers, ITT+DID | Training tăng control beliefs + quyền quyết định, giảm relational friction — rõ ở endline (12 tháng) |
+| L53 | Naudé 2010, SBE                     | LN5     | Programmatic/agenda-setting essay (SBE special issue intro) | Entrepreneurship = binding constraint tiềm năng; institutions = "black box"; vấn đề là phân bổ sai, không phải thiếu |
+| L54 | Méndez-Picazo et al. 2012, ERD      | LN5     | Panel 2-phương trình, 11 nước phát triển 2002-2007 | Governance (Acemoglu 2003 framework) → dương → entrepreneurship → growth; Gini dương với entrepreneurship |
+| L55 | Stein et al. 2026, Technovation     | LN5     | Longitudinal qualitative case study, Danish FinTech DEE | Institutional entrepreneurs mở "black box" Naudé qua collective effort + neutral leadership |
+| L56 | Sharma & Subba 2025, IGD            | LN5     | Scoping review >100 nguồn, khung TBL+EMT          | Green startups: jobs/eco-innovation/circular economy nhưng rào cản vốn/quy định; thiếu chuẩn ESG |
 
-## 2. Năm cụm chủ đề
+## 2. Bảy cụm chủ đề
 
 Chi tiết đầy đủ: [[all-papers-mindmap]]. Tóm tắt:
 
@@ -75,6 +89,15 @@ Chi tiết đầy đủ: [[all-papers-mindmap]]. Tóm tắt:
   creation), L33 (dữ liệu tài chính làm tín hiệu sớm, áp dụng COVID VN), L34 (tài
   nguyên/tài chính/tăng trưởng xanh VN), L35 (review chính sách/geopolitics), L36 (bài học
   chính sách tiền tệ vĩ mô)
+- **F. Agriculture, Land Institutions & Climate Vulnerability** — 2 trục độc lập: (i) thể chế đất
+  đai VN — L41 (property rights/tenure security) + L42 (fragmentation/consolidation); (ii) thiên
+  tai/biến đổi khí hậu — L43 (floods, outcome-based), L44+L45 (LVI/LVI-IPCC index-based, cùng
+  công cụ khác mục đích), L46 (climate → labor mobility, Indonesia, duy nhất coi "exit" là chiến
+  lược thích ứng)
+- **G. Entrepreneurship & Institutions** — L53 (Naudé, trunk/programmatic — "black box"
+  institutions) → L51 (EO↔performance women-owned SME VN), L52 (RCT empowerment microfinance VN),
+  L54 (governance→entrepreneurship→growth, trích Acemoglu 2003), L55 (institutional entrepreneurs
+  mở "black box" — case FinTech Đan Mạch), L56 (green startups, mở rộng sang sustainability)
 
 ## 3. Tranh luận & căng thẳng giữa các paper
 
@@ -155,6 +178,97 @@ thích X", nên các điểm dưới đây đáng ôn kỹ hơn phần tóm tắ
 - **Câu hỏi thi tiềm năng**: "L31 và L33 cùng dựa vào luận điểm phương pháp luận nào về vai trò
   của dữ liệu thị trường tài chính? Nêu điểm khác biệt về bối cảnh áp dụng."
 
+### 3.7 Property rights "hoàn chỉnh" quyết định độ lớn tác động: L41 vs AJR/L21
+
+- **AJR (L21)**: nghiên cứu xuyên quốc gia tìm thấy tác động LỚN của private property
+  rights/institutions lên thu nhập (2SLS α=0.94).
+- **Ho (L41)**: trong bối cảnh within-country Việt Nam, tác động của private land tenure lên
+  phát triển kinh tế cấp xã là **khiêm tốn**, thậm chí có thể về 0 dưới kịch bản bảo thủ (Oster
+  2019 bias-adjustment) — vì land-use certificate chỉ là property rights KHÔNG HOÀN CHỈNH (nhà
+  nước vẫn có thể thu hồi) cộng chi phí giao dịch cao.
+- **Cân bằng**: không mâu thuẫn triệt để với AJR, mà tinh chỉnh — "mức độ hoàn chỉnh" của
+  institution, không chỉ sự tồn tại hình thức, mới quyết định độ lớn tác động kinh tế thực tế; kết
+  quả xuyên quốc gia có thể phóng đại khi không kiểm soát confounder địa phương.
+- **Câu hỏi thi tiềm năng**: "Vì sao tác động của private land tenure lên phát triển kinh tế ở
+  Việt Nam (Ho 2021) khiêm tốn hơn nhiều so với tác động mà Acemoglu et al. (2001) tìm thấy ở cấp
+  xuyên quốc gia? Dùng khái niệm 'incomplete property rights' để giải thích."
+
+### 3.8 Cùng công cụ đo (LVI), khác mục đích: L44 vs L45
+
+- **Vo & Tran (L44)**: dùng LVI + LVI-IPCC thuần mô tả/so sánh liên vùng (12 tỉnh, 5 vùng
+  kinh tế-xã hội) — mục đích xác định vùng nào cần ưu tiên chính sách (regional targeting).
+- **Tran et al. (L45)**: cùng công thức LVI (Hahn et al. 2009) nhưng thêm correlation matrix +
+  beta regression ở độ phân giải hộ/huyện (Nghệ An — đúng vùng "nóng" theo L44) — mục đích tìm
+  driver cụ thể để can thiệp cấp hộ (household-level intervention).
+- **Cân bằng**: cùng công cụ đo lường, khác hoàn toàn epistemic purpose và độ phân giải — minh
+  họa cách 1 phương pháp có thể phục vụ 2 loại quyết định chính sách khác nhau.
+- **Câu hỏi thi tiềm năng**: "L44 và L45 cùng dùng LVI nhưng đưa ra 2 loại khuyến nghị chính sách
+  khác nhau về bản chất. Giải thích vì sao, và nêu ưu/nhược điểm của mỗi cách tiếp cận."
+
+### 3.9 Hai truyền thống đo "vulnerability": outcome-based (L43) vs index-based (L44/L45)
+
+- **Le (L43)**: đo tác động thực tế lên thu nhập/chi tiêu/subjective wellbeing bằng reduced-form
+  regression (khung Dell et al. 2014) + dữ liệu vệ tinh khách quan (MODIS) — outcome-based.
+- **Vo & Tran (L44), Tran et al. (L45)**: đo bằng composite index (LVI/LVI-IPCC) kiểu HDI, dựa
+  hoàn toàn trên khảo sát hộ — index-based.
+- **Cân bằng**: outcome-based cho bằng chứng nhân quả/định lượng trực tiếp hơn nhưng tốn dữ liệu
+  panel + nguồn ngoại sinh (vệ tinh); index-based dễ tổng hợp đa chiều và so sánh liên vùng nhưng
+  dễ nhạy cảm với lựa chọn trọng số subcomponent, không tự thân cho biết nhân quả.
+- **Câu hỏi thi tiềm năng**: "So sánh ưu/nhược điểm giữa cách đo 'outcome-based' (L43) và
+  'index-based' (L44/L45) khi nghiên cứu tác động biến đổi khí hậu lên hộ nông thôn."
+
+### 3.10 Ở lại thích ứng vs rời đi: L43/L44/L45 vs L46
+
+- **L43, L44, L45** (Việt Nam): đều nghiên cứu hộ nông thôn **ở lại nông nghiệp**, ứng phó/thích
+  nghi tại chỗ với cú sốc khí hậu (coping strategies, vulnerability reduction).
+- **Hastuti et al. (L46)** (Indonesia): duy nhất trong LN4 coi **labor mobility** (dịch chuyển
+  khu vực nghề nghiệp) chính là chiến lược thích ứng — hộ "exit" khỏi nông nghiệp thay vì chịu
+  đựng tại chỗ.
+- **Cân bằng**: 2 chiến lược thích ứng không loại trừ nhau — L46 gợi ý "exit" phổ biến hơn ở nơi
+  có cơ hội phi nông nghiệp tốt (Java, giáo dục cao hơn), trong khi L43-L45 phản ánh bối cảnh hộ
+  còn gắn chặt với đất đai/nông nghiệp là sinh kế chính.
+- **Câu hỏi thi tiềm năng**: "Nêu 2 chiến lược hộ gia đình phản ứng trước cú sốc khí hậu xuất
+  hiện trong LN4. Yếu tố nào (giáo dục, quy mô đất, vùng miền) quyết định hộ chọn chiến lược nào?"
+
+### 3.11 Institutions như "black box" (L53) vs mở hộp đen bằng institutional entrepreneurs (L55)
+
+- **Naudé (L53)**: đặt vấn đề — dù cả development economics và entrepreneurship scholarship đều
+  công nhận vai trò institutions, cơ chế cụ thể vẫn là "black box" chưa rõ.
+- **Stein et al. (L55)**: "mở" hộp đen này bằng bằng chứng cụ thể — case Danish FinTech DEE cho
+  thấy institutional entrepreneurs KHÔNG thụ động dưới institutions có sẵn mà chủ động thay đổi
+  chúng (collaboration dynamics, regulatory framework, global connections) qua nỗ lực tập thể +
+  neutral leadership.
+- **Cân bằng**: đây là cặp câu hỏi so sánh mạnh nhất LN5 — L53 đặt agenda lý thuyết, L55 cung cấp
+  bằng chứng thực nghiệm cụ thể hóa đúng agenda đó 16 năm sau.
+- **Câu hỏi thi tiềm năng**: "Naudé (2010) mô tả institutions là 'black box' trong development
+  economics. Stein et al. (2026) mở hộp đen này như thế nào? Nêu 3 institutional forces cụ thể."
+
+### 3.12 Khung institutions của Acemoglu: persistence lịch sử (L21) vs panel hiện đại (L54)
+
+- **Acemoglu, Johnson & Robinson (L21)**: dùng settler mortality làm IV để chứng minh institutions
+  là fundamental cause của thu nhập — cấp độ persistence lịch sử dài hạn (thuộc địa → hiện tại).
+- **Méndez-Picazo et al. (L54)**: trích dẫn trực tiếp 3 đặc điểm institutions của Acemoglu (2003)
+  — cùng khung lý thuyết nhưng áp dụng vào panel governance-entrepreneurship-growth **hiện đại**
+  (11 nước phát triển, 2002–2007) thay vì persistence lịch sử.
+- **Cân bằng**: cùng lý thuyết nền, khác hoàn toàn đơn vị phân tích và khung thời gian — minh họa
+  tính "portable" của khung institutions Acemoglu qua nhiều bối cảnh thực nghiệm khác nhau.
+- **Câu hỏi thi tiềm năng**: "L21 và L54 cùng dùng khung institutions của Acemoglu nhưng ở đơn vị
+  phân tích khác nhau. Nêu rõ khác biệt và đánh giá tính portable của khung lý thuyết này."
+
+### 3.13 Entrepreneurship và bất bình đẳng: đánh đổi chưa giải quyết (L53 vs L54)
+
+- **Naudé (L53)**: đặt trọng tâm entrepreneurship như con đường thoát nghèo/giảm bất bình đẳng
+  (qua các bài Tamvada, Kimhi trong số đặc biệt SBE mà L53 giới thiệu).
+- **Méndez-Picazo et al. (L54)**: tìm thấy Gini (bất bình đẳng) có tương quan **DƯƠNG** với
+  entrepreneurship activity trong mẫu 11 nước phát triển (cần dịch chuyển tiết kiệm sang nhóm thu
+  nhập cao để tài trợ đầu tư).
+- **Cân bằng**: đây là một trade-off CHƯA được giải quyết trong literature môn học — có thể do
+  khác bối cảnh (nước đang phát triển vs phát triển) hoặc khác cơ chế đo (entrepreneurship như
+  công cụ giảm nghèo cá nhân vs entrepreneurship activity aggregate cấp quốc gia).
+- **Câu hỏi thi tiềm năng**: "L53 coi entrepreneurship là công cụ giảm nghèo/bất bình đẳng, nhưng
+  L54 tìm thấy tương quan dương giữa Gini và entrepreneurship activity. Đây có phải mâu thuẫn thật
+  không? Đề xuất cách dung hòa hai phát hiện."
+
 ## 4. Concept → Paper map
 
 - [[unconditional-convergence]] — L11 (trung tâm), liên hệ L15 (convergence nội bộ Trung Quốc)
@@ -169,8 +283,15 @@ thích X", nên các điểm dưới đây đáng ôn kỹ hơn phần tóm tắ
   raw source — xem [[overview]])
 - [[banking-crisis]] — L31 (trung tâm: bank equity vs panic), L32 (kênh liquidity creation),
   L33/L35/L36 (ứng dụng: COVID VN, geopolitics, chính sách tiền tệ)
+- [[institutions]] — mở rộng LN4: L41/L42 (thể chế đất đai VN); mở rộng LN5: L53 (black box),
+  L54 (trích Acemoglu 2003), L55 (institutional entrepreneurs)
+- [[livelihood-vulnerability-index]] — L44 (trung tâm, liên vùng), L45 (cùng công cụ, driver cấp
+  hộ); L43 là đối trọng outcome-based (không dùng LVI)
+- [[entrepreneurship-and-development]] — L53 (trunk, "black box" + binding constraint), L51/L52
+  (kênh vi mô/hộ VN), L54 (kênh vĩ mô/governance), L55 (kênh mở "black box"), L56 (kênh
+  sustainability)
 
-## 5. Ngân hàng câu hỏi ôn thi (24 câu, kèm đáp án gợi ý)
+## 5. Ngân hàng câu hỏi ôn thi (36 câu, kèm đáp án gợi ý)
 
 Đáp án dưới là **khung ý chính để tự kiểm tra**, không phải văn mẫu để học thuộc — khi làm bài
 thi/essay cần diễn đạt lại bằng lời của mình và trích dẫn số liệu chính xác từ trang source
@@ -383,21 +504,121 @@ nguyên hậu GFC/pandemic? (L35)**
   hơn dữ liệu vĩ mô truyền thống có độ trễ — nhưng áp dụng cho 2 loại khủng hoảng khác nhau
   (ngân hàng nội sinh vs cú sốc pandemic bên ngoài).
 
+### Từ LN4 (6 câu)
+
+**25. Vì sao tác động private land tenure lên phát triển kinh tế VN (Ho 2021) khiêm tốn hơn nhiều
+so với AJR xuyên quốc gia? (L41, xem 3.7)**
+- Land-use certificate 1993 chỉ là property rights KHÔNG HOÀN CHỈNH: nhà nước vẫn có thể thu hồi
+  (lingering insecurity) + thuế/chi phí thời gian giao dịch đất cao.
+- Số liệu: hệ số bivariate 1,7% (1% certs → 1,7% nighttime light) giảm còn 0,6% khi thêm đầy đủ
+  kiểm soát + province FE; Oster (2019) bias-adjustment cho thấy hệ số có thể về 0 ở kịch bản bảo
+  thủ nhất (δ=0,9, R=0,8).
+- Hàm ý: "mức độ hoàn chỉnh" của institution, không chỉ sự tồn tại hình thức, quyết định độ lớn
+  tác động kinh tế.
+
+**26. Land consolidation (Do et al. 2023) tác động thế nào lên chi phí sản xuất và nghèo? (L42)**
+- Farming efficiency → tham gia land consolidation (dương, có ý nghĩa); chiều ngược lại (tham gia
+  → efficiency) KHÔNG có ý nghĩa — self-selection quan trọng hơn tác động nhân quả ngược.
+- PSM-DD: giảm chi phí làm đất PPP$24,35/ha, chi phí thu hoạch PPP$41,82/ha; tăng thu nhập nông
+  nghiệp, giảm nghèo (đo bằng FGT index, 2 ngưỡng PPP$2,05 và PPP$3,20/ngày).
+
+**27. Lũ lụt tác động đa chiều thế nào lên hộ gia đình theo Le (2020)? (L43)**
+- Giảm thu nhập nông nghiệp nhưng đẩy hộ tìm thu nhập phi nông nghiệp (kiều hối tăng mạnh); tăng
+  chi tiêu y tế +48,5% và giáo dục +42,0%.
+- Trong các cơ chế ứng phó, CHỈ remittances có hiệu quả thống kê có ý nghĩa; subjective wellbeing
+  giảm đáng kể — kết luận: "sống ở làng thường xuyên ngập lụt không phải trải nghiệm hạnh phúc."
+
+**28. LVI-IPCC đo vulnerability thế nào, và vùng nào dễ tổn thương nhất VN theo Vo & Tran (2022)?
+(L44, xem 3.8/3.9)**
+- Công thức LVI-IPCC = (Exposure − Adaptive capacity) × Sensitivity, khung IPCC 3 thành phần.
+- Bắc Trung Bộ & Duyên hải Nam Trung Bộ dễ tổn thương nhất (LVI-IPCC = 0,012, dương duy nhất) do
+  Exposure cao (0,30 — bão/lũ/áp thấp) áp đảo adaptive capacity/sensitivity khá tốt; ĐBSCL dễ tổn
+  thương đặc biệt về food/water (hạn hán + xâm nhập mặn).
+
+**29. Tran et al. (2022) tìm thấy tín dụng chính thức và tưới tiêu làm TĂNG vulnerability — giải
+thích thế nào cho kết quả phản trực giác này? (L45, xem 3.8)**
+- 17/24 yếu tố có ý nghĩa (p<0,01): hợp tác xã, giáo dục, đa dạng thu nhập, rét đậm GIẢM
+  vulnerability; lũ/hạn hán/tín dụng chính thức/tưới tiêu TĂNG vulnerability.
+- Diễn giải hợp lý: khả năng do chất lượng thực thi kém (tín dụng dùng sai mục đích, hệ thống
+  tưới tiêu xuống cấp) hoặc reverse causality (hộ dễ tổn thương hơn mới cần vay/tưới tiêu nhiều
+  hơn) — không phải do bản chất công cụ có hại; cần chiến lược thực nghiệm khác (IV/panel) để
+  phân biệt.
+
+**30. Climate variability ảnh hưởng labor mobility ở Indonesia thế nào theo Hastuti et al. (2025)?
+(L46, xem 3.10)**
+- IV (altitude cho nhiệt độ, latitude cho mưa): CV mưa +1% → xác suất labor mobility +0,47 điểm%;
+  CV nhiệt độ +1% → +1,38 điểm% (cả hai p<0,01).
+- Kênh trung gian: farm production cost có ý nghĩa với mưa, KHÔNG có ý nghĩa với nhiệt độ (nhiệt
+  độ tác động qua kênh khác); tác động mạnh hơn ở Java, hộ đất nhỏ — DUY NHẤT trong LN4 coi
+  mobility LÀ chiến lược thích ứng (exit) thay vì hậu quả cần khắc phục.
+
+### Từ LN5 (6 câu)
+
+**31. Vì sao risk-taking có tác động ÂM lên business performance của women-owned SME VN, ngược
+lý thuyết EO chuẩn? (L51, xem 3.13 tương tự logic)**
+- Hồi quy: BP = 0,385 + 0,328·Inno + 0,301·Pro − 0,111·Risk + 0,134·Compe + 0,220·Auto; R²=77%.
+- 4/5 khía cạnh EO dương có ý nghĩa; risk-taking âm có ý nghĩa — bài tự giải thích do nữ doanh
+  nhân trong mẫu thường quyết định cảm tính/thiếu kế hoạch dài hạn; có thể liên hệ thêm tới môi
+  trường tín dụng hạn chế (Bianchi, dẫn trong L53) khiến risk-taking không được hệ thống tài
+  chính "hỗ trợ" đúng cách.
+
+**32. GET Ahead training tác động thế nào tới women's empowerment theo Huis et al. (2019), và tại
+sao hiệu ứng chỉ rõ ở endline? (L52)**
+- RCT, TYM (MFI lớn nhất Bắc VN), 4041 borrowers baseline, 3 nhóm (training+chồng, training riêng,
+  control). Training tăng control beliefs + quyền quyết định chi tiêu lớn, giảm relational
+  friction.
+- Hiệu ứng rõ rệt ở endline (12 tháng) nhưng không rõ ở midline — gợi ý empowerment tích lũy dần
+  theo thời gian, không phải tức thời; không có khác biệt đáng kể khi mời chồng tham gia.
+
+**33. Naudé (2010) xác định 2 khoảng trống (gap) nào trong development economics về
+entrepreneurship? (L53, xem 3.11/3.13)**
+- (i) Vai trò/chức năng entrepreneurship bị đánh giá thấp trong development economics; (ii)
+  institutions vẫn là "black box" dù cả 2 ngành đều công nhận tầm quan trọng.
+- Luận điểm trung tâm: vấn đề ở nước đang phát triển không phải THIẾU entrepreneurship mà là
+  PHÂN BỔ sai lệch (productive vs unproductive/destructive, theo Baumol 1990).
+
+**34. Méndez-Picazo et al. (2012) mô hình hóa quan hệ governance-entrepreneurship-growth thế nào?
+(L54, xem 3.12/3.13)**
+- Mô hình 2 phương trình, panel 11 nước phát triển 2002–2007: GDP = f(innovation, entrepreneurship,
+  investment); entrepreneurship = f(Gini, governance, public expenditure, money supply).
+- Governance đo qua principal components 4 dimension World Bank, trích trực tiếp 3 đặc điểm
+  institutions của Acemoglu (2003) — governance → dương → entrepreneurship → dương gián tiếp →
+  growth; nhưng Gini và lạm phát là "negative effects" cần quản lý.
+
+**35. Institutional entrepreneurs định hình Danish FinTech DEE qua những cơ chế nào? (L55, xem
+3.11)**
+- Case study định tính dọc thời gian, 17 phỏng vấn sâu, dữ liệu 2009–2024. 3 institutional forces:
+  collaboration dynamics (incumbent-start-up), regulatory framework adaptation, global connections.
+- Institutional change là nỗ lực TẬP THỂ của nhiều institutional entrepreneurs qua thời gian;
+  "neutral leadership" then chốt; cả system-level và organisation-level agency đều cần đồng thời.
+
+**36. Green startups đóng góp gì cho phát triển kinh tế, và rào cản chính là gì theo Sharma &
+Subba (2025)? (L56)**
+- Scoping review >100 nguồn, khung Triple Bottom Line + Ecological Modernization Theory: green
+  startups tạo job creation, eco-innovation, market transformation qua circular economy.
+- Rào cản: funding constraints, market competition, regulatory barriers; cần chính sách hỗ trợ
+  (tax incentives, green finance, digital tech AI/blockchain); research gap: thiếu longitudinal
+  studies, so sánh cross-national, chuẩn ESG hài hòa.
+
 ## 6. Đề thi khóa trước (tham khảo định dạng thật)
 
 - [[k31-final-exam]] — đề thi viết cuối kỳ K31 (khóa trước, cùng môn/GS): luật thi thật (120 phút,
   compulsory Q1-2 + elective chọn tối thiểu 2/4, PASS ≥27.5/50 mỗi phần) + 6 câu hỏi + đáp án chi
-  tiết. 6 paper trong đề này KHÔNG trùng reading list LN1-LN3 hiện có (khác K31/K32), riêng Q4
-  (Baron, Verner & Xiong 2021) trùng 100% với [[l31-baron-2021-banking-crises-without-panics]] và
-  Q6 (Heshmati & Rashidghalam 2020) là paper của chính giáo sư môn này. Giá trị chính: làm quen
-  **dạng câu hỏi** ("trình bày findings + drivers/impacts/mechanism của 1 paper cụ thể") — khả
-  năng cao xuất hiện lại ở đề K32.
+  tiết. Đề này ban đầu KHÔNG trùng reading list LN1-LN3, nhưng nay **2/6 câu đã trùng** sau khi
+  LN4 được ingest: Q1 (Do, Nguyen & Grote 2023) trùng 100% với
+  [[l42-do-2023-land-consolidation-vietnam]] (cập nhật 2026-07-29 — số liệu chính xác thay ước
+  lượng dựa abstract cũ) và Q4 (Baron, Verner & Xiong 2021) trùng 100% với
+  [[l31-baron-2021-banking-crises-without-panics]]; Q6 (Heshmati & Rashidghalam 2020) là paper của
+  chính giáo sư môn này. Giá trị chính: làm quen **dạng câu hỏi** ("trình bày findings +
+  drivers/impacts/mechanism của 1 paper cụ thể") — khả năng cao xuất hiện lại ở đề K32.
 
 ## Liên kết
 
 - [[overview]] · [[all-papers-mindmap]] · [[ln1-economic-development]] ·
-  [[ln2-governance-institutions-policy-making]] · [[ln3-financial-crisis-and-pandemics]]
-- Tất cả 17 source pages: [[l11-patel-2021-unconditional-convergence]],
+  [[ln2-governance-institutions-policy-making]] · [[ln3-financial-crisis-and-pandemics]] ·
+  [[ln4-agriculture-climate-change-natural-disasters]] ·
+  [[ln5-entrepreneurship-economic-development]]
+- Tất cả 29 source pages: [[l11-patel-2021-unconditional-convergence]],
   [[l12-nunn-2019-rethinking-econ-dev]], [[l13-spolaore-2013-deep-roots]],
   [[l14-sasges-2025-vietnam-policies]], [[l15-yin-2025-china-hqed]],
   [[l21-acemoglu-2001-colonial-origins]], [[l22-mauro-1995-corruption-growth]],
@@ -410,7 +631,17 @@ nguyên hậu GFC/pandemic? (L35)**
   [[l33-lastunen-2023-forecasting-covid-recovery-vietnam]],
   [[l34-cai-2023-natural-resources-financial-development-vietnam]],
   [[l35-kakhkharov-2025-banking-geopolitical-change]],
-  [[l36-minford-2025-monetary-policy-lessons]]
+  [[l36-minford-2025-monetary-policy-lessons]],
+  [[l41-ho-2021-land-tenure-vietnam]], [[l42-do-2023-land-consolidation-vietnam]],
+  [[l43-le-2020-floods-household-welfare]], [[l44-vo-tran-2022-rural-vulnerability-vietnam]],
+  [[l45-tran-2022-rice-farmers-vulnerability-nghean]],
+  [[l46-hastuti-2025-climate-labor-mobility-indonesia]],
+  [[l51-nguyen-2023-entrepreneurial-orientation-women-smes-vietnam]],
+  [[l52-huis-2019-get-training-microfinance-vietnam]],
+  [[l53-naude-2010-entrepreneurship-development-economics]],
+  [[l54-mendez-picazo-2012-governance-entrepreneurship-growth]],
+  [[l55-stein-2026-digital-entrepreneurship-fintech-denmark]],
+  [[l56-sharma-subba-2025-green-startups-sustainability]]
 - **Bản tương tác (Artifact)**: mindmap có thể bấm mở/đóng từng paper + tab "Tự test" dạng
   flashcard (đều private, cần bấm Share trên trang đó nếu muốn gửi cho người khác):
   - Song ngữ (bản gốc, VI diễn giải + giữ thuật ngữ EN): https://claude.ai/code/artifact/b1704073-2623-44b9-8b64-b0cf8461d866

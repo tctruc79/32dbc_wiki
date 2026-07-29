@@ -3,7 +3,7 @@ type: concept
 title: "Institutions"
 tags: [institutions, governance, colonialism, corruption, property-rights, culture]
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-07-29
 status: complete
 ---
 
@@ -36,6 +36,44 @@ Formal rules are created by the polity; informal norms are part of **culture**. 
    quality (a provincial-level proxy for institutions) is a channel through which FDI reduces
    the informal economy.
 
+## Empirical application in LN4 (Vietnamese land institutions)
+
+Added 2026-07-29 when LN4 was ingested: two LN4 readings directly test property-rights/
+institutions theory using Vietnamese micro-data — a rare case in this course's reading list of
+such an explicit link between LN2 theory and LN4 evidence.
+
+- [[l41-ho-2021-land-tenure-vietnam]]: directly tests the private-property-rights argument of
+  [[l21-acemoglu-2001-colonial-origins]] (AJR) and the two-channel theory of
+  [[l23-besley-ghatak-2010-property-rights]] (Besley 1995; Besley & Ghatak 2010) using Vietnam's
+  1993 land reform (issuance of land-use certificates). Result: a positive but **modest** effect
+  that can shrink to zero under a conservative scenario (Oster 2019 bias-adjustment) — a sharp
+  contrast with the LARGE effect AJR find at the cross-country level. Explanation: land-use
+  certificates confer only INCOMPLETE property rights (the state can still reclaim the land) plus
+  high land-transaction costs — suggesting that the "completeness" of property-rights
+  institutions, not merely their existence, determines the magnitude of the economic effect.
+- [[l42-do-2023-land-consolidation-vietnam]]: addresses a DIFFERENT land-institution channel —
+  land fragmentation/consolidation — not directly about property rights but sharing a historical
+  root with L41 (the egalitarian land distribution of the late-1980s Đổi Mới period caused
+  fragmentation while also setting the stage for the 1993 certificate reform). This shows that
+  Vietnam's "land institutions" comprise at least two independent dimensions: tenure security
+  (L41) and plot structure (L42).
+
+## Extension to LN5 — Entrepreneurship
+
+Naudé (2010, [[l53-naude-2010-entrepreneurship-development-economics]]) uses the same "black
+box" image to describe institutions in development economics — the same framing the LN2 slides
+themselves use for AJR (see above). Méndez-Picazo et al. (2012,
+[[l54-mendez-picazo-2012-governance-entrepreneurship-growth]]) directly cite Acemoglu's (2003)
+three institutional characteristics — the same theoretical framework as
+[[l21-acemoglu-2001-colonial-origins]] but applied to a modern governance-entrepreneurship-growth
+panel (11 developed countries, 2002–2007) rather than colonial-era historical persistence. Stein
+et al. (2026, [[l55-stein-2026-digital-entrepreneurship-fintech-denmark]]) go further: rather than
+treating institutions as an exogenous variable that determines outcomes, they show
+**institutional entrepreneurs** actively creating/reshaping institutions (the Danish FinTech
+case) — adding a co-endogeneity lens to the institutions concept, in the same spirit as the
+Alesina & Giuliano culture↔institutions debate, but here it is entrepreneurial
+agency↔institutions. See also [[entrepreneurship-and-development]] (LN5).
+
 ## Debates/tensions worth remembering for the exam
 
 - **Institutions as an exogenous variable (AJR) vs. co-endogenous with culture (Alesina &
@@ -55,10 +93,17 @@ Formal rules are created by the polity; informal norms are part of **culture**. 
 governance quality (2006–2021) is a channel through which FDI reduces the informal economy,
 alongside the growth channel. Essay suggestion: compare inter-provincial governance quality in
 Vietnam as an empirical application of institutions economics.
+LN4 addendum: [[l41-ho-2021-land-tenure-vietnam]] and [[l42-do-2023-land-consolidation-vietnam]]
+extend Vietnamese institutions evidence into rural land — see "Empirical application in LN4"
+above.
 
 ## Links
 
-- [[ln2-governance-institutions-policy-making]] · [[deep-roots-of-development]]
+- [[ln2-governance-institutions-policy-making]] · [[deep-roots-of-development]] ·
+  [[ln4-agriculture-climate-change-natural-disasters]] · [[entrepreneurship-and-development]] (LN5)
 - Sources: [[l21-acemoglu-2001-colonial-origins]], [[l22-mauro-1995-corruption-growth]],
   [[l23-besley-ghatak-2010-property-rights]], [[l24-alesina-giuliano-2015-culture-institutions]],
-  [[l26-huynh-tran-2025-fdi-informal-economy]]
+  [[l26-huynh-tran-2025-fdi-informal-economy]], [[l41-ho-2021-land-tenure-vietnam]],
+  [[l42-do-2023-land-consolidation-vietnam]], [[l53-naude-2010-entrepreneurship-development-economics]],
+  [[l54-mendez-picazo-2012-governance-entrepreneurship-growth]],
+  [[l55-stein-2026-digital-entrepreneurship-fintech-denmark]]

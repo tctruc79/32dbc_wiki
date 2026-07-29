@@ -1,16 +1,16 @@
 ---
 type: synthesis
-title: "Final Exam Prep — Master Synthesis (LN1 + LN2 + LN3)"
-tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis]
+title: "Final Exam Prep — Master Synthesis (LN1–LN5)"
+tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis, agriculture, climate-vulnerability, entrepreneurship]
 created: 2026-07-24
-updated: 2026-07-28
+updated: 2026-07-29
 status: complete
 ---
 
 # Final Exam Prep — Master Synthesis
 
-The central reference point for exam prep, pulling together all 17 deep-ingested papers
-(LN1+LN2+LN3) into: a quick-lookup table, 5 thematic clusters, **debates/tensions between
+The central reference point for exam prep, pulling together all 29 deep-ingested papers
+(LN1–LN5) into: a quick-lookup table, 7 thematic clusters, **debates/tensions between
 papers** (the focus of comparison-style exam questions), a concept map, and a question bank.
 This page is updated continuously — whenever a new lecture/reading is ingested, it gets added
 here per the rules in CLAUDE.md. See also the visual version: the mindmap Artifact (link sent
@@ -20,10 +20,12 @@ compact).
 ## 5-step exam prep process
 
 1. **Get the big picture first** (~10 min) — read section 1 (quick-lookup table) + section 2
-   (5 thematic clusters) below, or the [[all-papers-mindmap]] page.
+   (7 thematic clusters) below, or the [[all-papers-mindmap]] page.
 2. **Study by cluster, not by slide order** — Deep Roots (L13) → Convergence (L11, L14, L15)
    → Institutions (L21 trunk + L22/23/24/26) → Policy Critique (L12, L25) → Banking Crisis
-   (L31 trunk + L32/33/34/35/36). Exams often ask you to compare *within* a cluster.
+   (L31 trunk + L32/33/34/35/36) → Agriculture & Land Institutions/Climate Vulnerability
+   (L41/42 trunk pair + L43/44/45/46) → Entrepreneurship & Institutions (L53 trunk +
+   L51/52/54/55/56). Exams often ask you to compare *within* a cluster.
 3. **Study the "debates" section (section 3) — the most important part.** This is exactly the
    shape of question that tends to show up on comparison-style exams; learn the arguments on
    **both sides**, not just one.
@@ -41,9 +43,9 @@ If time is short: prioritize steps 3 + 4, skip re-reading every paper in detail.
 |---|---|
 | Shortlist of 20 readings for the written exam | ⏳ Professor sends 23/8 — **not yet available**, this is the real exam scope |
 | Written Exam date | ⚠️ Conflicting: syllabus says 30/8, LN0 (17/07 — more recent) says 06/9 — see [[ln0-course-intro]] |
-| Current wiki coverage | LN1 (5) + LN2 (6) + LN3 (6) = 17 papers. Lectures 4–10 **have no** material in `raw/` yet |
+| Current wiki coverage | LN1 (5) + LN2 (6) + LN3 (6) + LN4 (6) + LN5 (6) = 29 papers. Lectures 6–10 **have no** material in `raw/` yet |
 
-## 1. Quick-lookup table — 17 papers
+## 1. Quick-lookup table — 29 papers
 
 | Code | Paper                              | Lecture | Method                                            | Key finding (1 line)                                                        |
 | --- | ---------------------------------- | ------- | ------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -59,13 +61,25 @@ If time is short: prioritize steps 3 + 4, skip re-reading every paper in detail.
 | L25 | Bizikova et al. 2025               | LN2     | Systematic review 683→40 papers                   | WEF nexus: only 17.5% of studies address governance/policy                  |
 | L26 | Huynh & Tran 2025                  | LN2     | Panel of 63 VN provinces 2006-2021, System GMM     | FDI reduces the informal economy via growth + governance (PAPI); formal/informal are substitutes |
 | L31 | Baron, Verner & Xiong 2021         | LN3     | Bank equity data, 46 countries 1870–2016          | Bank equity crash ≥30% predicts a downturn even without panic               |
-| L32 | Jiang, Levine & Lin 2019            | LN3     | Diff-in-diff, US federal deregulation 1984–1994 | Bank competition from deregulation REDUCES liquidity creation               |
+| L32 | Jiang, Levine & Lin 2019            | LN3     | Diff-in-diff, US federal deregulation 1984–2006 | Bank competition from deregulation REDUCES liquidity creation               |
 | L33 | Lastunen & Richiardi 2023          | LN3     | Nowcasting using sector financial indices         | Forecasts Vietnam's COVID-19 downturn more accurately than IMF/ADB thanks to financial data |
 | L34 | Cai & Le 2023                      | LN3     | PMG-ARDL, Vietnam 1999–2018                       | Resources/finance/CSR: positive long-run, negative short-run relationship with green growth |
 | L35 | Kakhkharov & Yarashov 2025         | LN3     | Review (Encyclopedia entry)                       | Emerging-market banks are especially vulnerable to geopolitical fragmentation |
 | L36 | Minford 2025                       | LN3     | Policy essay (Encyclopedia entry)                 | 3 lessons for monetary stability after the crisis/pandemic                  |
+| L41 | Ho 2021, World Development          | LN4     | Panel FE/RE + Oster (2019) bias-adjustment, nighttime-lights proxy | A 1% increase in land-use certificates → +1.7% nighttime light (bivariate), falling to +0.6% (full controls); modest, possibly zero |
+| L42 | Do, Nguyen & Grote 2023, EAP        | LN4     | True RE stochastic frontier + 3SLS/Lewbel (2012) IV + PSM-DD | Farming efficiency → participation in land consolidation (significant), not the reverse; reduces costs, reduces poverty |
+| L43 | Le 2020, EDCC                       | LN4     | Reduced-form (Dell et al. 2014) + MODIS satellite flood data | Floods reduce farm income, raise health spending +48.5%/education spending +42.0%; only remittances are an effective coping mechanism |
+| L44 | Vo & Tran 2022, HERA                | LN4     | LVI + LVI-IPCC, VARHS 2018, 1,852 households across 12 provinces | North Central & South Central Coast most vulnerable (high exposure); Mekong Delta threatened by drought/salinity intrusion |
+| L45 | Tran et al. 2022, EC                | LN4     | Same LVI + correlation matrix + beta regression, Nghe An | 76% of households "slightly vulnerable"; formal credit/irrigation INCREASE vulnerability (counterintuitive) |
+| L46 | Hastuti et al. 2025, WDP            | LN4     | IV (altitude/latitude), IFLS panel Indonesia      | Rainfall CV +1%→mobility +0.47pp, temperature CV +1%→+1.38pp; farm-production-cost channel; the ONLY paper outside Vietnam |
+| L51 | Nguyen 2023, JAFEB                  | LN5     | OLS regression, survey of 258 women-owned SMEs in VN | 4/5 EO dimensions positive; risk-taking NEGATIVE and significant (contrary to standard EO theory), R²=77% |
+| L52 | Huis et al. 2019, World Development | LN5     | RCT, TYM microfinance in northern VN, 4,041 borrowers, ITT+DID | Training raises control beliefs + decision-making power, reduces relational friction — clear only at endline (12 months) |
+| L53 | Naudé 2010, SBE                     | LN5     | Programmatic/agenda-setting essay (SBE special-issue introduction) | Entrepreneurship = a potential binding constraint; institutions = a "black box"; the problem is misallocation, not scarcity |
+| L54 | Méndez-Picazo et al. 2012, ERD      | LN5     | Two-equation panel, 11 developed countries 2002–2007 | Governance (Acemoglu 2003 framework) → positive → entrepreneurship → growth; Gini positively linked to entrepreneurship |
+| L55 | Stein et al. 2026, Technovation     | LN5     | Longitudinal qualitative case study, Danish FinTech DEE | Institutional entrepreneurs open Naudé's "black box" through collective effort + neutral leadership |
+| L56 | Sharma & Subba 2025, IGD            | LN5     | Scoping review of >100 sources, TBL+EMT framework | Green startups: jobs/eco-innovation/circular economy but funding/regulatory barriers; no unified ESG standard |
 
-## 2. Five thematic clusters
+## 2. Seven thematic clusters
 
 Full detail: [[all-papers-mindmap]]. Summary:
 
@@ -78,6 +92,17 @@ Full detail: [[all-papers-mindmap]]. Summary:
   creation channel), L33 (financial data as an early signal, applied to COVID Vietnam), L34
   (resources/finance/green growth in Vietnam), L35 (policy/geopolitics review), L36 (macro
   monetary policy lessons)
+- **F. Agriculture, Land Institutions & Climate Vulnerability** — 2 independent axes: (i)
+  Vietnam's land institutions — L41 (property rights/tenure security) + L42
+  (fragmentation/consolidation); (ii) natural disasters/climate change — L43 (floods,
+  outcome-based), L44+L45 (LVI/LVI-IPCC, index-based, the same tool used for different
+  purposes), L46 (climate → labor mobility, Indonesia, the only paper treating "exit" as an
+  adaptation strategy)
+- **G. Entrepreneurship & Institutions** — L53 (Naudé, trunk/programmatic — institutions as a
+  "black box") → L51 (EO↔performance, women-owned SMEs in VN), L52 (RCT, empowerment via
+  microfinance in VN), L54 (governance→entrepreneurship→growth, citing Acemoglu 2003), L55
+  (institutional entrepreneurs opening the "black box" — Danish FinTech case), L56 (green
+  startups, extending into sustainability)
 
 ## 3. Debates and tensions between papers
 
@@ -165,6 +190,112 @@ summaries.
 - **Potential exam question**: "What shared methodological argument do L31 and L33 rely on
   about the role of financial market data? Note the difference in application context."
 
+### 3.7 Property rights "completeness" determines effect size: L41 vs AJR/L21
+
+- **AJR (L21)**: cross-country research finds a LARGE effect of private property
+  rights/institutions on income (2SLS α=0.94).
+- **Ho (L41)**: in a within-country Vietnam context, the effect of private land tenure on
+  commune-level economic development is **modest**, and could even fall to zero under a
+  conservative scenario (Oster 2019 bias-adjustment) — because a land-use certificate is only
+  an INCOMPLETE property right (the state can still reclaim the land) plus high transaction
+  costs.
+- **Reconciliation**: not an outright contradiction of AJR, but a refinement — the "degree of
+  completeness" of an institution, not merely its formal existence, determines the size of its
+  real economic effect; cross-country results may overstate effects when local confounders are
+  not controlled for.
+- **Potential exam question**: "Why is the effect of private land tenure on economic
+  development in Vietnam (Ho 2021) so much more modest than the effect Acemoglu et al. (2001)
+  find at the cross-country level? Use the concept of 'incomplete property rights' to explain."
+
+### 3.8 Same measurement tool (LVI), different purpose: L44 vs L45
+
+- **Vo & Tran (L44)**: uses LVI + LVI-IPCC purely descriptively/comparatively across regions (12
+  provinces, 5 socio-economic regions) — aiming to identify which regions should be prioritized
+  for policy (regional targeting).
+- **Tran et al. (L45)**: the same LVI formula (Hahn et al. 2009) but adds a correlation matrix +
+  beta regression at household/district resolution (Nghe An — precisely the "hotspot" region per
+  L44) — aiming to identify specific drivers for household-level intervention.
+- **Reconciliation**: the same measurement tool, but an entirely different epistemic purpose and
+  resolution — illustrating how one method can serve two different types of policy decisions.
+- **Potential exam question**: "L44 and L45 both use the LVI but arrive at two fundamentally
+  different types of policy recommendation. Explain why, and note the strengths/weaknesses of
+  each approach."
+
+### 3.9 Two traditions for measuring "vulnerability": outcome-based (L43) vs index-based (L44/L45)
+
+- **Le (L43)**: measures the actual impact on income/expenditure/subjective wellbeing via
+  reduced-form regression (the Dell et al. 2014 framework) + objective satellite data (MODIS) —
+  outcome-based.
+- **Vo & Tran (L44), Tran et al. (L45)**: measure via a composite index (LVI/LVI-IPCC), HDI-style,
+  based entirely on household surveys — index-based.
+- **Reconciliation**: outcome-based measures give more direct causal/quantitative evidence but
+  require panel data plus an exogenous source (satellite); index-based measures are easier to
+  aggregate across dimensions and compare across regions but are sensitive to sub-component
+  weighting choices and do not themselves establish causality.
+- **Potential exam question**: "Compare the strengths/weaknesses of the 'outcome-based' (L43)
+  and 'index-based' (L44/L45) approaches to studying the impact of climate change on rural
+  households."
+
+### 3.10 Staying and adapting vs leaving: L43/L44/L45 vs L46
+
+- **L43, L44, L45** (Vietnam): all study rural households that **stay in farming**, coping/
+  adapting in place to climate shocks (coping strategies, vulnerability reduction).
+- **Hastuti et al. (L46)** (Indonesia): the only LN4 paper to treat **labor mobility** (shifting
+  sector/occupation) itself as an adaptation strategy — households "exit" agriculture rather than
+  endure the shock in place.
+- **Reconciliation**: the two adaptation strategies are not mutually exclusive — L46 suggests
+  "exit" is more common where good non-farm opportunities exist (Java, higher education), while
+  L43–L45 reflect contexts where households remain closely tied to land/agriculture as their main
+  livelihood.
+- **Potential exam question**: "Identify the two household strategies for responding to climate
+  shocks that appear in LN4. What factors (education, land size, region) determine which strategy
+  a household chooses?"
+
+### 3.11 Institutions as a "black box" (L53) vs opening the black box via institutional entrepreneurs (L55)
+
+- **Naudé (L53)**: raises the issue — although both development economics and entrepreneurship
+  scholarship recognize the role of institutions, the specific mechanism remains a "black box."
+- **Stein et al. (L55)**: "opens" this black box with concrete evidence — the Danish FinTech DEE
+  case shows that institutional entrepreneurs are NOT passive under existing institutions but
+  actively change them (collaboration dynamics, regulatory framework, global connections) through
+  collective effort + neutral leadership.
+- **Reconciliation**: this is the strongest comparison pair in LN5 — L53 sets the theoretical
+  agenda, L55 supplies concrete empirical evidence fulfilling exactly that agenda 16 years later.
+- **Potential exam question**: "Naudé (2010) describes institutions as a 'black box' in
+  development economics. How does Stein et al. (2026) open this black box? Name 3 specific
+  institutional forces."
+
+### 3.12 Acemoglu's institutions framework: historical persistence (L21) vs a modern panel (L54)
+
+- **Acemoglu, Johnson & Robinson (L21)**: uses settler mortality as an IV to show that
+  institutions are the fundamental cause of income — at the level of long-run historical
+  persistence (colonial past → present).
+- **Méndez-Picazo et al. (L54)**: directly cites Acemoglu's (2003) three institutional
+  characteristics — the same theoretical framework, but applied to a **modern**
+  governance-entrepreneurship-growth panel (11 developed countries, 2002–2007) rather than
+  historical persistence.
+- **Reconciliation**: the same underlying theory, but an entirely different unit of analysis and
+  time horizon — illustrating the "portability" of Acemoglu's institutions framework across very
+  different empirical settings.
+- **Potential exam question**: "L21 and L54 both use Acemoglu's institutions framework but at
+  different units of analysis. Identify the difference and assess how portable this theoretical
+  framework is."
+
+### 3.13 Entrepreneurship and inequality: an unresolved trade-off (L53 vs L54)
+
+- **Naudé (L53)**: emphasizes entrepreneurship as a path out of poverty/inequality (via the
+  Tamvada and Kimhi papers in the special SBE issue that L53 introduces).
+- **Méndez-Picazo et al. (L54)**: finds that Gini (inequality) is **POSITIVELY** correlated with
+  entrepreneurial activity in a sample of 11 developed countries (savings need to shift toward
+  higher-income groups to fund investment).
+- **Reconciliation**: this is a trade-off NOT yet resolved in the course literature — possibly
+  due to different contexts (developing vs. developed countries) or different measurement
+  mechanisms (entrepreneurship as an individual poverty-reduction tool vs. aggregate
+  national-level entrepreneurial activity).
+- **Potential exam question**: "L53 treats entrepreneurship as a tool for reducing
+  poverty/inequality, but L54 finds a positive correlation between Gini and entrepreneurial
+  activity. Is this a genuine contradiction? Propose a way to reconcile the two findings."
+
 ## 4. Concept → paper map
 
 - [[unconditional-convergence]] — L11 (central), related to L15 (convergence within China)
@@ -179,8 +310,15 @@ summaries.
   lecture having a raw source — see [[overview]])
 - [[banking-crisis]] — L31 (central: bank equity vs panic), L32 (liquidity creation channel),
   L33/L35/L36 (applications: COVID Vietnam, geopolitics, monetary policy)
+- [[institutions]] — extended in LN4: L41/L42 (Vietnam's land institutions); extended in LN5:
+  L53 ("black box"), L54 (citing Acemoglu 2003), L55 (institutional entrepreneurs)
+- [[livelihood-vulnerability-index]] — L44 (central, cross-regional), L45 (same tool,
+  household-level drivers); L43 is the outcome-based counterpoint (does not use the LVI)
+- [[entrepreneurship-and-development]] — L53 (trunk, "black box" + binding constraint), L51/L52
+  (micro/household channel, VN), L54 (macro/governance channel), L55 (the "black box"-opening
+  channel), L56 (the sustainability channel)
 
-## 5. Exam question bank (24 questions, with suggested answer outlines)
+## 5. Exam question bank (36 questions, with suggested answer outlines)
 
 The answers below are **outline frameworks for self-testing**, not model essays to memorize —
 when writing an actual exam answer or essay, rephrase in your own words and cite exact figures
@@ -415,22 +553,138 @@ post-GFC/pandemic era? (L35)**
   is more reliable than traditional macro data, which lags — but applied to two different types
   of crisis (an endogenous banking crisis vs. an external pandemic shock).
 
+### From LN4 (6 questions)
+
+**25. Why is the effect of private land tenure on Vietnam's economic development (Ho 2021) so
+much more modest than AJR's cross-country effect? (L41, see 3.7)**
+- The 1993 land-use certificate is only an INCOMPLETE property right: the state can still
+  reclaim the land (lingering insecurity) + high tax/time costs for land transactions.
+- Figures: the bivariate coefficient of 1.7% (a 1% increase in certificates → +1.7% nighttime
+  light) falls to 0.6% once full controls + province FE are added; Oster (2019) bias-adjustment
+  shows the coefficient could fall to zero under the most conservative scenario (δ=0.9, R=0.8).
+- Implication: the "degree of completeness" of an institution, not merely its formal existence,
+  determines the size of its real economic effect.
+
+**26. How does land consolidation (Do et al. 2023) affect production costs and poverty? (L42)**
+- Farming efficiency → participation in land consolidation (positive, significant); the reverse
+  direction (participation → efficiency) is NOT significant — self-selection matters more than
+  reverse causality.
+- PSM-DD: reduces land-preparation costs by PPP$24.35/ha, harvest costs by PPP$41.82/ha; raises
+  farm income, reduces poverty (measured with the FGT index, at two poverty lines of PPP$2.05
+  and PPP$3.20/day).
+
+**27. What are the multidimensional impacts of flooding on households, per Le (2020)? (L43)**
+- Reduces farm income but pushes households toward non-farm income (remittances rise sharply);
+  raises health spending +48.5% and education spending +42.0%.
+- Among coping mechanisms, ONLY remittances have a statistically significant effect; subjective
+  wellbeing falls significantly — conclusion: "living in a village that floods regularly is not
+  a happy experience."
+
+**28. How does LVI-IPCC measure vulnerability, and which region of Vietnam is most vulnerable
+per Vo & Tran (2022)? (L44, see 3.8/3.9)**
+- Formula: LVI-IPCC = (Exposure − Adaptive capacity) × Sensitivity, the 3-component IPCC
+  framework.
+- The North Central & South Central Coast is the most vulnerable (LVI-IPCC = 0.012, the only
+  positive value) because high Exposure (0.30 — storms/floods/tropical depressions) outweighs
+  fairly good adaptive capacity/sensitivity; the Mekong Delta is especially vulnerable on
+  food/water (drought + salinity intrusion).
+
+**29. Tran et al. (2022) find that formal credit and irrigation INCREASE vulnerability — how can
+this counterintuitive result be explained? (L45, see 3.8)**
+- 17 of 24 factors are significant (p<0.01): cooperative membership, education, income
+  diversification, and severe cold REDUCE vulnerability; floods/drought/formal credit/irrigation
+  INCREASE vulnerability.
+- A plausible interpretation: likely due to poor implementation quality (credit misused,
+  irrigation systems deteriorating) or reverse causality (more vulnerable households are the
+  ones that need to borrow/irrigate more) — not because these tools are inherently harmful; a
+  different empirical strategy (IV/panel) would be needed to distinguish between the two.
+
+**30. How does climate variability affect labor mobility in Indonesia, per Hastuti et al.
+(2025)? (L46, see 3.10)**
+- IV (altitude for temperature, latitude for rainfall): rainfall CV +1% → probability of labor
+  mobility +0.47 percentage points; temperature CV +1% → +1.38 percentage points (both p<0.01).
+- Mediating channel: farm production cost is significant for rainfall, NOT significant for
+  temperature (temperature operates through a different channel); effects are stronger in Java
+  and among small-landholding households — the ONLY LN4 paper to treat mobility ITSELF as an
+  adaptation strategy (exit) rather than an outcome to be remedied.
+
+### From LN5 (6 questions)
+
+**31. Why does risk-taking have a NEGATIVE effect on business performance for women-owned SMEs
+in Vietnam, contrary to standard EO theory? (L51, similar logic to 3.13)**
+- Regression: BP = 0.385 + 0.328·Inno + 0.301·Pro − 0.111·Risk + 0.134·Compe + 0.220·Auto;
+  R²=77%.
+- 4/5 EO dimensions are positive and significant; risk-taking is negative and significant — the
+  paper attributes this to women entrepreneurs in the sample tending to decide emotionally/
+  without long-term planning; it can also be linked to a restrictive credit environment
+  (Bianchi, cited in L53) in which risk-taking is not properly "supported" by the financial
+  system.
+
+**32. How does GET Ahead training affect women's empowerment per Huis et al. (2019), and why is
+the effect clear only at endline? (L52)**
+- RCT, TYM (the largest MFI in northern Vietnam), 4,041 baseline borrowers, 3 groups (training +
+  husband, training alone, control). Training raises control beliefs + power over large
+  expenditure decisions, reduces relational friction.
+- The effect is clear at endline (12 months) but not at midline — suggesting empowerment
+  accumulates gradually over time rather than instantly; no significant difference when husbands
+  were invited to participate.
+
+**33. What 2 gaps does Naudé (2010) identify in development economics regarding
+entrepreneurship? (L53, see 3.11/3.13)**
+- (i) The role/function of entrepreneurship is undervalued in development economics; (ii)
+  institutions remain a "black box" even though both fields recognize their importance.
+- Central argument: the problem in developing countries is not a SHORTAGE of entrepreneurship
+  but its MISALLOCATION (productive vs. unproductive/destructive, per Baumol 1990).
+
+**34. How does Méndez-Picazo et al. (2012) model the governance-entrepreneurship-growth
+relationship? (L54, see 3.12/3.13)**
+- A two-equation panel model, 11 developed countries 2002–2007: GDP = f(innovation,
+  entrepreneurship, investment); entrepreneurship = f(Gini, governance, public expenditure,
+  money supply).
+- Governance is measured via principal components over 4 World Bank dimensions, directly citing
+  Acemoglu's (2003) three institutional characteristics — governance → positive →
+  entrepreneurship → positive indirect → growth; but Gini and inflation are "negative effects"
+  that must be managed.
+
+**35. Through what mechanisms do institutional entrepreneurs shape the Danish FinTech DEE? (L55,
+see 3.11)**
+- A longitudinal qualitative case study, 17 in-depth interviews, data spanning 2009–2024. 3
+  institutional forces: collaboration dynamics (incumbent–start-up), regulatory framework
+  adaptation, global connections.
+- Institutional change is the COLLECTIVE effort of multiple institutional entrepreneurs over
+  time; "neutral leadership" is pivotal; both system-level and organization-level agency are
+  needed simultaneously.
+
+**36. What do green startups contribute to economic development, and what are the main
+barriers, per Sharma & Subba (2025)? (L56)**
+- A scoping review of >100 sources, using the Triple Bottom Line + Ecological Modernization
+  Theory framework: green startups drive job creation, eco-innovation, and market transformation
+  through the circular economy.
+- Barriers: funding constraints, market competition, regulatory barriers; supportive policy is
+  needed (tax incentives, green finance, digital technologies such as AI/blockchain); research
+  gaps: a lack of longitudinal studies, cross-national comparisons, and harmonized ESG standards.
+
 ## 6. Past exam from a previous cohort (real-format reference)
 
 - [[k31-final-exam]] — K31's final written exam (the previous cohort, same course/professor):
   real exam rules (120 minutes, compulsory Q1–2 + electives choosing a minimum of 2 of 4, PASS
-  ≥27.5/50 on each part) plus 6 questions with detailed model answers. The 6 papers in this exam
-  do NOT overlap with the current LN1–LN3 reading list, except Q4 (Baron, Verner & Xiong 2021),
-  which is identical to [[l31-baron-2021-banking-crises-without-panics]], and Q6 (Heshmati &
-  Rashidghalam 2020), which is a paper by this course's own professor. Main value: getting used
-  to the **question format** ("present the findings + drivers/impacts/mechanism of a specific
-  paper") — a format very likely to reappear on the current cohort's exam.
+  ≥27.5/50 on each part) plus 6 questions with detailed model answers. This exam originally did
+  NOT overlap with the LN1–LN3 reading list, but now **2 of 6 questions overlap** following the
+  LN4 ingest: Q1 (Do, Nguyen & Grote 2023) is a 100% match with
+  [[l42-do-2023-land-consolidation-vietnam]] (updated 2026-07-29 — exact figures now replace the
+  earlier abstract-based estimates), and Q4 (Baron, Verner & Xiong 2021) is a 100% match with
+  [[l31-baron-2021-banking-crises-without-panics]]; Q6 (Heshmati & Rashidghalam 2020) is a paper
+  by this course's own professor. Main value: getting used to the **question format** ("present
+  the findings + drivers/impacts/mechanism of a specific paper") — likely to reappear on the
+  K32 exam.
 
 ## Links
 
 - [[overview]] · [[all-papers-mindmap]] · [[ln1-economic-development]] ·
-  [[ln2-governance-institutions-policy-making]] · [[ln3-financial-crisis-and-pandemics]]
-- All 17 source pages: [[l11-patel-2021-unconditional-convergence]],
+  [[ln2-governance-institutions-policy-making]] · [[ln3-financial-crisis-and-pandemics]] ·
+  [[ln4-agriculture-climate-change-natural-disasters]] ·
+  [[ln5-entrepreneurship-economic-development]]
+- All 29 source pages: [[l11-patel-2021-unconditional-convergence]],
   [[l12-nunn-2019-rethinking-econ-dev]], [[l13-spolaore-2013-deep-roots]],
   [[l14-sasges-2025-vietnam-policies]], [[l15-yin-2025-china-hqed]],
   [[l21-acemoglu-2001-colonial-origins]], [[l22-mauro-1995-corruption-growth]],
@@ -443,7 +697,17 @@ post-GFC/pandemic era? (L35)**
   [[l33-lastunen-2023-forecasting-covid-recovery-vietnam]],
   [[l34-cai-2023-natural-resources-financial-development-vietnam]],
   [[l35-kakhkharov-2025-banking-geopolitical-change]],
-  [[l36-minford-2025-monetary-policy-lessons]]
+  [[l36-minford-2025-monetary-policy-lessons]],
+  [[l41-ho-2021-land-tenure-vietnam]], [[l42-do-2023-land-consolidation-vietnam]],
+  [[l43-le-2020-floods-household-welfare]], [[l44-vo-tran-2022-rural-vulnerability-vietnam]],
+  [[l45-tran-2022-rice-farmers-vulnerability-nghean]],
+  [[l46-hastuti-2025-climate-labor-mobility-indonesia]],
+  [[l51-nguyen-2023-entrepreneurial-orientation-women-smes-vietnam]],
+  [[l52-huis-2019-get-training-microfinance-vietnam]],
+  [[l53-naude-2010-entrepreneurship-development-economics]],
+  [[l54-mendez-picazo-2012-governance-entrepreneurship-growth]],
+  [[l55-stein-2026-digital-entrepreneurship-fintech-denmark]],
+  [[l56-sharma-subba-2025-green-startups-sustainability]]
 - **Interactive version (Artifact)**: a mindmap with expandable/collapsible papers + a "Self-test"
   flashcard tab (both private, need to click Share on that page to send to someone else):
   - Bilingual (original, VI explanations + EN terminology): https://claude.ai/code/artifact/b1704073-2623-44b9-8b64-b0cf8461d866

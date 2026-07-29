@@ -3,7 +3,7 @@ type: exam
 title: "K31 Final Written Exam — Development Issues and Business Cycle"
 tags: [exam, past-exam, k31, land-consolidation, poverty-inequality, construction-digitalization, banking-crisis, trade-policy, urban-infrastructure]
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-07-29
 status: complete
 source_file: "raw/4. PAST EXAMS/K31 final written exam/k31-exam-page1-questions.jpeg"
 also_covers:
@@ -81,39 +81,44 @@ development of Vietnam's urban infrastructure.
 
 ### Question 1 — Land consolidation, rice production, Vietnam (Do, Nguyen & Grote, EAP 2023)
 
+✅ **Cập nhật 2026-07-29**: paper này nay đã được deep-ingest đầy đủ làm reading L42 của
+[[ln4-agriculture-climate-change-natural-disasters]] — xem trang đầy đủ:
+[[l42-do-2023-land-consolidation-vietnam]] (không còn paywall, đã đọc trọn bản Economic Analysis
+and Policy 77: 157–173). Đáp án dưới đã cập nhật số liệu chính xác thay cho các ước lượng dựa trên
+abstract trước đây.
+
 **Nguồn xác nhận**: Do, Manh Hung; Nguyen, Trung Thanh; Grote, Ulrike (2023), *"Land
 consolidation, rice production, and agricultural transformation: Evidence from household panel
 data for Vietnam"*, **Economic Analysis and Policy**, 77(C), 157–173 (DOI:
-10.1016/j.eap.2022.11.010) — xác nhận qua IDEAS/RePEc, khớp record ScienceDirect. Có bản working
-paper trước đó: *"Is land consolidation policy a solution for rice production and agricultural
-transformation in Vietnam?"*, TVSEP Working Paper wp-028 (Leibniz Universität Hannover) — nơi
-Ulrike Grote công tác, xác nhận đây là dữ liệu household panel thuộc dự án TVSEP (Thailand Vietnam
-Socio-Economic Panel, khảo sát ~2.200 hộ ở 3 tỉnh miền Trung Hà Tĩnh/Thừa Thiên Huế/Đắk Lắk —
-⚠️ suy luận hợp lý từ series TVSEP, chưa xác nhận trực tiếp đây chính là mẫu của bài báo này vì
-bản đầy đủ bị paywall).
+10.1016/j.eap.2022.11.010). Dữ liệu: TVSEP (Thailand Vietnam Socio-Economic Panel), 995 hộ trồng
+lúa, 3 tỉnh miền Trung (Hà Tĩnh, Thừa Thiên Huế, Đắk Lắk), 3 đợt khảo sát 2010/2013/2017 —
+nay đã xác nhận trực tiếp từ bản đầy đủ.
 
-**Phương pháp**: Household panel data; chiến lược kinh tế lượng kết hợp instrumental variables
-dựa trên heteroscedasticity (xử lý tính nội sinh của việc hộ tự nguyện tham gia land consolidation)
-và simultaneous-equation regression models; có tham chiếu panel/matching (Mundlak-type
-specification, Smith & Todd 2005, Ho et al. 2007) như kiểm định vững.
+**Phương pháp**: đo land fragmentation bằng Simpson index; farming efficiency ước lượng qua true
+random-effects stochastic frontier (translog, Greene 2005) + Mundlak (1978) correlated
+random-effects; hệ phương trình đồng thời (simultaneous equations) giữa farming efficiency và
+tham gia land consolidation, ước lượng bằng 3SLS kết hợp instrumental variables dựa trên
+heteroscedasticity (Lewbel 2012) để xử lý nội sinh; SURE regression cho thu nhập farm/non-farm;
+propensity score matching + difference-in-differences (PSM-DD) cho chi phí sản xuất và nghèo.
 
-**Findings chính (drivers, economic & social impacts)**:
-- **Driver tự chọn (self-selection)**: hộ tham gia land consolidation có xu hướng là hộ canh tác
-  **hiệu quả hơn** ngay từ đầu — tức consolidation không ngẫu nhiên mà gắn với farming efficiency
-  sẵn có, đây là lý do bài phải xử lý nội sinh bằng IV.
-- **Tác động kinh tế**: giảm đáng kể **chi phí làm đất** (land preparation costs) và **chi phí thu
-  hoạch** (harvest costs); tăng **thu nhập nông hộ** (farm income).
-- **Tác động xã hội**: giảm nghèo (**poverty reduction**).
-- **Hàm ý chính sách** (theo abstract): nên thúc đẩy land consolidation như công cụ **tái phân bổ
-  đất** từ hộ đang rời bỏ nông nghiệp sang hộ ở lại, qua đó tạo điều kiện dịch chuyển lao động sang
-  khu vực phi nông nghiệp (non-farm) — đúng tinh thần "agricultural transformation" trong tiêu đề.
-- ⚠️ Số liệu định lượng cụ thể (%, hệ số) không truy cập được do bản đầy đủ trả phí — các finding
-  trên lấy nguyên từ abstract, không suy diễn thêm số liệu.
+**Findings chính (drivers, economic & social impacts)** — số liệu chính xác từ bản đầy đủ:
+- **Driver tự chọn (self-selection)**: farming efficiency ảnh hưởng DƯƠNG có ý nghĩa lên xác suất
+  tham gia land consolidation (hộ hiệu quả hơn dễ tham gia hơn), nhưng chiều ngược lại — tham gia
+  land consolidation ảnh hưởng tới farming efficiency — KHÔNG có ý nghĩa thống kê (Bảng 4).
+- **Tác động kinh tế (PSM-DD)**: land consolidation giảm chi phí làm đất (land preparation cost)
+  PPP$24,35/ha và chi phí thu hoạch (harvest cost) PPP$41,82/ha; tăng thu nhập nông nghiệp trên
+  lao động và tăng tỷ trọng thu nhập nông nghiệp trong tổng thu nhập hộ (giảm tỷ trọng thu nhập
+  phi nông — bằng chứng rural transformation).
+- **Tác động xã hội**: giảm nghèo đo bằng chỉ số FGT (Foster-Greer-Thorbecke) ở 2 ngưỡng PPP$2,05
+  và PPP$3,20/ngày.
+- **Hàm ý chính sách**: thúc đẩy land consolidation như công cụ tái phân bổ đất từ hộ đang rời bỏ
+  nông nghiệp sang hộ ở lại, tạo điều kiện dịch chuyển lao động sang phi nông nghiệp.
 
 **Liên hệ môn học**: cùng chủ đề land/labor reallocation nông thôn-thành thị với
-[[l14-sasges-2025-vietnam-policies]] (LN1, VN 1980–2019) dù góc nhìn khác (vi mô hộ gia đình vs vĩ
-mô chính sách quốc gia) — cả hai đều cho thấy cải cách thể chế đất đai/chính sách là động lực quan
-trọng của transformation kinh tế Việt Nam.
+[[l14-sasges-2025-vietnam-policies]] (LN1, VN 1980–2019) — góc nhìn vi mô hộ gia đình vs vĩ mô
+chính sách quốc gia. Trong LN4, L42 còn có cặp trực tiếp [[l41-ho-2021-land-tenure-vietnam]] —
+cùng chủ đề "thể chế đất đai Việt Nam" nhưng khác kênh (property rights/tenure security ở L41 vs
+land fragmentation/consolidation ở L42), xem [[institutions]] mục "Ứng dụng thực nghiệm ở LN4".
 
 ### Question 2 — Poverty reduction, growth & inequality, Vietnam (Nguyen & Pham, APEL 2018)
 
