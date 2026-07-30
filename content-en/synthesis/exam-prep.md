@@ -3,7 +3,7 @@ type: synthesis
 title: "Final Exam Prep — Master Synthesis (LN1–LN5)"
 tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis, agriculture, climate-vulnerability, entrepreneurship]
 created: 2026-07-24
-updated: 2026-07-29
+updated: 2026-07-30
 status: complete
 ---
 
@@ -32,8 +32,8 @@ compact).
 4. **Test yourself actively, don't just re-read.** Cover the answers, answer first, then check
    (section 5 below, or the interactive version in the Artifact — see the link at the end of
    the page).
-5. **Track 2 upcoming milestones**: the shortlist of 20 readings (Aug 23), and the conflicting
-   exam date 30/8 vs 06/9 ([[ln0-course-intro]]).
+5. **Track 2 upcoming milestones**: the shortlist of 20 readings (30/8), and the Written Exam
+   date (06/9 — confirmed) ([[ln0-course-intro]]).
 
 If time is short: prioritize steps 3 + 4, skip re-reading every paper in detail.
 
@@ -41,8 +41,8 @@ If time is short: prioritize steps 3 + 4, skip re-reading every paper in detail.
 
 | Item | Status |
 |---|---|
-| Shortlist of 20 readings for the written exam | ⏳ Professor sends 23/8 — **not yet available**, this is the real exam scope |
-| Written Exam date | ⚠️ Conflicting: syllabus says 30/8, LN0 (17/07 — more recent) says 06/9 — see [[ln0-course-intro]] |
+| Shortlist of 20 readings for the written exam | ⏳ Professor sends **30/8** (updated — syllabus originally said 23/8) — **not yet available**, this is the real exam scope |
+| Written Exam date | ✅ **06/9** — confirmed via the "Planning Schedule" slide update shown in class (resolves the earlier syllabus 30/8 vs LN0 06/9 conflict) — see [[ln0-course-intro]] |
 | Current wiki coverage | LN1 (5) + LN2 (6) + LN3 (6) + LN4 (6) + LN5 (6) = 29 papers. Lectures 6–10 **have no** material in `raw/` yet |
 
 ## 1. Quick-lookup table — 29 papers

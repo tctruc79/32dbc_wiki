@@ -3,7 +3,7 @@ type: synthesis
 title: "Ôn thi cuối kỳ — Master Synthesis (LN1–LN5)"
 tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis, agriculture, climate-vulnerability, entrepreneurship]
 created: 2026-07-24
-updated: 2026-07-29
+updated: 2026-07-30
 status: complete
 ---
 
@@ -29,7 +29,7 @@ mermaid nhóm theo cùng cụm, ít chữ hơn).
    học luận điểm **cả 2 phía**, không chỉ 1 phía.
 4. **Tự test chủ động, đừng chỉ đọc lại.** Che đáp án, tự trả lời trước, rồi mới mở kiểm tra
    (mục 5 dưới, hoặc bản tương tác trong Artifact — xem link cuối trang).
-5. **Theo dõi 2 mốc**: shortlist 20 bài (23/8), ngày thi mâu thuẫn 30/8 vs 06/9
+5. **Theo dõi 2 mốc**: shortlist 20 bài (30/8), Written Exam (06/9 — đã xác nhận)
    ([[ln0-course-intro]]).
 
 Nếu chỉ còn ít thời gian: ưu tiên bước 3 + 4, bỏ qua đọc lại chi tiết từng paper.
@@ -38,8 +38,8 @@ Nếu chỉ còn ít thời gian: ưu tiên bước 3 + 4, bỏ qua đọc lại
 
 | Việc | Trạng thái |
 |---|---|
-| Shortlist 20 bài cho written exam | ⏳ Giáo sư gửi 23/8 — **CHƯA có**, đây mới là phạm vi thi thật sự |
-| Ngày Written Exam | ⚠️ Mâu thuẫn: syllabus ghi 30/8, LN0 (17/07 — mới hơn) ghi 06/9 — xem [[ln0-course-intro]] |
+| Shortlist 20 bài cho written exam | ⏳ Giáo sư gửi **30/8** (cập nhật — trước đó syllabus ghi 23/8) — **CHƯA có**, đây mới là phạm vi thi thật sự |
+| Ngày Written Exam | ✅ **06/9** — đã xác nhận qua slide "Planning Schedule" cập nhật trong lớp (giải quyết mâu thuẫn syllabus 30/8 vs LN0 06/9 trước đây) — xem [[ln0-course-intro]] |
 | Phạm vi wiki hiện tại | LN1 (5) + LN2 (6) + LN3 (6) + LN4 (6) + LN5 (6) = 29 papers. Lecture 6–10 **chưa có** tài liệu trong `raw/` |
 
 ## 1. Bảng tra cứu nhanh — 29 papers

@@ -27,8 +27,8 @@ Bản đồ môn học. Nguồn: [[syllabus-2026]], [[essays-instructions]].
 |---|---|
 | Nộp title + abstract essay | 28/6 |
 | Teaching period (10 buổi, 18:00–20:30, H104 — lịch chi tiết: [[ln0-course-intro]]) | 22/7 – 12/8 |
-| Shortlist 20 bài đọc cho written exam | 23/8 (theo syllabus) |
-| Written exam | ⚠️ **30/8 (syllabus) vs 06/9 (LN0, 17/07 — mới hơn)** — cần xác nhận, xem [[ln0-course-intro]] |
+| Shortlist 20 bài đọc cho written exam | **30/8** (cập nhật trong lớp — syllabus gốc ghi 23/8) |
+| Written exam | ✅ **06/9** — đã xác nhận (giải quyết mâu thuẫn syllabus 30/8 vs LN0 06/9 trước đây), xem [[ln0-course-intro]] |
 | Nộp essay hoàn chỉnh | 13/9 |
 | Công bố điểm | 20/9 |
 | Quyết định book chapter (Springer Southeast Asian series) | 30/9 |

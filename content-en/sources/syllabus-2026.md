@@ -23,9 +23,10 @@ applications), and a list of suggested essay topics.
 - Grading: Assignment 50% + Written Exam 50%; passing requires ≥50% in each component (p.1).
 - The essay is a "modified and updated replication" of a key paper in the field, using recent
   Vietnamese data and literature (p.1) — see [[essays-instructions]] for details.
-- One week before the exam (23/8), the professor sends a shortlist of **20 articles** for the
-  written exam → this is the single most important exam-prep signal and should be ingested as
-  soon as it arrives.
+- One week before the exam (23/8 per the original syllabus — **now moved to 30/8**, see
+  [[ln0-course-intro]]), the professor sends a shortlist of **20 articles** for the written
+  exam → this is the single most important exam-prep signal and should be ingested as soon as
+  it arrives.
 - The final section of the syllabus overlaps with the suggested essay topics:
   [[technology-upgrading]], [[middle-income-trap]], [[middle-innovation-trap]],
   [[creative-accumulation]].

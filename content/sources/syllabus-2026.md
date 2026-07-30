@@ -23,8 +23,9 @@ Việt Nam), và danh sách topic gợi ý cho essay.
 - Grading: Assignment 50% + Written Exam 50%; pass cần ≥50% mỗi phần (tr.1).
 - Essay = "modified and updated replication" của key paper trong lĩnh vực, dùng data
   và literature Việt Nam gần đây (tr.1) — chi tiết xem [[essays-instructions]].
-- Trước exam 1 tuần (23/8) giáo sư gửi shortlist **20 articles** cho written exam → đây là
-  tín hiệu ôn thi quan trọng nhất, cần ingest ngay khi có.
+- Trước exam 1 tuần (23/8 theo syllabus gốc — **đã dời sang 30/8**, xem [[ln0-course-intro]])
+  giáo sư gửi shortlist **20 articles** cho written exam → đây là tín hiệu ôn thi quan trọng
+  nhất, cần ingest ngay khi có.
 - Phần cuối syllabus trùng nội dung topic gợi ý essay: [[technology-upgrading]],
   [[middle-income-trap]], [[middle-innovation-trap]], [[creative-accumulation]].
 

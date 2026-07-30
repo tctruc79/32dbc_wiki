@@ -28,8 +28,8 @@ Map of the course. Sources: [[syllabus-2026]], [[essays-instructions]].
 |---|---|
 | Essay title + abstract submission | 28/6 |
 | Teaching period (10 sessions, 18:00–20:30, H104 — detailed schedule: [[ln0-course-intro]]) | 22/7 – 12/8 |
-| Shortlist of 20 readings for the written exam | 23/8 (per syllabus) |
-| Written exam | ⚠️ **30/8 (syllabus) vs 06/9 (LN0, 17/07 — more recent)** — needs confirmation, see [[ln0-course-intro]] |
+| Shortlist of 20 readings for the written exam | **30/8** (updated in class — original syllabus said 23/8) |
+| Written exam | ✅ **06/9** — confirmed (resolves the earlier syllabus 30/8 vs LN0 06/9 conflict), see [[ln0-course-intro]] |
 | Final essay submission | 13/9 |
 | Grades released | 20/9 |
 | Book chapter decision (Springer Southeast Asian series) | 30/9 |
