@@ -14,10 +14,17 @@ const SNIPPET_MARKER = "id=\"lang-switch-bar\""
 // khong co data-basepath -- bo qua, khong chen switcher vao do.
 const SKIP_MARKER = "http-equiv=\"refresh\""
 
+// LƯU Ý: data-basepath đọc từ document.body.dataset.basepath ĐÃ bao gồm sẵn suffix
+// "/vi" hoặc "/en" (do fix-basepath.mjs cộng thêm vào baseUrl gốc trước bước này — xem
+// comment trong fix-basepath.mjs). Vì vậy script bên dưới phải tách ngôn ngữ NGAY TỪ
+// basepath (không phải từ phần path còn lại sau khi trừ basepath), rồi hoán đổi suffix
+// "/vi" <-> "/en" ngay trong basepath để ra basepath của cây kia. Bug cũ: script từng coi
+// basepath là gốc chung (không có /vi hay /en) và tự thêm "/en" hoặc "/vi" vào SAU
+// basepath — với basepath đã có sẵn "/vi", kết quả bị lồng thành ".../vi/en/" (404).
 const SNIPPET = `<div id="lang-switch-bar" style="position:sticky;top:0;z-index:1000;display:flex;justify-content:flex-end;padding:.35rem .75rem;background:var(--light,#faf8f8);border-bottom:1px solid var(--lightgray,#e5e5e5);">
 <a id="language-switch-link" href="#" style="display:inline-flex;align-items:center;gap:.3rem;font-size:.85rem;text-decoration:none;color:var(--dark,#2b2b2b);border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.15rem .6rem;">🌐</a>
 </div>
-<script>(function(){function setup(){var link=document.getElementById("language-switch-link");if(!link)return;var siteRoot=document.body.dataset.basepath||"";var path=window.location.pathname;var rel=siteRoot&&path.indexOf(siteRoot)===0?path.slice(siteRoot.length):path;var enMatch=rel.match(/^\\/en(\\/.*|)$/);var viMatch=rel.match(/^\\/vi(\\/.*|)$/);if(enMatch){link.href=siteRoot+"/vi"+(enMatch[1]||"/");link.textContent="🇻🇳 Tiếng Việt";link.title="Chuyển sang bản song ngữ (VI)";}else if(viMatch){link.href=siteRoot+"/en"+(viMatch[1]||"/");link.textContent="🇬🇧 English";link.title="Switch to full-English version";}else{link.href=siteRoot+"/en/";link.textContent="🇬🇧 English";link.title="Switch to full-English version";}}setup();document.addEventListener("nav",setup);document.addEventListener("render",setup);})();</script>
+<script>(function(){function setup(){var link=document.getElementById("language-switch-link");if(!link)return;var basepath=document.body.dataset.basepath||"";var path=window.location.pathname;var rel=basepath&&path.indexOf(basepath)===0?path.slice(basepath.length):path;if(!rel||rel[0]!=="/")rel="/"+rel;var isVi=/\\/vi$/.test(basepath);var isEn=/\\/en$/.test(basepath);var counterpart;if(isVi){counterpart=basepath.replace(/\\/vi$/,"/en");link.textContent="🇬🇧 English";link.title="Switch to full-English version";}else if(isEn){counterpart=basepath.replace(/\\/en$/,"/vi");link.textContent="🇻🇳 Tiếng Việt";link.title="Chuyển sang bản song ngữ (VI)";}else{counterpart=basepath+"/en";link.textContent="🇬🇧 English";link.title="Switch to full-English version";}link.href=counterpart+rel;}setup();document.addEventListener("nav",setup);document.addEventListener("render",setup);})();</script>
 `
 
 async function walk(dir) {
