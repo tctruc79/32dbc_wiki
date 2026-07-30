@@ -28,8 +28,16 @@ const SKIP_MARKER = "http-equiv=\"refresh\""
 // hình dù href vẫn đúng). Dùng "color: inherit" (luôn khớp màu chữ đọc được của theme
 // hiện tại) + nền/viền xám bán trong suốt (rgba trung tính) để tương phản đủ ở CẢ 2 theme
 // mà không cần biết đang ở theme nào.
+// data-router-ignore: co che opt-out CHUAN cua Quartz SPA router (xem
+// quartz/components/scripts/spa.inline.ts dong 32: `if ("routerIgnore" in a.dataset)
+// return`). Khong co attribute nay, script SPA cua Quartz se bat moi click vao <a> cung
+// origin (kiem tra bang hostname, khong biet gi ve /vi hay /en la 2 cay build rieng biet)
+// roi tu fetch + micromorph noi dung thay vi cho trinh duyet tai lai trang binh thuong --
+// fetch cheo sang cay kia chac chan fail (khac page-graph noi bo), khien click bi "nuot"
+// im lang, URL khong doi. Da tan mat kiem tra tren ban deploy that: thieu attribute nay
+// thi bam nut khong dieu huong duoc.
 const SNIPPET = `<div id="lang-switch-bar" style="position:sticky;top:0;z-index:1000;display:flex;justify-content:flex-end;padding:.35rem .75rem;background:rgba(128,128,128,.08);backdrop-filter:blur(6px);border-bottom:1px solid rgba(128,128,128,.25);">
-<a id="language-switch-link" href="#" style="display:inline-flex;align-items:center;gap:.35rem;font-size:.85rem;font-weight:600;text-decoration:none;color:inherit;background:rgba(128,128,128,.14);border:1px solid rgba(128,128,128,.4);border-radius:8px;padding:.2rem .7rem;">🌐</a>
+<a id="language-switch-link" href="#" data-router-ignore style="display:inline-flex;align-items:center;gap:.35rem;font-size:.85rem;font-weight:600;text-decoration:none;color:inherit;background:rgba(128,128,128,.14);border:1px solid rgba(128,128,128,.4);border-radius:8px;padding:.2rem .7rem;">🌐</a>
 </div>
 <script>(function(){function setup(){var link=document.getElementById("language-switch-link");if(!link)return;var basepath=document.body.dataset.basepath||"";var path=window.location.pathname;var rel=basepath&&path.indexOf(basepath)===0?path.slice(basepath.length):path;if(!rel||rel[0]!=="/")rel="/"+rel;var isVi=/\\/vi$/.test(basepath);var isEn=/\\/en$/.test(basepath);var counterpart;if(isVi){counterpart=basepath.replace(/\\/vi$/,"/en");link.textContent="🇬🇧 English";link.title="Switch to full-English version";}else if(isEn){counterpart=basepath.replace(/\\/en$/,"/vi");link.textContent="🇻🇳 Tiếng Việt";link.title="Chuyển sang bản song ngữ (VI)";}else{counterpart=basepath+"/en";link.textContent="🇬🇧 English";link.title="Switch to full-English version";}link.href=counterpart+rel;}setup();document.addEventListener("nav",setup);document.addEventListener("render",setup);})();</script>
 `
