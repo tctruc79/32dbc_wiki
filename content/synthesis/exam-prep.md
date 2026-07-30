@@ -600,7 +600,7 @@ Subba (2025)? (L56)**
   (tax incentives, green finance, digital tech AI/blockchain); research gap: thiếu longitudinal
   studies, so sánh cross-national, chuẩn ESG hài hòa.
 
-## 6. Đề thi khóa trước (tham khảo định dạng thật)
+## 6. Đề thi khóa trước (tham khảo định dạng thật) & đề mô phỏng K32
 
 - [[k31-final-exam]] — đề thi viết cuối kỳ K31 (khóa trước, cùng môn/GS): luật thi thật (120 phút,
   compulsory Q1-2 + elective chọn tối thiểu 2/4, PASS ≥27.5/50 mỗi phần) + 6 câu hỏi + đáp án chi
@@ -611,6 +611,11 @@ Subba (2025)? (L56)**
   [[l31-baron-2021-banking-crises-without-panics]]; Q6 (Heshmati & Rashidghalam 2020) là paper của
   chính giáo sư môn này. Giá trị chính: làm quen **dạng câu hỏi** ("trình bày findings +
   drivers/impacts/mechanism của 1 paper cụ thể") — khả năng cao xuất hiện lại ở đề K32.
+- [[k32-mock-exam-1]] (LN1–LN2) và [[k32-mock-exam-2]] (LN3–LN5) — đề thi **mô phỏng cho K32**
+  (Claude tự soạn, KHÔNG phải đề thật — giáo sư chưa công bố shortlist/đề K32), bám đúng
+  format/luật thi của [[k31-final-exam]] nhưng thay bằng 12/29 paper đã deep-ingest của K32, trải
+  đều cả 7 cụm chủ đề. Dùng để luyện dạng câu hỏi + luyện viết đáp án đúng khuôn khổ thi thật.
+  Sẽ mở rộng thêm set/câu hỏi mỗi khi có reading mới được deep-ingest (xem CLAUDE.md).
 
 ## Liên kết
 

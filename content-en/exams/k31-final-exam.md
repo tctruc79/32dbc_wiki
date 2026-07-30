@@ -348,3 +348,5 @@ individual components on the level of urbanization.
 - Paper shared with a K32 reading: [[l31-baron-2021-banking-crises-without-panics]] (Q4)
 - Author: [[almas-heshmati]] (Q6 — the professor teaching this course)
 - LN2 (a similar Vietnam context to Q3): [[l26-huynh-tran-2025-fdi-informal-economy]]
+- **Mock exams for K32** (same format/rules as this page, using K32 readings instead):
+  [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5).

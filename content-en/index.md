@@ -85,8 +85,8 @@ Map of the course. Sources: [[syllabus-2026]], [[essays-instructions]].
 ## Exam preparation
 
 [[exam-prep]] — the central hub for final-exam review: a 5-step process, a quick-lookup table,
-cross-paper debates, a concept map, and a bank of 24 questions. [[all-papers-mindmap]] — a
-mermaid mindmap organized into 5 topic clusters, complementing the slide-by-slide mindmap on
+cross-paper debates, a concept map, and a bank of 36 questions. [[all-papers-mindmap]] — a
+mermaid mindmap organized into 7 topic clusters, complementing the slide-by-slide mindmap on
 each lecture page.
 
 **Interactive versions** (all private — click Share on the page itself if you want to send it
@@ -97,7 +97,7 @@ to someone else):
 
 All 3 versions: mindmap with expand/collapse per paper, multi-level detail (Research Question &
 Methodology → Key Findings → Economic Significance → Vietnam Relevance → Cross-Paper Debate),
-covering LN0–LN3 + a "Self-test · 24 questions" flashcard tab. **When republishing (e.g., after
+covering LN0–LN5 + a "Self-test · 36 questions" flashcard tab. **When republishing (e.g., after
 ingesting an additional reading), the same 3 URLs must be republished (using the Artifact tool's
 `url` parameter) — do not create new artifacts**, since the links may already have been shared
 with others.

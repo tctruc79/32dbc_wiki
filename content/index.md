@@ -84,8 +84,8 @@ Bản đồ môn học. Nguồn: [[syllabus-2026]], [[essays-instructions]].
 ## Ôn thi
 
 [[exam-prep]] — trang trung tâm để ôn thi cuối kỳ: quy trình 5 bước, bảng tra nhanh, tranh
-luận giữa các paper, concept map, ngân hàng 24 câu hỏi. [[all-papers-mindmap]] — bản mindmap
-mermaid cùng 5 cụm chủ đề, bổ sung cho mindmap theo-slide trong từng trang lecture.
+luận giữa các paper, concept map, ngân hàng 36 câu hỏi. [[all-papers-mindmap]] — bản mindmap
+mermaid cùng 7 cụm chủ đề, bổ sung cho mindmap theo-slide trong từng trang lecture.
 
 **Bản tương tác** (đều private, cần bấm Share trên trang đó nếu muốn gửi cho người khác):
 - Song ngữ (bản gốc, VI diễn giải + giữ thuật ngữ EN): https://claude.ai/code/artifact/b1704073-2623-44b9-8b64-b0cf8461d866
@@ -93,8 +93,8 @@ mermaid cùng 5 cụm chủ đề, bổ sung cho mindmap theo-slide trong từng
 - Toàn tiếng Anh (để gửi GS Heshmati/bạn quốc tế): https://claude.ai/code/artifact/720594d7-477d-4936-9c9f-f81bf4314f2a
 
 Cả 3 bản: mindmap bấm mở/đóng từng paper, đa cấp chi tiết (Research Question & Methodology →
-Key Findings → Economic Significance → Vietnam Relevance → Cross-Paper Debate), gồm LN0-LN3 +
-tab "Tự test · 24 câu" dạng flashcard. **Khi cập nhật lại (vd sau khi ingest thêm reading), phải
+Key Findings → Economic Significance → Vietnam Relevance → Cross-Paper Debate), gồm LN0-LN5 +
+tab "Tự test · 36 câu" dạng flashcard. **Khi cập nhật lại (vd sau khi ingest thêm reading), phải
 republish đúng 3 URL này (dùng tham số `url` của Artifact tool) — không tạo artifact mới**, vì
 link đã có thể đã gửi cho người khác.
 

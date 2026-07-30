@@ -323,3 +323,5 @@ utilities. Sau đó hồi quy tác động của chỉ số tổng hợp và t�
 - Paper trùng với reading K32: [[l31-baron-2021-banking-crises-without-panics]] (Q4)
 - Tác giả: [[almas-heshmati]] (Q6 — chính giáo sư phụ trách môn)
 - LN2 (bối cảnh VN tương tự Q3): [[l26-huynh-tran-2025-fdi-informal-economy]]
+- **Đề thi mô phỏng cho K32** (dùng đúng format/luật thi trang này nhưng thay bằng reading K32):
+  [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5).

@@ -664,7 +664,7 @@ barriers, per Sharma & Subba (2025)? (L56)**
   needed (tax incentives, green finance, digital technologies such as AI/blockchain); research
   gaps: a lack of longitudinal studies, cross-national comparisons, and harmonized ESG standards.
 
-## 6. Past exam from a previous cohort (real-format reference)
+## 6. Past exam from a previous cohort (real-format reference) & K32 mock exams
 
 - [[k31-final-exam]] — K31's final written exam (the previous cohort, same course/professor):
   real exam rules (120 minutes, compulsory Q1–2 + electives choosing a minimum of 2 of 4, PASS
@@ -677,6 +677,12 @@ barriers, per Sharma & Subba (2025)? (L56)**
   by this course's own professor. Main value: getting used to the **question format** ("present
   the findings + drivers/impacts/mechanism of a specific paper") — likely to reappear on the
   K32 exam.
+- [[k32-mock-exam-1]] (LN1–LN2) and [[k32-mock-exam-2]] (LN3–LN5) — **mock exams for K32**
+  (Claude-authored, NOT a real exam — the professor has not yet released the K32 shortlist or
+  exam), following the exact format/rules of [[k31-final-exam]] but using 12 of the 29 papers
+  already deep-ingested for K32, spanning all 7 thematic clusters. Use these to practice the
+  question format and to practice writing answers within the real exam's constraints. Will be
+  extended with more sets/questions as new readings are deep-ingested (see CLAUDE.md).
 
 ## Links
 
