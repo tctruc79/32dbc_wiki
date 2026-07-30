@@ -21,8 +21,15 @@ const SKIP_MARKER = "http-equiv=\"refresh\""
 // "/vi" <-> "/en" ngay trong basepath để ra basepath của cây kia. Bug cũ: script từng coi
 // basepath là gốc chung (không có /vi hay /en) và tự thêm "/en" hoặc "/vi" vào SAU
 // basepath — với basepath đã có sẵn "/vi", kết quả bị lồng thành ".../vi/en/" (404).
-const SNIPPET = `<div id="lang-switch-bar" style="position:sticky;top:0;z-index:1000;display:flex;justify-content:flex-end;padding:.35rem .75rem;background:var(--light,#faf8f8);border-bottom:1px solid var(--lightgray,#e5e5e5);">
-<a id="language-switch-link" href="#" style="display:inline-flex;align-items:center;gap:.3rem;font-size:.85rem;text-decoration:none;color:var(--dark,#2b2b2b);border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.15rem .6rem;">🌐</a>
+// LƯU Ý MÀU SẮC: KHÔNG dùng var(--light)/var(--dark) của Quartz cho cặp
+// background/text của nút — 2 biến này đổi Ý NGHĨA giữa light/dark mode (vd --light
+// = màu NỀN TRANG, nên ở dark mode nó ra màu tối, khiến nút "biến mất" vì trùng màu nền
+// trang — đã tận mắt kiểm tra bằng browser trên bản deploy thật, dark mode làm nút vô
+// hình dù href vẫn đúng). Dùng "color: inherit" (luôn khớp màu chữ đọc được của theme
+// hiện tại) + nền/viền xám bán trong suốt (rgba trung tính) để tương phản đủ ở CẢ 2 theme
+// mà không cần biết đang ở theme nào.
+const SNIPPET = `<div id="lang-switch-bar" style="position:sticky;top:0;z-index:1000;display:flex;justify-content:flex-end;padding:.35rem .75rem;background:rgba(128,128,128,.08);backdrop-filter:blur(6px);border-bottom:1px solid rgba(128,128,128,.25);">
+<a id="language-switch-link" href="#" style="display:inline-flex;align-items:center;gap:.35rem;font-size:.85rem;font-weight:600;text-decoration:none;color:inherit;background:rgba(128,128,128,.14);border:1px solid rgba(128,128,128,.4);border-radius:8px;padding:.2rem .7rem;">🌐</a>
 </div>
 <script>(function(){function setup(){var link=document.getElementById("language-switch-link");if(!link)return;var basepath=document.body.dataset.basepath||"";var path=window.location.pathname;var rel=basepath&&path.indexOf(basepath)===0?path.slice(basepath.length):path;if(!rel||rel[0]!=="/")rel="/"+rel;var isVi=/\\/vi$/.test(basepath);var isEn=/\\/en$/.test(basepath);var counterpart;if(isVi){counterpart=basepath.replace(/\\/vi$/,"/en");link.textContent="🇬🇧 English";link.title="Switch to full-English version";}else if(isEn){counterpart=basepath.replace(/\\/en$/,"/vi");link.textContent="🇻🇳 Tiếng Việt";link.title="Chuyển sang bản song ngữ (VI)";}else{counterpart=basepath+"/en";link.textContent="🇬🇧 English";link.title="Switch to full-English version";}link.href=counterpart+rel;}setup();document.addEventListener("nav",setup);document.addEventListener("render",setup);})();</script>
 `
