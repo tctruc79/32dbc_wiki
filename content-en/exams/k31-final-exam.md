@@ -3,7 +3,7 @@ type: exam
 title: "K31 Final Written Exam — Development Issues and Business Cycle"
 tags: [exam, past-exam, k31, land-consolidation, poverty-inequality, construction-digitalization, banking-crisis, trade-policy, urban-infrastructure]
 created: 2026-07-28
-updated: 2026-07-29
+updated: 2026-07-31
 status: complete
 source_file: "raw/4. PAST EXAMS/K31 final written exam/k31-exam-page1-questions.jpeg"
 also_covers:
@@ -20,10 +20,12 @@ rules plus the start of Q1–3, and one clear photo of the full Q1–6 text; a t
 sent was identical to the first and was not kept separately — cross-checked 2026-07-28).
 
 ⚠️ **Scope note**: this is the exam of **a different cohort (K31)**, not the current cohort's
-(K32) exam. The 6 papers asked about here are **NOT part of the LN1–LN3 reading list already
-ingested** for K32 (see [[overview]], [[exam-prep]]) — possibly because K31 used a different
-reading list, or because these papers belong to lectures 4–10 (not yet ingested for K32). Use
-this page to: (a) get familiar with the **real exam format/rules**, which is highly valuable
+(K32) exam. Originally, the 6 papers asked about here were NOT part of the LN1–LN3 reading list
+ingested for K32 — but after LN4 was ingested (2026-07-29), **2 of the 6 questions now overlap
+100%**: Q1 with [[l42-do-2023-land-consolidation-vietnam]] (LN4) and Q4 with
+[[l31-baron-2021-banking-crises-without-panics]] (LN3); the other 4 (Q2, Q3, Q5, Q6) are still
+outside the current K32 reading list (see [[overview]], [[exam-prep]]). Use this page to:
+(a) get familiar with the **real exam format/rules**, which is highly valuable
 since the structure mirrors K32's; (b) practise the specific skill of "presenting the findings of
 one specific paper" in answer form — a question style very likely to reappear on K32's exam; (c)
 use the content directly if a paper happens to overlap with a future K32 reading. The 6 answers
@@ -345,8 +347,22 @@ individual components on the level of urbanization.
 ## Links
 
 - [[overview]] · [[exam-prep]] · [[syllabus-2026]]
-- Paper shared with a K32 reading: [[l31-baron-2021-banking-crises-without-panics]] (Q4)
+- Papers shared with K32 readings: [[l42-do-2023-land-consolidation-vietnam]] (Q1),
+  [[l31-baron-2021-banking-crises-without-panics]] (Q4)
 - Author: [[almas-heshmati]] (Q6 — the professor teaching this course)
-- LN2 (a similar Vietnam context to Q3): [[l26-huynh-tran-2025-fdi-informal-economy]]
+- LN2 (a similar Vietnam context to Q3, Q5): [[l26-huynh-tran-2025-fdi-informal-economy]]
+- LN1 (a similar Vietnam context to Q1): [[l14-sasges-2025-vietnam-policies]]; LN4 (a different
+  land-institutions channel for Q1): [[l41-ho-2021-land-tenure-vietnam]]; LN1 (regional
+  imbalance similar to Q6): [[l15-yin-2025-china-hqed]]
 - **Mock exams for K32** (same format/rules as this page, using K32 readings instead):
   [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5).
+
+## Interactive Version (Artifact)
+
+All 6 K31 questions with full answers (source, methodology, key findings, Vietnam relevance) —
+added 2026-07-31 as a dedicated **"📝 K31 Exam"** tab in the 3 Mindmap Artifacts (all private;
+click Share on that page if you want to send it to someone else):
+
+- Bilingual (original, Vietnamese explanation + English terminology kept): https://claude.ai/code/artifact/b1704073-2623-44b9-8b64-b0cf8461d866
+- Fully Vietnamese: https://claude.ai/code/artifact/c65cd0f4-2ac9-413e-890f-f82651314290
+- Fully English (to share with Prof. Heshmati/international classmates): https://claude.ai/code/artifact/720594d7-477d-4936-9c9f-f81bf4314f2a

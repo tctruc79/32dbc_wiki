@@ -3,7 +3,7 @@ type: exam
 title: "K31 Final Written Exam — Development Issues and Business Cycle"
 tags: [exam, past-exam, k31, land-consolidation, poverty-inequality, construction-digitalization, banking-crisis, trade-policy, urban-infrastructure]
 created: 2026-07-28
-updated: 2026-07-29
+updated: 2026-07-31
 status: complete
 source_file: "raw/4. PAST EXAMS/K31 final written exam/k31-exam-page1-questions.jpeg"
 also_covers:
@@ -19,9 +19,12 @@ màn hình máy chiếu cho thấy phần luật thi + đầu câu 1–3, 1 ản
 người dùng gửi trùng nội dung với ảnh đầu nên không lưu lại — đã đối chiếu 2026-07-28).
 
 ⚠️ **Lưu ý phạm vi**: đây là đề thi của **một khóa khác (K31)**, không phải đề thi K32 (lớp hiện
-tại của bạn). 6 papers được hỏi trong đề này **KHÔNG nằm trong reading list LN1–LN3 đã ingest**
-của K32 (xem [[overview]], [[exam-prep]]) — có thể vì K31 học reading list khác, hoặc các paper
-này thuộc lecture 4–10 (chưa ingest ở K32). Dùng trang này để: (a) làm quen **định dạng/luật thi**
+tại của bạn). Ban đầu 6 papers được hỏi trong đề này KHÔNG nằm trong reading list LN1–LN3 đã
+ingest của K32 — nhưng sau khi LN4 được ingest (2026-07-29), **2/6 câu nay đã trùng 100%**:
+Q1 với [[l42-do-2023-land-consolidation-vietnam]] (LN4) và Q4 với
+[[l31-baron-2021-banking-crises-without-panics]] (LN3); 4 câu còn lại (Q2, Q3, Q5, Q6) vẫn ngoài
+reading list K32 hiện tại (xem [[overview]], [[exam-prep]]). Dùng trang này để: (a) làm quen
+**định dạng/luật thi**
 thật (rất có giá trị vì giống cấu trúc môn); (b) tự luyện kỹ năng viết đáp án dạng "trình bày
 findings của 1 paper cụ thể" — cùng dạng câu hỏi khả năng cao sẽ xuất hiện ở đề K32; (c) tham khảo
 nội dung nếu paper trùng với reading tương lai của K32. Đáp án 6 câu dưới đây dựa trên nghiên cứu
@@ -320,8 +323,22 @@ utilities. Sau đó hồi quy tác động của chỉ số tổng hợp và t�
 ## Liên kết
 
 - [[overview]] · [[exam-prep]] · [[syllabus-2026]]
-- Paper trùng với reading K32: [[l31-baron-2021-banking-crises-without-panics]] (Q4)
+- Paper trùng với reading K32: [[l42-do-2023-land-consolidation-vietnam]] (Q1),
+  [[l31-baron-2021-banking-crises-without-panics]] (Q4)
 - Tác giả: [[almas-heshmati]] (Q6 — chính giáo sư phụ trách môn)
-- LN2 (bối cảnh VN tương tự Q3): [[l26-huynh-tran-2025-fdi-informal-economy]]
+- LN2 (bối cảnh VN tương tự Q3, Q5): [[l26-huynh-tran-2025-fdi-informal-economy]]
+- LN1 (bối cảnh VN tương tự Q1): [[l14-sasges-2025-vietnam-policies]]; LN4 (kênh thể chế đất
+  đai khác của Q1): [[l41-ho-2021-land-tenure-vietnam]]; LN1 (bất cân bằng vùng miền tương tự
+  Q6): [[l15-yin-2025-china-hqed]]
 - **Đề thi mô phỏng cho K32** (dùng đúng format/luật thi trang này nhưng thay bằng reading K32):
   [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5).
+
+## Bản tương tác (Artifact)
+
+Cả 6 câu hỏi K31 kèm đáp án đầy đủ (nguồn, phương pháp, findings, liên hệ Việt Nam) — bổ sung
+2026-07-31 dưới dạng tab riêng **"📝 Đề K31"**/**"K31 Exam"** trong 3 Mindmap Artifact (đều
+private, cần bấm Share trên trang đó nếu muốn gửi cho người khác):
+
+- Song ngữ (bản gốc, VI diễn giải + giữ thuật ngữ EN): https://claude.ai/code/artifact/b1704073-2623-44b9-8b64-b0cf8461d866
+- Toàn tiếng Việt: https://claude.ai/code/artifact/c65cd0f4-2ac9-413e-890f-f82651314290
+- Toàn tiếng Anh (để gửi GS Heshmati/bạn quốc tế): https://claude.ai/code/artifact/720594d7-477d-4936-9c9f-f81bf4314f2a
