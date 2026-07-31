@@ -3,7 +3,7 @@ type: source
 title: "L12 — Nunn (2019) — Rethinking Economic Development"
 tags: [foreign-aid, rct, trade-policy, migration, vietnam, methodology-critique]
 created: 2026-07-20
-updated: 2026-07-23
+updated: 2026-07-31
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN1 Economic development/L12 CJE-2019 Nunn Rethinking Econ Dev.pdf"
 ---
@@ -11,114 +11,121 @@ source_file: "raw/3. LECTURE NOTES/LN1 Economic development/L12 CJE-2019 Nunn Re
 # L12 — Nunn (2019), Canadian Journal of Economics 20XX 000(0): 1–25
 
 **Author**: Nathan Nunn, Department of Economics, Harvard University. Based on the Innis
-Lecture delivered at the 53rd Annual Meeting of the Canadian Economics Association (Banff,
-Alberta, 31/5–2/6/2019). JEL: O19, O21, O25.
+Lecture delivered at the 53rd Annual Conference of the Canadian Economics Association (Banff,
+Alberta, 31 May–2 June 2019). JEL: O19, O21, O25.
 
-## Summary
+## Abstract
 
-Nunn steps back to assess the current state of development economics on both the **policy**
-and **academic** fronts. Policy currently centers on foreign aid aimed at "fixing" the
-shortcomings of developing countries; academia focuses similarly but emphasizes rigorous causal
-effect evaluation (RCTs). Nunn asks: is this the best approach? Are there alternative policy
-options? Is context-free quantitative research the optimal strategy? The paper is divided into
-two main parts: **Rethinking Policy** and **Rethinking Academic Research**.
+> I provide a summary, reflection and assessment of the current state of economic development
+> in both the policy and academic worlds. In terms of development policy, currently, the
+> primary focus is on policy interventions, namely, foreign aid, aimed at fixing the
+> "deficiencies" of developing countries. Academic research also has a similar focus, except
+> with an emphasis in rigorous evaluation of interventions to estimate causal effects. A
+> standard set of versatile quantitative tools is used, e.g., experimental and
+> quasi-experimental methods, which can be easily applied in a range of settings to estimate
+> the causal effects of policies, which are typically presumed to be similar across contexts.
+> In this article, I take a step back and ask whether the current practices are the best that
+> we can do. Are foreign aid and policy interventions the best options we have for poverty
+> alleviation? What else can be done? Is our current research strategy, characterized by
+> rigorous but a lack of context-specific analysis, the best method of analysis? Is there a
+> role for other research methods, for a deeper understanding of the local context and for
+> more collaboration with local scholars?
 
-## Research Question & Methodology
+**Summary (interpretation)**: Nunn steps back to assess the current state of development
+economics on both the **policy** and **academic** fronts. Policy currently focuses on foreign
+aid to "fix the deficiencies" of developing countries; academia focuses similarly but
+emphasizes rigorous evaluation of causal effects (RCTs). The paper has two main parts:
+**Rethinking policy** and **Rethinking academic research**.
 
-This is a reflective/assessment essay, not an empirical paper — it synthesizes evidence from
-numerous other studies (RCTs, IV, RD, DID) to build its argument. Structure: (2) Rethinking
-Policy — foreign aid, other policies; (3) Rethinking Academic Research — three case studies
-(health, agriculture, education) illustrating the importance of local context; (4)
-Conclusions.
+## Research Questions
 
-## Key Results
+This is a reflective essay (reflection/assessment), not an empirical paper — it synthesizes
+evidence from many other studies (RCT, IV, RD, DID) to build its argument. Nunn poses 4
+central questions: (1) Is current practice (RCTs + foreign aid) the best we can do? (2) Are
+foreign aid and policy intervention the best options for poverty reduction? (3) What other
+options exist? (4) Is there a role for other research methods — deeper understanding of local
+context, more collaboration with local scholars?
 
-### 2.1 Foreign Aid — Evidence of Both Benefit and Harm
+## Research Framework
 
-- Real benefits exist: deworming in Kenya (Miguel & Kremer 2004) raised school attendance and
-  wages; GiveDirectly's unconditional cash transfers raised household assets and well-being
-  (Haushofer & Shapiro 2016/2018).
-- But **large fund leakage**: Reinikka & Svensson (2004) — Uganda capitation grants, the median
+A two-part argument structure: (2) **Rethinking policy** — evaluating foreign aid and other
+policy options (trade/industrial policy, labour mobility, consumer purchasing power); (3)
+**Rethinking academic research** — describing the 3 standard steps of a modern RCT (an
+intervention believed beneficial → randomly implemented + rigorously evaluated → if
+successful, scaled up), then critiquing it via 4 limiting features (high fixed cost, an
+assumption of universal causality, the same method everywhere, ignoring local context),
+illustrated with 3 case studies (health, agriculture, education).
+
+## Key Findings
+
+### Foreign aid — evidence of both benefit and harm
+
+- Real benefits exist: deworming in Kenya (Miguel & Kremer 2004) raised schooling + wages;
+  GiveDirectly's unconditional cash transfers raised household assets + well-being (Haushofer
+  & Shapiro 2016/2018).
+- But **large leakage**: Reinikka & Svensson (2004) — Ugandan capitation grants, the median
   school received **0%** of funds, on average 87% "disappeared"; similarly 49% (Ghana), 57%
-  (Tanzania), 76% (Zambia); Olken (2007) — ~30% of road maintenance funds leaked.
-- **Tied aid** inflates costs by 15–40% (40% for food aid, Clay et al. 2009) — effectively
+  (Tanzania), 76% (Zambia); Olken (2007) — ~30% of road-maintenance funds leaked.
+- **Tied aid** inflates cost by 15–40% (40% for food aid, Clay et al. 2009) — effectively
   export promotion for the donor country.
-- **Aid fueling conflict**: US food aid increases conflict (Nunn & Qian 2014, IV from US wheat
-  shocks); the Biafra case (Nigeria, 1968) — humanitarian aid was taxed by Ojukwu and used to
-  feed troops; the case of eastern DRC after the 1994 Rwandan genocide — refugee camps sustained
-  Hutu militias → the chain of conflict known as the Congo Wars. Economic aid (being fungible)
-  also indirectly finances military/repressive spending (Trisko Darden 2020; Ahmed 2016).
-- Not always harmful: Moscona (2019) — well-implemented World Bank projects reduce conflict,
-  while poorly implemented ones increase conflict more than having no aid at all.
+- **Aid can feed conflict**: US food aid increased conflict (Nunn & Qian 2014, IV from a US
+  wheat shock); the Biafra case (Nigeria, 1968); post-genocide eastern DRC refugee camps
+  (1994). Not always bad: Moscona (2019) — well-implemented World Bank projects reduce
+  conflict, poorly implemented ones increase conflict more than having no aid at all.
 
-### 2.2 Other Policies — Trade/Industrial Policy, and the West's Active Harm
+### Other policies — trade/industrial policy, and the West's actively harmful policies
 
-- Industrial policy can succeed (South Korea, Finland, 19th-century France, etc.) but is
-  inherently **zero-sum** among developing countries — not every country can become "the next
-  Korea."
-- **Antidumping duties**: 10–20 times higher (sometimes 100 times) than MFN tariffs; reduce
-  import value by 30–50% — even when only threatened. The correlation between net initiations
-  and GDP/capita is **0.55** (p=0.004): rich countries initiate, poor countries are targeted.
-- **Vietnam case — catfish/basa**: the 2003 antidumping duty by Mississippi catfish farmers
-  targeted Vietnamese farmers. Brambilla et al. (2012): households specializing in catfish
-  farming in Vietnam saw real per-capita income fall by **40%** — an effect larger than that of
-  any development intervention/foreign aid program ever recorded. Comparison: the Millennium
-  Villages Project (10 years, millions of dollars) produced income effects far smaller than
-  simply **not** imposing an antidumping duty on Vietnamese catfish.
-- Tariffs in general are also systematically higher on goods from poor countries, even within
-  the same industry (Nunn & Trefler 2013; Acosta & Cox 2019).
-- International coercion: CIA interventions installing "puppet leaders" → increase US exports
-  to the intervened country (Berger et al. 2013).
-- **Proposed alternative policies**:
-  1. **Labour mobility**: unskilled migration to the US raises real wages by **395%** (Clemens
-     et al. 2019); remittances now exceed total global aid flows (Yang 2011); benefits accrue
-     to both sending countries (Sweden: emigration → unionization, civic participation,
-     innovation) and receiving countries.
-  2. **Consumer purchasing power**: fair trade certification (Dragusanu & Nunn 2018 — Costa
-     Rican coffee), anti-sweatshop campaigns against Nike/Adidas/Reebok → Indonesia's minimum
-     wage rose 400% (Harrison & Scorse 2010) without reducing output or employment.
+- Industrial policy can succeed (South Korea, Finland, 19th-century France...) but is
+  **zero-sum** among developing countries.
+- **Antidumping duties**: 10–20 times (sometimes 100 times) higher than MFN tariffs; cutting
+  import value 30–50%. The correlation of net initiations with GDP/cap = **0.55** (p=0.004):
+  rich countries initiate, poor countries are targeted.
+- **The Vietnam catfish/basa case**: the 2003 antidumping duty pushed by Mississippi catfish
+  farmers targeted Vietnamese farmers. Brambilla et al. (2012): catfish-specialized households
+  in Vietnam lost **40% of real per-capita income** — an effect larger than any development
+  intervention/foreign aid ever recorded, including the Millennium Villages Project.
+- **Proposed alternative policies**: (1) Labour mobility — unskilled migration to the US
+  raised real wages **395%** (Clemens et al. 2019); (2) Consumer purchasing power — fair trade
+  certification, anti-sweatshop campaigns helped raise Indonesia's minimum wage 400% (Harrison
+  & Scorse 2010) without reducing output/employment.
 
-### 3. Rethinking Academic Research — A Critique of "One-Size-Fits-All" RCTs
+### Rethinking academic research — a critique of "one-size-fits-all" RCTs
 
-Four features of modern RCT research: (1) very high fixed costs for logistical infrastructure;
-(2) an implicit assumption of **universal** causal relationships across space/time; (3)
-identical methods applied everywhere; (4) no need for deep understanding of local context →
-research concentrates in a handful of countries with existing infrastructure, with little
-collaboration with local scholars (J-PAL: 170 affiliates from 58 universities, only 1 outside
-Europe/European-descended institutions — the Indian Institute of Management — and 1 from
-Africa, the University of Cape Town).
+J-PAL: 170 affiliates from 58 universities, only 1 outside Europe/European-descended countries
+and 1 from Africa. 3 case studies illustrate **local context is essential**:
 
-Three case studies illustrate that **local context is essential**:
+1. **Health**: refusal of the Ebola vaccine (West Africa 2014–16) — Lowes & Montero (2017)
+   show places once subjected to coercive French colonial health campaigns (atoxyl blinded
+   ~20% of those treated) have higher refusal rates today.
+2. **Agriculture**: the Green Revolution in Bali (Lansing 1991) broke the Hindu Agama Tirtha
+   ritual system coordinating the subak planting calendar → crop failure from pests.
+3. **Education**: a program building 61,807 primary schools in Indonesia (1973) — Ashraf, Bau,
+   Nunn & Voena (2019) find a zero aggregate effect for girls but strong positive
+   heterogeneity by the **bride price** custom.
 
-1. **Health**: refusal of the Ebola vaccine (West Africa 2014–16, eastern DRC) appeared
-   "irrational" — Lowes & Montero (2017) show that areas once subjected to coercive French
-   colonial medical campaigns (atoxyl treatment caused blindness in ~20% of those treated) show
-   higher rates of refusing blood tests/vaccines today — historical memory shapes present-day
-   trust.
-2. **Agriculture**: the Green Revolution in Bali (Lansing 1991) disrupted the Hindu Agama
-   Tirtha ritual system that coordinated the subak planting calendar — unintentionally
-   destroying a natural pest-control mechanism (synchronized fallowing plus seasonal flooding)
-   → crop failures from pest outbreaks, forcing a return to the old practices by the late
-   1980s.
-3. **Education**: Indonesia's program to build 61,807 primary schools (1973) — Duflo (2001)
-   found a positive effect for boys; Ashraf, Bau, Nunn & Voena (2019, JPE) found a **zero**
-   aggregate effect for girls, but this masked heterogeneity tied to the **bride price** custom
-   (common across Asia and Africa): ethnic groups with bride price practices → school
-   construction sharply increased female education (bride price rises nearly two-fold per
-   completed level of schooling → parents gain a financial incentive to educate daughters);
-   groups without this custom → no effect. The result replicates in Zambia.
+## Conclusion
 
-## Significance for the Course/Vietnam
+Nunn (2019) reflected on the state of economic development in both the policy world and
+academia. Development policy tends to use interventions in the form of development aid to fix
+deficiencies in developing countries — the effect can be positive but also carries unintended
+negative consequences. Western tariffs, antidumping duties, restrictions on international
+labour mobility, and tied aid for export promotion are actively harmful policies. Academic
+research uses universal assumptions and Western insight to "fix" developing-country
+deficiencies, emphasizing intervention evaluation and causal estimation — a method applicable
+in any setting but with high infrastructure cost, neglected local context, and low local-scholar
+involvement. Conclusion: the West can help most by **ceasing to actively cause harm**
+(tariffs, antidumping, migration restrictions, coercion) rather than only focusing on "fixing"
+poor countries with aid; local context is a necessary condition for sound analysis and
+effective policy.
 
-- The catfish/basa case is a direct, quantitative example of the harm Western trade policy has
-  inflicted on Vietnam — usable for an essay on trade policy/protectionism's impact on Vietnam.
+## Relevance to the Course/Vietnam
+
+- The catfish/basa case is a direct, quantitative example of the harm Western trade policy
+  does to Vietnam — usable for an essay on trade policy/protectionism affecting VN.
 - Core message for the course: **institutions/historical-cultural context determine policy
-  effectiveness** — connects to [[deep-roots-of-development]] and [[institutions]] (LN2): there
-  is no universal policy formula; local context must be understood (paralleling Besley &
-  Ghatak's "no one-size-fits-all" conclusion on property rights).
-- Nunn's conclusion: the West could help most by **actively stopping the harm it causes**
-  (tariffs, antidumping, migration restrictions, coercion) rather than focusing solely on
-  "fixing" poor countries through aid.
+  effectiveness** — links to [[deep-roots-of-development]] and [[institutions]] (LN2): there
+  is no universal policy formula; local context must be understood (echoing Besley & Ghatak's
+  "no one-size-fits-all" conclusion on property rights).
 
 ## Links
 

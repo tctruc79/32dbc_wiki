@@ -3,7 +3,7 @@ type: source
 title: "L13 — Spolaore & Wacziarg (2013) — How Deep Are the Roots of Economic Development?"
 tags: [deep-roots, geography, ancestry, institutions, survey]
 created: 2026-07-20
-updated: 2026-07-23
+updated: 2026-07-31
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN1 Economic development/L13 JEL-2013 Spolaore How deep are the roots of econ dev.pdf"
 ---
@@ -14,84 +14,100 @@ source_file: "raw/3. LECTURE NOTES/LN1 Economic development/L13 JEL-2013 Spolaor
 CEPR). JEL: J11, O33, O47, Z13. Mở đầu bằng trích dẫn (gán cho Churchill): "The further
 backward you look, the further forward you can see."
 
-## Tóm tắt
+## Abstract
 
-Survey toàn diện literature "deep roots of development": empirical growth literature đã
-chuyển từ nghiên cứu **proximate determinants** sang các **fundamental factors** bắt rễ trong
-lịch sử dài hạn. Trọng tâm bài: đo lường tác động của biến lịch sử lên thu nhập hiện tại bằng
-cách tính đến **ancestral composition** (thành phần tổ tiên) của dân số hiện tại — tính trạng
-được truyền liên thế hệ (biological và/hoặc cultural) ảnh hưởng phát triển kinh tế. Câu hỏi mở:
-tính trạng lịch sử tác động **trực tiếp lên productivity** hay hoạt động **gián tiếp như rào
-cản (barrier)** khuếch tán đổi mới.
+> The empirical literature on economic growth and development has moved from the study of
+> proximate determinants to the analysis of ever deeper, more fundamental factors, rooted in
+> long-term history. A growing body of new empirical work focuses on the measurement and
+> estimation of the effects of historical variables on contemporary income by explicitly
+> taking into account the ancestral composition of current populations. The evidence suggests
+> that economic development is affected by traits that have been transmitted across generations
+> over the very long run. This article surveys this new literature and provides a framework to
+> discuss different channels through which intergenerationally transmitted characteristics may
+> impact economic development, biologically (via genetic or epigenetic transmission) and
+> culturally (via behavioral or symbolic transmission). An important issue is whether
+> historically transmitted traits have affected development through their direct impact on
+> productivity, or have operated indirectly as barriers to the diffusion of
+> productivity-enhancing innovations across populations. (JEL J11, O33, O47, Z13)
 
-## Câu hỏi nghiên cứu & phương pháp
+**Tóm tắt (diễn giải)**: Survey toàn diện literature "deep roots of development": empirical
+growth literature đã chuyển từ nghiên cứu **proximate determinants** sang các **fundamental
+factors** bắt rễ trong lịch sử dài hạn. Trọng tâm bài: đo lường tác động của biến lịch sử lên
+thu nhập hiện tại bằng cách tính đến **ancestral composition** (thành phần tổ tiên) của dân số
+hiện tại.
+
+## Research Questions
+
+Câu hỏi mở đầu bài: tại sao thu nhập bình quân đầu người cao hơn ở xã hội này, thấp hơn ở xã
+hội khác? Cụ thể hơn: tính trạng lịch sử được truyền liên thế hệ tác động **trực tiếp lên
+productivity** hay hoạt động **gián tiếp như rào cản (barrier)** khuếch tán đổi mới giữa các
+dân số?
+
+## Research Framework
 
 Bài survey (không phải 1 nghiên cứu thực nghiệm đơn lẻ) + minh họa bằng bộ hồi quy riêng của
-tác giả (log per capita income 2005, Penn World Tables 6.3; population density 1500, McEvedy
-& Jones 1978, làm proxy hiệu suất kinh tế thời Malthusian). Cấu trúc 4 phần: (2) Geography and
-Development; (3) Ancestry-Adjusted, Long-Term Persistence; (4) khung phân loại tổng quát các
-kênh truyền tính trạng; (5) Conclusion.
+tác giả. Cấu trúc 4 phần: (2) Geography and Development; (3) Ancestry-Adjusted, Long-Term
+Persistence; (4) khung phân loại tổng quát các kênh truyền tính trạng — phân biệt truyền tải
+**biological** (genetic, epigenetic) vs **cultural** (behavioural, symbolic) theo Jablonka &
+Lamb (2005), và **direct effects** vs **barrier effects** của khoảng cách liên thế hệ; (5)
+Conclusion.
 
-## Kết quả chính
+## Data
 
-### 2. Geography and Development
+Log per capita income 2005 (Penn World Tables 6.3); population density năm 1500 (McEvedy &
+Jones 1978, làm proxy hiệu suất kinh tế thời Malthusian); bộ 4 biến địa lý (absolute latitude,
+% đất nhiệt đới, landlocked dummy, island dummy).
 
-- **2.1**: bộ 4 biến địa lý (absolute latitude, % đất nhiệt đới, landlocked dummy, island
-  dummy) giải thích chung **44% biến thiên** log income/capita hiện tại (R²=0.44); riêng
-  latitude quan trọng nhất (bỏ latitude → R² rơi còn 0.29). Hai trường phái diễn giải: geography
-  tác động **trực tiếp** (Sachs 2001: đất nhiệt đới bạc màu, bệnh tật) vs **gián tiếp** qua
-  institutions/nhân khẩu học lịch sử.
-- **2.2 Neolithic Transition**: điều kiện sinh thái cổ đại giải thích 71% biến thiên thời điểm
-  chuyển sang nông nghiệp (Neolithic transmission).
-- **2.3 Reversal of Fortune** (Acemoglu-Johnson-Robinson 2002): quan hệ giữa population
-  density năm 1500 và income 2005 là **âm và có ý nghĩa thống kê** trong mẫu ex-colonies
-  (standardized β trên 1500-density = −48%, t=7) — bác bỏ giả thuyết geography tác động trực
-  tiếp bất biến thời gian (nếu geography quyết định trực tiếp, nước giàu 1500 phải giàu tiếp
-  hôm nay). AJR diễn giải: institutions do settler mortality quyết định (tốt ở nơi mortality
-  thấp, extractive ở nơi mortality cao). Engerman & Sokoloff (1997) bổ sung case Mỹ/Canada vs
-  Mỹ Latinh: cùng tài nguyên dồi dào ban đầu nhưng kết quả khác hẳn — factor endowment một
-  mình không giải thích được, phải qua kênh institutions.
+## Methodology
 
-### 3–4. Ancestry, genetic distance, khung phân loại
+Hồi quy OLS minh họa quan hệ giữa biến địa lý/lịch sử và log income hiện tại; đối chiếu với các
+nghiên cứu được survey (AJR 2002 reversal of fortune; Putterman & Weil 2010 ancestry
+adjustment; Comin, Easterly & Gong 2010; Spolaore & Wacziarg 2009 genetic distance FST).
 
-- **Putterman & Weil (2010)**: khi điều chỉnh theo **ancestry** (ai là hậu duệ tổ tiên nào,
-  qua migration matrix), sức giải thích của biến lịch sử (state history, thời điểm nông
-  nghiệp, tỷ lệ gốc Âu) lên đến **R²=0.60** — persistence là đặc tính của **populations, không
-  phải locations**.
-- **Comin, Easterly & Gong (2010)**: nước dùng công nghệ tiên tiến nhất năm 1000 TCN có xu
-  hướng vẫn dùng công nghệ tiên tiến nhất năm 1500 và hiện tại — đặc biệt rõ khi điều chỉnh
-  ancestry (R² tối đa ~40%).
-- **Genetic distance (FST)** tương đối so với technological frontier (Spolaore & Wacziarg
-  2009): 1 độ lệch chuẩn genetic distance giải thích ~35% biến thiên chênh lệch thu nhập —
-  đóng vai trò **barrier effect** (khoảng cách phả hệ → khó bắt chước/tiếp nhận công nghệ do
-  khác biệt giá trị, chuẩn mực, mistrust, miscommunication) hơn là direct effect.
-- Khung phân loại: phân biệt truyền tải **biological** (genetic, epigenetic) vs **cultural**
-  (behavioural, symbolic) theo Jablonka & Lamb (2005); và **direct effects** vs **barrier
-  effects** của khoảng cách liên thế hệ.
+## Regression Results
 
-### 5. Conclusion — 3 thông điệp + 3 lý do lạc quan thận trọng
+- Bộ 4 biến địa lý giải thích chung **44% biến thiên** log income/capita hiện tại (R²=0.44);
+  riêng latitude quan trọng nhất (bỏ latitude → R² rơi còn 0.29).
+- Điều kiện sinh thái cổ đại giải thích **71% biến thiên** thời điểm chuyển sang nông nghiệp
+  (Neolithic transmission).
+- **Reversal of Fortune** (AJR 2002): quan hệ giữa population density 1500 và income 2005 là
+  **âm và có ý nghĩa thống kê** trong mẫu ex-colonies (standardized β trên 1500-density = −48%,
+  t=7).
+- **Putterman & Weil (2010)**: điều chỉnh theo ancestry, sức giải thích của biến lịch sử lên đến
+  **R²=0.60**.
+- **Genetic distance (FST)** (Spolaore & Wacziarg 2009): 1 độ lệch chuẩn giải thích ~35% biến
+  thiên chênh lệch thu nhập.
+
+## Key Findings
+
+- Reversal of fortune bác bỏ giả thuyết geography tác động trực tiếp bất biến thời gian — AJR
+  diễn giải: institutions do settler mortality quyết định. Engerman & Sokoloff (1997) bổ sung
+  case Mỹ/Canada vs Mỹ Latinh: cùng tài nguyên dồi dào ban đầu nhưng kết quả khác hẳn — factor
+  endowment một mình không giải thích được, phải qua kênh institutions.
+- Khi điều chỉnh theo **ancestry**, persistence là đặc tính của **populations, không phải
+  locations**.
+- Genetic distance đóng vai trò **barrier effect** (khoảng cách phả hệ → khó bắt chước/tiếp
+  nhận công nghệ do khác biệt giá trị, chuẩn mực, mistrust, miscommunication) hơn là direct
+  effect.
+
+## Conclusion
 
 **3 thông điệp chính**: (1) công nghệ/productivity rất persistent ở horizon rất dài; (2)
 persistence là đặc tính của **populations** (không phải locations) — phải kiểm soát ancestry;
 (3) genealogical links (genetic distance) giải thích cơ chế khuếch tán công nghệ/institutions.
 
 **Lịch sử quan trọng nhưng KHÔNG deterministic** — 3 lý do lạc quan thận trọng cho chính sách:
-1. Biến lịch sử không giải thích hết biến thiên (R² tối đa 40–60%, tùy nghiên cứu) — nhiều xã
-   hội có thể "thoát áo giáp" của lịch sử.
-2. Biến động/ngoại lệ không hoàn toàn ngẫu nhiên mà chịu ảnh hưởng hành động con người —
-   khuếch tán tri thức xảy ra cả theo chiều dọc (liên thế hệ) lẫn chiều ngang (giữa các dân
-   số).
-3. Hiểu hiệu ứng lịch sử như **barriers to diffusion** (không phải deterministic
-   straightjacket) → chính sách vẫn có vai trò giảm rào cản, dù thành công hơn nếu dựa trên
-   hiểu biết đầy đủ về lực lượng lịch sử.
+(1) biến lịch sử không giải thích hết biến thiên (R² tối đa 40–60%); (2) biến động/ngoại lệ
+không hoàn toàn ngẫu nhiên mà chịu ảnh hưởng hành động con người; (3) hiểu hiệu ứng lịch sử như
+**barriers to diffusion** (không phải deterministic straightjacket) → chính sách vẫn có vai trò
+giảm rào cản.
 
 **Case minh họa**: Nhật Bản (xa về địa lý/di truyền với innovators châu Âu nhưng vẫn có được
 Industrial Revolution sớm) → lan sang Đông Á; ngược lại **Bắc Triều Tiên** là ví dụ buồn rằng
 chính sách/institutions tồi có thể triệt tiêu tăng trưởng bất kể biến lịch sử-văn hóa-địa lý
-thuận lợi (cùng gốc với Hàn Quốc). Hong Kong như "beachhead" cho hiện đại hóa Trung Quốc
-(Romer 2009) — khi Anh trả Hong Kong 1997, thực chất là "Trung Quốc tái hòa nhập vào Hong
-Kong" chứ không ngược lại. Bai & Kung (2011): genetic distance tương đối (không phải tuyệt
-đối) với Đài Loan làm tăng chênh lệch thu nhập liên tỉnh Trung Quốc sau khi nối lại quan hệ.
+thuận lợi (cùng gốc với Hàn Quốc). Hong Kong như "beachhead" cho hiện đại hóa Trung Quốc (Romer
+2009). Bai & Kung (2011): genetic distance tương đối với Đài Loan làm tăng chênh lệch thu nhập
+liên tỉnh Trung Quốc.
 
 ## Ý nghĩa cho môn học/Việt Nam
 

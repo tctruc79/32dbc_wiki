@@ -3,7 +3,7 @@ type: source
 title: "L25 — Bizikova (2025) — Water-Energy-Food Nexus Research: What Can It Tell Us About Governance and Policy?"
 tags: [governance, systematic-review, wef-nexus, sustainability]
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-07-31
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN2 Governance institutions and policy making/L25 ESI-2025 Bizikova Water-energy-food nexus research-What can it tell us about governance and policy.pdf"
 ---
@@ -11,88 +11,111 @@ source_file: "raw/3. LECTURE NOTES/LN2 Governance institutions and policy making
 # L25 — Bizikova (2025), Environmental and Sustainability Indicators 28: 100970
 
 **Author**: Livia Bizikova (International Institute for Sustainable Development, IISD,
-Ottawa, Canada). Received 29 April 2025, accepted 8 October 2025, online 10 October 2025.
-Open access, CC BY-NC. Funding: IDRC grant 109246-001. No original data was used ("No data
-was used for the research").
+Ottawa, Canada). Received 29/4/2025, accepted 8/10/2025, online 10/10/2025. Open access CC
+BY-NC. Funding: IDRC grant 109246-001. No original data used ("No data was used for the
+research").
 
-## Summary
+## Abstract
 
-A systematic review of more than a decade of water-energy-food (WEF) nexus research (defined
-by the Bonn Conference 2011 as intended to "enhance water, energy and food security by
-increasing efficiency, reducing trade-offs, building synergies and improving governance across
-sectors" — Hoff 2011). Purpose: to determine the extent and type of governance/policy
-recommendations in WEF studies. From 683 papers, **40 papers** (2011–2023) meeting the
-criteria were selected. Result: WEF research is heavily focused on quantitative representation
-(57.5–63% use quantitative modeling, depending on how counted in the paper), but only **17.5%**
-offer **direct, specific** governance/policy recommendations.
+> There has been over a decade of research on the water–energy–food (WEF) nexus, which by
+> definition focuses on improving governance across WEF sectors to address resource scarcity.
+> The purpose of this paper is to identity the extent and types of governance and policy
+> recommendations covered in the WEF studies. The systematic review methodology is used to
+> assess peer-reviewed WEF studies based on the set of inclusion criteria published between
+> 2011 and 2023. Out of 683 paper, 40 papers were selected and assessed their contributions to
+> governance and policy. The results show that the included studies have strongly focused on
+> quantitative representations of the WEF nexus (63%), but they showed limited attention to
+> specific governance and policy implications (17.5%). To the extent that governance and
+> policy were considered, the studies were framed around improving engagement with
+> policymakers, academia and communities (32.5%), improving coordination efforts (27.5%) and
+> suggesting technological solutions to manage WEF resources (35.0%). The study concludes that
+> WEF research holds significant potential to contribute to governance and policy development
+> by testing innovative governance mechanisms, informing strategic policy decisions, shaping
+> implementation strategies, and supporting the monitoring of policy outcomes to tackle
+> resource scarcity and advance sustainability.
 
-## Research Question & Methodology
+**Summary (interpretation)**: A systematic review of over a decade of water-energy-food (WEF)
+nexus research (defined by the Bonn Conference 2011: "enhance water, energy and food security
+by increasing efficiency, reducing trade-offs, building synergies and improving governance
+across sectors" — Hoff 2011). From 683 papers, selects **40 papers** (2011–2023) meeting the
+criteria. Result: WEF research is heavily focused on quantitative representation, but **only
+17.5%** offer **direct, specific** governance/policy recommendations.
 
-- **Research gap**: although governance is a central element in the definition of the WEF
-  nexus, policymakers complain that current WEF approaches have **little practical
-  relevance**, due to excessive academic orientation (Muhirwa et al. 2023).
-- **Method**: a four-step systematic review — (1) identifying sources; (2) screening; (3)
-  assessing eligibility against criteria; (4) assessing basic characteristics and
-  contributions to governance. Search parameters: published after 2011, scope of ≥2 countries
-  or global, searched on Web of Science, following the PRISMA standard (Moher et al. 2009).
-  From 683 → 40 papers (scoping/narrative/systematic reviews plus synthesis articles).
+## Research Questions
 
-## Key Results
+Although governance is central to the WEF nexus's definition, policymakers complain current
+WEF approaches have **little practical relevance** due to excessive academic orientation
+(Muhirwa et al. 2023). The paper asks: what is the actual extent and type of governance/policy
+recommendation in WEF research?
 
-- **Characteristics of the 40-paper sample**: 100% cover all three WEF elements; 50%
-  integrate climate change (some referred to as the "water-energy-food-climate nexus");
-  geographic scope 73% global/multi-country, 27% regional (West Asia, sub-Saharan Africa,
-  Southeast Asia, etc.); 55% have a long-term time frame (out to 2050), 38% present-day; 48%
-  include scenarios/projections; per Table 1: **63% use a model, 47% do not use a model**
-  (section 3.1 reports a different figure — 57.5% use "quantitative frameworks and modelling
-  approaches" — two slightly different counting methods within the paper itself).
+## Research Framework
+
+The WEF nexus, defined at the 2011 Bonn Conference (Hoff 2011): focused on improving
+governance across the water-energy-food sectors to address resource scarcity. An assessment
+framework following the **PRISMA** standard (Moher et al. 2009) — 4 steps: (1) identifying
+sources; (2) screening; (3) assessing eligibility against criteria; (4) assessing basic
+characteristics + contribution to governance.
+
+## Data
+
+From 683 initial papers (searched on Web of Science, published after 2011, scope ≥2 countries
+or global) → a final **40 papers** (scoping/narrative/systematic reviews + synthesis
+articles). Sample characteristics of the 40 papers: 100% cover all 3 WEF elements; 50%
+integrate climate change; geographic scope 73% global/multi-country, 27% regional (West Asia,
+sub-Saharan Africa, Southeast Asia...); 55% have a long-term time frame (to 2050), 38%
+present-day; 48% include scenarios/projections.
+
+## Methodology
+
+Systematic review methodology following PRISMA. Per the reported Table 1: **63% use a model,
+47% do not** (section 3.1 reports a different figure — 57.5% use "quantitative frameworks and
+modelling approaches" — 2 slightly different counting methods within the paper itself, worth
+noting when citing figures).
+
+## Regression/Estimation Results
+
 - **Only 17.5% offer direct, specific governance/policy recommendations** — most
   contributions are **indirect**, via: technology assessment (35%), stakeholder engagement
-  (32.5%), coordination (27.5%), indicators for tracking progress (22.5%), learning
-  opportunities (15%). Each paper can fall into up to 3 categories.
-- **3.2.1 Quantitative models**: life-cycle assessment (LCA) is the most common model type,
-  followed by hydrological, agent-based, and land-use models — used to generate scenarios
-  (business-as-usual, trade-off, worst-case, etc.) to support policy, but typically NOT placed
-  within the context of a specific existing legal/policy framework → conclusions that are
-  difficult to apply directly.
-- **3.2.5 Governance and policy inputs**: very few specific, context-appropriate
-  governance/policy recommendations; 33% reference international instruments (mostly
-  referencing international reports/agreements only, rarely referencing specific
-  national/subnational policies).
-- **Author's notable observation**: it is "striking" that an approach defined as generating
-  insight for governance/policy has so few specific recommendations in these two areas — WEF
-  research is largely "produced by researchers for researchers," rarely shaping research
-  questions around the needs of policymakers/communities.
+  (32.5%), coordination (27.5%), progress-tracking indicators (22.5%), learning opportunities
+  (15%). Each paper can fall into up to 3 categories.
+- **Quantitative models**: LCA (life-cycle assessment) is the most common model, followed by
+  hydrological, agent-based, land-use models — used to generate scenarios (business-as-usual,
+  trade-off, worst-case...) supporting policy but usually NOT placed within a specific
+  existing legal/policy framework → conclusions hard to apply directly.
+- **Governance and policy inputs**: very few context-specific governance/policy
+  recommendations; 33% reference international instruments (mostly only referencing
+  international reports/agreements, rarely specific national/subnational policies).
 
-## Recommendations (Section 4 — Discussion and Conclusions)
+## Key Findings
 
-1. **4.1 Improve research design**: review existing policy/governance frameworks before
-   designing research; scale conclusions down from broad spatiotemporal frameworks to the
-   appropriate jurisdictional/governance scale; further explore subnational policy
-   instruments (where WEF resource decisions actually take place).
-2. **4.1 Collaborative governance**: build collaborative/engagement frameworks into
-   governance frameworks; current engagement is mostly limited to experts with quantitative
-   skills — needs to be expanded to vulnerable groups (Indigenous peoples, women, the poor).
-3. **4.3 Strategic policy frameworks** for emerging technologies and long-term dynamics —
-   modeling should not aim to produce high-probability forecasts but rather to test the
-   sustainability/feasibility of alternative policy pathways under changing conditions.
-4. **4.4 Future research needs**: integrate existing policy/governance frameworks into
-   research design from the outset; involve policymakers, resource managers, and Indigenous
-   knowledge holders as **members of the research team** (not merely as consultation
-   subjects).
+**The author's notable observation**: it is "striking" that an approach defined as yielding
+insight for governance/policy has so few specific recommendations in these 2 areas — WEF
+research is largely "produced by researchers for researchers," rarely shaping research
+questions around policymaker/community needs.
 
-## Significance for the Course/Vietnam
+## Conclusion
 
-- This paper differs in genre from the other five papers in LN2 (it is not institutions
-  research in the AJR/Mauro sense, but rather a **methodology gap** between technical
-  research and actual policy) — illustrating a different aspect of "policy making": it is not
-  only about lacking good institutions, but also lacking a **bridge between scientific
-  research and governance**.
+4 recommendations (Section 4 — Discussion and conclusions): (1) **Improve research design** —
+review existing policy/governance frameworks before designing research; scale conclusions down
+from broad spatiotemporal frameworks to the appropriate jurisdictional/governance scale;
+explore subnational policy instruments further. (2) **Collaborative governance** — build
+collaborative/engagement frameworks into governance; expand engagement to vulnerable groups
+(Indigenous peoples, women, the poor). (3) **Strategic policy frameworks** for emerging
+technology — modeling should test the sustainability/feasibility of alternative policy
+pathways, not aim for high-probability forecasts. (4) **Future research needs** — integrate
+existing policy/governance frameworks into research design from the outset; make
+policymakers, resource managers, and Indigenous knowledge holders **members of the research
+team** (not just consultation subjects).
+
+## Relevance to the Course/Vietnam
+
+- This paper differs in genre from LN2's other 5 papers (not institutions research in the
+  AJR/Mauro sense, but a **methodology gap** between technical research and actual policy) —
+  illustrating a different facet of "policy making": not just lacking good institutions, but
+  also a **bridge between scientific research and governance**.
 - Relevance to Vietnam: the WEF nexus is especially relevant to the Mekong Delta
-  (water-agriculture-energy) — the four-part recommendation framework (integrating existing
-  policy, expanding engagement, strategic frameworks for new technology, involving
-  policymakers in the research team) applies well to an essay on water/agriculture/energy
-  resource governance in Vietnam.
+  (water-agriculture-energy) — the 4-recommendation framework applies to an essay on water/
+  agriculture/energy resource governance in Vietnam.
 
 ## Links
 
