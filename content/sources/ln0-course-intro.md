@@ -3,7 +3,7 @@ type: source
 title: "LN0 — Course Intro: Schedule & Reading Lists"
 tags: [course-admin, schedule]
 created: 2026-07-20
-updated: 2026-07-30
+updated: 2026-08-01
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN1 Economic development/LN0 Economic development.pdf"
 also_covers:
@@ -47,22 +47,15 @@ Xen kẽ: ELG-2026 Conference (28–29/7), ACBES-2026 (3–4/8), Ukraine Virtual
 ## ✅ Lịch thi — đã xác nhận (cập nhật 30/7)
 
 Giáo sư trình chiếu slide "Planning Schedule" cập nhật ngay trong lớp (ảnh chụp màn hình,
-xem `also_covers` ở frontmatter) — đây là nguồn **mới nhất**, thay thế cho cả syllabus
-(18/06) lẫn bản LN0 gốc (17/07) ở những mục có khác biệt:
+xem `also_covers` ở frontmatter) — đây là nguồn **mới nhất**, thay thế mọi mốc cũ trong
+syllabus (18/06) và bản LN0 gốc (17/07):
 
-| Mốc | Syllabus (18/06) | LN0 gốc (17/07) | **Planning Schedule (mới nhất)** |
-|---|---|---|---|
-| Last Class | — | 12/8 (L10) | **12/8** — khớp |
-| Shortlist 20 bài | 23/8 | — | **30/8** — ⚠️ đổi so với syllabus |
-| Written Exam | 30/8 | 06/9 | **06/9** — xác nhận đúng bản LN0, KHÔNG phải syllabus |
-| Deadline Essay | 13/9 | 13/9 | **13/9** — khớp |
-| Submit Grades | 20/9 | 20/9 | **20/9** — khớp |
-| Book publication decision | 30/9 | 30/9 | **30/9** — khớp |
-
-**Mâu thuẫn ngày thi giữa syllabus và LN0 nay đã được giải quyết**: Written Exam chính thức
-là **06/9** (không phải 30/8 như syllabus ghi ban đầu). Điểm cần lưu ý thêm: ngày gửi
-shortlist 20 bài đã **dời từ 23/8 sang 30/8** — trễ hơn 1 tuần so với kế hoạch ban đầu trong
-syllabus, đồng nghĩa thời gian giữa lúc có shortlist và ngày thi (06/9) chỉ còn ~1 tuần.
+- **Written Exam: 06/9** — chính thức, khớp bản LN0 gốc, KHÔNG phải 30/8 như syllabus ghi
+  ban đầu.
+- **Shortlist 20 bài: 30/8** — dời từ 23/8 (syllabus) sang 30/8, trễ hơn 1 tuần so với kế
+  hoạch ban đầu, chỉ còn ~1 tuần giữa lúc có shortlist và ngày thi.
+- Last Class **12/8** · Deadline Essay **13/9** · Submit Grades **20/9** · Book publication
+  decision **30/9** — các mốc này khớp cả 3 nguồn (syllabus/LN0/Planning Schedule), không đổi.
 
 ## Khác biệt nhỏ về tên chủ đề so với syllabus
 

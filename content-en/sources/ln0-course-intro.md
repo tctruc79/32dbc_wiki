@@ -3,7 +3,7 @@ type: source
 title: "LN0 — Course Intro: Schedule & Reading Lists"
 tags: [course-admin, schedule]
 created: 2026-07-20
-updated: 2026-07-30
+updated: 2026-08-01
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN1 Economic development/LN0 Economic development.pdf"
 also_covers:
@@ -49,22 +49,16 @@ Interspersed: the ELG-2026 Conference (28–29/7), ACBES-2026 (3–4/8), Ukraine
 ## ✅ Exam Schedule — Confirmed (Updated 30/7)
 
 The professor presented an updated "Planning Schedule" slide directly in class (screenshot,
-see `also_covers` in the frontmatter) — this is the **most recent** source, superseding both
-the syllabus (18/06) and the original LN0 deck (17/07) wherever they differ:
+see `also_covers` in the frontmatter) — this is the **most recent** source, superseding all
+earlier dates in the syllabus (18/06) and the original LN0 deck (17/07):
 
-| Milestone | Syllabus (18/06) | Original LN0 (17/07) | **Planning Schedule (most recent)** |
-|---|---|---|---|
-| Last Class | — | 12/8 (L10) | **12/8** — matches |
-| Shortlist of 20 | 23/8 | — | **30/8** — ⚠️ changed vs. syllabus |
-| Written Exam | 30/8 | 06/9 | **06/9** — confirms the LN0 date, NOT the syllabus |
-| Essay deadline | 13/9 | 13/9 | **13/9** — matches |
-| Grades submitted | 20/9 | 20/9 | **20/9** — matches |
-| Book publication decision | 30/9 | 30/9 | **30/9** — matches |
-
-**The earlier syllabus-vs-LN0 exam-date conflict is now resolved**: the Written Exam is
-officially **06/9** (not 30/8 as the syllabus originally stated). One more thing to note: the
-shortlist-of-20 date has **moved from 23/8 to 30/8** — a week later than the syllabus's
-original plan, leaving only ~1 week between receiving the shortlist and the exam (06/9).
+- **Written Exam: 06/9** — official, confirms the original LN0 date, NOT 30/8 as the syllabus
+  originally stated.
+- **Shortlist of 20: 30/8** — moved from 23/8 (syllabus) to 30/8, a week later than the
+  original plan, leaving only ~1 week between receiving the shortlist and the exam.
+- Last Class **12/8** · Essay deadline **13/9** · Grades submitted **20/9** · Book publication
+  decision **30/9** — these dates match across all 3 sources (syllabus/LN0/Planning Schedule),
+  unchanged.
 
 ## Minor Differences in Topic Names vs. the Syllabus
 
