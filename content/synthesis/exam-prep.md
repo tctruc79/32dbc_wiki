@@ -1,7 +1,7 @@
 ---
 type: synthesis
-title: "Ôn thi cuối kỳ — Master Synthesis (LN1–LN5)"
-tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis, agriculture, climate-vulnerability, entrepreneurship]
+title: "Ôn thi cuối kỳ — Master Synthesis (LN1–LN8)"
+tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis, agriculture, climate-vulnerability, entrepreneurship, total-factor-productivity, human-capital, circular-economy, poverty, infrastructure, health]
 created: 2026-07-24
 updated: 2026-08-01
 status: complete
@@ -9,10 +9,10 @@ status: complete
 
 # Ôn thi cuối kỳ — Master Synthesis
 
-Điểm tra cứu trung tâm để ôn thi, gom toàn bộ 29 papers đã deep-ingest (LN1–LN5) thành: bảng tra
-nhanh, 7 cụm chủ đề, **tranh luận/căng thẳng giữa các paper** (trọng tâm câu hỏi thi dạng so
+Điểm tra cứu trung tâm để ôn thi, gom toàn bộ 49 papers đã deep-ingest (LN1–LN8) thành: bảng tra
+nhanh, 10 cụm chủ đề, **tranh luận/căng thẳng giữa các paper** (trọng tâm câu hỏi thi dạng so
 sánh), concept map, và ngân hàng câu hỏi.<br><span class="en">The central reference point for
-exam review, gathering all 29 deep-ingested papers (LN1–LN5) into: a quick-lookup table, 7
+exam review, gathering all 49 deep-ingested papers (LN1–LN8) into: a quick-lookup table, 10
 thematic clusters, **debates/tensions between papers** (the focus of comparison-style exam
 questions), a concept map, and a question bank.</span> Trang này cập nhật liên tục — mỗi khi có
 lecture/reading mới được ingest, bổ sung ngay vào đây theo quy tắc trong CLAUDE.md.<br><span
@@ -26,20 +26,27 @@ text).</span>
 ## Quy trình ôn thi 5 bước
 <span class="en">## 5-Step Exam Review Process</span>
 
-1. **Nắm bản đồ tổng trước** (~10 phút) — đọc mục 1 (bảng tra nhanh) + mục 2 (7 cụm chủ đề)
+1. **Nắm bản đồ tổng trước** (~10 phút) — đọc mục 1 (bảng tra nhanh) + mục 2 (10 cụm chủ đề)
    dưới đây, hoặc trang [[all-papers-mindmap]].<br><span class="en">**First grasp the overall
-   map** (~10 minutes) — read section 1 (quick-lookup table) + section 2 (7 thematic clusters)
+   map** (~10 minutes) — read section 1 (quick-lookup table) + section 2 (10 thematic clusters)
    below, or the [[all-papers-mindmap]] page.</span>
 2. **Học theo cụm, không theo thứ tự slide** — Deep Roots (L13) → Convergence (L11, L14, L15)
    → Institutions (L21 trunk + L22/23/24/26) → Policy Critique (L12, L25) → Banking Crisis
    (L31 trunk + L32/33/34/35/36) → Agriculture & Land Institutions/Climate Vulnerability (L41/42
-   trunk cặp + L43/44/45/46) → Entrepreneurship & Institutions (L53 trunk + L51/52/54/55/56). Đề
-   thi hay hỏi so sánh *trong* cụm.<br><span class="en">**Study by cluster, not slide order** —
-   Deep Roots (L13) → Convergence (L11, L14, L15) → Institutions (L21 trunk +
-   L22/23/24/26) → Policy Critique (L12, L25) → Banking Crisis (L31 trunk +
-   L32/33/34/35/36) → Agriculture & Land Institutions/Climate Vulnerability (L41/42 trunk pair +
-   L43/44/45/46) → Entrepreneurship & Institutions (L53 trunk + L51/52/54/55/56). Exams often ask
-   comparisons *within* a cluster.</span>
+   trunk cặp + L43/44/45/46) → Entrepreneurship & Institutions (L53 trunk + L51/52/54/55/56) →
+   Technology, Productivity & Poverty Measurement VN (L61/62 cặp phương pháp + L63/64/65 tam giác
+   nghèo VN) → Human Capital, Infrastructure & Public Investment (L71/72 hạ tầng + L73/74/75 giáo
+   dục + L76 y tế + L77 hiệu quả phân bổ) → Circular Economy (L81-88, 2 case thực nghiệm + 3 bài
+   định nghĩa/đo lường + 2 kênh mới). Đề thi hay hỏi so sánh *trong* cụm.<br><span class="en">
+   **Study by cluster, not slide order** — Deep Roots (L13) → Convergence (L11, L14, L15) →
+   Institutions (L21 trunk + L22/23/24/26) → Policy Critique (L12, L25) → Banking Crisis (L31
+   trunk + L32/33/34/35/36) → Agriculture & Land Institutions/Climate Vulnerability (L41/42 trunk
+   pair + L43/44/45/46) → Entrepreneurship & Institutions (L53 trunk + L51/52/54/55/56) →
+   Technology, Productivity & Vietnam Poverty Measurement (L61/62 methodological pair + L63/64/65
+   Vietnam poverty triangle) → Human Capital, Infrastructure & Public Investment (L71/72
+   infrastructure + L73/74/75 education + L76 health + L77 allocative efficiency) → Circular
+   Economy (L81-88, 2 empirical cases + 3 definition/measurement papers + 2 emerging channels).
+   Exams often ask comparisons *within* a cluster.</span>
 3. **Học phần "tranh luận" (mục 3) — quan trọng nhất.** Đúng dạng câu hỏi so sánh hay ra thi;
    học luận điểm **cả 2 phía**, không chỉ 1 phía.<br><span class="en">**Study the "debates"
    section (section 3) — the most important part.** It's exactly the comparison-style question
@@ -63,10 +70,10 @@ class="en">If time is short: prioritize steps 3 + 4, skip re-reading each paper 
 |---|---|
 | Shortlist 20 bài cho written exam | ⏳ Giáo sư gửi **30/8** (cập nhật — trước đó syllabus ghi 23/8) — **CHƯA có**, đây mới là phạm vi thi thật sự |
 | Ngày Written Exam | ✅ **06/9** — đã xác nhận qua slide "Planning Schedule" cập nhật trong lớp (giải quyết mâu thuẫn syllabus 30/8 vs LN0 06/9 trước đây) — xem [[ln0-course-intro]] |
-| Phạm vi wiki hiện tại | LN1 (5) + LN2 (6) + LN3 (6) + LN4 (6) + LN5 (6) = 29 papers. Lecture 6–10 **chưa có** tài liệu trong `raw/` |
+| Phạm vi wiki hiện tại | LN1 (5) + LN2 (6) + LN3 (6) + LN4 (6) + LN5 (6) + LN6 (5) + LN7 (7) + LN8 (8) = 49 papers. Lecture 9–10 **chưa có** tài liệu trong `raw/` |
 
-## 1. Bảng tra cứu nhanh — 29 papers
-<span class="en">## 1. Quick-Lookup Table — 29 Papers</span>
+## 1. Bảng tra cứu nhanh — 49 papers
+<span class="en">## 1. Quick-Lookup Table — 49 Papers</span>
 
 | Mã  | Paper                              | Lecture | Phương pháp                                       | Finding chính (1 dòng)                                                      |
 | --- | ---------------------------------- | ------- | ------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -99,9 +106,29 @@ class="en">If time is short: prioritize steps 3 + 4, skip re-reading each paper 
 | L54 | Méndez-Picazo et al. 2012, ERD      | LN5     | Panel 2-phương trình, 11 nước phát triển 2002-2007 | Governance (Acemoglu 2003 framework) → dương → entrepreneurship → growth; Gini dương với entrepreneurship |
 | L55 | Stein et al. 2026, Technovation     | LN5     | Longitudinal qualitative case study, Danish FinTech DEE | Institutional entrepreneurs mở "black box" Naudé qua collective effort + neutral leadership |
 | L56 | Sharma & Subba 2025, IGD            | LN5     | Scoping review >100 nguồn, khung TBL+EMT          | Green startups: jobs/eco-innovation/circular economy nhưng rào cản vốn/quy định; thiếu chuẩn ESG |
+| L61 | Heshmati & Rashidghalam 2020, JPA   | LN6     | Translog production function, panel 190 nước 1996-2013 | TC/TFP growth ÂM ở TẤT CẢ nhóm thu nhập; human capital index elasticity cao nhất (0.234), technology index ÂM (−0.043) |
+| L62 | Lööf & Heshmati 2006, EINT          | LN6     | Knowledge production function CDM-style, CIS Thụy Điển 1996-1998, 3190 firm | OLS đơn giản bias XUỐNG (0.054 vs 0.121); manufacturing/service firm giống nhau đến ngạc nhiên |
+| L63 | Tran, Alkire & Klasen 2015, REI     | LN6     | Alkire-Foster method, panel hộ VN 2007/2008/2010   | Overlap monetary/multidimensional poor <50%; nghèo tiền tệ giảm nhanh hơn rõ rệt; nutrition/health functioning là driver chính |
+| L64 | Nguyen & Pham 2018, APEL            | LN6     | FGT + Datt-Ravallion decomposition + Kakwani-Pernia, VLSS/VHLSS 1993-2008 | 1993-98 bất bình đẳng tăng (pro-poor 0.90); 2004-08 giảm (pro-poor 1.80, highly pro-poor); nghèo nay nhạy inequality hơn growth |
+| L65 | Nguyen et al. 2019, Energy Policy   | LN6     | SUREG + Probit, VHLSS 2004-2016, >9000 hộ/wave     | Energy-cost poverty TĂNG dù income/electricity poverty giảm; Gini coal/biomass tăng mạnh 0.52→0.79 |
+| L71 | Heshmati & Rashidghalam 2020, JIS   | LN7     | PCA (74→15→1 chỉ số), panel N=310, 31 tỉnh TQ 2005-2014 | 8/15 thành phần hạ tầng dương có ý nghĩa với đô thị hóa; chênh lệch Đông-Tây rõ rệt (Guangdong cao nhất/Tibet thấp nhất) |
+| L72 | Kadyraliev et al. 2022, TRP         | LN7     | Literature review + OLS n=7, case ODA Kyrgyzstan 1992-2018 | Không có ý nghĩa thống kê nào báo cáo; chất lượng đường ODA giảm 82%→34% "tốt" (2009-2019) |
+| L73 | McGuinness et al. 2021, WD          | LN7     | Mincer + Heckman selection, 5 đợt VHLSS 2002-2016  | Premium ĐH tăng mạnh 2002-2010, đảo chiều giảm ~25pp 2010-2012; cảnh báo "low skills trap" |
+| L74 | Dao & Trinh 2020, JEP               | LN7     | DEA/Malmquist TFP + GMM, VN 2000-2015, mô hình tham chiếu Hua 2005 | CHỈ tiểu học/trung học có ý nghĩa với GDP growth; đại học KHÔNG có ý nghĩa — đảo ngược kết quả TQ |
+| L75 | Hanushek 2016, OREP                 | LN7     | OLS cross-country, 50 nước 1960-2000                | Cognitive skills giải thích 73% biến thiên tăng trưởng (vs 25% school attainment); kiểm soát cognitive skills → schooling mất ý nghĩa |
+| L76 | Bloom, Kuhn & Prettner 2018, IZA DP | LN7     | Literature review lý thuyết + thực nghiệm           | Preston curve; AJ (2007) sức khỏe→growth ÂM gây tranh cãi; Cervellati & Sunde hòa giải bằng demographic transition (chữ U ngược) |
+| L77 | Drama, Soro & Senou 2025, SSHO      | LN7     | DEA + SFA + Tobit 2 giai đoạn, panel 75 nước đang phát triển 2002-2022 | Y tế (85.37%) > giáo dục (84.79%) > ngành khác (71.94%) — đảo ngược mô hình OECD; corruption control là driver mạnh nhất |
+| L81 | Su, Heshmati, Geng & Yu 2013, JCP   | LN8     | So sánh % thay đổi/hiệu suất tương đối, 4 thành phố TQ 2005-2010 | Thiên Tân tốt nhất tổng thể, Thượng Hải kém nhất dù tăng trưởng kinh tế cao nhất; quản trị top-down 2 cơ quan (MEP/NDRC) |
+| L82 | Heshmati 2017, IJGE                 | LN8     | Review toàn cầu (TQ/Đức/Nhật/EU/Thụy Điển) + entrepreneurship | "Panacea hypothesis" — thiếu bằng chứng cho niềm tin green entrepreneur tự động dẫn dắt bền vững |
+| L83 | Kirchherr et al. 2018, EE           | LN8     | Large-N đầu tiên: 208 khảo sát + 47 phỏng vấn, EU  | Rào cản văn hóa đứng đầu (47%, 46%); rào cản công nghệ đứng CUỐI (15/15) — trái ngược literature cũ |
+| L84 | García-Barragán et al. 2019, EE     | LN8     | Mô hình tối ưu hóa động dòng vật liệu (toán học thuần) | Chỉ số Cₜ*=Rₜ*−Lₜ*; kinh tế tuần hoàn nếu Cₜ*>0 — định nghĩa "không hoàn hảo nhưng không mơ hồ" |
+| L85 | Saidani et al. 2019, JCP            | LN8     | Systematic review, taxonomy 10 danh mục cho 55 bộ C-indicators | 90% chỉ số micro có recycling nhưng chỉ 45% bao trùm đủ 3 vòng lặp; 60% chỉ dùng 1 con số duy nhất |
+| L86 | Heshmati & Rashidghalam 2021, JCP   | LN8     | PCA (8 thành phần/40 chỉ báo), panel 273 đô thị Thụy Điển 2012-2018 | Gotland #1 (88.35); Stockholm CUỐI (29.50) dù là thủ đô; phí thu gom rác (WCOL) là đòn bẩy mạnh nhất |
+| L87 | Nademi & Sedaghat Kalmarzi 2025, JCP | LN8    | Spectral clustering + 8 mô hình Panel GMM, châu Âu 2010-2019 | Cả 8/8 chỉ số CE đều giảm thất nghiệp có ý nghĩa; đầu tư tư nhân CE + thương mại nguyên liệu tái chế mạnh nhất |
+| L88 | Luengo Vera et al. 2025, GER        | LN8     | Bibliometric (co-occurrence + text mining + bibliographic coupling), 1630 bài Scopus 2020-2024 | Innovation là nút trung tâm/"systemic enabler"; Trung Quốc/Anh/Ấn Độ là 3 cực khoa học đa cực |
 
-## 2. Bảy cụm chủ đề
-<span class="en">## 2. Seven Thematic Clusters</span>
+## 2. Mười cụm chủ đề
+<span class="en">## 2. Ten Thematic Clusters</span>
 
 Chi tiết đầy đủ: [[all-papers-mindmap]]. Tóm tắt:<br><span class="en">Full detail:
 [[all-papers-mindmap]]. Summary:</span>
@@ -142,6 +169,42 @@ Chi tiết đầy đủ: [[all-papers-mindmap]]. Tóm tắt:<br><span class="en"
   VN), L52 (RCT empowerment via microfinance VN), L54 (governance→entrepreneurship→growth,
   citing Acemoglu 2003), L55 (institutional entrepreneurs opening the "black box" — Danish
   FinTech case), L56 (green startups, extending to sustainability)</span>
+- **H. Technology, Productivity & Vietnam Poverty Measurement (LN6)** — 2 trục độc lập cùng
+  lecture: (i) cặp phương pháp cùng tác giả (GS Heshmati) về công nghệ/năng suất — L61 (TFP
+  190 nước, TC/TFP growth ÂM ở mọi nhóm thu nhập, liên hệ [[technology-upgrading]]) + L62
+  (innovation-firm performance Thụy Điển, CDM 4-equation); (ii) "tam giác đo nghèo Việt Nam" — 3
+  lăng kính độc lập hội tụ về "poverty measures diverge": L63 (đa chiều/Alkire-Foster), L64
+  (tiền tệ/FGT + Datt-Ravallion, chính paper [[k31-final-exam]] Q2), L65 (năng lượng/SUREG).<br><span
+  class="en">**H. Technology, Productivity & Vietnam Poverty Measurement (LN6)** — 2 independent
+  axes within the same lecture: (i) a same-author (Prof. Heshmati) methodological pair on
+  technology/productivity — L61 (190-country TFP, TC/TFP growth NEGATIVE in every income group,
+  connecting to [[technology-upgrading]]) + L62 (Swedish innovation-firm performance, a CDM
+  4-equation model); (ii) a "Vietnam poverty-measurement triangle" — 3 independent lenses
+  converging on "poverty measures diverge": L63 (multidimensional/Alkire-Foster), L64 (monetary/
+  FGT + Datt-Ravallion, exactly the paper behind [[k31-final-exam]] Q2), L65 (energy/SUREG).</span>
+- **I. Human Capital, Infrastructure & Public Investment (LN7)** — L71 (Heshmati, hạ tầng đô thị
+  TQ, PCA nghiêm ngặt N=310) + L72 (hạ tầng giao thông Kyrgyzstan, n=7 lỏng lẻo — cặp đối lập độ
+  chặt chẽ) → L73/L74/L75 (returns to education — McGuinness VN wage, Dao VN growth, Hanushek
+  xuyên quốc gia — 3 góc hoài nghi "mở rộng higher education", xem [[human-capital-returns-to-education]])
+  → L76 (Bloom/Kuhn/Prettner, health-growth review, Preston curve) → L77 (Drama et al., hiệu quả
+  phân bổ đầu tư công xuyên ngành, corruption control mạnh nhất — cầu nối trực tiếp
+  [[institutions]] LN2).<br><span class="en">**I. Human Capital, Infrastructure & Public
+  Investment (LN7)** — L71 (Heshmati, Chinese urban infrastructure, rigorous PCA N=310) + L72
+  (Kyrgyzstan transport infrastructure, a loose n=7 — a rigor-contrast pair) → L73/L74/L75
+  (returns to education — McGuinness's VN wage, Dao's VN growth, Hanushek's cross-country — 3
+  angles of skepticism toward "expanding higher education," see
+  [[human-capital-returns-to-education]]) → L76 (Bloom/Kuhn/Prettner, a health-growth review, the
+  Preston curve) → L77 (Drama et al., cross-sectoral public-investment allocative efficiency,
+  corruption control strongest — a direct bridge to [[institutions]] LN2).</span>
+- **J. Circular Economy (LN8)** — không có 1 trunk duy nhất, cấu trúc: 2 case thực nghiệm cùng
+  tác giả (L81 Trung Quốc top-down + L86 Thụy Điển phân quyền — mô hình quản trị đối lập) + L82
+  (review toàn cầu, cầu nối 2 case) + 3 bài định nghĩa/đo lường (L83/L84/L85 — 3 phản ứng khác
+  nhau trước "114 định nghĩa CE") + 2 kênh mới nổi (L87 việc làm, L88 innovation-SDG
+  bibliometric).<br><span class="en">**J. Circular Economy (LN8)** — no single trunk paper,
+  structured as: 2 same-author empirical cases (L81 top-down China + L86 decentralized Sweden —
+  opposing governance models) + L82 (a global review bridging the 2 cases) + 3 definition/
+  measurement papers (L83/L84/L85 — 3 different responses to "114 CE definitions") + 2 emerging
+  channels (L87 employment, L88 innovation-SDG bibliometrics).</span>
 
 ## 3. Tranh luận & căng thẳng giữa các paper
 <span class="en">## 3. Debates & Tensions Between Papers</span>
@@ -481,6 +544,357 @@ L54)</span>
   correlation between Gini and entrepreneurship activity. Is this a genuine contradiction?
   Propose a way to reconcile the two findings."</span>
 
+### 3.14 Ba cơ chế hoài nghi "mở rộng higher education → tăng trưởng": Hanushek vs McGuinness vs Dao
+<span class="en">### 3.14 Three mechanisms of skepticism toward "expanding higher education →
+growth": Hanushek vs. McGuinness vs. Dao</span>
+
+- **Hanushek (L75)**: kiểm soát **knowledge capital** (kỹ năng nhận thức) → cả school attainment
+  (tertiary lẫn non-tertiary) đều MẤT ý nghĩa hoàn toàn với tăng trưởng xuyên quốc gia — vấn đề là
+  CHẤT LƯỢNG đầu vào sinh viên (cung).<br><span class="en">**Hanushek (L75)**: once **knowledge
+  capital** (cognitive skills) is controlled for, both tertiary and non-tertiary school attainment
+  LOSE ALL significance for cross-country growth — the problem is student input QUALITY
+  (supply).</span>
+- **Dao & Trinh (L74)**: mô hình GMM cho GDP growth Việt Nam 2000–2015 — tiểu học/trung học có ý
+  nghĩa (t=3.398, t=5.126), đại học DƯƠNG nhưng KHÔNG có ý nghĩa (t=1.079) — khớp trực tiếp dự
+  đoán Hanushek, một vấn đề CUNG (thiếu đóng góp năng suất thực).<br><span class="en">**Dao &
+  Trinh (L74)**: a GMM model for Vietnam's GDP growth 2000–2015 — primary/secondary are
+  significant (t=3.398, t=5.126), higher education is POSITIVE but NOT significant (t=1.079) —
+  directly matching Hanushek's prediction, a SUPPLY problem (missing genuine productivity
+  contribution).</span>
+- **McGuinness et al. (L73)**: đo suất sinh lời TƯ NHÂN (wage premium) — premium ĐH từng rất cao
+  (2002–2010) rồi sụt ~25 điểm % (2010–2012) — KHÔNG phải do chất lượng đầu vào mà do **CẦU lao
+  động có trình độ không theo kịp CUNG** (VN chuyển dịch sang FDI thâm dụng lao động) — một vấn đề
+  CẦU (cấu trúc kinh tế), khác hẳn cơ chế Hanushek/Dao.<br><span class="en">**McGuinness et al.
+  (L73)**: measures the PRIVATE wage return — the university premium was once very high
+  (2002–2010) then fell ~25 percentage points (2010–2012) — NOT due to input quality but because
+  **DEMAND for skilled labor hasn't kept pace with SUPPLY** (VN shifted toward labor-intensive
+  FDI) — a DEMAND problem (economic structure), quite different from the Hanushek/Dao
+  mechanism.</span>
+- **Cân bằng**: cả 3 bài đồng thuận kết luận ("higher education không tự động tạo tăng trưởng/
+  return"), nhưng qua 3 LOGIC khác nhau — supply-quality (Hanushek), supply-productivity (Dao),
+  demand-structure (McGuinness) — hàm ý chính sách khắc phục khác nhau tùy logic nào đúng cho một
+  bối cảnh cụ thể.<br><span class="en">**Balance**: all 3 papers agree on the conclusion ("higher
+  education doesn't automatically generate growth/returns"), but via 3 different logics —
+  supply-quality (Hanushek), supply-productivity (Dao), demand-structure (McGuinness) — implying
+  different corrective policies depending on which logic holds in a given context.</span>
+- **Câu hỏi thi tiềm năng**: "Hanushek (2016), Dao & Trinh (2020) và McGuinness et al. (2021) đều
+  hoài nghi luận điểm 'mở rộng higher education tự động tạo tăng trưởng', nhưng qua 3 cơ chế khác
+  nhau. Trình bày mỗi cơ chế và đề xuất chính sách khắc phục tương ứng."<br><span class="en">
+  **Potential exam question**: "Hanushek (2016), Dao & Trinh (2020), and McGuinness et al. (2021)
+  are all skeptical that 'expanding higher education automatically generates growth,' but via 3
+  different mechanisms. Present each mechanism and propose the corresponding corrective
+  policy."</span>
+
+### 3.15 TFP âm (L61) như bằng chứng cơ chế mới cho tranh luận middle-income trap (mở rộng 3.3)
+<span class="en">### 3.15 Negative TFP (L61) as new mechanism-level evidence for the
+middle-income-trap debate (extending 3.3)</span>
+
+- **Patel et al. (L11, xem 3.3)**: phản bác middle-income trap Ở CẤP GDP/capita growth — middle-
+  income countries tăng trưởng NHANH NHẤT từ 1980s.<br><span class="en">**Patel et al. (L11, see
+  3.3)**: rebuts the middle-income trap AT THE GDP/capita-growth level — middle-income countries
+  grow FASTEST since the 1980s.</span>
+- **Heshmati & Rashidghalam (L61)**: dưới lớp GDP growth đó, TC/TFP growth lại ÂM ở TẤT CẢ nhóm
+  thu nhập (kể cả nhóm rất thấp) — gợi ý tăng trưởng GDP quan sát được có thể đến từ TÍCH LŨY
+  input (vốn/lao động/năng lượng) hơn là cải thiện năng suất thực sự — một góc nhìn thận trọng bổ
+  sung, không mâu thuẫn trực tiếp với L11 (khác biến số: GDP growth vs TFP decomposition) nhưng
+  đặt câu hỏi về CHẤT LƯỢNG của convergence.<br><span class="en">**Heshmati & Rashidghalam
+  (L61)**: beneath that GDP-growth layer, TC/TFP growth is NEGATIVE across ALL income groups
+  (including the very-low group) — suggesting observed GDP growth may stem from input
+  ACCUMULATION (capital/labor/energy) rather than genuine productivity improvement — a
+  complementary cautionary angle, not directly contradicting L11 (different variables: GDP growth
+  vs. TFP decomposition) but questioning the QUALITY of convergence.</span>
+- **McGuinness et al. (L73)**: bổ sung một cơ chế thứ 3 — "low skills trap" (premium giáo dục
+  thấp → giảm động lực đầu tư vốn con người → hút thêm FDI kỹ năng thấp → càng giảm premium) có
+  thể góp phần khóa một nước vào middle-income trap dù GDP vẫn tăng.<br><span class="en">
+  **McGuinness et al. (L73)**: adds a 3rd mechanism — a "low skills trap" (low education premiums
+  → reduced human-capital investment incentive → attracting more low-skill FDI → further eroding
+  premiums) that could help lock a country into a middle-income trap even as GDP keeps
+  growing.</span>
+- **Cân bằng**: đây là góc nhìn 3 CHIỀU cho middle-income trap — L11 phản bác bằng thực nghiệm cấp
+  vĩ mô (GDP), L61 đặt nghi vấn ở cấp cơ chế (TFP decomposition), L73 bổ sung kênh vi mô (thị
+  trường lao động kỹ năng) — cả 3 không loại trừ nhau mà soi các LỚP khác nhau của cùng một hiện
+  tượng.<br><span class="en">**Balance**: this is a 3-DIMENSIONAL view of the middle-income
+  trap — L11 empirically rebuts it at the macro (GDP) level, L61 raises doubt at the mechanism
+  (TFP decomposition) level, L73 adds a micro channel (the skilled-labor market) — the three don't
+  contradict each other but illuminate different LAYERS of the same phenomenon.</span>
+- **Câu hỏi thi tiềm năng**: "Patel et al. (2021) phản bác middle-income trap bằng dữ liệu GDP
+  growth. Heshmati & Rashidghalam (2020) và McGuinness et al. (2021) lại tìm thấy gì có thể vẫn
+  nuôi dưỡng lo ngại về middle-income trap? Trình bày cả 3 góc nhìn."<br><span class="en">
+  **Potential exam question**: "Patel et al. (2021) rebut the middle-income trap using GDP growth
+  data. What do Heshmati & Rashidghalam (2020) and McGuinness et al. (2021) find that could still
+  feed middle-income-trap concerns? Present all 3 perspectives."</span>
+
+### 3.16 Nghèo tiền tệ vs nghèo đa chiều vs nghèo năng lượng: 2 bài Việt Nam độc lập cùng kết luận "phân kỳ"
+<span class="en">### 3.16 Monetary vs. multidimensional vs. energy poverty: 2 independent
+Vietnam papers reaching the same "divergence" conclusion</span>
+
+- **Tran, Alkire & Klasen (L63)**: overlap monetary/multidimensional poor CHỈ 5.5% (so với
+  16.3%/16.0% nghèo theo từng thước đo riêng) — dưới 50% mức Perry (2002) tổng hợp từ literature;
+  nghèo tiền tệ giảm >11 điểm % (2007-2010) trong khi nghèo đa chiều chỉ giảm ~5 điểm %.<br><span
+  class="en">**Tran, Alkire & Klasen (L63)**: monetary/multidimensional-poor overlap is ONLY 5.5%
+  (vs. 16.3%/16.0% poor by each measure separately) — below the 40–50% range Perry (2002)
+  synthesizes from the literature; monetary poverty fell >11 percentage points (2007-2010) while
+  multidimensional poverty fell only ~5 percentage points.</span>
+- **Nguyen et al. (L65)**: ĐỘC LẬP xác nhận cùng hiện tượng ở một cặp thước đo khác — income
+  poverty/electricity poverty giảm mạnh (25%→7%, 41%→8%) nhưng **energy-cost poverty TĂNG 5 điểm
+  %** 2004–2016 — ngược chiều hoàn toàn 3 thước đo kia.<br><span class="en">**Nguyen et al.
+  (L65)**: INDEPENDENTLY confirms the same phenomenon with a different measure pair — income
+  poverty/electricity poverty fell sharply (25%→7%, 41%→8%) but **energy-cost poverty ROSE 5
+  percentage points** 2004–2016 — the complete opposite direction of the other 3 measures.</span>
+- **Cân bằng**: đây là connection mạnh nhất trong cụm H — 2 bài Việt Nam khác nhau, dùng dữ liệu/
+  thước đo hoàn toàn khác nhau (panel hộ 3 tỉnh vs VHLSS toàn quốc), cùng kết luận "giảm nghèo"
+  không phải hiện tượng đơn nhất mà PHỤ THUỘC thước đo được chọn — tăng trưởng kinh tế chuyển hóa
+  nhanh hơn thành cải thiện tiền tệ/tiếp cận hạ tầng cơ bản so với cải thiện phi tiền tệ/chi phí.<br><span
+  class="en">**Balance**: this is the strongest connection in cluster H — 2 different Vietnam
+  papers, using entirely different data/measures (a 3-province household panel vs. nationwide
+  VHLSS), both concluding "poverty reduction" is not a unified phenomenon but DEPENDS on which
+  measure is chosen — economic growth translates faster into monetary/basic-infrastructure-access
+  improvement than into non-monetary/cost improvement.</span>
+- **Câu hỏi thi tiềm năng**: "Tran, Alkire & Klasen (2015) và Nguyen et al. (2019) đều tìm thấy
+  các thước đo nghèo phân kỳ ở Việt Nam nhưng với 2 cặp thước đo khác nhau. Trình bày cả hai bằng
+  chứng và rút ra hàm ý chính sách chung."<br><span class="en">**Potential exam question**: "Tran,
+  Alkire & Klasen (2015) and Nguyen et al. (2019) both find poverty measures diverging in
+  Vietnam but with 2 different measure pairs. Present both pieces of evidence and draw a common
+  policy implication."</span>
+
+### 3.17 L64 là paper đằng sau K31 Q2 — cập nhật từ abstract sang full-text
+<span class="en">### 3.17 L64 is the paper behind K31 Q2 — updated from abstract-only to
+full-text</span>
+
+- **Ghi chú cập nhật, không phải tranh luận học thuật**: [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]]
+  chính là paper được hỏi ở [[k31-final-exam]] Question 2 ("Discuss their findings and
+  recommendations to promote pro-poor economic growth and development"). Đáp án K31 Q2 (viết
+  2026-07-28) khi đó CHỈ dựa trên abstract ScienceDirect, ghi rõ "cần truy cập bản đầy đủ, KHÔNG
+  bịa ra danh sách khuyến nghị".<br><span class="en">**An update note, not an academic debate**:
+  [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] is exactly the paper asked about in
+  [[k31-final-exam]] Question 2 ("Discuss their findings and recommendations to promote pro-poor
+  economic growth and development"). The K31 Q2 answer (written 2026-07-28) at the time relied
+  ONLY on the ScienceDirect abstract, explicitly noting "full-text access needed, do NOT
+  fabricate the recommendations list."</span>
+- **Deep-ingest full-text (2026-08-01) xác nhận**: phương pháp chính xác là Datt-Ravallion (1991) +
+  Kolenikov-Shorrocks (2005) decomposition + Kakwani-Pernia (2000) pro-poor index; số liệu đầy đủ
+  (Gini 0.33→0.35 rồi 0.37→0.356; pro-poor index 0.90 rồi 1.80) và khuyến nghị chính sách đầy đủ
+  (an sinh xã hội trực tiếp + đào tạo nghề/tín dụng vi mô gián tiếp, ưu tiên dân tộc thiểu số/vùng
+  núi) — nay có sẵn ở [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]].<br><span
+  class="en">**The 2026-08-01 full-text deep-ingest confirms**: the exact method is Datt-Ravallion
+  (1991) + Kolenikov-Shorrocks (2005) decomposition + the Kakwani-Pernia (2000) pro-poor index;
+  full figures (Gini 0.33→0.35 then 0.37→0.356; pro-poor index 0.90 then 1.80) and full policy
+  recommendations (direct social safety nets + indirect vocational training/microcredit,
+  prioritizing ethnic minorities/mountainous regions) are now available at
+  [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]].</span>
+- **Follow-up cần làm (ngoài phạm vi trang này)**: `wiki/exams/k31-final-exam.md` nên được cập
+  nhật Q2 với số liệu/khuyến nghị chính xác này ở lượt rà soát `wiki/exams/` tiếp theo — trang
+  exam-prep.md này KHÔNG tự sửa k31-final-exam.md (ngoài phạm vi công việc hiện tại).<br><span
+  class="en">**Follow-up needed (out of this page's scope)**: `wiki/exams/k31-final-exam.md`'s
+  Q2 answer should be updated with these exact figures/recommendations at the next `wiki/exams/`
+  review pass — this exam-prep.md page does NOT itself edit k31-final-exam.md (outside the
+  current task's scope).</span>
+
+### 3.18 Corruption control là biến quyết định hội tụ xuyên 3 lecture: L77 vs L22 vs L26
+<span class="en">### 3.18 Corruption control as a convergent determinant across 3 lectures: L77
+vs. L22 vs. L26</span>
+
+- **Mauro (L22, LN2)**: corruption cao → nhà đầu tư e ngại rủi ro/chi phí giao dịch →
+  investment↓ → growth↓; 1 SD cải thiện corruption index → investment +2.9% GDP.<br><span
+  class="en">**Mauro (L22, LN2)**: high corruption → investors fear risk/transaction costs →
+  investment↓ → growth↓; a 1-SD improvement in the corruption index → investment +2.9% of
+  GDP.</span>
+- **Huynh & Tran (L26, LN2)**: governance quality (đo bằng PAPI 6 chiều) là biến có hệ số ÂM lớn
+  nhất trong mô hình giảm informal economy Việt Nam — mạnh hơn cả kênh growth.<br><span
+  class="en">**Huynh & Tran (L26, LN2)**: governance quality (measured via the 6-dimension PAPI
+  index) has the largest NEGATIVE coefficient in the model reducing Vietnam's informal economy —
+  stronger even than the growth channel.</span>
+- **Drama, Soro & Senou (L77, LN7)**: corruption control là biến quyết định hiệu quả phân bổ đầu
+  tư công MẠNH NHẤT và nhất quán nhất trên MỌI danh mục (0.032–0.085, Tobit; 0.142–0.343, SFA) —
+  mạnh hơn cả rule of law.<br><span class="en">**Drama, Soro & Senou (L77, LN7)**: corruption
+  control is the STRONGEST and most consistent determinant of public-investment allocative
+  efficiency across EVERY category (0.032–0.085, Tobit; 0.142–0.343, SFA) — stronger even than
+  rule of law.</span>
+- **Cân bằng — điểm hội tụ, không phải mâu thuẫn**: 3 paper từ 3 lecture khác nhau (LN2, LN2, LN7),
+  3 outcome khác nhau (growth/investment, informal economy, public-investment efficiency), CÙNG
+  hội tụ về kết luận: chất lượng thể chế/kiểm soát tham nhũng là biến số nền tảng xuyên suốt toàn
+  môn học, không riêng chủ đề nào — một "câu trả lời an toàn" nếu đề thi hỏi "yếu tố nào xuất hiện
+  lặp lại nhiều nhất trong reading list".<br><span class="en">**Balance — a point of convergence,
+  not contradiction**: 3 papers from 3 different lectures (LN2, LN2, LN7), 3 different outcomes
+  (growth/investment, informal economy, public-investment efficiency), ALL converge on the
+  conclusion that institutional quality/corruption control is a foundational variable running
+  through the entire course, not tied to any single topic — a "safe answer" if an exam asks "which
+  factor recurs most across the reading list."</span>
+- **Câu hỏi thi tiềm năng**: "Mauro (1995), Huynh & Tran (2025) và Drama et al. (2025) đo tác động
+  của corruption/governance ở 3 outcome khác nhau. Trình bày cả 3 và giải thích vì sao đây là một
+  mô típ xuyên suốt môn học."<br><span class="en">**Potential exam question**: "Mauro (1995),
+  Huynh & Tran (2025), and Drama et al. (2025) measure corruption/governance's impact on 3
+  different outcomes. Present all 3 and explain why this is a recurring motif across the
+  course."</span>
+
+### 3.19 Rào cản công nghệ hàng đầu (TQ) hay đứng cuối (EU)? L81/L82 vs L83
+<span class="en">### 3.19 Technological barriers top (China) or last (EU)? L81/L82 vs. L83</span>
+
+- **Su, Heshmati, Geng & Yu (L81) và Heshmati (L82)** (bối cảnh Trung Quốc): liệt kê thiếu công
+  nghệ tiên tiến/công nghệ môi trường lạc hậu trong nhóm rào cản CE hàng đầu của Trung Quốc.<br><span
+  class="en">**Su, Heshmati, Geng & Yu (L81) and Heshmati (L82)** (China context): list shortage
+  of advanced technology/lagging environmental technology among China's top CE barriers.</span>
+- **Kirchherr et al. (L83)** (bối cảnh EU, large-N 208 khảo sát + 47 phỏng vấn): rào cản công nghệ
+  đứng **CUỐI bảng (15/15, chỉ 8% chọn)** — hoàn toàn trái ngược literature cũ (de Jesus & Mendonça
+  2018: 35% nghiên cứu coi công nghệ là rào cản lớn nhất); thay vào đó rào cản VĂN HÓA (thiếu quan
+  tâm tiêu dùng 47%, văn hóa doanh nghiệp do dự 46%) đứng đầu.<br><span class="en">**Kirchherr et
+  al. (L83)** (EU context, large-N: 208 surveys + 47 interviews): technological barriers rank
+  **LAST (15/15, only 8% selected)** — completely contrary to prior literature (de Jesus &
+  Mendonça 2018: 35% of studies view technology as the top barrier); instead CULTURAL barriers
+  (lacking consumer interest 47%, hesitant company culture 46%) rank top.</span>
+- **Cân bằng**: có thể do khác biệt trình độ phát triển kinh tế — Trung Quốc (đang phát triển) có
+  thể thực sự còn thiếu hụt công nghệ tiên tiến, trong khi EU (phát triển) đã có công nghệ sẵn có
+  nhưng thiếu động lực văn hóa/thị trường để áp dụng (chuỗi phản ứng: giá vật liệu nguyên sinh
+  thấp → thiếu quan tâm tiêu dùng → văn hóa do dự). Cũng có thể do khác biệt phương pháp (L81/L82
+  là review định tính, L83 là khảo sát định lượng large-N).<br><span class="en">**Balance**:
+  possibly reflecting differing economic development levels — China (developing) may genuinely
+  still lack advanced technology, while the EU (developed) has technology available but lacks the
+  cultural/market motivation to adopt it (a chain reaction: low virgin-material prices → lacking
+  consumer interest → hesitant company culture). Could also reflect a methodological difference
+  (L81/L82 are qualitative reviews, L83 is a large-N quantitative survey).</span>
+- **Câu hỏi thi tiềm năng**: "Vì sao rào cản công nghệ được coi là hàng đầu trong các nghiên cứu CE
+  Trung Quốc (L81, L82) nhưng đứng cuối bảng trong nghiên cứu EU (L83)? Đề xuất giải thích dựa
+  trên trình độ phát triển kinh tế."<br><span class="en">**Potential exam question**: "Why are
+  technological barriers seen as primary in China-focused CE studies (L81, L82) but rank last in
+  an EU study (L83)? Propose an explanation based on economic development level."</span>
+
+### 3.20 Quản trị CE: top-down Trung Quốc (L81) vs phân quyền/giá cả Thụy Điển (L86) — và quan hệ quy mô đô thị đảo chiều
+<span class="en">### 3.20 CE governance: top-down China (L81) vs. decentralized/price-based
+Sweden (L86) — and a reversed city-scale relationship</span>
+
+- **Su, Heshmati, Geng & Yu (L81)**: Trung Quốc quản lý CE qua **2 cơ quan trung ương** (MEP,
+  NDRC) công bố 2 bộ chỉ số đánh giá EIP khác nhau, cộng chương trình thí điểm cấp thành phố — mô
+  hình **top-down, nhà nước dẫn dắt**.<br><span class="en">**Su, Heshmati, Geng & Yu (L81)**:
+  China manages CE via **2 central agencies** (MEP, NDRC) publishing 2 different EIP evaluation
+  indicator systems, plus city-level pilot programs — a **top-down, state-led** model.</span>
+- **Heshmati & Rashidghalam (L86)**: Thụy Điển vận hành CE qua đô thị TỰ CHỦ + đòn bẩy GIÁ CẢ (phí
+  thu gom rác WCOL là hệ số DƯƠNG mạnh nhất mô hình, +1 SEK/m² → CEI +0.50 đơn vị) — mô hình
+  **phân quyền, thị trường dẫn dắt**, chính quyền trung ương chỉ đặt khung quy định + ưu đãi.<br><span
+  class="en">**Heshmati & Rashidghalam (L86)**: Sweden runs CE via AUTONOMOUS municipalities +
+  PRICE levers (the waste-collection charge WCOL is the model's strongest positive coefficient,
+  +1 SEK/m² → CEI +0.50 units) — a **decentralized, market-led** model, with the central
+  government only setting framework regulation + incentives.</span>
+- **Quan hệ quy mô đô thị ĐẢO CHIỀU tùy bối cảnh**: ở [[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]]
+  (LN7, cùng tác giả), tỉnh/vùng LỚN hơn/GIÀU hơn (Đông Trung Quốc) đi kèm hạ tầng đô thị TỐT HƠN;
+  nhưng ở L86 (Thụy Điển), đô thị LỚN NHẤT/mật độ cao nhất (Stockholm, thủ đô) lại có CEI THẤP
+  NHẤT (29.50, xếp cuối) — mật độ dân số cao + thất nghiệp làm GIẢM CEI có ý nghĩa trong hồi quy
+  FE.<br><span class="en">**City-scale relationship REVERSES by context**: in
+  [[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (LN7, same author), LARGER/RICHER
+  provinces/regions (Eastern China) come with BETTER urban infrastructure; but in L86 (Sweden),
+  the LARGEST/highest-density city (Stockholm, the capital) has the LOWEST CEI (29.50, ranking
+  last) — population density + unemployment significantly REDUCE CEI in the FE regression.</span>
+- **Cân bằng**: cùng tác giả (Heshmati), cùng công cụ đo (PCA composite index + panel regression),
+  nhưng phát hiện quan hệ quy mô/mật độ đô thị↔chất lượng hạ tầng-môi trường theo 2 CHIỀU NGƯỢC
+  NHAU — minh họa cách quan hệ này phụ thuộc hoàn toàn vào bối cảnh thể chế/mức phát triển, không
+  phải một quy luật phổ quát.<br><span class="en">**Balance**: same author (Heshmati), same
+  measurement tool (a PCA composite index + panel regression), yet finding the city
+  scale/density↔infrastructure-environmental-quality relationship running in 2 OPPOSITE
+  directions — illustrating this relationship depends entirely on institutional context/
+  development level, not a universal law.</span>
+- **Câu hỏi thi tiềm năng**: "So sánh mô hình quản trị CE của Trung Quốc (L81) và Thụy Điển (L86).
+  Vì sao quan hệ giữa quy mô/mật độ đô thị và chất lượng hạ tầng-môi trường đảo chiều giữa 2 nghiên
+  cứu cùng tác giả này?"<br><span class="en">**Potential exam question**: "Compare China's (L81)
+  and Sweden's (L86) CE governance models. Why does the relationship between city scale/density
+  and infrastructure-environmental quality reverse between these 2 same-author studies?"</span>
+
+### 3.21 CE và việc làm: vĩ mô rõ ràng (L87) vs vi mô mơ hồ (L56, LN5)
+<span class="en">### 3.21 CE and employment: clear macro (L87) vs. mixed micro (L56, LN5)</span>
+
+- **Nademi & Sedaghat Kalmarzi (L87)**: panel GMM 8 mô hình, châu Âu 2010–2019 — **cả 8/8 chỉ số
+  CE đều giảm thất nghiệp có ý nghĩa thống kê**; chỉ số CE tổng hợp PCA của nhóm tác giả tác động
+  mạnh nhất; spectral clustering xác nhận nước CE cao nhất thuộc cụm thất nghiệp thấp nhất.<br><span
+  class="en">**Nademi & Sedaghat Kalmarzi (L87)**: an 8-model panel GMM, Europe 2010–2019 — **all
+  8/8 CE indexes significantly reduce unemployment**; the authors' own PCA composite CE index has
+  the strongest effect; spectral clustering confirms the highest-CE countries belong to the
+  lowest-unemployment cluster.</span>
+- **Sharma & Subba (L56, LN5)**: scoping review >100 nguồn về green startups — bức tranh việc làm
+  phức tạp/mơ hồ hơn NHIỀU: tạo job creation/eco-innovation nhưng green startup có tỷ lệ THẤT BẠI
+  kinh doanh CAO HƠN doanh nghiệp thường; rào cản vốn/quy định; khó chính thức hóa "green jobs" ở
+  nước đang phát triển.<br><span class="en">**Sharma & Subba (L56, LN5)**: a >100-source scoping
+  review on green startups — a MUCH more complex/mixed employment picture: creating job/
+  eco-innovation but green startups have a HIGHER business failure rate than conventional firms;
+  funding/regulatory barriers; difficulty formalizing "green jobs" in developing countries.</span>
+- **Cân bằng**: không hẳn mâu thuẫn trực tiếp — khác biệt CẤP ĐỘ PHÂN TÍCH: L87 đo hiệu ứng vĩ mô
+  toàn ngành CE ở châu Âu phát triển (nơi CE đã có quy mô/chính sách hỗ trợ đủ lớn để tạo hiệu ứng
+  ròng dương rõ ràng); L56 nhìn ở cấp startup đơn lẻ toàn cầu (bao gồm cả nước đang phát triển,
+  nơi từng doanh nghiệp còn đối mặt rủi ro thất bại cao trước khi đạt quy mô ngành).<br><span
+  class="en">**Balance**: not a direct contradiction — a difference in LEVEL OF ANALYSIS: L87
+  measures the macro effect for the whole CE sector in developed Europe (where CE already has
+  enough scale/policy support to generate a clear net positive effect); L56 looks at the
+  individual-startup level globally (including developing countries, where individual firms still
+  face high failure risk before reaching sector-wide scale).</span>
+- **Câu hỏi thi tiềm năng**: "L87 tìm thấy CE giảm thất nghiệp rõ ràng ở cấp vĩ mô châu Âu, còn L56
+  tìm thấy bức tranh việc làm phức tạp hơn ở cấp startup xanh. Đây có phải mâu thuẫn không? Giải
+  thích bằng khái niệm cấp độ phân tích."<br><span class="en">**Potential exam question**: "L87
+  finds CE clearly reduces unemployment at the European macro level, while L56 finds a more
+  complex employment picture at the green-startup level. Is this a contradiction? Explain using
+  the concept of level of analysis."</span>
+
+### 3.22 "Chữ ký phương pháp" của GS Heshmati: PCA + chỉ số tổng hợp + hồi quy panel xuyên 3 lecture
+<span class="en">### 3.22 Prof. Heshmati's "methodological signature": PCA + composite index +
+panel regression across 3 lectures</span>
+
+Không phải một cặp tranh luận 2 phía mà là một quan sát nhất quán về phương pháp đáng ghi nhớ cho
+exam.<br><span class="en">Not a two-sided debate pair but a consistent methodological observation
+worth remembering for the exam.</span>
+
+- **L61 (LN6)**: TFP 190 nước — translog production function + 4 technology shifter index (tổng
+  trọng số=1, ràng buộc NLS).<br><span class="en">**L61 (LN6)**: 190-country TFP — a translog
+  production function + 4 technology shifter indices (weights summing to 1, an NLS
+  constraint).</span>
+- **L71 (LN7)**: hạ tầng đô thị Trung Quốc — PCA (74 chỉ báo → 15 thành phần → 1 chỉ số tổng hợp
+  bậc 2) + pooled OLS/fixed-effects panel, N=310.<br><span class="en">**L71 (LN7)**: Chinese
+  urban infrastructure — PCA (74 indicators → 15 components → a 2nd-order composite index) +
+  pooled OLS/fixed-effects panel, N=310.</span>
+- **L86 (LN8)**: CE đô thị Thụy Điển — cùng kỹ thuật PCA "trung bình có trọng số của mọi principal
+  component eigenvalue>1" (kế thừa trực tiếp Heshmati & Kumbhakar 2014, cùng logic L71) + pooled
+  OLS/fixed-effects panel, N=1911 (273 đô thị).<br><span class="en">**L86 (LN8)**: Swedish urban
+  CE — the same "weighted average of all eigenvalue>1 principal components" PCA technique
+  (directly following Heshmati & Kumbhakar 2014, the same logic as L71) + pooled OLS/fixed-effects
+  panel, N=1911 (273 municipalities).</span>
+- **Cân bằng**: 3 bài, 3 chủ đề hoàn toàn khác nhau (TFP quốc gia, hạ tầng đô thị TQ, CE đô thị
+  Thụy Điển) nhưng cùng "chữ ký" phương pháp: chỉ số tổng hợp đa thành phần (PCA hoặc technology-
+  index có trọng số) + hồi quy panel xác định yếu tố quyết định + kiểm định Hausman/AIC-BIC chọn
+  mô hình — hữu ích để nhận diện nhanh 1 bài của GS Heshmati trên đề thi dù chủ đề khác nhau.<br><span
+  class="en">**Balance**: 3 papers, 3 entirely different topics (national TFP, Chinese urban
+  infrastructure, Swedish urban CE) but sharing the same methodological "signature": a
+  multi-component composite index (PCA or a weighted technology index) + a panel regression
+  identifying determinants + Hausman/AIC-BIC model-selection tests — useful for quickly
+  recognizing a Prof. Heshmati paper on the exam regardless of topic.</span>
+
+### 3.23 Xử lý nội sinh: 3SLS + Mills ratio (L62) vs System GMM (L26) — cùng vấn đề, khác công cụ
+<span class="en">### 3.23 Handling endogeneity: 3SLS + Mills ratio (L62) vs. System GMM (L26) —
+same problem, different tools</span>
+
+- **Lööf & Heshmati (L62, LN6)**: quan hệ innovation-performance ở cấp FIRM (cross-section, CIS
+  Thụy Điển) — dùng **3SLS + inverted Mills' ratio** để xử lý ĐỒNG THỜI selectivity bias (chỉ quan
+  sát firm có R&D) và simultaneity bias (innovation input-output-performance nội sinh lẫn
+  nhau).<br><span class="en">**Lööf & Heshmati (L62, LN6)**: the innovation-performance
+  relationship at the FIRM level (cross-section, Swedish CIS) — using **3SLS + the inverted
+  Mills' ratio** to jointly correct selectivity bias (only R&D firms observed) and simultaneity
+  bias (innovation input-output-performance mutually endogenous).</span>
+- **Huynh & Tran (L26, LN2)**: quan hệ FDI-informal economy ở cấp TỈNH (panel động, 63 tỉnh VN
+  2006-2021) — dùng **System GMM** để xử lý nội sinh động (biến trễ, unobserved heterogeneity cấp
+  tỉnh).<br><span class="en">**Huynh & Tran (L26, LN2)**: the FDI-informal-economy relationship
+  at the PROVINCIAL level (a dynamic panel, 63 VN provinces 2006-2021) — using **System GMM** to
+  correct dynamic endogeneity (lagged variables, provincial unobserved heterogeneity).</span>
+- **Cân bằng**: cùng mục tiêu (giải quyết nội sinh để identification chặt hơn) nhưng công cụ khác
+  nhau tùy CẤU TRÚC DỮ LIỆU — 3SLS+Mills ratio phù hợp cross-section với vấn đề selection rõ ràng
+  (firm có/không làm R&D); System GMM phù hợp panel động với nhiều thời điểm quan sát cùng đơn vị
+  (tỉnh theo năm) — một câu hỏi so sánh phương pháp tốt để kiểm tra hiểu biết SGMM vs 3SLS không
+  chỉ là công thức mà còn là lựa chọn phù hợp với dữ liệu.<br><span class="en">**Balance**: same
+  goal (resolving endogeneity for tighter identification) but different tools depending on DATA
+  STRUCTURE — 3SLS+Mills ratio suits cross-sectional data with a clear selection problem (firms
+  doing/not doing R&D); System GMM suits a dynamic panel with repeated observations of the same
+  unit (provinces over years) — a good methods-comparison question testing whether SGMM vs. 3SLS
+  understanding goes beyond formulas to fitting the tool to the data.</span>
+- **Câu hỏi thi tiềm năng**: "Lööf & Heshmati (2006) và Huynh & Tran (2025) đều đối mặt vấn đề nội
+  sinh nhưng chọn công cụ khác nhau (3SLS+Mills ratio vs System GMM). Giải thích vì sao mỗi công cụ
+  phù hợp với cấu trúc dữ liệu của bài đó."<br><span class="en">**Potential exam question**:
+  "Lööf & Heshmati (2006) and Huynh & Tran (2025) both face an endogeneity problem but choose
+  different tools (3SLS+Mills ratio vs. System GMM). Explain why each tool fits that paper's data
+  structure."</span>
+
 ## 4. Concept → Paper map
 <span class="en">## 4. Concept → Paper Map</span>
 
@@ -491,11 +905,16 @@ L54)</span>
   Sokoloff (kênh gián tiếp qua geography)<br><span class="en">[[deep-roots-of-development]] —
   L13 (central), L21 (institutions channel), L24 §Engerman & Sokoloff (indirect channel via
   geography)</span>
-- [[institutions]] — L21 (trunk), L22/L23/L24/L26 (4 kênh)<br><span class="en">[[institutions]]
-  — L21 (trunk), L22/L23/L24/L26 (4 channels)</span>
+- [[institutions]] — L21 (trunk), L22/L23/L24/L26 (4 kênh); mở rộng LN7: L77 (corruption control
+  là driver hiệu quả đầu tư công mạnh nhất — xem 3.18)<br><span class="en">[[institutions]] — L21
+  (trunk), L22/L23/L24/L26 (4 channels); LN7 extension: L77 (corruption control is the strongest
+  public-investment-efficiency driver — see 3.18)</span>
 - [[middle-income-trap]] — L11 (phản bác bằng thực nghiệm) vs essay topics của giáo sư (dùng
-  làm khung) — xem 3.3<br><span class="en">[[middle-income-trap]] — L11 (empirically rebuts) vs.
-  the professor's essay topics (uses it as a framework) — see 3.3</span>
+  làm khung) — xem 3.3; mở rộng cơ chế: L61 (TFP âm — góc nhìn cơ chế thận trọng), L73 (low
+  skills trap — kênh cung-cầu lao động) — xem 3.15<br><span class="en">[[middle-income-trap]] —
+  L11 (empirically rebuts) vs. the professor's essay topics (uses it as a framework) — see 3.3;
+  mechanism extensions: L61 (negative TFP — a cautionary mechanism angle), L73 (a low skills
+  trap — a labor supply-demand channel) — see 3.15</span>
 - [[high-quality-development]] — L15<br><span class="en">[[high-quality-development]] —
   L15</span>
 - [[middle-innovation-trap]], [[technology-upgrading]], [[creative-accumulation]] — chủ đề essay
@@ -518,12 +937,58 @@ L54)</span>
   household-level drivers); L43 is the outcome-based counterpoint (doesn't use LVI)</span>
 - [[entrepreneurship-and-development]] — L53 (trunk, "black box" + binding constraint), L51/L52
   (kênh vi mô/hộ VN), L54 (kênh vĩ mô/governance), L55 (kênh mở "black box"), L56 (kênh
-  sustainability)<br><span class="en">[[entrepreneurship-and-development]] — L53 (trunk, "black
-  box" + binding constraint), L51/L52 (micro/household Vietnamese channel), L54 (macro/
-  governance channel), L55 (black-box-opening channel), L56 (sustainability channel)</span>
+  sustainability); mở rộng LN8: kênh CE-entrepreneurship qua L82 ("panacea hypothesis", emerging
+  Davids vs greening Goliaths)<br><span class="en">[[entrepreneurship-and-development]] — L53
+  (trunk, "black box" + binding constraint), L51/L52 (micro/household Vietnamese channel), L54
+  (macro/governance channel), L55 (black-box-opening channel), L56 (sustainability channel); LN8
+  extension: the CE-entrepreneurship channel via L82 ("panacea hypothesis," emerging Davids vs.
+  greening Goliaths)</span>
+- [[technology-change-and-tfp-growth]] — L61 (trunk vĩ mô/quốc gia, TFP 190 nước, TC/TFP âm ở mọi
+  nhóm thu nhập), L62 (trunk vi mô/firm, knowledge production function CDM-style); liên hệ
+  [[technology-upgrading]] (LN1 essay topic, nay có grounding thực nghiệm từ L61/L62)<br><span
+  class="en">[[technology-change-and-tfp-growth]] — L61 (macro/country trunk, 190-country TFP,
+  TC/TFP negative in every income group), L62 (micro/firm trunk, a CDM-style knowledge production
+  function); connects to [[technology-upgrading]] (an LN1 essay topic, now with empirical
+  grounding from L61/L62)</span>
+- [[growth-inequality-poverty-nexus]] — L64 (lăng kính tiền tệ/FGT, chính paper
+  [[k31-final-exam]] Q2 — xem 3.17), L63 (lăng kính đa chiều/Alkire-Foster), L65 (lăng kính năng
+  lượng) — 3 lăng kính hội tụ "poverty measures diverge" (xem 3.16)<br><span class="en">
+  [[growth-inequality-poverty-nexus]] — L64 (the monetary/FGT lens, exactly the paper behind
+  [[k31-final-exam]] Q2 — see 3.17), L63 (the multidimensional/Alkire-Foster lens), L65 (the
+  energy lens) — 3 lenses converging on "poverty measures diverge" (see 3.16)</span>
+- [[infrastructure-investment-and-growth]] — L71 (kênh đô thị hóa, PCA + panel N=310 nghiêm ngặt),
+  L72 (kênh giao thông/ODA, n=7 lỏng lẻo — cặp đối lập độ chặt chẽ phương pháp)<br><span
+  class="en">[[infrastructure-investment-and-growth]] — L71 (the urbanization channel, PCA +
+  rigorous N=310 panel), L72 (the transport/ODA channel, a loose n=7 — a methodological-rigor
+  contrast pair)</span>
+- [[human-capital-returns-to-education]] — L73 (kênh suất sinh lời tư nhân/VN), L74 (kênh tăng
+  trưởng vĩ mô/VN), L75 (kênh lý thuyết đo lường/xuyên quốc gia, knowledge capital) — 3 cơ chế
+  hoài nghi "mở rộng higher education" (xem 3.14)<br><span class="en">
+  [[human-capital-returns-to-education]] — L73 (the private wage-return/VN channel), L74 (the
+  macro-growth/VN channel), L75 (the measurement-theory/cross-country channel, knowledge capital)
+  — 3 mechanisms of skepticism toward "expanding higher education" (see 3.14)</span>
+- [[health-and-growth]] — L76 (nguồn duy nhất, review toàn diện Preston curve + demographic
+  transition; căng thẳng nội tại Acemoglu & Johnson 2007 vs literature chủ đạo)<br><span
+  class="en">[[health-and-growth]] — L76 (the sole source, a comprehensive review of the Preston
+  curve + demographic transition; the internal Acemoglu & Johnson 2007 vs. mainstream-literature
+  tension)</span>
+- [[public-investment-allocation-efficiency]] — L77 (nguồn duy nhất, DEA+SFA+Tobit, đảo ngược mô
+  hình OECD — y tế/giáo dục hiệu quả hơn hạ tầng ở nước đang phát triển); liên hệ [[institutions]]
+  qua corruption control (xem 3.18)<br><span class="en">
+  [[public-investment-allocation-efficiency]] — L77 (the sole source, DEA+SFA+Tobit, reversing
+  the OECD pattern — health/education more efficient than infrastructure in developing countries);
+  connects to [[institutions]] via corruption control (see 3.18)</span>
+- [[circular-economy]] — L81/L86 (2 case thực nghiệm cùng tác giả, quản trị top-down TQ vs phân
+  quyền Thụy Điển — xem 3.20), L82 (review toàn cầu, cầu nối), L83/L84/L85 (3 phản ứng trước "114
+  định nghĩa CE" — chấp nhận/loại bỏ/tổ chức hóa), L87 (kênh việc làm, xem 3.21), L88 (kênh
+  innovation-SDG, bibliometric)<br><span class="en">[[circular-economy]] — L81/L86 (2 same-author
+  empirical cases, top-down China vs. decentralized Sweden governance — see 3.20), L82 (a global
+  review, bridging), L83/L84/L85 (3 responses to "114 CE definitions" — accepting/eliminating/
+  organizing), L87 (the employment channel, see 3.21), L88 (the innovation-SDG channel,
+  bibliometric)</span>
 
-## 5. Ngân hàng câu hỏi ôn thi (36 câu, kèm đáp án gợi ý)
-<span class="en">## 5. Exam Review Question Bank (36 questions, with suggested answers)</span>
+## 5. Ngân hàng câu hỏi ôn thi (61 câu, kèm đáp án gợi ý)
+<span class="en">## 5. Exam Review Question Bank (61 questions, with suggested answers)</span>
 
 Đáp án dưới là **khung ý chính để tự kiểm tra**, không phải văn mẫu để học thuộc — khi làm bài
 thi/essay cần diễn đạt lại bằng lời của mình và trích dẫn số liệu chính xác từ trang source
@@ -1107,6 +1572,402 @@ development, and what are the main barriers per Sharma & Subba (2025)? (L56)**</
   green finance, digital tech AI/blockchain); research gap: lacking longitudinal studies,
   cross-national comparisons, harmonized ESG standards.</span>
 
+### Từ LN6 (5 câu)
+<span class="en">### From LN6 (5 questions)</span>
+
+**37. TC/TFP growth ÂM ở mọi nhóm thu nhập theo Heshmati & Rashidghalam (2020) — ý nghĩa là gì?
+(L61)**<br><span class="en">**37. TC/TFP growth is NEGATIVE across every income group per
+Heshmati & Rashidghalam (2020) — what does this mean? (L61)**</span>
+- Model 3/4 (technology index): TC và TFP growth ÂM ở TẤT CẢ 5 nhóm thu nhập và mọi năm (TFP
+  trung bình −3.6%, dao động −6.7% năm 2008 đến −1.4% năm 1997).<br><span class="en">Model 3/4
+  (technology index): TC and TFP growth are NEGATIVE across ALL 5 income groups and every year
+  (mean TFP −3.6%, ranging −6.7% in 2008 to −1.4% in 1997).</span>
+- Human capital index elasticity cao nhất (0.234); technology index (R&D/hi-tech export/patent)
+  elasticity ÂM nhẹ (−0.043) — phản trực giác.<br><span class="en">The human capital index has
+  the highest elasticity (0.234); the technology index (R&D/hi-tech exports/patents) has a
+  slightly NEGATIVE elasticity (−0.043) — counterintuitive.</span>
+- Ý nghĩa: unobservable TC vẫn là cấu phần lớn nhất của TFP growth; tăng trưởng GDP quan sát được
+  có thể đến từ tích lũy input hơn cải thiện năng suất thực; liên hệ middle-income-trap (xem
+  3.15).<br><span class="en">Implication: unobservable TC remains TFP growth's largest component;
+  observed GDP growth may stem from input accumulation rather than genuine productivity
+  improvement; connects to the middle-income-trap (see 3.15).</span>
+
+**38. Vì sao OLS đơn giản cho hệ số bias XUỐNG trong Lööf & Heshmati (2006)? (L62)**<br><span
+class="en">**38. Why does simple OLS give a downward-biased coefficient in Lööf & Heshmati
+(2006)? (L62)**</span>
+- OLS bỏ qua cả selectivity bias (chỉ quan sát firm có R&D) lẫn simultaneity bias
+  (input-output-performance nội sinh lẫn nhau) → elasticity 0.054 (level) so với 0.121 ở model xử
+  lý đủ 2 bias (3SLS+Mills ratio).<br><span class="en">OLS ignores both selectivity bias (only
+  R&D firms observed) and simultaneity bias (input-output-performance mutually endogenous) →
+  elasticity 0.054 (level) vs. 0.121 in the model correcting both biases (3SLS+Mills ratio).</span>
+- Simultaneity được xác nhận nghiêm trọng hơn selectivity (Model 3, chỉ xử lý simultaneity, cho
+  0.119≈Model 2's 0.121); model chỉ xử lý selectivity (Model 4, 5-step OLS+Mills) lại BIAS LÊN
+  (0.166).<br><span class="en">Simultaneity is confirmed more severe than selectivity (Model 3,
+  correcting simultaneity only, gives 0.119≈Model 2's 0.121); the model correcting only
+  selectivity (Model 4, 5-step OLS+Mills) is instead biased UPWARD (0.166).</span>
+- Phát hiện phụ: manufacturing/service firm giống nhau đến ngạc nhiên (0.121 vs 0.093); register
+  data đáng tin hơn survey data.<br><span class="en">A secondary finding: manufacturing/service
+  firms are strikingly similar (0.121 vs. 0.093); register data is more reliable than survey
+  data.</span>
+
+**39. Vì sao overlap monetary/multidimensional poor ở Việt Nam dưới 50% theo Tran, Alkire & Klasen
+(2015)? (L63)**<br><span class="en">**39. Why is the monetary/multidimensional-poor overlap in
+Vietnam under 50% per Tran, Alkire & Klasen (2015)? (L63)**</span>
+- Overlap tĩnh chỉ 5.5% (so với 16.3% nghèo tiền tệ, 16.0% nghèo đa chiều riêng biệt) — thấp hơn
+  mức 40–50% Perry (2002) tổng hợp.<br><span class="en">Static overlap is only 5.5% (vs. 16.3%
+  monetary poor, 16.0% multidimensionally poor separately) — below the 40–50% range Perry (2002)
+  synthesizes.</span>
+- Bất khớp động còn lớn hơn: trong hộ thoát nghèo tiền tệ, chỉ ~17% cũng thoát nghèo đa chiều;
+  Cramér's V chỉ 0.17–0.19 dù có ý nghĩa thống kê.<br><span class="en">Dynamic mismatch is even
+  larger: among households exiting monetary poverty, only ~17% also exit multidimensional
+  poverty; Cramér's V is only 0.17–0.19 despite being statistically significant.</span>
+- Driver chính: nutrition + health functioning — 2 chỉ báo chậm cải thiện nhất, khiến MPI tiến bộ
+  chậm hơn nghèo tiền tệ dù các chỉ báo mức sống khác cải thiện liên tục.<br><span class="en">Main
+  drivers: nutrition + health functioning — the 2 slowest-improving indicators, causing the MPI
+  to progress more slowly than monetary poverty even as other living-standard indicators
+  continuously improve.</span>
+
+**40. Vì sao Nguyen & Pham (2018) coi giai đoạn 2004–08 "pro-poor" hơn 1993–98 dù giảm nghèo chậm
+hơn? (L64)**<br><span class="en">**40. Why do Nguyen & Pham (2018) consider 2004–08 more
+"pro-poor" than 1993–98 despite slower poverty reduction? (L64)**</span>
+- Kakwani-Pernia index: φ=0.90 (1993–98, dưới ngưỡng pro-poor) vs φ=1.80 (2004–08, highly
+  pro-poor).<br><span class="en">Kakwani-Pernia index: φ=0.90 (1993–98, below the pro-poor
+  threshold) vs. φ=1.80 (2004–08, highly pro-poor).</span>
+- Datt-Ravallion decomposition: 1993–98 nghèo giảm 20.75pp = growth (−23.15pp) + inequality
+  (+2.40pp, TĂNG làm chậm giảm nghèo); 2004–08 nghèo giảm chỉ 5.02pp nhưng = growth (−2.79pp) +
+  inequality (−2.22pp, CẢ HAI cùng góp phần).<br><span class="en">Datt-Ravallion decomposition:
+  1993–98 poverty fell 20.75pp = growth (−23.15pp) + inequality (+2.40pp, RISING inequality
+  slowed poverty reduction); 2004–08 poverty fell only 5.02pp but = growth (−2.79pp) + inequality
+  (−2.22pp, BOTH jointly contributing).</span>
+- Elasticity nghèo theo inequality tăng mạnh 0.15 (1993) → 1.78 (2008) — nghèo ngày càng nhạy với
+  bất bình đẳng hơn tốc độ tăng trưởng.<br><span class="en">Poverty's elasticity to inequality
+  rises sharply from 0.15 (1993) to 1.78 (2008) — poverty is increasingly more sensitive to
+  inequality than to the growth rate.</span>
+
+**41. Nghịch lý gì trong bất bình đẳng năng lượng theo Nguyen et al. (2019)? (L65)**<br><span
+class="en">**41. What paradox appears in energy inequality per Nguyen et al. (2019)? (L65)**</span>
+- Gini chi tiêu năng lượng TỔNG giảm nhanh hơn thu nhập/tiêu dùng (0.43→0.37) — nhưng Gini RIÊNG
+  coal & biomass lại TĂNG MẠNH (0.52→0.79).<br><span class="en">The OVERALL energy-expenditure
+  Gini falls faster than income/consumption (0.43→0.37) — but the coal & biomass-SPECIFIC Gini
+  ROSE SHARPLY (0.52→0.79).</span>
+- Energy-cost poverty TĂNG 5pp dù income/consumption/electricity poverty đều giảm mạnh.<br><span
+  class="en">Energy-cost poverty ROSE 5pp even as income/consumption/electricity poverty all fell
+  sharply.</span>
+- Hộ nghèo/dân tộc thiểu số vùng Bắc còn TĂNG phụ thuộc than/sinh khối — ngoại lệ đáng lo trong
+  xu hướng chuyển đổi năng lượng chung.<br><span class="en">Poor/ethnic-minority households in
+  the Northern region actually INCREASED coal/biomass reliance — a worrying exception within the
+  overall energy-transition trend.</span>
+
+### Từ LN7 (7 câu)
+<span class="en">### From LN7 (7 questions)</span>
+
+**42. 8/15 thành phần hạ tầng nào có tác động dương lên đô thị hóa Trung Quốc theo Heshmati &
+Rashidghalam (2020)? (L71)**<br><span class="en">**42. Which 8/15 infrastructure components have
+a positive effect on China's urbanization per Heshmati & Rashidghalam (2020)? (L71)**</span>
+- economics, employment, human development, health, housing, security, utilities, technology —
+  có ý nghĩa dương; education/environment KHÔNG có ý nghĩa (thậm chí âm nhẹ).<br><span
+  class="en">economics, employment, human development, health, housing, security, utilities,
+  technology — significantly positive; education/environment are NOT significant (even slightly
+  negative).</span>
+- Chênh lệch tỉnh/vùng: Guangdong cao nhất, Tibet thấp nhất; Eastern region tỷ trọng đô thị cao
+  nhất, hầu hết chỉ số cao nhất trừ education.<br><span class="en">Provincial/regional gaps:
+  Guangdong highest, Tibet lowest; the Eastern region has the highest urban share, with most
+  indices highest except education.</span>
+- R² pooled OLS chỉ 0.34–0.86 nhưng fixed-effects đạt ~0.99 — kiểm soát province FE cải thiện độ
+  khớp rất mạnh.<br><span class="en">Pooled OLS R² is only 0.34–0.86 but fixed-effects reaches
+  ~0.99 — controlling for province FE strongly improves fit.</span>
+
+**43. Vì sao hồi quy OLS của Kadyraliev et al. (2022) không đáng tin cậy về mặt thống kê?
+(L72)**<br><span class="en">**43. Why is Kadyraliev et al.'s (2022) OLS regression not
+statistically credible? (L72)**</span>
+- n=7 quan sát (2013–2019), 6 regressor + hằng số = 7 tham số cho 7 quan sát — gần bão hòa bậc tự
+  do; không báo cáo t-stat/p-value/R² nào.<br><span class="en">n=7 observations (2013–2019), 6
+  regressors + a constant = 7 parameters for 7 observations — near-saturated degrees of freedom;
+  no t-statistic/p-value/R² is reported.</span>
+- Điểm mạnh thực sự nằm ở phần định tính: ODA giao thông Kyrgyzstan trung bình 11.2% GDP/năm
+  1992–2018; chất lượng đường ODA giảm 82%→34% "tốt" (2009–2019); kỳ hạn vay (9 năm 4 tháng) ngắn
+  hơn tuổi thọ đường (20–24 năm).<br><span class="en">The real strength lies in the qualitative
+  section: Kyrgyz transport ODA averaged 11.2% of GDP/year 1992–2018; ODA road quality fell from
+  82% to 34% "good" (2009–2019); loan terms (9 years 4 months) are shorter than road lifespan
+  (20–24 years).</span>
+- Đối lập trực tiếp với L71 (N=310, PCA nghiêm ngặt) — bài học về ngưỡng tin cậy thực nghiệm.<br><span
+  class="en">Directly contrasts with L71 (N=310, rigorous PCA) — a lesson on empirical-credibility
+  thresholds.</span>
+
+**44. Suất sinh lời giáo dục đại học Việt Nam thay đổi thế nào 2002–2016 theo McGuinness et al.
+(2021)? (L73)**<br><span class="en">**44. How did Vietnam's higher-education wage return change
+2002–2016 per McGuinness et al. (2021)? (L73)**</span>
+- 2002–2010: premium ĐH tăng mạnh (nam +67%→~+79%; nữ +74%→+104% năm 2010); cầu lao động có trình
+  độ vượt cung.<br><span class="en">2002–2010: the university premium rose sharply (men
+  +67%→~+79%; women +74%→+104% by 2010); demand for skilled labor exceeded supply.</span>
+- 2010–2012: đảo chiều mạnh — premium ĐH nam giảm ~25pp; cầu lao động có trình độ KHÔNG theo kịp
+  cung dù kinh tế vẫn tăng trưởng.<br><span class="en">2010–2012: a sharp reversal — the male
+  university premium fell ~25pp; skilled-labor demand did NOT keep pace with supply despite
+  continued economic growth.</span>
+- 2012–2016: ổn định ở mức thấp hơn (~58% nam, dưới mức 2002); cảnh báo "low skills trap" →
+  middle income trap.<br><span class="en">2012–2016: stabilized at a lower level (~58% for men,
+  below the 2002 level); a warning of a "low skills trap" → middle income trap.</span>
+
+**45. Mô hình TFP của Dao & Trinh (2020) thất bại ra sao, và mô hình GDP growth thành công thế
+nào? (L74)**<br><span class="en">**45. How does Dao & Trinh's (2020) TFP model fail, and how
+does their GDP-growth model succeed? (L74)**</span>
+- Mô hình 1 (TFP, DEA/Malmquist): adjusted R² ÂM (−0.2345), hầu hết hệ số không có ý nghĩa — tác
+  giả tự thừa nhận "questionable".<br><span class="en">Model 1 (TFP, DEA/Malmquist): adjusted R²
+  is NEGATIVE (−0.2345), most coefficients insignificant — the authors admit it is
+  "questionable."</span>
+- Mô hình 2 (GDPG, GMM sau loại FDI): adjusted R²=0.74; CHỈ tiểu học (t=3.398)/trung học
+  (t=5.126) có ý nghĩa; đại học dương nhưng KHÔNG có ý nghĩa (t=1.079).<br><span class="en">
+  Model 2 (GDPG, GMM after dropping FDI): adjusted R²=0.74; ONLY primary (t=3.398)/secondary
+  (t=5.126) are significant; higher education is positive but NOT significant (t=1.079).</span>
+- Đảo ngược hoàn toàn Hua (2005) cho Trung Quốc (chỉ đại học có ý nghĩa) — "returns to education
+  by level" phụ thuộc giai đoạn phát triển.<br><span class="en">Completely reverses Hua's (2005)
+  China result (only higher education significant) — "returns to education by level" depend on
+  development stage.</span>
+
+**46. Vì sao Hanushek (2016) cho rằng "school attainment" là thước đo vốn con người sai lệch?
+(L75)**<br><span class="en">**46. Why does Hanushek (2016) argue "school attainment" is a
+biased human-capital measure? (L75)**</span>
+- 2 vấn đề: (i) giả định ngầm 1 năm học ở nước A = 1 năm học ở nước B về kỹ năng; (ii) bỏ qua gia
+  đình/sức khỏe/chất lượng trường học.<br><span class="en">2 problems: (i) implicitly assumes a
+  year of school in country A = a year in country B in skill terms; (ii) ignores family/health/
+  school quality.</span>
+- Cognitive skills (điểm test toán/khoa học) giải thích 73.3% biến thiên tăng trưởng (50 nước,
+  1960–2000) so với 25.2% của school attainment; kiểm soát đồng thời → school attainment MẤT ý
+  nghĩa hoàn toàn (t=0.34).<br><span class="en">Cognitive skills (math/science test scores)
+  explain 73.3% of growth variation (50 countries, 1960–2000) vs. 25.2% for school attainment;
+  controlling for both → school attainment LOSES ALL significance (t=0.34).</span>
+- 4 chiến lược kiểm định nhân quả: tách thời gian (test trước 1980 dự báo growth 1980–2000), thu
+  nhập di dân Mỹ theo test quê hương, thay đổi test theo thời gian, IV thể chế trường học.<br><span
+  class="en">4 causality-testing strategies: timing separation (pre-1980 tests predict
+  1980–2000 growth), US immigrant earnings by home-country test scores, changes in test scores
+  over time, an IV based on school-system institutions.</span>
+
+**47. Acemoglu & Johnson (2007) tìm thấy gì gây tranh cãi trong quan hệ sức khỏe-tăng trưởng, và
+Cervellati & Sunde giải quyết ra sao? (L76)**<br><span class="en">**47. What controversial
+finding do Acemoglu & Johnson (2007) report on the health-growth relationship, and how do
+Cervellati & Sunde resolve it? (L76)**</span>
+- AJ (2007): dùng epidemiological transition sau 1940 làm IV, tìm thấy sức khỏe cải thiện → tăng
+  trưởng ÂM (capital dilution kiểu Solow do dân số tăng).<br><span class="en">AJ (2007): using
+  the post-1940 epidemiological transition as an IV, find health improvements → NEGATIVE growth
+  (Solow-style capital dilution from population growth).</span>
+- Aghion et al. (2011)/Bloom et al. (2014): thêm biến sức khỏe BAN ĐẦU vào mô hình AJ → hiệu ứng
+  âm BIẾN MẤT.<br><span class="en">Aghion et al. (2011)/Bloom et al. (2014): adding INITIAL
+  health to the AJ model → the negative effect DISAPPEARS.</span>
+- Cervellati & Sunde (2011): tách mẫu theo demographic transition — âm ở pre-transition, dương ở
+  post-transition — quan hệ hình chữ U ngược (trough-then-peak).<br><span class="en">Cervellati &
+  Sunde (2011): splitting the sample by demographic transition — negative pre-transition,
+  positive post-transition — a trough-then-peak (inverted-U-like) relationship.</span>
+
+**48. Vì sao y tế/giáo dục hiệu quả HƠN hạ tầng ở nước đang phát triển theo Drama et al. (2025)?
+(L77)**<br><span class="en">**48. Why are health/education MORE efficient than infrastructure
+in developing countries per Drama et al. (2025)? (L77)**</span>
+- DEA: y tế 85.37% > giáo dục 84.79% > ngành khác/hạ tầng 71.94% — đảo ngược hoàn toàn mô hình
+  OECD (Afonso & Aubyn 2006: giáo dục 85% > y tế 72%).<br><span class="en">DEA: health 85.37% >
+  education 84.79% > other sectors/infrastructure 71.94% — completely reversing the OECD pattern
+  (Afonso & Aubyn 2006: education 85% > health 72%).</span>
+- Corruption control là driver hiệu quả MẠNH NHẤT, mạnh nhất ở "ngành khác" (0.085) > y tế (0.067)
+  > giáo dục (0.039) — hạ tầng dễ tổn thương tham nhũng hơn.<br><span class="en">Corruption
+  control is the STRONGEST efficiency driver, strongest for "other sectors" (0.085) > health
+  (0.067) > education (0.039) — infrastructure is more vulnerable to corruption.</span>
+- ~16% dư địa cải thiện hiệu quả (28% riêng ngành khác) qua quản trị tốt hơn, KHÔNG cần thêm ngân
+  sách.<br><span class="en">~16% efficiency-improvement headroom exists (28% for other sectors
+  alone) via better governance, WITHOUT more budget.</span>
+
+### Từ LN8 (8 câu)
+<span class="en">### From LN8 (8 questions)</span>
+
+**49. Trung Quốc quản lý CE qua cơ chế nào, và thành phố thí điểm nào hiệu suất tốt/kém nhất theo
+Su et al. (2013)? (L81)**<br><span class="en">**49. Through what mechanism does China govern CE,
+and which pilot city performs best/worst per Su et al. (2013)? (L81)**</span>
+- 2 cơ quan trung ương: MEP (Eco-Industrial Park, 20 chỉ số/4 nhóm) và NDRC (National Pilot CE, 13
+  chỉ số/4 nhóm) — 2 bộ chỉ số song song.<br><span class="en">2 central agencies: MEP
+  (Eco-Industrial Park, 20 indicators/4 groups) and NDRC (National Pilot CE, 13 indicators/4
+  groups) — 2 parallel indicator systems.</span>
+- Thiên Tân hiệu suất tốt nhất tổng thể (4/9 chỉ số đạt chuẩn); Thượng Hải kém nhất ở quản lý rác
+  dù tăng trưởng kinh tế cao nhất — tăng trưởng nhanh không tự động đi kèm CE tốt.<br><span
+  class="en">Tianjin performs best overall (4/9 indicators hit benchmark); Shanghai is worst at
+  waste management despite the highest economic growth — rapid growth doesn't automatically
+  come with good CE.</span>
+- Đại Liên đạt hầu hết mục tiêu 2010 (giảm rác thải 17%, hiệu quả năng lượng +21–27%).<br><span
+  class="en">Dalian achieved most of its 2010 targets (waste −17%, energy efficiency +21–27%).</span>
+
+**50. "Panacea hypothesis" của Heshmati (2017) là gì, và bài nào sau này kiểm định nó?
+(L82)**<br><span class="en">**50. What is Heshmati's (2017) "panacea hypothesis," and which
+later paper tests it? (L82)**</span>
+- Niềm tin (thiếu bằng chứng thực nghiệm) rằng entrepreneur xanh/carbon-thấp sẽ tự động dẫn dắt
+  đổi mới bền vững — literature entrepreneurship-CE khi đó "sơ khai" (2017).<br><span class="en">
+  An unevidenced belief that green/low-carbon entrepreneurs will automatically drive sustainable
+  innovation — the entrepreneurship-CE literature was then "in its infant stage" (2017).</span>
+- Khung Hockerts & Wüstenhagen (2010): "emerging Davids" (start-up bền vững mới) vs "greening
+  Goliaths" (doanh nghiệp lớn xanh hóa dần).<br><span class="en">The Hockerts & Wüstenhagen
+  (2010) framework: "emerging Davids" (new sustainable ventures) vs. "greening Goliaths" (large
+  firms gradually greening).</span>
+- Sharma & Subba (2025, L56, LN5) kiểm định 8 năm sau: xác nhận thận trọng đúng — green startups
+  có tỷ lệ THẤT BẠI cao hơn doanh nghiệp thường.<br><span class="en">Sharma & Subba (2025, L56,
+  LN5) test it 8 years later: confirming the caution was warranted — green startups have a HIGHER
+  failure rate than conventional businesses.</span>
+
+**51. Rào cản CE nào đứng đầu ở EU theo Kirchherr et al. (2018), và cơ chế chuỗi phản ứng là gì?
+(L83)**<br><span class="en">**51. Which CE barrier ranks top in the EU per Kirchherr et al.
+(2018), and what is the chain-reaction mechanism? (L83)**</span>
+- Top 5: thiếu quan tâm/nhận thức tiêu dùng (47%), văn hóa doanh nghiệp do dự (46%), giá nguyên
+  liệu nguyên sinh thấp (45%), vận hành hệ thống tuyến tính (44%), chi phí đầu tư cao (40%) — 3/5
+  là văn hóa, KHÔNG rào cản công nghệ/quy định nào lọt top 5.<br><span class="en">Top 5: lacking
+  consumer interest/awareness (47%), hesitant company culture (46%), low virgin-material prices
+  (45%), operating in a linear system (44%), high investment costs (40%) — 3/5 are cultural, NO
+  regulatory/technological barrier makes the top 5.</span>
+- Chuỗi phản ứng: giá vật liệu nguyên sinh thấp (trợ giá năng lượng) → sản phẩm CE kém cạnh tranh
+  → thiếu quan tâm tiêu dùng → văn hóa doanh nghiệp do dự → "chi phí cao" thành cái cớ.<br><span
+  class="en">Chain reaction: low virgin-material prices (energy subsidies) → less competitive CE
+  products → lacking consumer interest → hesitant company culture → "high costs" becomes a
+  rationalizing excuse.</span>
+- Hàm ý chính sách: nên nhắm rào cản thị trường (bỏ trợ giá nguyên liệu, giảm VAT sửa chữa) thay
+  vì tập trung R&D/công nghệ như Horizon 2020 hiện tại.<br><span class="en">Policy implication:
+  should target market barriers (removing material subsidies, cutting repair VAT) instead of the
+  current Horizon 2020 R&D/technology focus.</span>
+
+**52. García-Barragán et al. (2019) định nghĩa "kinh tế tuần hoàn" bằng công thức toán nào?
+(L84)**<br><span class="en">**52. What mathematical formula does García-Barragán et al. (2019)
+use to define the "circular economy"? (L84)**</span>
+- Chỉ số Cₜ* = Rₜ* − Lₜ* (tổng hoạt động tái chế tối ưu trừ tổng hoạt động tuyến tính tối ưu, có
+  trọng số "intolerance factor" μ), suy từ giải bài toán Lagrangian tối ưu hóa động dòng vật
+  liệu.<br><span class="en">The metric Cₜ* = Rₜ* − Lₜ* (total optimal recycling activity minus
+  total optimal linear activity, weighted by an "intolerance factor" μ), derived from solving a
+  Lagrangian dynamic material-flow optimization problem.</span>
+- Kinh tế tuần hoàn nếu Cₜ*>0; tuyến tính nếu ≤0; "tuần hoàn hơn" nếu Cₜ* lớn hơn ở thời điểm này
+  so với khác.<br><span class="en">The economy is circular if Cₜ*>0; linear if ≤0; "more
+  circular" if Cₜ* is larger at one time than another.</span>
+- Ưu điểm: bao trùm cả tái chế lẫn chiến lược thay thế (kéo dài vòng đời, mô hình kinh doanh mới)
+  — không chỉ recycling rate đơn thuần.<br><span class="en">Advantage: encompasses both recycling
+  and alternative strategies (lifetime extension, new business models) — not just a plain
+  recycling rate.</span>
+
+**53. Saidani et al. (2019) tìm thấy gì về 55 bộ chỉ số CE hiện có? (L85)**<br><span class="en">
+**53. What do Saidani et al. (2019) find about the 55 existing CE indicator sets? (L85)**</span>
+- 90% chỉ số cấp micro có vòng lặp recycling nhưng chỉ 45% bao trùm đủ cả 3 vòng lặp chính
+  (maintain/recycle/remanufacture-reuse).<br><span class="en">90% of micro-level indicators
+  include a recycling loop but only 45% cover all 3 main loops (maintain/recycle/
+  remanufacture-reuse).</span>
+- 80% đo circularity nội tại (intrinsic); chỉ 40% đo tác động bền vững (impact); chỉ 20% đo CẢ
+  HAI — khía cạnh xã hội gần như bị bỏ qua.<br><span class="en">80% measure intrinsic
+  circularity; only 40% measure sustainability impact; only 20% measure BOTH — the social
+  dimension is almost entirely neglected.</span>
+- Taxonomy 10 danh mục + công cụ "C-Indicators Advisor" giúp lựa chọn chỉ số phù hợp thay vì tạo
+  thêm 1 định nghĩa/chỉ số mới.<br><span class="en">A 10-category taxonomy + the "C-Indicators
+  Advisor" tool helps select the appropriate indicator instead of creating yet another
+  definition/metric.</span>
+
+**54. Vì sao Stockholm có CEI thấp nhất Thụy Điển dù là thủ đô phát triển nhất theo Heshmati &
+Rashidghalam (2021)? (L86)**<br><span class="en">**54. Why does Stockholm have Sweden's lowest
+CEI despite being its most developed capital, per Heshmati & Rashidghalam (2021)? (L86)**</span>
+- Hồi quy FE: mật độ dân số (RESID) và tỷ lệ thất nghiệp (UNEMP) đều có hệ số ÂM có ý nghĩa; đô
+  thị lớn/mật độ cao có nhu cầu năng lượng/nước cao hơn → thách thức quản lý rác/ô nhiễm lớn
+  hơn.<br><span class="en">FE regression: population density (RESID) and the unemployment rate
+  (UNEMP) both have significant NEGATIVE coefficients; large/dense cities have higher energy/
+  water demand → greater waste/pollution challenges.</span>
+- Gotland xếp #1 (88.35, vùng ngoại vi dân số thưa); Stockholm CUỐI (29.50).<br><span class="en">
+  Gotland ranks #1 (88.35, a sparsely populated peripheral region); Stockholm ranks LAST
+  (29.50).</span>
+- Phí thu gom rác (WCOL) là đòn bẩy chính sách MẠNH NHẤT (+1 SEK/m² → CEI +0.50 đơn vị) — cơ chế
+  giá hiệu quả hơn quy mô kinh tế.<br><span class="en">The waste-collection charge (WCOL) is the
+  STRONGEST policy lever (+1 SEK/m² → CEI +0.50 units) — the price mechanism is more effective
+  than economic scale.</span>
+
+**55. Nademi & Sedaghat Kalmarzi (2025) tìm thấy CE tác động thế nào lên thất nghiệp châu Âu?
+(L87)**<br><span class="en">**55. How do Nademi & Sedaghat Kalmarzi (2025) find CE affects
+European unemployment? (L87)**</span>
+- Spectral clustering: 3 cụm nước, nước CE cao nhất thuộc cụm thất nghiệp thấp nhất.<br><span
+  class="en">Spectral clustering: 3 country clusters, with the highest-CE countries in the
+  lowest-unemployment cluster.</span>
+- Panel GMM, 8 mô hình: cả 8/8 chỉ số CE đều giảm thất nghiệp có ý nghĩa; chỉ số CE tổng hợp PCA
+  của nhóm tác giả tác động mạnh nhất.<br><span class="en">Panel GMM, 8 models: all 8/8 CE
+  indexes significantly reduce unemployment; the authors' own PCA composite CE index has the
+  strongest effect.</span>
+- 2 sub-index mạnh nhất: đầu tư tư nhân + giá trị gia tăng ngành CE, thương mại nguyên liệu tái
+  chế; khuyến nghị tích hợp "circular justice" tránh làm trầm trọng bất bình đẳng nhóm yếu thế.<br><span
+  class="en">2 strongest sub-indexes: private investment + gross value added of CE sectors,
+  recyclable-material trade; recommends integrating "circular justice" to avoid worsening
+  inequality for marginalized groups.</span>
+
+**56. Luengo Vera et al. (2025) phát hiện gì về cấu trúc khoa học của literature
+innovation-CE-SDG? (L88)**<br><span class="en">**56. What do Luengo Vera et al. (2025) find about
+the scientific structure of the innovation-CE-SDG literature? (L88)**</span>
+- Bibliometric 1630 bài Scopus 2020–2024: innovation là nút trung tâm/"systemic enabler" kết nối
+  giải pháp công nghệ-tổ chức với khung bền vững.<br><span class="en">A bibliometric analysis of
+  1630 Scopus articles 2020–2024: innovation is the central node/"systemic enabler" linking
+  technological-organizational solutions to sustainability frameworks.</span>
+- Bibliographic coupling: Trung Quốc, Anh, Ấn Độ là 3 cực khoa học chính — bối cảnh đa cực nhưng
+  KHÔNG đồng đều; Việt Nam không xuất hiện trong 3 cực này.<br><span class="en">Bibliographic
+  coupling: China, the UK, India are the 3 main scientific poles — a multipolar yet UNEVEN
+  landscape; Vietnam does not appear among these 3 poles.</span>
+- 3 SDG gắn chặt nhất: SDG 9 (industry/innovation/infrastructure), SDG 12 (responsible
+  consumption/production), SDG 13 (climate action).<br><span class="en">The 3 most tightly linked
+  SDGs: SDG 9 (industry/innovation/infrastructure), SDG 12 (responsible consumption/production),
+  SDG 13 (climate action).</span>
+
+### Xuyên lecture (LN6–8) — 5 câu, xem mục 3 để lập luận chi tiết
+<span class="en">### Cross-Lecture (LN6–8) — 5 questions, see section 3 for detailed
+arguments</span>
+
+**57. Ba bài LN7 hoài nghi "mở rộng higher education" qua 3 cơ chế khác nhau (3.14)**<br><span
+class="en">**57. LN7's three papers are skeptical of "expanding higher education" via 3
+different mechanisms (3.14)**</span>
+- Hanushek: thiếu knowledge capital (cung–chất lượng). Dao: thiếu đóng góp TFP thực (cung–năng
+  suất). McGuinness: cầu lao động không theo kịp cung (cầu–cấu trúc).<br><span class="en">
+  Hanushek: missing knowledge capital (supply–quality). Dao: no real TFP contribution (supply–
+  productivity). McGuinness: labor demand not keeping pace with supply (demand–structure).</span>
+- Policy khác nhau tùy cơ chế: Hanushek/Dao → cải thiện chất lượng giáo dục phổ thông trước ĐH;
+  McGuinness → cải cách FDI/công nghiệp tạo cầu lao động trình độ cao.<br><span class="en">Policy
+  differs by mechanism: Hanushek/Dao → improve basic-education quality before higher education;
+  McGuinness → reform FDI/industrial policy to create high-skill labor demand.</span>
+
+**58. L61 (TFP âm) bổ sung góc nhìn gì cho tranh luận middle-income trap đã có ở L11? (3.15)**<br><span
+class="en">**58. What angle does L61 (negative TFP) add to the middle-income-trap debate already
+raised at L11? (3.15)**</span>
+- L11: phản bác MIT bằng GDP growth (middle-income tăng nhanh nhất từ 1980s).<br><span
+  class="en">L11: rebuts the MIT using GDP growth (middle-income countries grow fastest since the
+  1980s).</span>
+- L61: dưới lớp đó, TC/TFP growth âm ở mọi nhóm thu nhập — tăng trưởng có thể đến từ tích lũy
+  input hơn năng suất thực; L73 bổ sung thêm kênh lao động kỹ năng (low skills trap).<br><span
+  class="en">L61: beneath that layer, TC/TFP growth is negative in every income group — growth
+  may stem from input accumulation rather than real productivity; L73 adds a skilled-labor
+  channel (a low skills trap).</span>
+
+**59. Vì sao rào cản công nghệ CE đứng đầu ở Trung Quốc (L81/L82) nhưng cuối bảng ở EU (L83)?
+(3.19)**<br><span class="en">**59. Why do technological CE barriers rank top in China (L81/L82)
+but last in the EU (L83)? (3.19)**</span>
+- Khác biệt trình độ phát triển: TQ có thể thực sự thiếu công nghệ; EU có công nghệ nhưng thiếu
+  động lực văn hóa/thị trường.<br><span class="en">A development-level difference: China may
+  genuinely lack technology; the EU has technology but lacks cultural/market motivation.</span>
+- Khác biệt phương pháp: L81/L82 review định tính, L83 khảo sát định lượng large-N 208+47.<br><span
+  class="en">A methodological difference: L81/L82 are qualitative reviews, L83 is a large-N
+  quantitative survey (208+47).</span>
+
+**60. So sánh mô hình quản trị CE Trung Quốc (L81) và Thụy Điển (L86), và quan hệ quy mô đô thị
+đảo chiều thế nào? (3.20)**<br><span class="en">**60. Compare China's (L81) and Sweden's (L86)
+CE governance models — how does the city-scale relationship reverse? (3.20)**</span>
+- TQ: top-down, 2 cơ quan trung ương. Thụy Điển: phân quyền, đòn bẩy giá (WCOL).<br><span
+  class="en">China: top-down, 2 central agencies. Sweden: decentralized, price levers
+  (WCOL).</span>
+- L71 (TQ, LN7): tỉnh lớn/giàu → hạ tầng tốt hơn. L86 (Thụy Điển): đô thị lớn/mật độ cao
+  (Stockholm) → CEI THẤP nhất — đảo chiều hoàn toàn dù cùng tác giả/công cụ đo.<br><span
+  class="en">L71 (China, LN7): larger/richer provinces → better infrastructure. L86 (Sweden): the
+  largest/densest city (Stockholm) → LOWEST CEI — a complete reversal despite the same author/
+  measurement tool.</span>
+
+**61. Corruption control là biến hội tụ xuyên 3 lecture (L22, L26, L77) — trình bày bằng chứng
+mỗi bài (3.18)**<br><span class="en">**61. Corruption control is a convergent variable across 3
+lectures (L22, L26, L77) — present each paper's evidence (3.18)**</span>
+- Mauro (L22, LN2): corruption → investment −2.9%GDP/1SD. Huynh & Tran (L26, LN2): governance/
+  PAPI có hệ số âm lớn nhất giảm informal economy. Drama et al. (L77, LN7): corruption control là
+  driver hiệu quả đầu tư công mạnh nhất mọi ngành.<br><span class="en">Mauro (L22, LN2):
+  corruption → investment −2.9% of GDP per 1-SD. Huynh & Tran (L26, LN2): governance/PAPI has
+  the largest negative coefficient reducing the informal economy. Drama et al. (L77, LN7):
+  corruption control is the strongest public-investment-efficiency driver across every sector.</span>
+- 3 lecture, 3 outcome khác nhau, cùng hội tụ: chất lượng thể chế là biến số nền tảng xuyên môn
+  học.<br><span class="en">3 lectures, 3 different outcomes, all converging: institutional
+  quality is a foundational variable running through the entire course.</span>
+
 ## 6. Đề thi khóa trước (tham khảo định dạng thật) & đề mô phỏng K32
 <span class="en">## 6. Previous-Cohort Exam (Real Format Reference) & K32 Mock Exams</span>
 
@@ -1130,26 +1991,30 @@ development, and what are the main barriers per Sharma & Subba (2025)? (L56)**</
   K32.<br><span class="en">Main value: getting familiar with the **question type** ("present the
   findings + drivers/impacts/mechanism of one specific paper") — likely to reappear on the K32
   exam.</span>
-- [[k32-mock-exam-1]] (LN1–LN2) và [[k32-mock-exam-2]] (LN3–LN5) — đề thi **mô phỏng cho K32**
-  (Claude tự soạn, KHÔNG phải đề thật — giáo sư chưa công bố shortlist/đề K32), bám đúng
-  format/luật thi của [[k31-final-exam]] nhưng thay bằng 12/29 paper đã deep-ingest của K32, trải
-  đều cả 7 cụm chủ đề.<br><span class="en">[[k32-mock-exam-1]] (LN1–LN2) and
-  [[k32-mock-exam-2]] (LN3–LN5) — **mock exams for K32** (authored by Claude, NOT the real exam
+- [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5) và [[k32-mock-exam-3]] (LN6–LN8) —
+  đề thi **mô phỏng cho K32** (Claude tự soạn, KHÔNG phải đề thật — giáo sư chưa công bố
+  shortlist/đề K32), bám đúng format/luật thi của [[k31-final-exam]] nhưng thay bằng 18/49 paper
+  đã deep-ingest của K32 (12 ở Set 1-2, thêm 6 paper LN6-8 mới ở Set 3), trải đều cả 10 cụm chủ
+  đề.<br><span class="en">[[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5) and
+  [[k32-mock-exam-3]] (LN6–LN8) — **mock exams for K32** (authored by Claude, NOT the real exam
   — the professor hasn't published K32's shortlist/exam), closely following
-  [[k31-final-exam]]'s format/rules but substituting 12/29 of K32's deep-ingested papers, spread
-  across all 7 thematic clusters.</span> Dùng để luyện dạng câu hỏi + luyện viết đáp án đúng
-  khuôn khổ thi thật. Sẽ mở rộng thêm set/câu hỏi mỗi khi có reading mới được deep-ingest (xem
-  CLAUDE.md).<br><span class="en">Used to practice the question type + practice writing answers
-  within the real exam's constraints. Will be expanded with more sets/questions whenever a new
-  reading is deep-ingested (see CLAUDE.md).</span>
+  [[k31-final-exam]]'s format/rules but substituting 18/49 of K32's deep-ingested papers (12 in
+  Sets 1-2, plus 6 new LN6-8 papers in Set 3), spread across all 10 thematic clusters.</span>
+  Dùng để luyện dạng câu hỏi + luyện viết đáp án đúng khuôn khổ thi thật. Sẽ mở rộng thêm set/câu
+  hỏi mỗi khi có reading mới được deep-ingest (xem CLAUDE.md).<br><span class="en">Used to
+  practice the question type + practice writing answers within the real exam's constraints. Will
+  be expanded with more sets/questions whenever a new reading is deep-ingested (see
+  CLAUDE.md).</span>
 
 ## Liên kết
 
 - [[overview]] · [[all-papers-mindmap]] · [[ln1-economic-development]] ·
   [[ln2-governance-institutions-policy-making]] · [[ln3-financial-crisis-and-pandemics]] ·
   [[ln4-agriculture-climate-change-natural-disasters]] ·
-  [[ln5-entrepreneurship-economic-development]]
-- Tất cả 29 source pages: [[l11-patel-2021-unconditional-convergence]],
+  [[ln5-entrepreneurship-economic-development]] · [[ln6-technology-growth-inequality-poverty]] ·
+  [[ln7-investment-infrastructure-health-education]] ·
+  [[ln8-circular-economy-inclusive-sustainable-development]]
+- Tất cả 49 source pages: [[l11-patel-2021-unconditional-convergence]],
   [[l12-nunn-2019-rethinking-econ-dev]], [[l13-spolaore-2013-deep-roots]],
   [[l14-sasges-2025-vietnam-policies]], [[l15-yin-2025-china-hqed]],
   [[l21-acemoglu-2001-colonial-origins]], [[l22-mauro-1995-corruption-growth]],
@@ -1172,7 +2037,27 @@ development, and what are the main barriers per Sharma & Subba (2025)? (L56)**</
   [[l53-naude-2010-entrepreneurship-development-economics]],
   [[l54-mendez-picazo-2012-governance-entrepreneurship-growth]],
   [[l55-stein-2026-digital-entrepreneurship-fintech-denmark]],
-  [[l56-sharma-subba-2025-green-startups-sustainability]]
+  [[l56-sharma-subba-2025-green-startups-sustainability]],
+  [[l61-heshmati-rashidghalam-2020-tfp-technology-shifters]],
+  [[l62-loof-heshmati-2006-innovation-performance]],
+  [[l63-tran-alkire-klasen-2015-monetary-multidimensional-poverty-vietnam]],
+  [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]],
+  [[l65-nguyen-2019-energy-transition-poverty-inequality-vietnam]],
+  [[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]],
+  [[l72-kadyraliev-2022-transport-infrastructure-investment]],
+  [[l73-mcguinness-2021-returns-to-education-vietnam]],
+  [[l74-dao-2020-education-economic-growth-vietnam]],
+  [[l75-hanushek-2016-higher-education-economic-growth]],
+  [[l76-bloom-2018-health-economic-growth]],
+  [[l77-drama-2025-public-investment-allocation-efficiency]],
+  [[l81-su-2013-circular-economy-china]],
+  [[l82-heshmati-2017-review-circular-economy-implementation]],
+  [[l83-kirchherr-2018-barriers-circular-economy-eu]],
+  [[l84-garcia-barragan-2019-defining-measuring-circular-economy]],
+  [[l85-saidani-2019-taxonomy-circular-economy-indicators]],
+  [[l86-heshmati-rashidghalam-2021-urban-circular-economy-sweden]],
+  [[l87-nademi-kalmarzi-2025-circular-economy-unemployment]],
+  [[l88-vera-2025-innovation-circular-economy-sdgs]]
 - **Bản tương tác (Artifact)**: mindmap có thể bấm mở/đóng từng paper + tab "Tự test" dạng
   flashcard (đều private, cần bấm Share trên trang đó nếu muốn gửi cho người khác):<br><span
   class="en">**Interactive Version (Artifact)**: an expandable/collapsible mindmap per paper +

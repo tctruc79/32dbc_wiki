@@ -3,7 +3,7 @@ type: concept
 title: "Middle-Income Trap"
 tags: [growth, development-traps, technology]
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-08-01
 status: complete
 ---
 
@@ -32,6 +32,16 @@ empirically refutes it. A possible reconciliation: the trap may still hold at th
 level (technology-upgrading failure within individual countries) even though it does not show
 up in cross-country averages.
 
+**Additional mechanism-level evidence from LN6 (2026-08-01)**:
+[[l61-heshmati-rashidghalam-2020-tfp-technology-shifters]] (LN6) provides concrete evidence
+supporting the "mechanism-level" reconciliation above — the paper finds technical change (TC)
+and TFP growth are NEGATIVE across **ALL** country income groups (including both the very-low
+and very-high groups) in the technology index model, 1996–2013, even though input elasticities
+(labor/capital/energy) remain positive and returns to scale > 1. In other words: observed GDP
+growth may stem from input ACCUMULATION rather than genuine productivity improvement —
+consistent with the "technology-upgrading failure" mechanism the middle-income trap posits,
+even though it does not clearly show up in average GDP/capita growth (per L11).
+
 ## In the course
 
 - The focus of Essay Topic Area 1: growth slowdowns in emerging economies are attributed to the
@@ -45,3 +55,5 @@ up in cross-country averages.
 - [[technology-upgrading]], [[creative-accumulation]], [[unconditional-convergence]] (the
   opposite view: Patel et al. 2021 show that poorer countries are converging — the trap is not
   destiny).
+- [[l61-heshmati-rashidghalam-2020-tfp-technology-shifters]] (LN6, mechanism-level evidence:
+  TC/TFP growth negative across all income groups) · [[technology-change-and-tfp-growth]] (LN6)

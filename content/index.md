@@ -78,14 +78,30 @@ course map. Sources: [[syllabus-2026]], [[essays-instructions]].</span>
    ([[l54-mendez-picazo-2012-governance-entrepreneurship-growth]]), Stein et al. 2026
    ([[l55-stein-2026-digital-entrepreneurship-fintech-denmark]]), Sharma & Subba 2025
    ([[l56-sharma-subba-2025-green-startups-sustainability]]).
-6. **Innovation, Technology, Growth, Inequality and Poverty** — Heshmati & Rashidghalam 2020
-   (TFP), Lööf & Heshmati 2006, Tran-Alkire-Klasen 2015, Nguyen & Pham 2018, Nguyen et al. 2019.
-7. **Investment in Development Infrastructure, Health, Education** — Heshmati & Rashidghalam
-   2020 (urban infra), Kadyraliev et al. 2022, McGuinness et al. 2021 (returns to education VN),
-   Dao 2020, Hanushek 2016, Bloom-Kuhn-Prettner 2018, Drama et al. 2025.
-8. **Circular Economy, Inclusive and Sustainable Development** — Su et al. 2013, Heshmati 2017,
-   Kirchherr et al. 2018, Garcia-Barragan et al. 2019, Saidani et al. 2019,
-   Heshmati & Rashidghalam 2021.
+6. **Innovation, Technology, Growth, Inequality and Poverty** — [[ln6-technology-growth-inequality-poverty]]
+   — readings: Heshmati & Rashidghalam 2020 ([[l61-heshmati-rashidghalam-2020-tfp-technology-shifters]],
+   TFP), Lööf & Heshmati 2006 ([[l62-loof-heshmati-2006-innovation-performance]]), Tran, Alkire &
+   Klasen 2015 ([[l63-tran-alkire-klasen-2015-monetary-multidimensional-poverty-vietnam]]), Nguyen &
+   Pham 2018 ([[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]]), Nguyen et al. 2019
+   ([[l65-nguyen-2019-energy-transition-poverty-inequality-vietnam]]).
+7. **Investment in Development Infrastructure, Health, Education** — [[ln7-investment-infrastructure-health-education]]
+   — readings: Heshmati & Rashidghalam 2020 ([[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]],
+   urban infra), Kadyraliev et al. 2022 ([[l72-kadyraliev-2022-transport-infrastructure-investment]]),
+   McGuinness et al. 2021 ([[l73-mcguinness-2021-returns-to-education-vietnam]], returns to
+   education VN), Dao 2020 ([[l74-dao-2020-education-economic-growth-vietnam]]), Hanushek 2016
+   ([[l75-hanushek-2016-higher-education-economic-growth]]), Bloom, Kuhn & Prettner 2018
+   ([[l76-bloom-2018-health-economic-growth]]), Drama et al. 2025
+   ([[l77-drama-2025-public-investment-allocation-efficiency]]).
+8. **Circular Economy, Inclusive and Sustainable Development** — [[ln8-circular-economy-inclusive-sustainable-development]]
+   — readings: Su, Heshmati, Geng & Yu 2013 ([[l81-su-2013-circular-economy-china]]), Heshmati 2017
+   ([[l82-heshmati-2017-review-circular-economy-implementation]]), Kirchherr et al. 2018
+   ([[l83-kirchherr-2018-barriers-circular-economy-eu]]), García-Barragán et al. 2019
+   ([[l84-garcia-barragan-2019-defining-measuring-circular-economy]]), Saidani et al. 2019
+   ([[l85-saidani-2019-taxonomy-circular-economy-indicators]]), Heshmati & Rashidghalam 2021
+   ([[l86-heshmati-rashidghalam-2021-urban-circular-economy-sweden]]), Nademi & Sedaghat Kalmarzi
+   2025 ([[l87-nademi-kalmarzi-2025-circular-economy-unemployment]]), Luengo Vera et al. 2025
+   ([[l88-vera-2025-innovation-circular-economy-sdgs]]) — 8 readings, 2 nhiều hơn dự kiến ban đầu
+   trong syllabus (L87, L88 giáo sư bổ sung thêm).
 9. **AI, Digitalization, Economic Growth and Development** — Pham et al. 2020/2024, Rakholia
    et al. 2022, VietDuc et al. 2024, Tam et al. 2024, Kuosmanen-Pajarinen-Heshmati 2026.
 10. **Impacts of Trade War on Vietnamese Economy + Sum up** — Robinson & Thierfelder 2024,
@@ -96,11 +112,11 @@ course map. Sources: [[syllabus-2026]], [[essays-instructions]].</span>
 <span class="en">## Exam preparation</span>
 
 [[exam-prep]] — trang trung tâm để ôn thi cuối kỳ: quy trình 5 bước, bảng tra nhanh, tranh
-luận giữa các paper, concept map, ngân hàng 36 câu hỏi. [[all-papers-mindmap]] — bản mindmap
-mermaid cùng 7 cụm chủ đề, bổ sung cho mindmap theo-slide trong từng trang lecture.<br><span
+luận giữa các paper, concept map, ngân hàng 61 câu hỏi. [[all-papers-mindmap]] — bản mindmap
+mermaid cùng 10 cụm chủ đề, bổ sung cho mindmap theo-slide trong từng trang lecture.<br><span
 class="en">[[exam-prep]] — the central page for final-exam review: a 5-step process, a
-quick-reference table, cross-paper debates, a concept map, a 36-question bank.
-[[all-papers-mindmap]] — a mermaid mindmap of the 7 thematic clusters, complementing the
+quick-reference table, cross-paper debates, a concept map, a 61-question bank.
+[[all-papers-mindmap]] — a mermaid mindmap of the 10 thematic clusters, complementing the
 per-slide mindmap on each lecture page.</span>
 
 **Bản tương tác** (đều private, cần bấm Share trên trang đó nếu muốn gửi cho người khác):<br><span
@@ -139,4 +155,7 @@ Xoay quanh: [[technology-upgrading]], [[middle-income-trap]], [[middle-innovatio
 | 3. Financial Crisis and Pandemics | Đầy đủ — lecture note ([[ln3-financial-crisis-and-pandemics]]) + 6 readings đều đã deep-ingest (L35, L36 giới hạn bởi paywall — chỉ có abstract) |
 | 4. Agriculture, Climate Change and Natural Disasters | Đầy đủ — lecture note ([[ln4-agriculture-climate-change-natural-disasters]]) + 6 readings đều đã deep-ingest |
 | 5. Entrepreneurship and Economic Development | Đầy đủ — lecture note ([[ln5-entrepreneurship-economic-development]]) + 6 readings đều đã deep-ingest |
-| 6–10 | Chưa có tài liệu trong raw sources |
+| 6. Innovation, Technology, Growth, Inequality and Poverty | Đầy đủ — lecture note ([[ln6-technology-growth-inequality-poverty]]) + 5 readings đều đã deep-ingest |
+| 7. Investment in Development Infrastructure, Health, Education | Đầy đủ — lecture note ([[ln7-investment-infrastructure-health-education]]) + 7 readings đều đã deep-ingest |
+| 8. Circular Economy, Inclusive and Sustainable Development | Đầy đủ — lecture note ([[ln8-circular-economy-inclusive-sustainable-development]]) + 8 readings đều đã deep-ingest (L87, L88 giới hạn bởi paywall — chỉ có abstract) |
+| 9–10 | Chưa có tài liệu trong raw sources |

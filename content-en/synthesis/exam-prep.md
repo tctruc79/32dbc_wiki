@@ -1,51 +1,54 @@
 ---
 type: synthesis
-title: "Final Exam Prep — Master Synthesis (LN1–LN5)"
-tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis, agriculture, climate-vulnerability, entrepreneurship]
+title: "Final Exam Prep — Master Synthesis (LN1–LN8)"
+tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis, agriculture, climate-vulnerability, entrepreneurship, total-factor-productivity, human-capital, circular-economy, poverty, infrastructure, health]
 created: 2026-07-24
-updated: 2026-07-30
+updated: 2026-08-01
 status: complete
 ---
 
 # Final Exam Prep — Master Synthesis
 
-The central reference point for exam prep, pulling together all 29 deep-ingested papers
-(LN1–LN5) into: a quick-lookup table, 7 thematic clusters, **debates/tensions between
-papers** (the focus of comparison-style exam questions), a concept map, and a question bank.
-This page is updated continuously — whenever a new lecture/reading is ingested, it gets added
-here per the rules in CLAUDE.md. See also the visual version: the mindmap Artifact (link sent
-in chat) and [[all-papers-mindmap]] (a mermaid mindmap grouped into the same clusters, more
-compact).
+The central reference point for exam review, gathering all 49 deep-ingested papers (LN1–LN8)
+into: a quick-lookup table, 10 thematic clusters, **debates/tensions between papers** (the focus
+of comparison-style exam questions), a concept map, and a question bank. This page is updated
+continuously — whenever a new lecture/reading is ingested, it is added here right away per the
+rules in CLAUDE.md. See also the visual version: the mindmap Artifact (link sent in chat) and
+[[all-papers-mindmap]] (a mermaid mindmap grouped into the same clusters, with less text).
 
-## 5-step exam prep process
+## 5-Step Exam Review Process
 
-1. **Get the big picture first** (~10 min) — read section 1 (quick-lookup table) + section 2
-   (7 thematic clusters) below, or the [[all-papers-mindmap]] page.
-2. **Study by cluster, not by slide order** — Deep Roots (L13) → Convergence (L11, L14, L15)
-   → Institutions (L21 trunk + L22/23/24/26) → Policy Critique (L12, L25) → Banking Crisis
-   (L31 trunk + L32/33/34/35/36) → Agriculture & Land Institutions/Climate Vulnerability
-   (L41/42 trunk pair + L43/44/45/46) → Entrepreneurship & Institutions (L53 trunk +
-   L51/52/54/55/56). Exams often ask you to compare *within* a cluster.
-3. **Study the "debates" section (section 3) — the most important part.** This is exactly the
-   shape of question that tends to show up on comparison-style exams; learn the arguments on
-   **both sides**, not just one.
-4. **Test yourself actively, don't just re-read.** Cover the answers, answer first, then check
-   (section 5 below, or the interactive version in the Artifact — see the link at the end of
+1. **First grasp the overall map** (~10 minutes) — read section 1 (quick-lookup table) +
+   section 2 (10 thematic clusters) below, or the [[all-papers-mindmap]] page.
+2. **Study by cluster, not slide order** — Deep Roots (L13) → Convergence (L11, L14, L15) →
+   Institutions (L21 trunk + L22/23/24/26) → Policy Critique (L12, L25) → Banking Crisis (L31
+   trunk + L32/33/34/35/36) → Agriculture & Land Institutions/Climate Vulnerability (L41/42 trunk
+   pair + L43/44/45/46) → Entrepreneurship & Institutions (L53 trunk + L51/52/54/55/56) →
+   Technology, Productivity & Vietnam Poverty Measurement (L61/62 methodological pair + L63/64/65
+   Vietnam poverty triangle) → Human Capital, Infrastructure & Public Investment (L71/72
+   infrastructure + L73/74/75 education + L76 health + L77 allocative efficiency) → Circular
+   Economy (L81-88, 2 empirical cases + 3 definition/measurement papers + 2 emerging channels).
+   Exams often ask comparisons *within* a cluster.
+3. **Study the "debates" section (section 3) — the most important part.** It's exactly the
+   comparison-style question type that shows up on exams; learn the arguments on **both sides**,
+   not just one.
+4. **Actively self-test, don't just re-read.** Cover the answer, try to answer first, then check
+   (section 5 below, or the interactive version in the Artifact — see the link at the bottom of
    the page).
-5. **Track 2 upcoming milestones**: the shortlist of 20 readings (30/8), and the Written Exam
-   date (06/9 — confirmed) ([[ln0-course-intro]]).
+5. **Track 2 milestones**: the 20-paper shortlist (30/8), the Written Exam (06/9 — confirmed)
+   ([[ln0-course-intro]]).
 
-If time is short: prioritize steps 3 + 4, skip re-reading every paper in detail.
+If time is short: prioritize steps 3 + 4, skip re-reading each paper in detail.
 
-## 0. To track before the exam
+## 0. To Track Before the Exam
 
 | Item | Status |
 |---|---|
-| Shortlist of 20 readings for the written exam | ⏳ Professor sends **30/8** (updated — syllabus originally said 23/8) — **not yet available**, this is the real exam scope |
-| Written Exam date | ✅ **06/9** — confirmed via the "Planning Schedule" slide update shown in class (resolves the earlier syllabus 30/8 vs LN0 06/9 conflict) — see [[ln0-course-intro]] |
-| Current wiki coverage | LN1 (5) + LN2 (6) + LN3 (6) + LN4 (6) + LN5 (6) = 29 papers. Lectures 6–10 **have no** material in `raw/` yet |
+| Shortlist of 20 readings for the written exam | ⏳ Professor sends **30/8** (updated — original syllabus said 23/8) — **NOT yet available**, this is the real exam scope |
+| Written Exam date | ✅ **06/9** — confirmed via the "Planning Schedule" slide updated in class (resolves the earlier syllabus 30/8 vs LN0 06/9 conflict) — see [[ln0-course-intro]] |
+| Current wiki coverage | LN1 (5) + LN2 (6) + LN3 (6) + LN4 (6) + LN5 (6) + LN6 (5) + LN7 (7) + LN8 (8) = 49 papers. Lectures 9–10 **have no** material in `raw/` yet |
 
-## 1. Quick-lookup table — 29 papers
+## 1. Quick-Lookup Table — 49 Papers
 
 | Code | Paper                              | Lecture | Method                                            | Key finding (1 line)                                                        |
 | --- | ---------------------------------- | ------- | ------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -78,8 +81,28 @@ If time is short: prioritize steps 3 + 4, skip re-reading every paper in detail.
 | L54 | Méndez-Picazo et al. 2012, ERD      | LN5     | Two-equation panel, 11 developed countries 2002–2007 | Governance (Acemoglu 2003 framework) → positive → entrepreneurship → growth; Gini positively linked to entrepreneurship |
 | L55 | Stein et al. 2026, Technovation     | LN5     | Longitudinal qualitative case study, Danish FinTech DEE | Institutional entrepreneurs open Naudé's "black box" through collective effort + neutral leadership |
 | L56 | Sharma & Subba 2025, IGD            | LN5     | Scoping review of >100 sources, TBL+EMT framework | Green startups: jobs/eco-innovation/circular economy but funding/regulatory barriers; no unified ESG standard |
+| L61 | Heshmati & Rashidghalam 2020, JPA   | LN6     | Translog production function, panel of 190 countries 1996-2013 | TC/TFP growth NEGATIVE across ALL income groups; human capital index elasticity highest (0.234), technology index NEGATIVE (−0.043) |
+| L62 | Lööf & Heshmati 2006, EINT          | LN6     | CDM-style knowledge production function, Swedish CIS 1996-1998, 3,190 firms | Simple OLS is biased DOWNWARD (0.054 vs. 0.121); manufacturing/service firms strikingly similar |
+| L63 | Tran, Alkire & Klasen 2015, REI     | LN6     | Alkire-Foster method, panel of VN households 2007/2008/2010 | Monetary/multidimensional-poor overlap <50%; monetary poverty falls markedly faster; nutrition/health functioning is the main driver |
+| L64 | Nguyen & Pham 2018, APEL            | LN6     | FGT + Datt-Ravallion decomposition + Kakwani-Pernia, VLSS/VHLSS 1993-2008 | 1993-98 inequality rises (pro-poor 0.90); 2004-08 falls (pro-poor 1.80, highly pro-poor); poverty is now more sensitive to inequality than growth |
+| L65 | Nguyen et al. 2019, Energy Policy   | LN6     | SUREG + Probit, VHLSS 2004-2016, >9,000 households/wave | Energy-cost poverty RISES even as income/electricity poverty falls; coal/biomass Gini surges 0.52→0.79 |
+| L71 | Heshmati & Rashidghalam 2020, JIS   | LN7     | PCA (74→15→1 index), panel N=310, 31 Chinese provinces 2005-2014 | 8/15 infrastructure components significantly positive for urbanization; a clear East-West gap (Guangdong highest/Tibet lowest) |
+| L72 | Kadyraliev et al. 2022, TRP         | LN7     | Literature review + OLS n=7, Kyrgyzstan ODA case 1992-2018 | No statistical significance reported anywhere; ODA road quality fell 82%→34% "good" (2009-2019) |
+| L73 | McGuinness et al. 2021, WD          | LN7     | Mincer + Heckman selection, 5 VHLSS waves 2002-2016  | University premium rises sharply 2002-2010, reverses ~25pp 2010-2012; warns of a "low skills trap" |
+| L74 | Dao & Trinh 2020, JEP               | LN7     | DEA/Malmquist TFP + GMM, VN 2000-2015, benchmarked against Hua 2005 | ONLY primary/secondary significant for GDP growth; higher education NOT significant — reversing China's result |
+| L75 | Hanushek 2016, OREP                 | LN7     | OLS cross-country, 50 countries 1960-2000            | Cognitive skills explain 73% of growth variation (vs. 25% for school attainment); controlling for cognitive skills makes schooling lose significance |
+| L76 | Bloom, Kuhn & Prettner 2018, IZA DP | LN7     | Theoretical + empirical literature review           | The Preston curve; AJ's (2007) controversial negative health→growth finding; Cervellati & Sunde reconcile it via demographic transition (inverted-U) |
+| L77 | Drama, Soro & Senou 2025, SSHO      | LN7     | DEA + SFA + two-stage Tobit, panel of 75 developing countries 2002-2022 | Health (85.37%) > education (84.79%) > other sectors (71.94%) — reversing the OECD pattern; corruption control is the strongest driver |
+| L81 | Su, Heshmati, Geng & Yu 2013, JCP   | LN8     | % change/relative-performance comparison, 4 Chinese cities 2005-2010 | Tianjin best overall, Shanghai worst despite the highest economic growth; top-down governance via 2 agencies (MEP/NDRC) |
+| L82 | Heshmati 2017, IJGE                 | LN8     | Global review (China/Germany/Japan/EU/Sweden) + entrepreneurship | "Panacea hypothesis" — a lack of evidence for the belief that green entrepreneurs automatically drive sustainability |
+| L83 | Kirchherr et al. 2018, EE           | LN8     | First large-N study: 208 surveys + 47 interviews, EU  | Cultural barriers rank top (47%, 46%); technological barriers rank LAST (15/15) — contrary to prior literature |
+| L84 | García-Barragán et al. 2019, EE     | LN8     | A dynamic material-flow optimization model (purely mathematical) | Metric Cₜ*=Rₜ*−Lₜ*; circular economy if Cₜ*>0 — a definition "imperfect but not ambiguous" |
+| L85 | Saidani et al. 2019, JCP            | LN8     | Systematic review, taxonomy of 10 categories for 55 C-indicator sets | 90% of micro indicators include recycling but only 45% cover all 3 loops; 60% rely on a single number |
+| L86 | Heshmati & Rashidghalam 2021, JCP   | LN8     | PCA (8 components/40 indicators), panel of 273 Swedish municipalities 2012-2018 | Gotland #1 (88.35); Stockholm LAST (29.50) despite being the capital; the waste-collection charge (WCOL) is the strongest lever |
+| L87 | Nademi & Sedaghat Kalmarzi 2025, JCP | LN8    | Spectral clustering + 8 panel GMM models, Europe 2010-2019 | All 8/8 CE indexes significantly reduce unemployment; private CE investment + recyclable-material trade are strongest |
+| L88 | Luengo Vera et al. 2025, GER        | LN8     | Bibliometrics (co-occurrence + text mining + bibliographic coupling), 1,630 Scopus articles 2020-2024 | Innovation is the central node/"systemic enabler"; China/UK/India are 3 scientific poles in a multipolar landscape |
 
-## 2. Seven thematic clusters
+## 2. Ten Thematic Clusters
 
 Full detail: [[all-papers-mindmap]]. Summary:
 
@@ -88,241 +111,479 @@ Full detail: [[all-papers-mindmap]]. Summary:
 - **C. Institutions (4 specific channels)** — L21 (theoretical trunk) → L22 (corruption), L23
   (property rights), L24 (culture), L26 (Vietnam application)
 - **D. Policy Critique & Applied Governance Gaps** — L12, L25
-- **E. Banking Crisis & Financial Signals** — L31 (bank equity vs panic) → L32 (liquidity
-  creation channel), L33 (financial data as an early signal, applied to COVID Vietnam), L34
-  (resources/finance/green growth in Vietnam), L35 (policy/geopolitics review), L36 (macro
-  monetary policy lessons)
+- **E. Banking Crisis & Financial Signals** — L31 (bank equity vs. panic) → L32 (liquidity-
+  creation channel), L33 (financial data as an early signal, applied to COVID VN), L34
+  (resources/finance/green growth VN), L35 (policy/geopolitics review), L36 (macro monetary-
+  policy lessons)
 - **F. Agriculture, Land Institutions & Climate Vulnerability** — 2 independent axes: (i)
-  Vietnam's land institutions — L41 (property rights/tenure security) + L42
-  (fragmentation/consolidation); (ii) natural disasters/climate change — L43 (floods,
-  outcome-based), L44+L45 (LVI/LVI-IPCC, index-based, the same tool used for different
-  purposes), L46 (climate → labor mobility, Indonesia, the only paper treating "exit" as an
-  adaptation strategy)
-- **G. Entrepreneurship & Institutions** — L53 (Naudé, trunk/programmatic — institutions as a
-  "black box") → L51 (EO↔performance, women-owned SMEs in VN), L52 (RCT, empowerment via
-  microfinance in VN), L54 (governance→entrepreneurship→growth, citing Acemoglu 2003), L55
+  Vietnamese land institutions — L41 (property rights/tenure security) + L42 (fragmentation/
+  consolidation); (ii) natural disasters/climate change — L43 (floods, outcome-based), L44+L45
+  (LVI/LVI-IPCC index-based, same tool, different purpose), L46 (climate → labor mobility,
+  Indonesia, the only one treating "exit" as an adaptation strategy)
+- **G. Entrepreneurship & Institutions** — L53 (Naudé, programmatic trunk — "black box"
+  institutions) → L51 (EO↔performance for women-owned SMEs VN), L52 (RCT empowerment via
+  microfinance VN), L54 (governance→entrepreneurship→growth, citing Acemoglu 2003), L55
   (institutional entrepreneurs opening the "black box" — Danish FinTech case), L56 (green
-  startups, extending into sustainability)
+  startups, extending to sustainability)
+- **H. Technology, Productivity & Vietnam Poverty Measurement (LN6)** — 2 independent axes within
+  the same lecture: (i) a same-author (Prof. Heshmati) methodological pair on technology/
+  productivity — L61 (190-country TFP, TC/TFP growth NEGATIVE in every income group, connecting
+  to [[technology-upgrading]]) + L62 (Swedish innovation-firm performance, a CDM 4-equation
+  model); (ii) a "Vietnam poverty-measurement triangle" — 3 independent lenses converging on
+  "poverty measures diverge": L63 (multidimensional/Alkire-Foster), L64 (monetary/
+  FGT + Datt-Ravallion, exactly the paper behind [[k31-final-exam]] Q2), L65 (energy/SUREG).
+- **I. Human Capital, Infrastructure & Public Investment (LN7)** — L71 (Heshmati, Chinese urban
+  infrastructure, rigorous PCA N=310) + L72 (Kyrgyzstan transport infrastructure, a loose n=7 — a
+  rigor-contrast pair) → L73/L74/L75 (returns to education — McGuinness's VN wage, Dao's VN
+  growth, Hanushek's cross-country — 3 angles of skepticism toward "expanding higher education,"
+  see [[human-capital-returns-to-education]]) → L76 (Bloom/Kuhn/Prettner, a health-growth review,
+  the Preston curve) → L77 (Drama et al., cross-sectoral public-investment allocative efficiency,
+  corruption control strongest — a direct bridge to [[institutions]] LN2).
+- **J. Circular Economy (LN8)** — no single trunk paper, structured as: 2 same-author empirical
+  cases (L81 top-down China + L86 decentralized Sweden — opposing governance models) + L82 (a
+  global review bridging the 2 cases) + 3 definition/measurement papers (L83/L84/L85 — 3
+  different responses to "114 CE definitions") + 2 emerging channels (L87 employment, L88
+  innovation-SDG bibliometrics).
 
-## 3. Debates and tensions between papers
+## 3. Debates & Tensions Between Papers
 
-This is the part that differs from reading each paper in isolation — exams love to ask "compare
-how A and B explain X," so the points below deserve more study time than the individual
-summaries.
+This section differs from reading each paper individually — exams often ask "compare how A and
+B explain X," so the points below deserve closer study than the per-paper summaries.
 
-### 3.1 Which channel carries deep roots: direct, or through institutions?
+### 3.1 Which channel transmits deep roots: direct, or via institutions?
 
-- **Spolaore & Wacziarg (L13)**: ancestry/geography is a direct channel for persistence — using
-  genetic distance (FST) and 4 intergenerational transmission channels (genetic/epigenetic/
-  behavioural/symbolic).
+- **Spolaore & Wacziarg (L13)**: ancestry/geography is a direct persistence-transmission channel
+  — using genetic distance (FST), 4 intergenerational transmission channels
+  (genetic/epigenetic/behavioural/symbolic).
 - **Acemoglu et al. (L21)**: also a deep-roots argument, but the transmission channel is
   **institutions** (historical settler mortality → institutions → present-day income). L13
-  itself cites AJR 2002's "reversal of fortune" as an example, then notes that the reversal
-  evidence **disappears** once Europe is added to the sample and the data is adjusted for
-  ancestry (Putterman & Weil 2010) — i.e., L13 pushes back on the robustness of a purely
-  institutions-based framework.
-- **Potential exam question**: "Do the deep roots of economic development transmit through
+  revisits AJR 2002's own "reversal of fortune" as an example, then notes the reversal evidence
+  **disappears** once Europe is added to the sample and ancestry adjustments are made (Putterman
+  & Weil 2010) — i.e., L13 questions the robustness of the institutions-only framework.
+- **Potential exam question**: "Are the deep roots of economic development transmitted through
   institutions or directly through ancestry/geography? Use L13 and L21 to argue both sides."
 
 ### 3.2 Do institutions have "causal superiority"?
 
-- **Acemoglu et al. (L21)**: uses tight identification (2SLS α=0.94 > OLS 0.52) to argue that
-  institutions are the **fundamental cause** — dominating geography/culture once controlled for.
+- **Acemoglu et al. (L21)**: uses tight identification (2SLS α=0.94 > OLS 0.52) to argue
+  institutions are the **fundamental cause** — outperforming geography/culture once controlled
+  for.
 - **Alesina & Giuliano (L24)**: central conclusion — "it is wrong to claim the causal
-  superiority of EITHER" variable (culture or institutions); culture and institutions are
-  jointly endogenous, with a bidirectional feedback loop (the Putnam free-cities-of-Italy case).
-- **Michalopoulos & Papaioannou** (cited within L24, not itself a required reading): African
-  evidence shows that **national** institutions matter less than pre-colonial cultural/ethnic
-  traits in many cases — a direct challenge to the purely Acemoglu-style framework.
+  superiority of EITHER variable" (culture or institutions); culture-institutions are jointly
+  endogenous, with two-way feedback (the Putnam free-cities-of-Italy case).
+- **Michalopoulos & Papaioannou** (cited within L24, not a required reading of its own): African
+  evidence shows **national** institutions matter less than pre-colonial cultural/ethnic traits
+  in many cases — a direct challenge to the institutions-only framework.
 - **Potential exam question**: "Present Acemoglu et al.'s (2001) argument that institutions are
-  the fundamental cause of development. How does Alesina & Giuliano (2015) push back on this?"
+  the fundamental cause of development. How do Alesina & Giuliano (2015) challenge this point?"
 
-### 3.3 Middle-income trap: the professor uses it as an essay framework, yet L11 empirically refutes it
+### 3.3 Middle-income trap: the professor uses it as an essay framework, but L11 rebuts it empirically
 
 - The professor's suggested essay topics ([[essays-instructions]]) revolve around the
-  [[middle-income-trap]] (Gill & Kharas 2015) as a phenomenon to be solved (technology
+  [[middle-income-trap]] (Gill & Kharas 2015) as a phenomenon to be addressed (technology
   upgrading, creative accumulation...).
-- **Patel, Sandefur & Subramanian (L11)** — a required reading for LN1 itself — presents the
-  most recent empirical evidence **refuting** the middle-income trap: cross-sectional growth is
-  inverted-U shaped, with middle-income countries growing fastest since the 1980s ("more
-  trampoline than trap").
-- This is a notable tension baked into the course design itself — an essay using the
-  middle-income trap as a framework needs to engage with this refuting evidence, not ignore it.
+- **Patel, Sandefur & Subramanian (L11)** — a required reading of LN1 itself — shows the newest
+  empirical evidence **rebutting** the middle-income trap: cross-sectional growth is
+  inverted-U, with middle-income countries growing fastest since the 1980s ("more trampoline
+  than trap").
+- This is a notable point of tension within the course design itself — an essay using the
+  middle-income trap as its framework needs to engage with this rebutting evidence, not ignore
+  it.
 - **Potential exam question**: "How does Patel et al.'s (2021) evidence conflict with the
-  middle-income trap framework? If writing an essay that uses the middle-income trap as a
-  framework, how would you handle this contradiction?"
+  middle-income trap framework? If writing an essay using the middle-income trap as a framework,
+  how should this conflict be handled?"
 
-### 3.4 Policy intervention: skepticism (Nunn) vs concrete recommendations (Mauro, Besley & Ghatak)
+### 3.4 Policy intervention: skepticism (Nunn) vs. concrete recommendations (Mauro, Besley & Ghatak)
 
-- **Nunn (L12)**: deeply skeptical — aid is often "leaked away" (49–87% in African education),
-  Western policies (tariffs, antidumping) actively cause harm (the Vietnamese catfish case,
-  −40% income), RCTs ignore local context.
-- **Mauro (L22)**: offers concrete, more optimistic policy recommendations — if Bangladesh
-  raised bureaucratic integrity to Uruguay's level, investment would rise +5%, GDP growth +0.5
+- **Nunn (L12)**: deeply skeptical — aid is often "leaked" (49–87% in African education),
+  Western policy (tariffs, antidumping) actively causes harm (the Vietnamese catfish case, −40%
+  income), RCTs ignore local context.
+- **Mauro (L22)**: concrete policy recommendations, more optimistic — if Bangladesh raised
+  bureaucratic integrity to Uruguay's level, investment would rise +5%, GDP growth +0.5
   percentage points.
-- **Besley & Ghatak (L23)**: more cautious than Mauro but still believes institutions can be
-  improved — emphasizes only that there's "no one-size-fits-all," rather than being skeptical of
-  intervention altogether like Nunn.
+- **Besley & Ghatak (L23)**: more cautious than Mauro but still believe institutions can be
+  improved — they only stress "no one-size-fits-all," not wholesale skepticism of intervention
+  like Nunn.
 - **Potential exam question**: "Compare the degree of optimism about improving
   institutions/policy between Nunn (2019) and Mauro (1995)/Besley & Ghatak (2010)."
 
-### 3.5 The technical-policy gap: L25 confirms the same critique L12 makes
+### 3.5 The technical-policy gap: L25 confirms L12's critique
 
-- **Bizikova et al. (L25)**: a review of 683→40 WEF nexus papers, finding only 17.5% of studies
-  actually address governance/policy even though 63% contain technical quantification — a
-  different field (environment/WEF) but confirming the same pattern that **Nunn (L12)**
-  criticizes in the institutions/aid field: academic research is often disconnected from
-  real-world policy application.
-- **Potential exam question**: "What common problem do L12 and L25 both point to in the
-  research–policy relationship? Cite specific evidence from each."
+- **Bizikova et al. (L25)**: a review of 683→40 WEF-nexus papers, only 17.5% actually discuss
+  governance/policy even though 63% have technical quantification — a different field
+  (environment/WEF) but confirming the same pattern **Nunn (L12)** critiques in
+  institutions/aid: academic research often drifts far from real policy application.
+- **Potential exam question**: "What common problem do L12 and L25 identify in the
+  research-policy relationship? Give specific evidence from each paper."
 
-### 3.6 Financial market data as an early signal: L31 vs L33
+### 3.6 Financial-market data as an early signal: L31 vs. L33
 
-- **Baron, Verner & Xiong (L31)**: bank equity (bank stock prices) is an early, more reliable
-  signal than traditional macro data for detecting banking crises — panic occurs **after** bank
-  equity has already fallen sharply (7 months on average).
-- **Lastunen & Richiardi (L33)**: applies the same logic to a different context — sector stock
-  indices forecast the COVID-19 recovery more accurately than international institutions (IMF,
-  ADB), which rely on macro data published with a lag.
-- **Shared methodological point**: both papers argue that "financial markets reflect
-  expectations almost instantly, while official macro data always lags" — but applied to two
-  different types of crisis (an endogenous banking crisis vs. an external shock/pandemic).
-- **Potential exam question**: "What shared methodological argument do L31 and L33 rely on
-  about the role of financial market data? Note the difference in application context."
+- **Baron, Verner & Xiong (L31)**: bank equity (bank share prices) is an early signal, more
+  reliable than traditional macro data for detecting banking crises — panic occurs **after**
+  bank equity has already declined sharply (7 months on average).
+- **Lastunen & Richiardi (L33)**: apply the same logic to a different context — sectoral stock
+  indices forecast COVID-19 recovery more accurately than international institutions (IMF, ADB),
+  which rely on macro data with publication lags.
+- **Common methodological point**: both papers share the argument "financial markets reflect
+  expectations near-instantaneously, while official macro data always lags" — but applied to 2
+  different crisis types (endogenous banking vs. external shock/pandemic).
+- **Potential exam question**: "What common methodological argument do L31 and L33 rely on
+  regarding the role of financial-market data? Note the difference in application context."
 
-### 3.7 Property rights "completeness" determines effect size: L41 vs AJR/L21
+### 3.7 "Complete" property rights determine the size of the effect: L41 vs. AJR/L21
 
 - **AJR (L21)**: cross-country research finds a LARGE effect of private property
   rights/institutions on income (2SLS α=0.94).
-- **Ho (L41)**: in a within-country Vietnam context, the effect of private land tenure on
-  commune-level economic development is **modest**, and could even fall to zero under a
-  conservative scenario (Oster 2019 bias-adjustment) — because a land-use certificate is only
-  an INCOMPLETE property right (the state can still reclaim the land) plus high transaction
-  costs.
-- **Reconciliation**: not an outright contradiction of AJR, but a refinement — the "degree of
-  completeness" of an institution, not merely its formal existence, determines the size of its
-  real economic effect; cross-country results may overstate effects when local confounders are
-  not controlled for.
+- **Ho (L41)**: in a within-country Vietnamese context, the effect of private land tenure on
+  commune-level economic development is **modest**, potentially falling to 0 under a
+  conservative scenario (Oster 2019 bias-adjustment) — because land-use certificates are only
+  INCOMPLETE property rights (the state can still reclaim land) plus high transaction costs.
+- **Balance**: not a wholesale contradiction of AJR, but a refinement — the "degree of
+  completeness" of an institution, not merely its formal existence, determines the true
+  magnitude of its economic impact; cross-country results may overstate effects when local
+  confounders are uncontrolled.
 - **Potential exam question**: "Why is the effect of private land tenure on economic
-  development in Vietnam (Ho 2021) so much more modest than the effect Acemoglu et al. (2001)
-  find at the cross-country level? Use the concept of 'incomplete property rights' to explain."
+  development in Vietnam (Ho 2021) much more modest than the effect Acemoglu et al. (2001) find
+  cross-nationally? Use the concept of 'incomplete property rights' to explain."
 
-### 3.8 Same measurement tool (LVI), different purpose: L44 vs L45
+### 3.8 Same measurement tool (LVI), different purpose: L44 vs. L45
 
-- **Vo & Tran (L44)**: uses LVI + LVI-IPCC purely descriptively/comparatively across regions (12
-  provinces, 5 socio-economic regions) — aiming to identify which regions should be prioritized
-  for policy (regional targeting).
-- **Tran et al. (L45)**: the same LVI formula (Hahn et al. 2009) but adds a correlation matrix +
-  beta regression at household/district resolution (Nghe An — precisely the "hotspot" region per
-  L44) — aiming to identify specific drivers for household-level intervention.
-- **Reconciliation**: the same measurement tool, but an entirely different epistemic purpose and
-  resolution — illustrating how one method can serve two different types of policy decisions.
-- **Potential exam question**: "L44 and L45 both use the LVI but arrive at two fundamentally
-  different types of policy recommendation. Explain why, and note the strengths/weaknesses of
-  each approach."
+- **Vo & Tran (L44)**: use LVI + LVI-IPCC purely for descriptive/cross-regional comparison (12
+  provinces, 5 socio-economic regions) — the purpose is identifying which regions need priority
+  policy (regional targeting).
+- **Tran et al. (L45)**: the same LVI formula (Hahn et al. 2009) but adding a correlation matrix
+  + beta regression at household/district resolution (Nghe An — precisely the "hot" region per
+  L44) — the purpose is finding specific drivers for household-level intervention.
+- **Balance**: the same measurement tool, entirely different epistemic purpose and resolution —
+  illustrating how 1 method can serve 2 different types of policy decisions.
+- **Potential exam question**: "L44 and L45 both use LVI but produce 2 fundamentally different
+  types of policy recommendations. Explain why, and note the pros/cons of each approach."
 
-### 3.9 Two traditions for measuring "vulnerability": outcome-based (L43) vs index-based (L44/L45)
+### 3.9 Two traditions of measuring "vulnerability": outcome-based (L43) vs. index-based (L44/L45)
 
-- **Le (L43)**: measures the actual impact on income/expenditure/subjective wellbeing via
+- **Le (L43)**: measures actual impact on income/expenditure/subjective wellbeing via
   reduced-form regression (the Dell et al. 2014 framework) + objective satellite data (MODIS) —
   outcome-based.
-- **Vo & Tran (L44), Tran et al. (L45)**: measure via a composite index (LVI/LVI-IPCC), HDI-style,
-  based entirely on household surveys — index-based.
-- **Reconciliation**: outcome-based measures give more direct causal/quantitative evidence but
-  require panel data plus an exogenous source (satellite); index-based measures are easier to
-  aggregate across dimensions and compare across regions but are sensitive to sub-component
-  weighting choices and do not themselves establish causality.
-- **Potential exam question**: "Compare the strengths/weaknesses of the 'outcome-based' (L43)
-  and 'index-based' (L44/L45) approaches to studying the impact of climate change on rural
-  households."
+- **Vo & Tran (L44), Tran et al. (L45)**: measure via a composite index (LVI/LVI-IPCC) like the
+  HDI, based entirely on household surveys — index-based.
+- **Balance**: outcome-based gives more direct causal/quantitative evidence but requires costly
+  panel data + exogenous sources (satellite); index-based is easier to aggregate
+  multidimensionally and compare across regions but is sensitive to subcomponent-weight choices
+  and doesn't itself indicate causality.
+- **Potential exam question**: "Compare the pros/cons of 'outcome-based' (L43) vs. 'index-based'
+  (L44/L45) measurement when studying climate-change impacts on rural households."
 
-### 3.10 Staying and adapting vs leaving: L43/L44/L45 vs L46
+### 3.10 Staying to adapt vs. leaving: L43/L44/L45 vs. L46
 
-- **L43, L44, L45** (Vietnam): all study rural households that **stay in farming**, coping/
-  adapting in place to climate shocks (coping strategies, vulnerability reduction).
-- **Hastuti et al. (L46)** (Indonesia): the only LN4 paper to treat **labor mobility** (shifting
-  sector/occupation) itself as an adaptation strategy — households "exit" agriculture rather than
-  endure the shock in place.
-- **Reconciliation**: the two adaptation strategies are not mutually exclusive — L46 suggests
-  "exit" is more common where good non-farm opportunities exist (Java, higher education), while
-  L43–L45 reflect contexts where households remain closely tied to land/agriculture as their main
+- **L43, L44, L45** (Vietnam): all study rural households that **stay in agriculture**,
+  coping/adapting in place to climate shocks (coping strategies, vulnerability reduction).
+- **Hastuti et al. (L46)** (Indonesia): the only one in LN4 treating **labor mobility** (shifting
+  occupational sector) itself as the adaptation strategy — households "exit" agriculture rather
+  than enduring in place.
+- **Balance**: the 2 adaptation strategies aren't mutually exclusive — L46 suggests "exit" is
+  more common where non-farm opportunities are good (Java, higher education), while L43-L45
+  reflect a context where households remain tied to land/agriculture as their primary
   livelihood.
-- **Potential exam question**: "Identify the two household strategies for responding to climate
-  shocks that appear in LN4. What factors (education, land size, region) determine which strategy
-  a household chooses?"
+- **Potential exam question**: "State the 2 household strategies for responding to climate
+  shocks that appear in LN4. Which factors (education, land size, region) determine which
+  strategy a household chooses?"
 
-### 3.11 Institutions as a "black box" (L53) vs opening the black box via institutional entrepreneurs (L55)
+### 3.11 Institutions as a "black box" (L53) vs. opening the black box via institutional entrepreneurs (L55)
 
-- **Naudé (L53)**: raises the issue — although both development economics and entrepreneurship
-  scholarship recognize the role of institutions, the specific mechanism remains a "black box."
-- **Stein et al. (L55)**: "opens" this black box with concrete evidence — the Danish FinTech DEE
-  case shows that institutional entrepreneurs are NOT passive under existing institutions but
-  actively change them (collaboration dynamics, regulatory framework, global connections) through
+- **Naudé (L53)**: poses the problem — although both development economics and entrepreneurship
+  scholarship acknowledge institutions' role, the specific mechanism remains an unclear "black
+  box."
+- **Stein et al. (L55)**: "open" this black box with concrete evidence — the Danish FinTech DEE
+  case shows institutional entrepreneurs are NOT passive under existing institutions but
+  actively change them (collaboration dynamics, regulatory framework, global connections) via
   collective effort + neutral leadership.
-- **Reconciliation**: this is the strongest comparison pair in LN5 — L53 sets the theoretical
-  agenda, L55 supplies concrete empirical evidence fulfilling exactly that agenda 16 years later.
+- **Balance**: this is LN5's strongest comparison pair — L53 sets the theoretical agenda, L55
+  supplies empirical evidence fleshing out that exact agenda 16 years later.
 - **Potential exam question**: "Naudé (2010) describes institutions as a 'black box' in
-  development economics. How does Stein et al. (2026) open this black box? Name 3 specific
+  development economics. How do Stein et al. (2026) open this black box? Name 3 specific
   institutional forces."
 
-### 3.12 Acemoglu's institutions framework: historical persistence (L21) vs a modern panel (L54)
+### 3.12 Acemoglu's institutions framework: historical persistence (L21) vs. modern panel (L54)
 
-- **Acemoglu, Johnson & Robinson (L21)**: uses settler mortality as an IV to show that
-  institutions are the fundamental cause of income — at the level of long-run historical
-  persistence (colonial past → present).
-- **Méndez-Picazo et al. (L54)**: directly cites Acemoglu's (2003) three institutional
-  characteristics — the same theoretical framework, but applied to a **modern**
-  governance-entrepreneurship-growth panel (11 developed countries, 2002–2007) rather than
+- **Acemoglu, Johnson & Robinson (L21)**: use settler mortality as an IV to prove institutions
+  are the fundamental cause of income — a long-run historical-persistence level (colonial →
+  present).
+- **Méndez-Picazo et al. (L54)**: directly cite Acemoglu's (2003) 3 institutional
+  characteristics — the same theoretical framework but applied to a **modern**
+  governance-entrepreneurship-growth panel (11 developed countries, 2002–2007) instead of
   historical persistence.
-- **Reconciliation**: the same underlying theory, but an entirely different unit of analysis and
-  time horizon — illustrating the "portability" of Acemoglu's institutions framework across very
-  different empirical settings.
-- **Potential exam question**: "L21 and L54 both use Acemoglu's institutions framework but at
-  different units of analysis. Identify the difference and assess how portable this theoretical
-  framework is."
+- **Balance**: the same underlying theory, but an entirely different unit of analysis and time
+  frame — illustrating the "portability" of the Acemoglu institutions framework across different
+  empirical contexts.
+- **Potential exam question**: "L21 and L54 both use the Acemoglu institutions framework but at
+  different units of analysis. Clarify the difference and assess this framework's
+  portability."
 
-### 3.13 Entrepreneurship and inequality: an unresolved trade-off (L53 vs L54)
+### 3.13 Entrepreneurship and inequality: an unresolved trade-off (L53 vs. L54)
 
-- **Naudé (L53)**: emphasizes entrepreneurship as a path out of poverty/inequality (via the
-  Tamvada and Kimhi papers in the special SBE issue that L53 introduces).
-- **Méndez-Picazo et al. (L54)**: finds that Gini (inequality) is **POSITIVELY** correlated with
-  entrepreneurial activity in a sample of 11 developed countries (savings need to shift toward
-  higher-income groups to fund investment).
-- **Reconciliation**: this is a trade-off NOT yet resolved in the course literature — possibly
-  due to different contexts (developing vs. developed countries) or different measurement
-  mechanisms (entrepreneurship as an individual poverty-reduction tool vs. aggregate
-  national-level entrepreneurial activity).
-- **Potential exam question**: "L53 treats entrepreneurship as a tool for reducing
-  poverty/inequality, but L54 finds a positive correlation between Gini and entrepreneurial
-  activity. Is this a genuine contradiction? Propose a way to reconcile the two findings."
+- **Naudé (L53)**: centers entrepreneurship as a path out of poverty/inequality (via the
+  Tamvada, Kimhi papers in the SBE special issue L53 introduces).
+- **Méndez-Picazo et al. (L54)**: find Gini (inequality) is **POSITIVELY** correlated with
+  entrepreneurship activity in an 11-developed-country sample (requiring savings to shift toward
+  high-income groups to fund investment).
+- **Balance**: this is a trade-off NOT YET resolved in the course literature — possibly due to
+  different contexts (developing vs. developed countries) or different measurement mechanisms
+  (entrepreneurship as an individual poverty-reduction tool vs. aggregate national-level
+  entrepreneurship activity).
+- **Potential exam question**: "L53 treats entrepreneurship as a poverty/inequality-reduction
+  tool, but L54 finds a positive correlation between Gini and entrepreneurship activity. Is this
+  a genuine contradiction? Propose a way to reconcile the two findings."
 
-## 4. Concept → paper map
+### 3.14 Three mechanisms of skepticism toward "expanding higher education → growth": Hanushek vs. McGuinness vs. Dao
 
-- [[unconditional-convergence]] — L11 (central), related to L15 (convergence within China)
+- **Hanushek (L75)**: once **knowledge capital** (cognitive skills) is controlled for, both
+  tertiary and non-tertiary school attainment LOSE ALL significance for cross-country growth —
+  the problem is student input QUALITY (supply).
+- **Dao & Trinh (L74)**: a GMM model for Vietnam's GDP growth 2000–2015 — primary/secondary are
+  significant (t=3.398, t=5.126), higher education is POSITIVE but NOT significant (t=1.079) —
+  directly matching Hanushek's prediction, a SUPPLY problem (missing genuine productivity
+  contribution).
+- **McGuinness et al. (L73)**: measures the PRIVATE wage return — the university premium was
+  once very high (2002–2010) then fell ~25 percentage points (2010–2012) — NOT due to input
+  quality but because **DEMAND for skilled labor hasn't kept pace with SUPPLY** (VN shifted
+  toward labor-intensive FDI) — a DEMAND problem (economic structure), quite different from the
+  Hanushek/Dao mechanism.
+- **Balance**: all 3 papers agree on the conclusion ("higher education doesn't automatically
+  generate growth/returns"), but via 3 different logics — supply-quality (Hanushek),
+  supply-productivity (Dao), demand-structure (McGuinness) — implying different corrective
+  policies depending on which logic holds in a given context.
+- **Potential exam question**: "Hanushek (2016), Dao & Trinh (2020), and McGuinness et al.
+  (2021) are all skeptical that 'expanding higher education automatically generates growth,' but
+  via 3 different mechanisms. Present each mechanism and propose the corresponding corrective
+  policy."
+
+### 3.15 Negative TFP (L61) as new mechanism-level evidence for the middle-income-trap debate (extending 3.3)
+
+- **Patel et al. (L11, see 3.3)**: rebuts the middle-income trap AT THE GDP/capita-growth level
+  — middle-income countries grow FASTEST since the 1980s.
+- **Heshmati & Rashidghalam (L61)**: beneath that GDP-growth layer, TC/TFP growth is NEGATIVE
+  across ALL income groups (including the very-low group) — suggesting observed GDP growth may
+  stem from input ACCUMULATION (capital/labor/energy) rather than genuine productivity
+  improvement — a complementary cautionary angle, not directly contradicting L11 (different
+  variables: GDP growth vs. TFP decomposition) but questioning the QUALITY of convergence.
+- **McGuinness et al. (L73)**: adds a 3rd mechanism — a "low skills trap" (low education
+  premiums → reduced human-capital investment incentive → attracting more low-skill FDI →
+  further eroding premiums) that could help lock a country into a middle-income trap even as GDP
+  keeps growing.
+- **Balance**: this is a 3-DIMENSIONAL view of the middle-income trap — L11 empirically rebuts
+  it at the macro (GDP) level, L61 raises doubt at the mechanism (TFP decomposition) level, L73
+  adds a micro channel (the skilled-labor market) — the three don't contradict each other but
+  illuminate different LAYERS of the same phenomenon.
+- **Potential exam question**: "Patel et al. (2021) rebut the middle-income trap using GDP
+  growth data. What do Heshmati & Rashidghalam (2020) and McGuinness et al. (2021) find that
+  could still feed middle-income-trap concerns? Present all 3 perspectives."
+
+### 3.16 Monetary vs. multidimensional vs. energy poverty: 2 independent Vietnam papers reaching the same "divergence" conclusion
+
+- **Tran, Alkire & Klasen (L63)**: monetary/multidimensional-poor overlap is ONLY 5.5% (vs.
+  16.3%/16.0% poor by each measure separately) — below the 40–50% range Perry (2002) synthesizes
+  from the literature; monetary poverty fell >11 percentage points (2007-2010) while
+  multidimensional poverty fell only ~5 percentage points.
+- **Nguyen et al. (L65)**: INDEPENDENTLY confirms the same phenomenon with a different measure
+  pair — income poverty/electricity poverty fell sharply (25%→7%, 41%→8%) but **energy-cost
+  poverty ROSE 5 percentage points** 2004–2016 — the complete opposite direction of the other 3
+  measures.
+- **Balance**: this is the strongest connection in cluster H — 2 different Vietnam papers, using
+  entirely different data/measures (a 3-province household panel vs. nationwide VHLSS), both
+  concluding "poverty reduction" is not a unified phenomenon but DEPENDS on which measure is
+  chosen — economic growth translates faster into monetary/basic-infrastructure-access
+  improvement than into non-monetary/cost improvement.
+- **Potential exam question**: "Tran, Alkire & Klasen (2015) and Nguyen et al. (2019) both find
+  poverty measures diverging in Vietnam but with 2 different measure pairs. Present both pieces
+  of evidence and draw a common policy implication."
+
+### 3.17 L64 is the paper behind K31 Q2 — updated from abstract-only to full-text
+
+- **An update note, not an academic debate**:
+  [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] is exactly the paper asked about in
+  [[k31-final-exam]] Question 2 ("Discuss their findings and recommendations to promote pro-poor
+  economic growth and development"). The K31 Q2 answer (written 2026-07-28) at the time relied
+  ONLY on the ScienceDirect abstract, explicitly noting "full-text access needed, do NOT
+  fabricate the recommendations list."
+- **The 2026-08-01 full-text deep-ingest confirms**: the exact method is Datt-Ravallion (1991) +
+  Kolenikov-Shorrocks (2005) decomposition + the Kakwani-Pernia (2000) pro-poor index; full
+  figures (Gini 0.33→0.35 then 0.37→0.356; pro-poor index 0.90 then 1.80) and full policy
+  recommendations (direct social safety nets + indirect vocational training/microcredit,
+  prioritizing ethnic minorities/mountainous regions) are now available at
+  [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]].
+- **Follow-up needed (out of this page's scope)**: `wiki/exams/k31-final-exam.md`'s Q2 answer
+  should be updated with these exact figures/recommendations at the next `wiki/exams/` review
+  pass — this exam-prep.md page does NOT itself edit k31-final-exam.md (outside the current
+  task's scope).
+
+### 3.18 Corruption control as a convergent determinant across 3 lectures: L77 vs. L22 vs. L26
+
+- **Mauro (L22, LN2)**: high corruption → investors fear risk/transaction costs → investment↓ →
+  growth↓; a 1-SD improvement in the corruption index → investment +2.9% of GDP.
+- **Huynh & Tran (L26, LN2)**: governance quality (measured via the 6-dimension PAPI index) has
+  the largest NEGATIVE coefficient in the model reducing Vietnam's informal economy — stronger
+  even than the growth channel.
+- **Drama, Soro & Senou (L77, LN7)**: corruption control is the STRONGEST and most consistent
+  determinant of public-investment allocative efficiency across EVERY category (0.032–0.085,
+  Tobit; 0.142–0.343, SFA) — stronger even than rule of law.
+- **Balance — a point of convergence, not contradiction**: 3 papers from 3 different lectures
+  (LN2, LN2, LN7), 3 different outcomes (growth/investment, informal economy, public-investment
+  efficiency), ALL converge on the conclusion that institutional quality/corruption control is a
+  foundational variable running through the entire course, not tied to any single topic — a
+  "safe answer" if an exam asks "which factor recurs most across the reading list."
+- **Potential exam question**: "Mauro (1995), Huynh & Tran (2025), and Drama et al. (2025)
+  measure corruption/governance's impact on 3 different outcomes. Present all 3 and explain why
+  this is a recurring motif across the course."
+
+### 3.19 Technological barriers top (China) or last (EU)? L81/L82 vs. L83
+
+- **Su, Heshmati, Geng & Yu (L81) and Heshmati (L82)** (China context): list shortage of
+  advanced technology/lagging environmental technology among China's top CE barriers.
+- **Kirchherr et al. (L83)** (EU context, large-N: 208 surveys + 47 interviews): technological
+  barriers rank **LAST (15/15, only 8% selected)** — completely contrary to prior literature (de
+  Jesus & Mendonça 2018: 35% of studies view technology as the top barrier); instead CULTURAL
+  barriers (lacking consumer interest 47%, hesitant company culture 46%) rank top.
+- **Balance**: possibly reflecting differing economic development levels — China (developing)
+  may genuinely still lack advanced technology, while the EU (developed) has technology
+  available but lacks the cultural/market motivation to adopt it (a chain reaction: low
+  virgin-material prices → lacking consumer interest → hesitant company culture). Could also
+  reflect a methodological difference (L81/L82 are qualitative reviews, L83 is a large-N
+  quantitative survey).
+- **Potential exam question**: "Why are technological barriers seen as primary in China-focused
+  CE studies (L81, L82) but rank last in an EU study (L83)? Propose an explanation based on
+  economic development level."
+
+### 3.20 CE governance: top-down China (L81) vs. decentralized/price-based Sweden (L86) — and a reversed city-scale relationship
+
+- **Su, Heshmati, Geng & Yu (L81)**: China manages CE via **2 central agencies** (MEP, NDRC)
+  publishing 2 different EIP evaluation indicator systems, plus city-level pilot programs — a
+  **top-down, state-led** model.
+- **Heshmati & Rashidghalam (L86)**: Sweden runs CE via AUTONOMOUS municipalities + PRICE levers
+  (the waste-collection charge WCOL is the model's strongest positive coefficient, +1 SEK/m² →
+  CEI +0.50 units) — a **decentralized, market-led** model, with the central government only
+  setting framework regulation + incentives.
+- **City-scale relationship REVERSES by context**: in
+  [[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (LN7, same author),
+  LARGER/RICHER provinces/regions (Eastern China) come with BETTER urban infrastructure; but in
+  L86 (Sweden), the LARGEST/highest-density city (Stockholm, the capital) has the LOWEST CEI
+  (29.50, ranking last) — population density + unemployment significantly REDUCE CEI in the FE
+  regression.
+- **Balance**: same author (Heshmati), same measurement tool (a PCA composite index + panel
+  regression), yet finding the city scale/density↔infrastructure-environmental-quality
+  relationship running in 2 OPPOSITE directions — illustrating this relationship depends
+  entirely on institutional context/development level, not a universal law.
+- **Potential exam question**: "Compare China's (L81) and Sweden's (L86) CE governance models.
+  Why does the relationship between city scale/density and infrastructure-environmental quality
+  reverse between these 2 same-author studies?"
+
+### 3.21 CE and employment: clear macro (L87) vs. mixed micro (L56, LN5)
+
+- **Nademi & Sedaghat Kalmarzi (L87)**: an 8-model panel GMM, Europe 2010–2019 — **all 8/8 CE
+  indexes significantly reduce unemployment**; the authors' own PCA composite CE index has the
+  strongest effect; spectral clustering confirms the highest-CE countries belong to the
+  lowest-unemployment cluster.
+- **Sharma & Subba (L56, LN5)**: a >100-source scoping review on green startups — a MUCH more
+  complex/mixed employment picture: creating job/eco-innovation but green startups have a HIGHER
+  business failure rate than conventional firms; funding/regulatory barriers; difficulty
+  formalizing "green jobs" in developing countries.
+- **Balance**: not a direct contradiction — a difference in LEVEL OF ANALYSIS: L87 measures the
+  macro effect for the whole CE sector in developed Europe (where CE already has enough
+  scale/policy support to generate a clear net positive effect); L56 looks at the
+  individual-startup level globally (including developing countries, where individual firms
+  still face high failure risk before reaching sector-wide scale).
+- **Potential exam question**: "L87 finds CE clearly reduces unemployment at the European macro
+  level, while L56 finds a more complex employment picture at the green-startup level. Is this a
+  contradiction? Explain using the concept of level of analysis."
+
+### 3.22 Prof. Heshmati's "methodological signature": PCA + composite index + panel regression across 3 lectures
+
+Not a two-sided debate pair but a consistent methodological observation worth remembering for
+the exam.
+
+- **L61 (LN6)**: 190-country TFP — a translog production function + 4 technology shifter
+  indices (weights summing to 1, an NLS constraint).
+- **L71 (LN7)**: Chinese urban infrastructure — PCA (74 indicators → 15 components → a
+  2nd-order composite index) + pooled OLS/fixed-effects panel, N=310.
+- **L86 (LN8)**: Swedish urban CE — the same "weighted average of all eigenvalue>1 principal
+  components" PCA technique (directly following Heshmati & Kumbhakar 2014, the same logic as
+  L71) + pooled OLS/fixed-effects panel, N=1911 (273 municipalities).
+- **Balance**: 3 papers, 3 entirely different topics (national TFP, Chinese urban
+  infrastructure, Swedish urban CE) but sharing the same methodological "signature": a
+  multi-component composite index (PCA or a weighted technology index) + a panel regression
+  identifying determinants + Hausman/AIC-BIC model-selection tests — useful for quickly
+  recognizing a Prof. Heshmati paper on the exam regardless of topic.
+
+### 3.23 Handling endogeneity: 3SLS + Mills ratio (L62) vs. System GMM (L26) — same problem, different tools
+
+- **Lööf & Heshmati (L62, LN6)**: the innovation-performance relationship at the FIRM level
+  (cross-section, Swedish CIS) — using **3SLS + the inverted Mills' ratio** to jointly correct
+  selectivity bias (only R&D firms observed) and simultaneity bias (innovation
+  input-output-performance mutually endogenous).
+- **Huynh & Tran (L26, LN2)**: the FDI-informal-economy relationship at the PROVINCIAL level (a
+  dynamic panel, 63 VN provinces 2006-2021) — using **System GMM** to correct dynamic
+  endogeneity (lagged variables, provincial unobserved heterogeneity).
+- **Balance**: same goal (resolving endogeneity for tighter identification) but different tools
+  depending on DATA STRUCTURE — 3SLS+Mills ratio suits cross-sectional data with a clear
+  selection problem (firms doing/not doing R&D); System GMM suits a dynamic panel with repeated
+  observations of the same unit (provinces over years) — a good methods-comparison question
+  testing whether SGMM vs. 3SLS understanding goes beyond formulas to fitting the tool to the
+  data.
+- **Potential exam question**: "Lööf & Heshmati (2006) and Huynh & Tran (2025) both face an
+  endogeneity problem but choose different tools (3SLS+Mills ratio vs. System GMM). Explain why
+  each tool fits that paper's data structure."
+
+## 4. Concept → Paper Map
+
+- [[unconditional-convergence]] — L11 (central), connects to L15 (intra-China convergence)
 - [[deep-roots-of-development]] — L13 (central), L21 (institutions channel), L24 §Engerman &
   Sokoloff (indirect channel via geography)
-- [[institutions]] — L21 (trunk), L22/L23/L24/L26 (4 channels)
-- [[middle-income-trap]] — L11 (empirically refuted) vs. the professor's essay topics (used as a
-  framework) — see 3.3
+- [[institutions]] — L21 (trunk), L22/L23/L24/L26 (4 channels); LN7 extension: L77 (corruption
+  control is the strongest public-investment-efficiency driver — see 3.18)
+- [[middle-income-trap]] — L11 (empirically rebuts) vs. the professor's essay topics (uses it as
+  a framework) — see 3.3; mechanism extensions: L61 (negative TFP — a cautionary mechanism
+  angle), L73 (a low skills trap — a labor supply-demand channel) — see 3.15
 - [[high-quality-development]] — L15
 - [[middle-innovation-trap]], [[technology-upgrading]], [[creative-accumulation]] — suggested
-  essay topics, not yet directly tied to a reading in LN1/LN2 (`stub`, pending the related
-  lecture having a raw source — see [[overview]])
-- [[banking-crisis]] — L31 (central: bank equity vs panic), L32 (liquidity creation channel),
-  L33/L35/L36 (applications: COVID Vietnam, geopolitics, monetary policy)
-- [[institutions]] — extended in LN4: L41/L42 (Vietnam's land institutions); extended in LN5:
-  L53 ("black box"), L54 (citing Acemoglu 2003), L55 (institutional entrepreneurs)
+  essay topics, not yet directly tied to any LN1/LN2 reading (`stub`, awaiting the relevant
+  lecture's raw source — see [[overview]])
+- [[banking-crisis]] — L31 (central: bank equity vs. panic), L32 (liquidity-creation channel),
+  L33/L35/L36 (applications: COVID VN, geopolitics, monetary policy)
+- [[institutions]] — LN4 extension: L41/L42 (Vietnamese land institutions); LN5 extension: L53
+  (black box), L54 (citing Acemoglu 2003), L55 (institutional entrepreneurs)
 - [[livelihood-vulnerability-index]] — L44 (central, cross-regional), L45 (same tool,
-  household-level drivers); L43 is the outcome-based counterpoint (does not use the LVI)
+  household-level drivers); L43 is the outcome-based counterpoint (doesn't use LVI)
 - [[entrepreneurship-and-development]] — L53 (trunk, "black box" + binding constraint), L51/L52
-  (micro/household channel, VN), L54 (macro/governance channel), L55 (the "black box"-opening
-  channel), L56 (the sustainability channel)
+  (micro/household Vietnamese channel), L54 (macro/governance channel), L55 (black-box-opening
+  channel), L56 (sustainability channel); LN8 extension: the CE-entrepreneurship channel via L82
+  ("panacea hypothesis," emerging Davids vs. greening Goliaths)
+- [[technology-change-and-tfp-growth]] — L61 (macro/country trunk, 190-country TFP, TC/TFP
+  negative in every income group), L62 (micro/firm trunk, a CDM-style knowledge production
+  function); connects to [[technology-upgrading]] (an LN1 essay topic, now with empirical
+  grounding from L61/L62)
+- [[growth-inequality-poverty-nexus]] — L64 (the monetary/FGT lens, exactly the paper behind
+  [[k31-final-exam]] Q2 — see 3.17), L63 (the multidimensional/Alkire-Foster lens), L65 (the
+  energy lens) — 3 lenses converging on "poverty measures diverge" (see 3.16)
+- [[infrastructure-investment-and-growth]] — L71 (the urbanization channel, PCA + rigorous N=310
+  panel), L72 (the transport/ODA channel, a loose n=7 — a methodological-rigor contrast pair)
+- [[human-capital-returns-to-education]] — L73 (the private wage-return/VN channel), L74 (the
+  macro-growth/VN channel), L75 (the measurement-theory/cross-country channel, knowledge
+  capital) — 3 mechanisms of skepticism toward "expanding higher education" (see 3.14)
+- [[health-and-growth]] — L76 (the sole source, a comprehensive review of the Preston curve +
+  demographic transition; the internal Acemoglu & Johnson 2007 vs. mainstream-literature
+  tension)
+- [[public-investment-allocation-efficiency]] — L77 (the sole source, DEA+SFA+Tobit, reversing
+  the OECD pattern — health/education more efficient than infrastructure in developing
+  countries); connects to [[institutions]] via corruption control (see 3.18)
+- [[circular-economy]] — L81/L86 (2 same-author empirical cases, top-down China vs.
+  decentralized Sweden governance — see 3.20), L82 (a global review, bridging), L83/L84/L85 (3
+  responses to "114 CE definitions" — accepting/eliminating/organizing), L87 (the employment
+  channel, see 3.21), L88 (the innovation-SDG channel, bibliometric)
 
-## 5. Exam question bank (36 questions, with suggested answer outlines)
+## 5. Exam Review Question Bank (61 questions, with suggested answers)
 
-The answers below are **outline frameworks for self-testing**, not model essays to memorize —
-when writing an actual exam answer or essay, rephrase in your own words and cite exact figures
-from the corresponding source page.
+The answers below are a **skeleton of key points for self-testing**, not model text to
+memorize — when writing the exam/essay, rephrase in your own words and cite exact figures from
+the corresponding source page.
 
 ### From LN1
 
@@ -664,7 +925,239 @@ barriers, per Sharma & Subba (2025)? (L56)**
   needed (tax incentives, green finance, digital technologies such as AI/blockchain); research
   gaps: a lack of longitudinal studies, cross-national comparisons, and harmonized ESG standards.
 
-## 6. Past exam from a previous cohort (real-format reference) & K32 mock exams
+### From LN6 (5 questions)
+
+**37. TC/TFP growth is NEGATIVE across every income group per Heshmati & Rashidghalam (2020) —
+what does this mean? (L61)**
+- Model 3/4 (technology index): TC and TFP growth are NEGATIVE across ALL 5 income groups and
+  every year (mean TFP −3.6%, ranging −6.7% in 2008 to −1.4% in 1997).
+- The human capital index has the highest elasticity (0.234); the technology index (R&D/hi-tech
+  exports/patents) has a slightly NEGATIVE elasticity (−0.043) — counterintuitive.
+- Implication: unobservable TC remains TFP growth's largest component; observed GDP growth may
+  stem from input accumulation rather than genuine productivity improvement; connects to the
+  middle-income-trap (see 3.15).
+
+**38. Why does simple OLS give a downward-biased coefficient in Lööf & Heshmati (2006)? (L62)**
+- OLS ignores both selectivity bias (only R&D firms observed) and simultaneity bias
+  (input-output-performance mutually endogenous) → elasticity 0.054 (level) vs. 0.121 in the
+  model correcting both biases (3SLS+Mills ratio).
+- Simultaneity is confirmed more severe than selectivity (Model 3, correcting simultaneity only,
+  gives 0.119≈Model 2's 0.121); the model correcting only selectivity (Model 4, 5-step
+  OLS+Mills) is instead biased UPWARD (0.166).
+- A secondary finding: manufacturing/service firms are strikingly similar (0.121 vs. 0.093);
+  register data is more reliable than survey data.
+
+**39. Why is the monetary/multidimensional-poor overlap in Vietnam under 50% per Tran, Alkire &
+Klasen (2015)? (L63)**
+- Static overlap is only 5.5% (vs. 16.3% monetary poor, 16.0% multidimensionally poor
+  separately) — below the 40–50% range Perry (2002) synthesizes.
+- Dynamic mismatch is even larger: among households exiting monetary poverty, only ~17% also
+  exit multidimensional poverty; Cramér's V is only 0.17–0.19 despite being statistically
+  significant.
+- Main drivers: nutrition + health functioning — the 2 slowest-improving indicators, causing the
+  MPI to progress more slowly than monetary poverty even as other living-standard indicators
+  continuously improve.
+
+**40. Why do Nguyen & Pham (2018) consider 2004–08 more "pro-poor" than 1993–98 despite slower
+poverty reduction? (L64)**
+- Kakwani-Pernia index: φ=0.90 (1993–98, below the pro-poor threshold) vs. φ=1.80 (2004–08,
+  highly pro-poor).
+- Datt-Ravallion decomposition: 1993–98 poverty fell 20.75pp = growth (−23.15pp) + inequality
+  (+2.40pp, RISING inequality slowed poverty reduction); 2004–08 poverty fell only 5.02pp but =
+  growth (−2.79pp) + inequality (−2.22pp, BOTH jointly contributing).
+- Poverty's elasticity to inequality rises sharply from 0.15 (1993) to 1.78 (2008) — poverty is
+  increasingly more sensitive to inequality than to the growth rate.
+
+**41. What paradox appears in energy inequality per Nguyen et al. (2019)? (L65)**
+- The OVERALL energy-expenditure Gini falls faster than income/consumption (0.43→0.37) — but the
+  coal & biomass-SPECIFIC Gini ROSE SHARPLY (0.52→0.79).
+- Energy-cost poverty ROSE 5pp even as income/consumption/electricity poverty all fell sharply.
+- Poor/ethnic-minority households in the Northern region actually INCREASED coal/biomass
+  reliance — a worrying exception within the overall energy-transition trend.
+
+### From LN7 (7 questions)
+
+**42. Which 8/15 infrastructure components have a positive effect on China's urbanization per
+Heshmati & Rashidghalam (2020)? (L71)**
+- economics, employment, human development, health, housing, security, utilities, technology —
+  significantly positive; education/environment are NOT significant (even slightly negative).
+- Provincial/regional gaps: Guangdong highest, Tibet lowest; the Eastern region has the highest
+  urban share, with most indices highest except education.
+- Pooled OLS R² is only 0.34–0.86 but fixed-effects reaches ~0.99 — controlling for province FE
+  strongly improves fit.
+
+**43. Why is Kadyraliev et al.'s (2022) OLS regression not statistically credible? (L72)**
+- n=7 observations (2013–2019), 6 regressors + a constant = 7 parameters for 7 observations —
+  near-saturated degrees of freedom; no t-statistic/p-value/R² is reported.
+- The real strength lies in the qualitative section: Kyrgyz transport ODA averaged 11.2% of
+  GDP/year 1992–2018; ODA road quality fell from 82% to 34% "good" (2009–2019); loan terms (9
+  years 4 months) are shorter than road lifespan (20–24 years).
+- Directly contrasts with L71 (N=310, rigorous PCA) — a lesson on empirical-credibility
+  thresholds.
+
+**44. How did Vietnam's higher-education wage return change 2002–2016 per McGuinness et al.
+(2021)? (L73)**
+- 2002–2010: the university premium rose sharply (men +67%→~+79%; women +74%→+104% by 2010);
+  demand for skilled labor exceeded supply.
+- 2010–2012: a sharp reversal — the male university premium fell ~25pp; skilled-labor demand did
+  NOT keep pace with supply despite continued economic growth.
+- 2012–2016: stabilized at a lower level (~58% for men, below the 2002 level); a warning of a
+  "low skills trap" → middle income trap.
+
+**45. How does Dao & Trinh's (2020) TFP model fail, and how does their GDP-growth model
+succeed? (L74)**
+- Model 1 (TFP, DEA/Malmquist): adjusted R² is NEGATIVE (−0.2345), most coefficients
+  insignificant — the authors admit it is "questionable."
+- Model 2 (GDPG, GMM after dropping FDI): adjusted R²=0.74; ONLY primary (t=3.398)/secondary
+  (t=5.126) are significant; higher education is positive but NOT significant (t=1.079).
+- Completely reverses Hua's (2005) China result (only higher education significant) — "returns
+  to education by level" depend on development stage.
+
+**46. Why does Hanushek (2016) argue "school attainment" is a biased human-capital measure?
+(L75)**
+- 2 problems: (i) implicitly assumes a year of school in country A = a year in country B in
+  skill terms; (ii) ignores family/health/school quality.
+- Cognitive skills (math/science test scores) explain 73.3% of growth variation (50 countries,
+  1960–2000) vs. 25.2% for school attainment; controlling for both → school attainment LOSES ALL
+  significance (t=0.34).
+- 4 causality-testing strategies: timing separation (pre-1980 tests predict 1980–2000 growth),
+  US immigrant earnings by home-country test scores, changes in test scores over time, an IV
+  based on school-system institutions.
+
+**47. What controversial finding do Acemoglu & Johnson (2007) report on the health-growth
+relationship, and how do Cervellati & Sunde resolve it? (L76)**
+- AJ (2007): using the post-1940 epidemiological transition as an IV, find health improvements →
+  NEGATIVE growth (Solow-style capital dilution from population growth).
+- Aghion et al. (2011)/Bloom et al. (2014): adding INITIAL health to the AJ model → the negative
+  effect DISAPPEARS.
+- Cervellati & Sunde (2011): splitting the sample by demographic transition — negative
+  pre-transition, positive post-transition — a trough-then-peak (inverted-U-like) relationship.
+
+**48. Why are health/education MORE efficient than infrastructure in developing countries per
+Drama et al. (2025)? (L77)**
+- DEA: health 85.37% > education 84.79% > other sectors/infrastructure 71.94% — completely
+  reversing the OECD pattern (Afonso & Aubyn 2006: education 85% > health 72%).
+- Corruption control is the STRONGEST efficiency driver, strongest for "other sectors" (0.085) >
+  health (0.067) > education (0.039) — infrastructure is more vulnerable to corruption.
+- ~16% efficiency-improvement headroom exists (28% for other sectors alone) via better
+  governance, WITHOUT more budget.
+
+### From LN8 (8 questions)
+
+**49. Through what mechanism does China govern CE, and which pilot city performs best/worst per
+Su et al. (2013)? (L81)**
+- 2 central agencies: MEP (Eco-Industrial Park, 20 indicators/4 groups) and NDRC (National Pilot
+  CE, 13 indicators/4 groups) — 2 parallel indicator systems.
+- Tianjin performs best overall (4/9 indicators hit benchmark); Shanghai is worst at waste
+  management despite the highest economic growth — rapid growth doesn't automatically come with
+  good CE.
+- Dalian achieved most of its 2010 targets (waste −17%, energy efficiency +21–27%).
+
+**50. What is Heshmati's (2017) "panacea hypothesis," and which later paper tests it? (L82)**
+- An unevidenced belief that green/low-carbon entrepreneurs will automatically drive sustainable
+  innovation — the entrepreneurship-CE literature was then "in its infant stage" (2017).
+- The Hockerts & Wüstenhagen (2010) framework: "emerging Davids" (new sustainable ventures) vs.
+  "greening Goliaths" (large firms gradually greening).
+- Sharma & Subba (2025, L56, LN5) test it 8 years later: confirming the caution was warranted —
+  green startups have a HIGHER failure rate than conventional businesses.
+
+**51. Which CE barrier ranks top in the EU per Kirchherr et al. (2018), and what is the
+chain-reaction mechanism? (L83)**
+- Top 5: lacking consumer interest/awareness (47%), hesitant company culture (46%), low
+  virgin-material prices (45%), operating in a linear system (44%), high investment costs (40%)
+  — 3/5 are cultural, NO regulatory/technological barrier makes the top 5.
+- Chain reaction: low virgin-material prices (energy subsidies) → less competitive CE products →
+  lacking consumer interest → hesitant company culture → "high costs" becomes a rationalizing
+  excuse.
+- Policy implication: should target market barriers (removing material subsidies, cutting repair
+  VAT) instead of the current Horizon 2020 R&D/technology focus.
+
+**52. What mathematical formula does García-Barragán et al. (2019) use to define the "circular
+economy"? (L84)**
+- The metric Cₜ* = Rₜ* − Lₜ* (total optimal recycling activity minus total optimal linear
+  activity, weighted by an "intolerance factor" μ), derived from solving a Lagrangian dynamic
+  material-flow optimization problem.
+- The economy is circular if Cₜ*>0; linear if ≤0; "more circular" if Cₜ* is larger at one time
+  than another.
+- Advantage: encompasses both recycling and alternative strategies (lifetime extension, new
+  business models) — not just a plain recycling rate.
+
+**53. What do Saidani et al. (2019) find about the 55 existing CE indicator sets? (L85)**
+- 90% of micro-level indicators include a recycling loop but only 45% cover all 3 main loops
+  (maintain/recycle/remanufacture-reuse).
+- 80% measure intrinsic circularity; only 40% measure sustainability impact; only 20% measure
+  BOTH — the social dimension is almost entirely neglected.
+- A 10-category taxonomy + the "C-Indicators Advisor" tool helps select the appropriate
+  indicator instead of creating yet another definition/metric.
+
+**54. Why does Stockholm have Sweden's lowest CEI despite being its most developed capital, per
+Heshmati & Rashidghalam (2021)? (L86)**
+- FE regression: population density (RESID) and the unemployment rate (UNEMP) both have
+  significant NEGATIVE coefficients; large/dense cities have higher energy/water demand →
+  greater waste/pollution challenges.
+- Gotland ranks #1 (88.35, a sparsely populated peripheral region); Stockholm ranks LAST (29.50).
+- The waste-collection charge (WCOL) is the STRONGEST policy lever (+1 SEK/m² → CEI +0.50 units)
+  — the price mechanism is more effective than economic scale.
+
+**55. How do Nademi & Sedaghat Kalmarzi (2025) find CE affects European unemployment? (L87)**
+- Spectral clustering: 3 country clusters, with the highest-CE countries in the
+  lowest-unemployment cluster.
+- Panel GMM, 8 models: all 8/8 CE indexes significantly reduce unemployment; the authors' own
+  PCA composite CE index has the strongest effect.
+- 2 strongest sub-indexes: private investment + gross value added of CE sectors, recyclable-
+  material trade; recommends integrating "circular justice" to avoid worsening inequality for
+  marginalized groups.
+
+**56. What do Luengo Vera et al. (2025) find about the scientific structure of the
+innovation-CE-SDG literature? (L88)**
+- A bibliometric analysis of 1630 Scopus articles 2020–2024: innovation is the central
+  node/"systemic enabler" linking technological-organizational solutions to sustainability
+  frameworks.
+- Bibliographic coupling: China, the UK, India are the 3 main scientific poles — a multipolar
+  yet UNEVEN landscape; Vietnam does not appear among these 3 poles.
+- The 3 most tightly linked SDGs: SDG 9 (industry/innovation/infrastructure), SDG 12
+  (responsible consumption/production), SDG 13 (climate action).
+
+### Cross-Lecture (LN6–8) — 5 questions, see section 3 for detailed arguments
+
+**57. LN7's three papers are skeptical of "expanding higher education" via 3 different
+mechanisms (3.14)**
+- Hanushek: missing knowledge capital (supply–quality). Dao: no real TFP contribution (supply–
+  productivity). McGuinness: labor demand not keeping pace with supply (demand–structure).
+- Policy differs by mechanism: Hanushek/Dao → improve basic-education quality before higher
+  education; McGuinness → reform FDI/industrial policy to create high-skill labor demand.
+
+**58. What angle does L61 (negative TFP) add to the middle-income-trap debate already raised at
+L11? (3.15)**
+- L11: rebuts the MIT using GDP growth (middle-income countries grow fastest since the 1980s).
+- L61: beneath that layer, TC/TFP growth is negative in every income group — growth may stem
+  from input accumulation rather than real productivity; L73 adds a skilled-labor channel (a low
+  skills trap).
+
+**59. Why do technological CE barriers rank top in China (L81/L82) but last in the EU (L83)?
+(3.19)**
+- A development-level difference: China may genuinely lack technology; the EU has technology but
+  lacks cultural/market motivation.
+- A methodological difference: L81/L82 are qualitative reviews, L83 is a large-N quantitative
+  survey (208+47).
+
+**60. Compare China's (L81) and Sweden's (L86) CE governance models — how does the city-scale
+relationship reverse? (3.20)**
+- China: top-down, 2 central agencies. Sweden: decentralized, price levers (WCOL).
+- L71 (China, LN7): larger/richer provinces → better infrastructure. L86 (Sweden): the
+  largest/densest city (Stockholm) → LOWEST CEI — a complete reversal despite the same
+  author/measurement tool.
+
+**61. Corruption control is a convergent variable across 3 lectures (L22, L26, L77) — present
+each paper's evidence (3.18)**
+- Mauro (L22, LN2): corruption → investment −2.9% of GDP per 1-SD. Huynh & Tran (L26, LN2):
+  governance/PAPI has the largest negative coefficient reducing the informal economy. Drama et
+  al. (L77, LN7): corruption control is the strongest public-investment-efficiency driver across
+  every sector.
+- 3 lectures, 3 different outcomes, all converging: institutional quality is a foundational
+  variable running through the entire course.
+
+## 6. Previous-Cohort Exam (Real Format Reference) & K32 Mock Exams
 
 - [[k31-final-exam]] — K31's final written exam (the previous cohort, same course/professor):
   real exam rules (120 minutes, compulsory Q1–2 + electives choosing a minimum of 2 of 4, PASS
@@ -677,20 +1170,23 @@ barriers, per Sharma & Subba (2025)? (L56)**
   by this course's own professor. Main value: getting used to the **question format** ("present
   the findings + drivers/impacts/mechanism of a specific paper") — likely to reappear on the
   K32 exam.
-- [[k32-mock-exam-1]] (LN1–LN2) and [[k32-mock-exam-2]] (LN3–LN5) — **mock exams for K32**
-  (Claude-authored, NOT a real exam — the professor has not yet released the K32 shortlist or
-  exam), following the exact format/rules of [[k31-final-exam]] but using 12 of the 29 papers
-  already deep-ingested for K32, spanning all 7 thematic clusters. Use these to practice the
-  question format and to practice writing answers within the real exam's constraints. Will be
-  extended with more sets/questions as new readings are deep-ingested (see CLAUDE.md).
+- [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5) and [[k32-mock-exam-3]] (LN6–LN8)
+  — **mock exams for K32** (Claude-authored, NOT a real exam — the professor has not yet
+  released the K32 shortlist or exam), following the exact format/rules of [[k31-final-exam]]
+  but using 18/49 of K32's already deep-ingested papers (12 in Sets 1-2, plus 6 new LN6-8 papers
+  in Set 3), spanning all 10 thematic clusters. Use these to practice the question format and to
+  practice writing answers within the real exam's constraints. Will be extended with more
+  sets/questions as new readings are deep-ingested (see CLAUDE.md).
 
 ## Links
 
 - [[overview]] · [[all-papers-mindmap]] · [[ln1-economic-development]] ·
   [[ln2-governance-institutions-policy-making]] · [[ln3-financial-crisis-and-pandemics]] ·
   [[ln4-agriculture-climate-change-natural-disasters]] ·
-  [[ln5-entrepreneurship-economic-development]]
-- All 29 source pages: [[l11-patel-2021-unconditional-convergence]],
+  [[ln5-entrepreneurship-economic-development]] · [[ln6-technology-growth-inequality-poverty]] ·
+  [[ln7-investment-infrastructure-health-education]] ·
+  [[ln8-circular-economy-inclusive-sustainable-development]]
+- All 49 source pages: [[l11-patel-2021-unconditional-convergence]],
   [[l12-nunn-2019-rethinking-econ-dev]], [[l13-spolaore-2013-deep-roots]],
   [[l14-sasges-2025-vietnam-policies]], [[l15-yin-2025-china-hqed]],
   [[l21-acemoglu-2001-colonial-origins]], [[l22-mauro-1995-corruption-growth]],
@@ -713,7 +1209,27 @@ barriers, per Sharma & Subba (2025)? (L56)**
   [[l53-naude-2010-entrepreneurship-development-economics]],
   [[l54-mendez-picazo-2012-governance-entrepreneurship-growth]],
   [[l55-stein-2026-digital-entrepreneurship-fintech-denmark]],
-  [[l56-sharma-subba-2025-green-startups-sustainability]]
+  [[l56-sharma-subba-2025-green-startups-sustainability]],
+  [[l61-heshmati-rashidghalam-2020-tfp-technology-shifters]],
+  [[l62-loof-heshmati-2006-innovation-performance]],
+  [[l63-tran-alkire-klasen-2015-monetary-multidimensional-poverty-vietnam]],
+  [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]],
+  [[l65-nguyen-2019-energy-transition-poverty-inequality-vietnam]],
+  [[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]],
+  [[l72-kadyraliev-2022-transport-infrastructure-investment]],
+  [[l73-mcguinness-2021-returns-to-education-vietnam]],
+  [[l74-dao-2020-education-economic-growth-vietnam]],
+  [[l75-hanushek-2016-higher-education-economic-growth]],
+  [[l76-bloom-2018-health-economic-growth]],
+  [[l77-drama-2025-public-investment-allocation-efficiency]],
+  [[l81-su-2013-circular-economy-china]],
+  [[l82-heshmati-2017-review-circular-economy-implementation]],
+  [[l83-kirchherr-2018-barriers-circular-economy-eu]],
+  [[l84-garcia-barragan-2019-defining-measuring-circular-economy]],
+  [[l85-saidani-2019-taxonomy-circular-economy-indicators]],
+  [[l86-heshmati-rashidghalam-2021-urban-circular-economy-sweden]],
+  [[l87-nademi-kalmarzi-2025-circular-economy-unemployment]],
+  [[l88-vera-2025-innovation-circular-economy-sdgs]]
 - **Interactive version (Artifact)**: a mindmap with expandable/collapsible papers + a "Self-test"
   flashcard tab (both private, need to click Share on that page to send to someone else):
   - Bilingual (original, VI explanations + EN terminology): https://claude.ai/code/artifact/b1704073-2623-44b9-8b64-b0cf8461d866
