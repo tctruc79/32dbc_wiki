@@ -4,24 +4,34 @@ type: overview
 title: "Course Overview — Development Issues and Business Cycle (Class 32, 2026)"
 tags: [course-map, syllabus]
 created: 2026-07-20
-updated: 2026-07-29
+updated: 2026-08-01
 status: complete
 
 ---
 
 # Course Overview — Development Issues and Business Cycle
 
-Bản đồ môn học. Nguồn: [[syllabus-2026]], [[essays-instructions]].
+Bản đồ môn học. Nguồn: [[syllabus-2026]], [[essays-instructions]].<br><span class="en">The
+course map. Sources: [[syllabus-2026]], [[essays-instructions]].</span>
 
 ## Thông tin chung
+<span class="en">## General information</span>
 
-- **Giảng viên**: [[almas-heshmati]] (UEH), almas.heshmati@gmail.com.
+- **Giảng viên**: [[almas-heshmati]] (UEH), almas.heshmati@gmail.com.<br><span class="en">
+  **Instructor**: [[almas-heshmati]] (UEH), almas.heshmati@gmail.com.</span>
 - **Mô tả**: Survey các chủ đề Development Issues & Business Cycle, cân bằng theory ↔ empirics
-  qua các paper nghiên cứu, với ứng dụng vào nền kinh tế Việt Nam.
-- **Textbook nền**: Todaro & Smith (2015), *Economic Development*, 12th ed. (TS).
-- **Grading**: Essay/Assignment **50%** + Written Exam **50%** — phải đạt ≥50% TỪNG phần mới pass.
+  qua các paper nghiên cứu, với ứng dụng vào nền kinh tế Việt Nam.<br><span class="en">
+  **Description**: A survey of Development Issues & Business Cycle topics, balancing theory ↔
+  empirics through research papers, with applications to the Vietnamese economy.</span>
+- **Textbook nền**: Todaro & Smith (2015), *Economic Development*, 12th ed. (TS).<br><span
+  class="en">**Base textbook**: Todaro & Smith (2015), *Economic Development*, 12th ed.
+  (TS).</span>
+- **Grading**: Essay/Assignment **50%** + Written Exam **50%** — phải đạt ≥50% TỪNG phần mới pass.<br><span
+  class="en">**Grading**: Essay/Assignment **50%** + Written Exam **50%** — must score ≥50% on
+  EACH part to pass.</span>
 
 ## Timeline 2026
+<span class="en">## 2026 Timeline</span>
 
 | Mốc | Ngày |
 |---|---|
@@ -34,6 +44,7 @@ Bản đồ môn học. Nguồn: [[syllabus-2026]], [[essays-instructions]].
 | Quyết định book chapter (Springer Southeast Asian series) | 30/9 |
 
 ## 10 chủ đề lecture (Course Outline)
+<span class="en">## 10 Lecture Topics (Course Outline)</span>
 
 1. **Economic Development** — [[ln1-economic-development]] — readings: Patel et al. 2021
    ([[l11-patel-2021-unconditional-convergence]]), Nunn 2019 ([[l12-nunn-2019-rethinking-econ-dev]]),
@@ -82,12 +93,19 @@ Bản đồ môn học. Nguồn: [[syllabus-2026]], [[essays-instructions]].
     2025, Dang et al. 2024, Toai 2025.
 
 ## Ôn thi
+<span class="en">## Exam preparation</span>
 
 [[exam-prep]] — trang trung tâm để ôn thi cuối kỳ: quy trình 5 bước, bảng tra nhanh, tranh
 luận giữa các paper, concept map, ngân hàng 36 câu hỏi. [[all-papers-mindmap]] — bản mindmap
-mermaid cùng 7 cụm chủ đề, bổ sung cho mindmap theo-slide trong từng trang lecture.
+mermaid cùng 7 cụm chủ đề, bổ sung cho mindmap theo-slide trong từng trang lecture.<br><span
+class="en">[[exam-prep]] — the central page for final-exam review: a 5-step process, a
+quick-reference table, cross-paper debates, a concept map, a 36-question bank.
+[[all-papers-mindmap]] — a mermaid mindmap of the 7 thematic clusters, complementing the
+per-slide mindmap on each lecture page.</span>
 
-**Bản tương tác** (đều private, cần bấm Share trên trang đó nếu muốn gửi cho người khác):
+**Bản tương tác** (đều private, cần bấm Share trên trang đó nếu muốn gửi cho người khác):<br><span
+class="en">**Interactive versions** (all private, click Share on the page if you want to send
+it to someone else):</span>
 - Song ngữ (bản gốc, VI diễn giải + giữ thuật ngữ EN): https://claude.ai/code/artifact/b1704073-2623-44b9-8b64-b0cf8461d866
 - Toàn tiếng Việt: https://claude.ai/code/artifact/c65cd0f4-2ac9-413e-890f-f82651314290
 - Toàn tiếng Anh (để gửi GS Heshmati/bạn quốc tế): https://claude.ai/code/artifact/720594d7-477d-4936-9c9f-f81bf4314f2a
@@ -96,14 +114,23 @@ Cả 3 bản: mindmap bấm mở/đóng từng paper, đa cấp chi tiết (Rese
 Key Findings → Economic Significance → Vietnam Relevance → Cross-Paper Debate), gồm LN0-LN5 +
 tab "Tự test · 36 câu" dạng flashcard. **Khi cập nhật lại (vd sau khi ingest thêm reading), phải
 republish đúng 3 URL này (dùng tham số `url` của Artifact tool) — không tạo artifact mới**, vì
-link đã có thể đã gửi cho người khác.
+link đã có thể đã gửi cho người khác.<br><span class="en">All 3 versions: an expandable mindmap
+per paper, multi-level detail (Research Question & Methodology → Key Findings → Economic
+Significance → Vietnam Relevance → Cross-Paper Debate), covering LN0-LN5 plus a "Self-test · 36
+questions" flashcard tab. **When updating (e.g., after ingesting a new reading), always
+republish to these exact 3 URLs (using the Artifact tool's `url` parameter) — never create a
+new artifact**, since the link may already have been shared with others.</span>
 
 ## Chủ đề essay gợi ý của giáo sư
+<span class="en">## Essay topics suggested by the professor</span>
 
 Xoay quanh: [[technology-upgrading]], [[middle-income-trap]], [[middle-innovation-trap]],
-[[creative-accumulation]] — xem [[essays-instructions]].
+[[creative-accumulation]] — xem [[essays-instructions]].<br><span class="en">Centered on:
+[[technology-upgrading]], [[middle-income-trap]], [[middle-innovation-trap]],
+[[creative-accumulation]] — see [[essays-instructions]].</span>
 
 ## Trạng thái wiki theo lecture
+<span class="en">## Wiki status by lecture</span>
 
 | Lecture | Trạng thái |
 |---|---|
