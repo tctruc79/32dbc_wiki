@@ -17,8 +17,7 @@ Lecture 2 trong [[overview]] (lịch chi tiết: [[ln0-course-intro]]). Slide de
 schedule: [[ln0-course-intro]]). A 49-page slide deck, dated 23/07/2026, covering 6 required
 readings.</span>
 
-## Cấu trúc bài giảng
-<span class="en">## Lecture structure</span>
+## Cấu trúc bài giảng - <span class="en">Lecture structure</span>
 
 Đi qua 6 papers theo thứ tự: Acemoglu, Johnson & Robinson 2001 (23 phần) → Mauro 1995
 (9 phần) → Besley & Ghatak 2010 (3 phần) → Alesina & Giuliano 2015 (4 phần) → Bizikova 2025
@@ -65,8 +64,7 @@ mindmap
       ("Modernization theory vs institutional theory")
 ```
 
-## Luận điểm chính theo paper
-<span class="en">## Main arguments by paper</span>
+## Luận điểm chính theo paper - <span class="en">Main arguments by paper</span>
 
 ### 1. Acemoglu, Johnson & Robinson 2001 — [[l21-acemoglu-2001-colonial-origins]]
 
@@ -214,8 +212,7 @@ the most direct Vietnamese data**, of top essay relevance:</span>
   revenue/GDP proxy) — testing both modernization theory (FDI → reduces informality) and
   institutional theory (FDI → improves governance) simultaneously rather than picking one.</span>
 
-## Câu hỏi ôn thi tiềm năng
-<span class="en">## Potential exam questions</span>
+## Câu hỏi ôn thi tiềm năng - <span class="en">Potential exam questions</span>
 
 1. Trình bày chiến lược identification của Acemoglu et al. (2001): chuỗi settler mortality →
    settlements → early institutions → current institutions, và 3 điều kiện IV hợp lệ.<br><span

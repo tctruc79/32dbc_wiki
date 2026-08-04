@@ -18,8 +18,7 @@ sung sau).<br><span class="en">Lecture 8 in [[overview]] (detailed schedule: [[l
 A 55-page slide deck, dated 1/8/2026, covering 8 required readings (6 papers from the original
 syllabus outline + 2 papers L87/L88 the professor added later).</span>
 
-## Cấu trúc bài giảng
-<span class="en">## Lecture structure</span>
+## Cấu trúc bài giảng - <span class="en">Lecture structure</span>
 
 9 phần theo "Outline of Presentation" (slide 4): **Khái niệm CE** (slide 5-6, định nghĩa Pearce &
 Turner 1990 + 3R + 10 R-strategies) → **Mô hình Pearce & Turner** (slide 7-11, sơ đồ kinh tế tuyến
@@ -94,8 +93,7 @@ mindmap
       ("Trung Quốc, Anh, Ấn Độ = 3 cực khoa học đa cực")
 ```
 
-## Luận điểm chính theo paper
-<span class="en">## Main arguments by paper</span>
+## Luận điểm chính theo paper - <span class="en">Main arguments by paper</span>
 
 ### 1. Su, Heshmati, Geng & Yu 2013 — [[l81-su-2013-circular-economy-china]]
 
@@ -191,8 +189,7 @@ mindmap
   "systemic enabler"; China, the UK, India are the 3 main scientific poles — a multipolar yet
   uneven landscape.</span>
 
-## Câu hỏi ôn thi tiềm năng
-<span class="en">## Potential exam questions</span>
+## Câu hỏi ôn thi tiềm năng - <span class="en">Potential exam questions</span>
 
 1. Kirchherr et al. (2017) tìm thấy 114 định nghĩa CE khác nhau trong literature. Ba bài L83, L84,
    L85 phản ứng khác nhau thế nào trước vấn đề này — nêu rõ hướng đi cụ thể của từng bài (chấp

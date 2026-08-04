@@ -9,8 +9,7 @@ status: complete
 
 # Entrepreneurship and Development
 
-## Định nghĩa
-<span class="en">## Definition</span>
+## Định nghĩa - <span class="en">Definition</span>
 
 **Entrepreneurship** (EN, giữ nguyên): trong khung phổ biến nhất môn học dùng (Lumpkin & Dess 1996,
 qua [[l51-nguyen-2023-entrepreneurial-orientation-women-smes-vietnam]]), thể hiện qua **Entrepreneurial
@@ -35,8 +34,7 @@ a narrower branch — individual/collective actors actively mobilizing resources
 transform/create institutions, distinct from "ordinary" entrepreneurship (creating firms/
 economic value within an existing institutional framework).</span>
 
-## Nguồn gốc lý thuyết
-<span class="en">## Theoretical origins</span>
+## Nguồn gốc lý thuyết - <span class="en">Theoretical origins</span>
 
 - **Occupational choice model** — khung lý thuyết nền cho phần lớn mô hình hóa formal entrepreneurship
   trong development economics (Gries & Naudé, Tamvada, Bianchi — các bài trong số đặc biệt mà
@@ -73,8 +71,7 @@ economic value within an existing institutional framework).</span>
   and empirically tested in a modern panel by
   [[l54-mendez-picazo-2012-governance-entrepreneurship-growth]].</span>
 
-## Nguồn nào trong môn bàn về nó (trunk + channels)
-<span class="en">## Which course sources discuss it (trunk + channels)</span>
+## Nguồn nào trong môn bàn về nó (trunk + channels) - <span class="en">Which course sources discuss it (trunk + channels)</span>
 
 **Trunk/programmatic**: [[l53-naude-2010-entrepreneurship-development-economics]] — bài giới thiệu số
 đặc biệt SBE 2010, đặt khung nghị sự: (i) entrepreneurship bị đánh giá thấp trong development economics;
@@ -112,8 +109,7 @@ papers are empirical **channels** instantiating this framework:</span>
   conduit for resolving a binding constraint" to the environment/climate rather than
   poverty/inequality.</span>
 
-## Tranh luận/căng thẳng đáng nhớ cho exam
-<span class="en">## Debates/tensions worth remembering for the exam</span>
+## Tranh luận/căng thẳng đáng nhớ cho exam - <span class="en">Debates/tensions worth remembering for the exam</span>
 
 - **"Black box" (Naudé, L53) vs "mở hộp đen" (Stein et al., L55)**: Naudé (2010) đặt vấn đề institutions
   là hộp đen chưa rõ cơ chế trong 16 năm; Stein et al. (2026) cung cấp bằng chứng cụ thể — institutional
@@ -166,8 +162,7 @@ papers are empirical **channels** instantiating this framework:</span>
   out of poverty/inequality (via Tamvada, Kimhi in the SBE special issue). These two findings
   suggest an unresolved trade-off in the course literature.</span>
 
-## Liên hệ Việt Nam
-<span class="en">## Relevance to Vietnam</span>
+## Liên hệ Việt Nam - <span class="en">Relevance to Vietnam</span>
 
 Ba trong sáu bài của LN5 lấy Việt Nam làm bối cảnh trực tiếp
 ([[l51-nguyen-2023-entrepreneurial-orientation-women-smes-vietnam]],

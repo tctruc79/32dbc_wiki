@@ -9,8 +9,7 @@ status: complete
 
 # Circular Economy
 
-## Định nghĩa
-<span class="en">## Definition</span>
+## Định nghĩa - <span class="en">Definition</span>
 
 **Circular Economy (CE)** (EN, giữ nguyên): lần đầu được nêu bởi 2 nhà kinh tế môi trường người
 Anh **Pearce & Turner (1990)** trong *Economics of Natural Resources and the Environment* — phản
@@ -43,8 +42,7 @@ development (environmental quality + economic prosperity + social equity)." CE r
 **3R** principles (Reduce, Reuse, Recycle) extended into 10 R-strategies (R0 Refuse through R9
 Recover).</span>
 
-## Nguồn gốc lý thuyết
-<span class="en">## Theoretical origins</span>
+## Nguồn gốc lý thuyết - <span class="en">Theoretical origins</span>
 
 - **Pearce & Turner (1990)** — nền tảng lý thuyết gốc, mô hình kinh tế tuyến tính (R=resource,
   P=production, C=consumer goods, W=waste, r=recycling) đối lập kinh tế tuần hoàn.<br><span
@@ -83,8 +81,7 @@ Recover).</span>
   (large firms gradually greening) — the entrepreneurship-CE framework used by
   [[l82-heshmati-2017-review-circular-economy-implementation]].</span>
 
-## Nguồn nào trong môn bàn về nó (trunk + kênh)
-<span class="en">## Which course sources discuss it (trunk + channels)</span>
+## Nguồn nào trong môn bàn về nó (trunk + kênh) - <span class="en">Which course sources discuss it (trunk + channels)</span>
 
 Không có 1 bài "trunk/programmatic" duy nhất như [[entrepreneurship-and-development]] (LN5) — thay
 vào đó LN8 có **2 case study thực nghiệm cùng tác giả** (China/Sweden) làm cột trụ, bao quanh bởi 3
@@ -146,8 +143,7 @@ innovation-SDG):</span>
 > abstract-only (paywalled) so lack sufficient depth to stand alone; they would be split into
 > separate pages if full-text with substantial new content becomes available later.</span>
 
-## Tranh luận/căng thẳng đáng nhớ cho exam
-<span class="en">## Debates/tensions worth remembering for the exam</span>
+## Tranh luận/căng thẳng đáng nhớ cho exam - <span class="en">Debates/tensions worth remembering for the exam</span>
 
 - **3 phản ứng khác nhau trước "114 định nghĩa CE" (Kirchherr et al. 2017)** — tranh luận trung tâm
   của LN8: (1) [[l83-kirchherr-2018-barriers-circular-economy-eu]] **CHẤP NHẬN** định nghĩa tổng
@@ -215,8 +211,7 @@ innovation-SDG):</span>
   due to different levels of analysis (macro whole-CE-sector in developed Europe vs. individual
   startups globally).</span>
 
-## Liên hệ Việt Nam
-<span class="en">## Relevance to Vietnam</span>
+## Liên hệ Việt Nam - <span class="en">Relevance to Vietnam</span>
 
 Việt Nam đã ban hành Chiến lược quốc gia về kinh tế tuần hoàn đến 2030 — cả 2 mô hình quản trị
 tương phản trong LN8 (top-down Trung Quốc vs phân quyền/giá cả Thụy Điển) đều là tham chiếu hữu

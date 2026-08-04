@@ -9,8 +9,7 @@ status: complete
 
 # Growth-Inequality-Poverty Nexus
 
-## Định nghĩa
-<span class="en">## Definition</span>
+## Định nghĩa - <span class="en">Definition</span>
 
 **Growth-inequality-poverty triangle** (EN, giữ nguyên) — khung phân tích quan hệ 3 chiều giữa
 tăng trưởng kinh tế, bất bình đẳng phân phối thu nhập/tiêu dùng, và nghèo đói: tăng trưởng là điều
@@ -38,8 +37,7 @@ multiple health/education/living-standard indicators, via
 [[l65-nguyen-2019-energy-transition-poverty-inequality-vietnam]]) — these measures DIVERGE
 substantially and cannot substitute for one another.</span>
 
-## Nguồn gốc lý thuyết
-<span class="en">## Theoretical origins</span>
+## Nguồn gốc lý thuyết - <span class="en">Theoretical origins</span>
 
 - **Foster, Greer & Thorbecke — FGT (1984)** — họ chỉ số đo nghèo tiêu chuẩn (poverty rate,
   poverty gap, squared poverty gap) dùng xuyên suốt literature nghèo tiền tệ, nền tảng cho
@@ -71,8 +69,7 @@ substantially and cannot substitute for one another.</span>
   vs. the **energy stacking model** (Han et al. 2018) — 2 competing hypotheses about how
   households transition energy sources as income changes, L65's theoretical foundation.</span>
 
-## Nguồn nào trong môn bàn về nó (3 lăng kính đo nghèo Việt Nam)
-<span class="en">## Which course sources discuss it (3 lenses on measuring Vietnam poverty)</span>
+## Nguồn nào trong môn bàn về nó (3 lăng kính đo nghèo Việt Nam) - <span class="en">Which course sources discuss it (3 lenses on measuring Vietnam poverty)</span>
 
 Không có 1 bài "trunk" duy nhất — 3 bài Việt Nam của LN6 tạo thành **3 lăng kính bổ sung** cho
 cùng một tam giác growth-inequality-poverty, khác nhau về thước đo nghèo dùng:<br><span
@@ -100,8 +97,7 @@ use:</span>
   extending poverty measurement to energy cost/access, VHLSS 2004–2016, finding energy-cost
   poverty ROSE even as other measures FELL.</span>
 
-## Tranh luận/căng thẳng đáng nhớ cho exam
-<span class="en">## Debates/tensions worth remembering for the exam</span>
+## Tranh luận/căng thẳng đáng nhớ cho exam - <span class="en">Debates/tensions worth remembering for the exam</span>
 
 - **Các thước đo nghèo PHÂN KỲ — xác nhận độc lập 2 lần**: [[l63-tran-alkire-klasen-2015-monetary-multidimensional-poverty-vietnam]]
   tìm thấy overlap monetary/multidimensional poor <50%, nghèo tiền tệ giảm nhanh hơn nghèo đa
@@ -137,8 +133,7 @@ use:</span>
   L64 showing overall GDP/consumption inequality can mask worsening inequality in specific
   regions/groups (e.g., North Central Coast, ethnic minorities).</span>
 
-## Liên hệ Việt Nam
-<span class="en">## Relevance to Vietnam</span>
+## Liên hệ Việt Nam - <span class="en">Relevance to Vietnam</span>
 
 Cả 3 bài đều lấy Việt Nam làm bối cảnh trực tiếp — cụm bài Việt Nam đậm đặc nhất trong toàn wiki
 (3/5 reading của LN6). Bức tranh tổng hợp: Việt Nam giảm nghèo tiền tệ ấn tượng (58%→14.5%,

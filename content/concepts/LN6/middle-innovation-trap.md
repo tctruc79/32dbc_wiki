@@ -17,8 +17,7 @@ high **implementation capability** (strong at production, process improvement) b
 develop **concept design capability** (asking big questions, designing market-leading
 concepts/products) → growth stalls again even after escaping the [[middle-income-trap]].</span>
 
-## Trong môn học
-<span class="en">## Within the course</span>
+## Trong môn học - <span class="en">Within the course</span>
 
 - Trọng tâm Topic Area 2 của essay list ([[essays-instructions]]): thoát trap đòi hỏi nỗ lực
   cấp quốc gia, dài hạn, phối hợp firms – government – institutions.<br><span class="en">

@@ -9,8 +9,7 @@ status: complete
 
 # Public Investment Allocation Efficiency
 
-## Định nghĩa
-<span class="en">## Definition</span>
+## Định nghĩa - <span class="en">Definition</span>
 
 **Allocative/technical efficiency** của đầu tư công (giữ nguyên EN): mức độ một quốc gia chuyển
 đổi nguồn lực tài chính công (chi tiêu) thành kết quả phát triển (outcome — kỳ vọng sống, thành
@@ -30,8 +29,7 @@ could produce if optimally managed/allocated — the central concept of
 methods: DEA (non-parametric, constructing a frontier enveloping observed data) and SFA
 (parametric, separating random noise from systematic inefficiency).</span>
 
-## Nguồn gốc lý thuyết
-<span class="en">## Theoretical origins</span>
+## Nguồn gốc lý thuyết - <span class="en">Theoretical origins</span>
 
 - **Data Envelopment Analysis (DEA)** (Debreu 1951; Farrell 1957; Ferrier et al. 1994) — kỹ thuật
   lập trình tuyến tính phi tham số dựng đường biên hiệu quả bao phủ (envelop) dữ liệu quan sát,
@@ -68,8 +66,7 @@ methods: DEA (non-parametric, constructing a frontier enveloping observed data) 
   [[public-investment-allocation-efficiency]] adds the question of "is investment ALLOCATED
   EFFICIENTLY" to those two concepts' question of "does investment HAVE AN EFFECT."</span>
 
-## Nguồn nào trong môn bàn về nó
-<span class="en">## Which course sources discuss it</span>
+## Nguồn nào trong môn bàn về nó - <span class="en">Which course sources discuss it</span>
 
 - [[l77-drama-2025-public-investment-allocation-efficiency]] — nguồn DUY NHẤT nhưng toàn diện
   nhất LN7: panel 75 nước đang phát triển 2002–2022, DEA+SFA+Tobit 2 giai đoạn; y tế (85.37%) và
@@ -80,8 +77,7 @@ methods: DEA (non-parametric, constructing a frontier enveloping observed data) 
   (85.37%) and education (84.79%) are MORE efficient than other sectors/infrastructure (71.94%) —
   reversing the OECD pattern; corruption control is the STRONGEST efficiency determinant.</span>
 
-## Tranh luận/căng thẳng đáng nhớ cho exam
-<span class="en">## Debates/tensions worth remembering for the exam</span>
+## Tranh luận/căng thẳng đáng nhớ cho exam - <span class="en">Debates/tensions worth remembering for the exam</span>
 
 - **⚡ Đảo ngược mô hình OECD — y tế/giáo dục hiệu quả HƠN hạ tầng ở nước đang phát triển**: Afonso &
   Aubyn (2006) tìm thấy ở OECD, giáo dục hiệu quả 85% > y tế 72%; Drama et al. (2025) tìm thấy Ở
@@ -115,8 +111,7 @@ methods: DEA (non-parametric, constructing a frontier enveloping observed data) 
   [[l26-huynh-tran-2025-fdi-informal-economy]] (LN2) — both papers emphasize FDI's effect
   DEPENDS ON governance quality, not standing independently.</span>
 
-## Liên hệ Việt Nam
-<span class="en">## Relevance to Vietnam</span>
+## Liên hệ Việt Nam - <span class="en">Relevance to Vietnam</span>
 
 VN khớp hồ sơ điển hình "nước đang phát triển" của mẫu 75 nước (GDP/đầu người trong khoảng mẫu,
 thể chế đang cải thiện dần) — khuyến nghị chính sách "củng cố thể chế/kiểm soát tham nhũng TRƯỚC

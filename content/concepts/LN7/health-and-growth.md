@@ -9,8 +9,7 @@ status: complete
 
 # Health and Economic Growth
 
-## Định nghĩa
-<span class="en">## Definition</span>
+## Định nghĩa - <span class="en">Definition</span>
 
 **Health–growth nexus** (giữ nguyên EN): mối quan hệ 2 chiều phức tạp giữa tình trạng sức khỏe dân
 số (đo qua kỳ vọng sống, tỷ lệ tử vong/bệnh tật) và tăng trưởng kinh tế — sức khỏe vừa là ĐẦU RA
@@ -26,8 +25,7 @@ longer lifespans → more savings/human-capital investment). The most famous emp
 relationship illustrating this correlation is the **"Preston curve"** (Preston 1975) — a strong
 positive cross-country correlation between life expectancy and GDP per capita.</span>
 
-## Nguồn gốc lý thuyết
-<span class="en">## Theoretical origins</span>
+## Nguồn gốc lý thuyết - <span class="en">Theoretical origins</span>
 
 - **Preston curve** (Preston 1975) — điểm xuất phát thực nghiệm cho mọi nghiên cứu health–growth
   hiện đại, trung tâm của [[l76-bloom-2018-health-economic-growth]].<br><span class="en">**The
@@ -57,8 +55,7 @@ positive cross-country correlation between life expectancy and GDP per capita.</
   contradictions via the demographic-transition framework: the health–growth relationship has a
   trough-then-peak shape, negative pre-transition, positive post-transition.</span>
 
-## Nguồn nào trong môn bàn về nó
-<span class="en">## Which course sources discuss it</span>
+## Nguồn nào trong môn bàn về nó - <span class="en">Which course sources discuss it</span>
 
 - [[l76-bloom-2018-health-economic-growth]] — nguồn DUY NHẤT của concept này trong LN7, nhưng khảo
   cứu RẤT toàn diện (review by Bloom, Kuhn & Prettner — 3 học giả hàng đầu về kinh tế học sức
@@ -71,8 +68,7 @@ positive cross-country correlation between life expectancy and GDP per capita.</
   Cervellati & Sunde), clearly distinguishing the impact channel in developing vs. developed
   countries.</span>
 
-## Tranh luận/căng thẳng đáng nhớ cho exam
-<span class="en">## Debates/tensions worth remembering for the exam</span>
+## Tranh luận/căng thẳng đáng nhớ cho exam - <span class="en">Debates/tensions worth remembering for the exam</span>
 
 - **⚡ Acemoglu & Johnson (2007) "sức khỏe cản trở tăng trưởng" vs literature chủ đạo "sức khỏe thúc
   đẩy tăng trưởng"**: đây là căng thẳng nội tại NỔI BẬT NHẤT được chính bài L76 trình bày. Đa số
@@ -114,8 +110,7 @@ positive cross-country correlation between life expectancy and GDP per capita.</
   measured by [[l77-drama-2025-public-investment-allocation-efficiency]] via its efficiency
   score.</span>
 
-## Liên hệ Việt Nam
-<span class="en">## Relevance to Vietnam</span>
+## Liên hệ Việt Nam - <span class="en">Relevance to Vietnam</span>
 
 Việt Nam đang ở giai đoạn **post-demographic-transition** rõ rệt: tỷ suất sinh giảm mạnh từ thập
 niên 1990 (hiện dưới mức thay thế ở nhiều đô thị lớn), dân số bắt đầu già hóa nhanh. Theo khung

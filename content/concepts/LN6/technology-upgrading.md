@@ -16,16 +16,14 @@ class="en">**Definition**: the process of upgrading an economy's technological c
 deepen and diversify industrial activity, thereby raising growth potential. Failure to build
 technological capability → slower long-run growth.</span>
 
-## Ba chiều phân tích (theo essay instructions)
-<span class="en">## Three analytical dimensions (per the essay instructions)</span>
+## Ba chiều phân tích (theo essay instructions) - <span class="en">Three analytical dimensions (per the essay instructions)</span>
 
 Technology upgrading được tổng hợp ở 3 cấp: **firm – sector – macro**; mỗi cấp có thách thức
 và bất định riêng cho Việt Nam ([[essays-instructions]], Topic Area 1).<br><span class="en">
 Technology upgrading is synthesized at 3 levels: **firm – sector – macro**; each level has its
 own challenges and uncertainties for Vietnam ([[essays-instructions]], Topic Area 1).</span>
 
-## Chủ đề liên quan trong list essay
-<span class="en">## Related topics on the essay list</span>
+## Chủ đề liên quan trong list essay - <span class="en">Related topics on the essay list</span>
 
 Leapfrogging, sectoral catch-up, technology upgrading trong natural resource-intensive
 industries, innovation policy, industrial policy trong global value chains, experimentalist
@@ -33,8 +31,7 @@ governance.<br><span class="en">Leapfrogging, sectoral catch-up, technology upgr
 natural resource-intensive industries, innovation policy, industrial policy in global value
 chains, experimentalist governance.</span>
 
-## Bằng chứng thực nghiệm từ LN6 (2 trong 3 cấp — cập nhật 2026-08-01)
-<span class="en">## Empirical evidence from LN6 (2 of 3 levels — updated 2026-08-01)</span>
+## Bằng chứng thực nghiệm từ LN6 (2 trong 3 cấp — cập nhật 2026-08-01) - <span class="en">Empirical evidence from LN6 (2 of 3 levels — updated 2026-08-01)</span>
 
 Khi LN6 ("Innovation, Technology, Growth, Inequality and Poverty") được ingest, 2 bài đầu cung
 cấp bằng chứng thực nghiệm CỤ THỂ cho 2/3 cấp độ mà khái niệm này đặt ra (firm–sector–macro) —

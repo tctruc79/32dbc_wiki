@@ -17,8 +17,7 @@ Lecture 5 trong [[overview]] (lịch chi tiết: [[ln0-course-intro]]). Slide de
 schedule: [[ln0-course-intro]]). A 50-page slide deck, dated 25/07/2026, covering 6 required
 readings.</span>
 
-## Cấu trúc bài giảng
-<span class="en">## Lecture structure</span>
+## Cấu trúc bài giảng - <span class="en">Lecture structure</span>
 
 Đi qua 6 papers theo thứ tự: Nguyen 2023 (6 phần) → Huis, Lensink, Vu & Hansen 2019 (13 phần) → Naudé
 2010 (5 phần) → Méndez-Picazo, Galindo-Martín & Ribeiro-Soriano 2012 (8 phần) → Stein, Evers &
@@ -66,8 +65,7 @@ mindmap
       ("Gap: thiếu longitudinal + cross-national + chuẩn ESG thống nhất")
 ```
 
-## Luận điểm chính theo paper
-<span class="en">## Main arguments by paper</span>
+## Luận điểm chính theo paper - <span class="en">Main arguments by paper</span>
 
 ### 1. Nguyen 2023 — [[l51-nguyen-2023-entrepreneurial-orientation-women-smes-vietnam]]
 
@@ -171,8 +169,7 @@ the whole lecture:</span>
   class="en">Research gap: a lack of longitudinal studies, a lack of cross-national
   comparisons, a lack of harmonized ESG standards.</span>
 
-## Câu hỏi ôn thi tiềm năng
-<span class="en">## Potential exam questions</span>
+## Câu hỏi ôn thi tiềm năng - <span class="en">Potential exam questions</span>
 
 1. Theo Nguyen (2023), vì sao risk-taking có tác động ÂM lên business performance của women-owned SME
    Việt Nam, ngược với kỳ vọng lý thuyết EO chuẩn (Lumpkin & Dess 1996)? Nêu số liệu hồi quy cụ thể

@@ -23,8 +23,7 @@ chữ hơn).<br><span class="en">See also the visual version: the mindmap Artifa
 chat) and [[all-papers-mindmap]] (a mermaid mindmap grouped into the same clusters, with less
 text).</span>
 
-## Quy trình ôn thi 5 bước
-<span class="en">## 5-Step Exam Review Process</span>
+## Quy trình ôn thi 5 bước - <span class="en">5-Step Exam Review Process</span>
 
 1. **Nắm bản đồ tổng trước** (~10 phút) — đọc mục 1 (bảng tra nhanh) + mục 2 (10 cụm chủ đề)
    dưới đây, hoặc trang [[all-papers-mindmap]].<br><span class="en">**First grasp the overall
@@ -63,8 +62,7 @@ text).</span>
 Nếu chỉ còn ít thời gian: ưu tiên bước 3 + 4, bỏ qua đọc lại chi tiết từng paper.<br><span
 class="en">If time is short: prioritize steps 3 + 4, skip re-reading each paper in detail.</span>
 
-## 0. Cần theo dõi trước khi thi
-<span class="en">## 0. To Track Before the Exam</span>
+## 0. Cần theo dõi trước khi thi - <span class="en">To Track Before the Exam</span>
 
 | Việc | Trạng thái |
 |---|---|
@@ -72,8 +70,7 @@ class="en">If time is short: prioritize steps 3 + 4, skip re-reading each paper 
 | Ngày Written Exam | ✅ **06/9** — đã xác nhận qua slide "Planning Schedule" cập nhật trong lớp (giải quyết mâu thuẫn syllabus 30/8 vs LN0 06/9 trước đây) — xem [[ln0-course-intro]] |
 | Phạm vi wiki hiện tại | LN1 (5) + LN2 (6) + LN3 (6) + LN4 (6) + LN5 (6) + LN6 (5) + LN7 (7) + LN8 (8) = 49 papers. Lecture 9–10 **chưa có** tài liệu trong `raw/` |
 
-## 1. Bảng tra cứu nhanh — 49 papers
-<span class="en">## 1. Quick-Lookup Table — 49 Papers</span>
+## 1. Bảng tra cứu nhanh — 49 papers - <span class="en">Quick-Lookup Table — 49 Papers</span>
 
 | Mã  | Paper                              | Lecture | Phương pháp                                       | Finding chính (1 dòng)                                                      |
 | --- | ---------------------------------- | ------- | ------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -127,8 +124,7 @@ class="en">If time is short: prioritize steps 3 + 4, skip re-reading each paper 
 | L87 | Nademi & Sedaghat Kalmarzi 2025, JCP | LN8    | Spectral clustering + 8 mô hình Panel GMM, châu Âu 2010-2019 | Cả 8/8 chỉ số CE đều giảm thất nghiệp có ý nghĩa; đầu tư tư nhân CE + thương mại nguyên liệu tái chế mạnh nhất |
 | L88 | Luengo Vera et al. 2025, GER        | LN8     | Bibliometric (co-occurrence + text mining + bibliographic coupling), 1630 bài Scopus 2020-2024 | Innovation là nút trung tâm/"systemic enabler"; Trung Quốc/Anh/Ấn Độ là 3 cực khoa học đa cực |
 
-## 2. Mười cụm chủ đề
-<span class="en">## 2. Ten Thematic Clusters</span>
+## 2. Mười cụm chủ đề - <span class="en">Ten Thematic Clusters</span>
 
 Chi tiết đầy đủ: [[all-papers-mindmap]]. Tóm tắt:<br><span class="en">Full detail:
 [[all-papers-mindmap]]. Summary:</span>
@@ -206,16 +202,14 @@ Chi tiết đầy đủ: [[all-papers-mindmap]]. Tóm tắt:<br><span class="en"
   measurement papers (L83/L84/L85 — 3 different responses to "114 CE definitions") + 2 emerging
   channels (L87 employment, L88 innovation-SDG bibliometrics).</span>
 
-## 3. Tranh luận & căng thẳng giữa các paper
-<span class="en">## 3. Debates & Tensions Between Papers</span>
+## 3. Tranh luận & căng thẳng giữa các paper - <span class="en">Debates & Tensions Between Papers</span>
 
 Phần khác biệt so với đọc từng paper riêng lẻ — exam hay hỏi dạng "so sánh cách A và B giải
 thích X", nên các điểm dưới đây đáng ôn kỹ hơn phần tóm tắt từng bài.<br><span class="en">This
 section differs from reading each paper individually — exams often ask "compare how A and B
 explain X," so the points below deserve closer study than the per-paper summaries.</span>
 
-### 3.1 Deep roots truyền qua kênh nào: trực tiếp hay qua institutions?
-<span class="en">### 3.1 Which channel transmits deep roots: direct, or via institutions?</span>
+### 3.1 Deep roots truyền qua kênh nào: trực tiếp hay qua institutions? - <span class="en">Which channel transmits deep roots: direct, or via institutions?</span>
 
 - **Spolaore & Wacziarg (L13)**: ancestry/geography là kênh truyền persistence trực tiếp — dùng
   genetic distance (FST), 4 kênh truyền thế hệ (genetic/epigenetic/behavioural/symbolic).<br><span
@@ -238,8 +232,7 @@ explain X," so the points below deserve closer study than the per-paper summarie
   institutions or directly through ancestry/geography? Use L13 and L21 to argue both
   sides."</span>
 
-### 3.2 Institutions có "causal superiority" hay không?
-<span class="en">### 3.2 Do institutions have "causal superiority"?</span>
+### 3.2 Institutions có "causal superiority" hay không? - <span class="en">Do institutions have "causal superiority"?</span>
 
 - **Acemoglu et al. (L21)**: dùng identification chặt (2SLS α=0.94 > OLS 0.52) để lập luận
   institutions là **fundamental cause** — vượt trội geography/culture sau khi kiểm soát.<br><span
@@ -265,9 +258,7 @@ explain X," so the points below deserve closer study than the per-paper summarie
   institutions are the fundamental cause of development. How do Alesina & Giuliano (2015)
   challenge this point?"</span>
 
-### 3.3 Middle-income trap: giáo sư dùng làm khung essay, nhưng L11 phản bác bằng thực nghiệm
-<span class="en">### 3.3 Middle-income trap: the professor uses it as an essay framework, but
-L11 rebuts it empirically</span>
+### 3.3 Middle-income trap: giáo sư dùng làm khung essay, nhưng L11 phản bác bằng thực nghiệm - <span class="en">Middle-income trap: the professor uses it as an essay framework, but L11 rebuts it empirically</span>
 
 - Chủ đề essay gợi ý của giáo sư ([[essays-instructions]]) xoay quanh [[middle-income-trap]]
   (Gill & Kharas 2015) như một hiện tượng cần giải quyết (technology upgrading, creative
@@ -292,9 +283,7 @@ L11 rebuts it empirically</span>
   (2021) evidence conflict with the middle-income trap framework? If writing an essay using the
   middle-income trap as a framework, how should this conflict be handled?"</span>
 
-### 3.4 Can thiệp chính sách: hoài nghi (Nunn) vs khuyến nghị cụ thể (Mauro, Besley & Ghatak)
-<span class="en">### 3.4 Policy intervention: skepticism (Nunn) vs. concrete recommendations
-(Mauro, Besley & Ghatak)</span>
+### 3.4 Can thiệp chính sách: hoài nghi (Nunn) vs khuyến nghị cụ thể (Mauro, Besley & Ghatak) - <span class="en">Policy intervention: skepticism (Nunn) vs. concrete recommendations (Mauro, Besley & Ghatak)</span>
 
 - **Nunn (L12)**: hoài nghi sâu sắc — aid thường "thất thoát" (49–87% ở giáo dục châu Phi),
   chính sách phương Tây (tariffs, antidumping) chủ động gây hại (case cá tra VN −40% thu nhập),
@@ -316,8 +305,7 @@ L11 rebuts it empirically</span>
   **Potential exam question**: "Compare the degree of optimism about improving
   institutions/policy between Nunn (2019) and Mauro (1995)/Besley & Ghatak (2010)."</span>
 
-### 3.5 Khoảng cách kỹ thuật–chính sách: L25 xác nhận đúng phê phán của L12
-<span class="en">### 3.5 The technical-policy gap: L25 confirms L12's critique</span>
+### 3.5 Khoảng cách kỹ thuật–chính sách: L25 xác nhận đúng phê phán của L12 - <span class="en">The technical-policy gap: L25 confirms L12's critique</span>
 
 - **Bizikova et al. (L25)**: review 683→40 papers WEF nexus, chỉ 17.5% nghiên cứu thực sự bàn
   governance/policy dù 63% có định lượng kỹ thuật — khác lĩnh vực (environment/WEF) nhưng xác
@@ -332,8 +320,7 @@ L11 rebuts it empirically</span>
   common problem do L12 and L25 identify in the research-policy relationship? Give specific
   evidence from each paper."</span>
 
-### 3.6 Dữ liệu thị trường tài chính như tín hiệu sớm: L31 vs L33
-<span class="en">### 3.6 Financial-market data as an early signal: L31 vs. L33</span>
+### 3.6 Dữ liệu thị trường tài chính như tín hiệu sớm: L31 vs L33 - <span class="en">Financial-market data as an early signal: L31 vs. L33</span>
 
 - **Baron, Verner & Xiong (L31)**: bank equity (giá cổ phiếu ngân hàng) là tín hiệu sớm, đáng
   tin cậy hơn dữ liệu vĩ mô truyền thống để phát hiện khủng hoảng ngân hàng — panic xảy ra
@@ -359,9 +346,7 @@ L11 rebuts it empirically</span>
   regarding the role of financial-market data? Note the difference in application
   context."</span>
 
-### 3.7 Property rights "hoàn chỉnh" quyết định độ lớn tác động: L41 vs AJR/L21
-<span class="en">### 3.7 "Complete" property rights determine the size of the effect: L41 vs.
-AJR/L21</span>
+### 3.7 Property rights "hoàn chỉnh" quyết định độ lớn tác động: L41 vs AJR/L21 - <span class="en">"Complete" property rights determine the size of the effect: L41 vs. AJR/L21</span>
 
 - **AJR (L21)**: nghiên cứu xuyên quốc gia tìm thấy tác động LỚN của private property
   rights/institutions lên thu nhập (2SLS α=0.94).<br><span class="en">**AJR (L21)**: cross-
@@ -389,8 +374,7 @@ AJR/L21</span>
   development in Vietnam (Ho 2021) much more modest than the effect Acemoglu et al. (2001) find
   cross-nationally? Use the concept of 'incomplete property rights' to explain."</span>
 
-### 3.8 Cùng công cụ đo (LVI), khác mục đích: L44 vs L45
-<span class="en">### 3.8 Same measurement tool (LVI), different purpose: L44 vs. L45</span>
+### 3.8 Cùng công cụ đo (LVI), khác mục đích: L44 vs L45 - <span class="en">Same measurement tool (LVI), different purpose: L44 vs. L45</span>
 
 - **Vo & Tran (L44)**: dùng LVI + LVI-IPCC thuần mô tả/so sánh liên vùng (12 tỉnh, 5 vùng
   kinh tế-xã hội) — mục đích xác định vùng nào cần ưu tiên chính sách (regional targeting).<br><span
@@ -413,9 +397,7 @@ AJR/L21</span>
   different types of policy recommendations. Explain why, and note the pros/cons of each
   approach."</span>
 
-### 3.9 Hai truyền thống đo "vulnerability": outcome-based (L43) vs index-based (L44/L45)
-<span class="en">### 3.9 Two traditions of measuring "vulnerability": outcome-based (L43) vs.
-index-based (L44/L45)</span>
+### 3.9 Hai truyền thống đo "vulnerability": outcome-based (L43) vs index-based (L44/L45) - <span class="en">Two traditions of measuring "vulnerability": outcome-based (L43) vs. index-based (L44/L45)</span>
 
 - **Le (L43)**: đo tác động thực tế lên thu nhập/chi tiêu/subjective wellbeing bằng reduced-form
   regression (khung Dell et al. 2014) + dữ liệu vệ tinh khách quan (MODIS) — outcome-based.<br><span
@@ -439,8 +421,7 @@ index-based (L44/L45)</span>
   'index-based' (L44/L45) measurement when studying climate-change impacts on rural
   households."</span>
 
-### 3.10 Ở lại thích ứng vs rời đi: L43/L44/L45 vs L46
-<span class="en">### 3.10 Staying to adapt vs. leaving: L43/L44/L45 vs. L46</span>
+### 3.10 Ở lại thích ứng vs rời đi: L43/L44/L45 vs L46 - <span class="en">Staying to adapt vs. leaving: L43/L44/L45 vs. L46</span>
 
 - **L43, L44, L45** (Việt Nam): đều nghiên cứu hộ nông thôn **ở lại nông nghiệp**, ứng phó/thích
   nghi tại chỗ với cú sốc khí hậu (coping strategies, vulnerability reduction).<br><span
@@ -464,9 +445,7 @@ index-based (L44/L45)</span>
   climate shocks that appear in LN4. Which factors (education, land size, region) determine
   which strategy a household chooses?"</span>
 
-### 3.11 Institutions như "black box" (L53) vs mở hộp đen bằng institutional entrepreneurs (L55)
-<span class="en">### 3.11 Institutions as a "black box" (L53) vs. opening the black box via
-institutional entrepreneurs (L55)</span>
+### 3.11 Institutions như "black box" (L53) vs mở hộp đen bằng institutional entrepreneurs (L55) - <span class="en">Institutions as a "black box" (L53) vs. opening the black box via institutional entrepreneurs (L55)</span>
 
 - **Naudé (L53)**: đặt vấn đề — dù cả development economics và entrepreneurship scholarship đều
   công nhận vai trò institutions, cơ chế cụ thể vẫn là "black box" chưa rõ.<br><span class="en">
@@ -490,9 +469,7 @@ institutional entrepreneurs (L55)</span>
   in development economics. How do Stein et al. (2026) open this black box? Name 3 specific
   institutional forces."</span>
 
-### 3.12 Khung institutions của Acemoglu: persistence lịch sử (L21) vs panel hiện đại (L54)
-<span class="en">### 3.12 Acemoglu's institutions framework: historical persistence (L21) vs.
-modern panel (L54)</span>
+### 3.12 Khung institutions của Acemoglu: persistence lịch sử (L21) vs panel hiện đại (L54) - <span class="en">Acemoglu's institutions framework: historical persistence (L21) vs. modern panel (L54)</span>
 
 - **Acemoglu, Johnson & Robinson (L21)**: dùng settler mortality làm IV để chứng minh institutions
   là fundamental cause của thu nhập — cấp độ persistence lịch sử dài hạn (thuộc địa → hiện tại).<br><span
@@ -517,9 +494,7 @@ modern panel (L54)</span>
   framework but at different units of analysis. Clarify the difference and assess this
   framework's portability."</span>
 
-### 3.13 Entrepreneurship và bất bình đẳng: đánh đổi chưa giải quyết (L53 vs L54)
-<span class="en">### 3.13 Entrepreneurship and inequality: an unresolved trade-off (L53 vs.
-L54)</span>
+### 3.13 Entrepreneurship và bất bình đẳng: đánh đổi chưa giải quyết (L53 vs L54) - <span class="en">Entrepreneurship and inequality: an unresolved trade-off (L53 vs. L54)</span>
 
 - **Naudé (L53)**: đặt trọng tâm entrepreneurship như con đường thoát nghèo/giảm bất bình đẳng
   (qua các bài Tamvada, Kimhi trong số đặc biệt SBE mà L53 giới thiệu).<br><span class="en">
@@ -544,9 +519,7 @@ L54)</span>
   correlation between Gini and entrepreneurship activity. Is this a genuine contradiction?
   Propose a way to reconcile the two findings."</span>
 
-### 3.14 Ba cơ chế hoài nghi "mở rộng higher education → tăng trưởng": Hanushek vs McGuinness vs Dao
-<span class="en">### 3.14 Three mechanisms of skepticism toward "expanding higher education →
-growth": Hanushek vs. McGuinness vs. Dao</span>
+### 3.14 Ba cơ chế hoài nghi "mở rộng higher education → tăng trưởng": Hanushek vs McGuinness vs Dao - <span class="en">Three mechanisms of skepticism toward "expanding higher education → growth": Hanushek vs. McGuinness vs. Dao</span>
 
 - **Hanushek (L75)**: kiểm soát **knowledge capital** (kỹ năng nhận thức) → cả school attainment
   (tertiary lẫn non-tertiary) đều MẤT ý nghĩa hoàn toàn với tăng trưởng xuyên quốc gia — vấn đề là
@@ -585,9 +558,7 @@ growth": Hanushek vs. McGuinness vs. Dao</span>
   different mechanisms. Present each mechanism and propose the corresponding corrective
   policy."</span>
 
-### 3.15 TFP âm (L61) như bằng chứng cơ chế mới cho tranh luận middle-income trap (mở rộng 3.3)
-<span class="en">### 3.15 Negative TFP (L61) as new mechanism-level evidence for the
-middle-income-trap debate (extending 3.3)</span>
+### 3.15 TFP âm (L61) như bằng chứng cơ chế mới cho tranh luận middle-income trap (mở rộng 3.3) - <span class="en">Negative TFP (L61) as new mechanism-level evidence for the middle-income-trap debate (extending 3.3)</span>
 
 - **Patel et al. (L11, xem 3.3)**: phản bác middle-income trap Ở CẤP GDP/capita growth — middle-
   income countries tăng trưởng NHANH NHẤT từ 1980s.<br><span class="en">**Patel et al. (L11, see
@@ -624,9 +595,7 @@ middle-income-trap debate (extending 3.3)</span>
   data. What do Heshmati & Rashidghalam (2020) and McGuinness et al. (2021) find that could still
   feed middle-income-trap concerns? Present all 3 perspectives."</span>
 
-### 3.16 Nghèo tiền tệ vs nghèo đa chiều vs nghèo năng lượng: 2 bài Việt Nam độc lập cùng kết luận "phân kỳ"
-<span class="en">### 3.16 Monetary vs. multidimensional vs. energy poverty: 2 independent
-Vietnam papers reaching the same "divergence" conclusion</span>
+### 3.16 Nghèo tiền tệ vs nghèo đa chiều vs nghèo năng lượng: 2 bài Việt Nam độc lập cùng kết luận "phân kỳ" - <span class="en">Monetary vs. multidimensional vs. energy poverty: 2 independent Vietnam papers reaching the same "divergence" conclusion</span>
 
 - **Tran, Alkire & Klasen (L63)**: overlap monetary/multidimensional poor CHỈ 5.5% (so với
   16.3%/16.0% nghèo theo từng thước đo riêng) — dưới 50% mức Perry (2002) tổng hợp từ literature;
@@ -657,9 +626,7 @@ Vietnam papers reaching the same "divergence" conclusion</span>
   Vietnam but with 2 different measure pairs. Present both pieces of evidence and draw a common
   policy implication."</span>
 
-### 3.17 L64 là paper đằng sau K31 Q2 — cập nhật từ abstract sang full-text
-<span class="en">### 3.17 L64 is the paper behind K31 Q2 — updated from abstract-only to
-full-text</span>
+### 3.17 L64 là paper đằng sau K31 Q2 — cập nhật từ abstract sang full-text - <span class="en">L64 is the paper behind K31 Q2 — updated from abstract-only to full-text</span>
 
 - **Ghi chú cập nhật, không phải tranh luận học thuật**: [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]]
   chính là paper được hỏi ở [[k31-final-exam]] Question 2 ("Discuss their findings and
@@ -690,9 +657,7 @@ full-text</span>
   review pass — this exam-prep.md page does NOT itself edit k31-final-exam.md (outside the
   current task's scope).</span>
 
-### 3.18 Corruption control là biến quyết định hội tụ xuyên 3 lecture: L77 vs L22 vs L26
-<span class="en">### 3.18 Corruption control as a convergent determinant across 3 lectures: L77
-vs. L22 vs. L26</span>
+### 3.18 Corruption control là biến quyết định hội tụ xuyên 3 lecture: L77 vs L22 vs L26 - <span class="en">Corruption control as a convergent determinant across 3 lectures: L77 vs. L22 vs. L26</span>
 
 - **Mauro (L22, LN2)**: corruption cao → nhà đầu tư e ngại rủi ro/chi phí giao dịch →
   investment↓ → growth↓; 1 SD cải thiện corruption index → investment +2.9% GDP.<br><span
@@ -727,8 +692,7 @@ vs. L22 vs. L26</span>
   different outcomes. Present all 3 and explain why this is a recurring motif across the
   course."</span>
 
-### 3.19 Rào cản công nghệ hàng đầu (TQ) hay đứng cuối (EU)? L81/L82 vs L83
-<span class="en">### 3.19 Technological barriers top (China) or last (EU)? L81/L82 vs. L83</span>
+### 3.19 Rào cản công nghệ hàng đầu (TQ) hay đứng cuối (EU)? L81/L82 vs L83 - <span class="en">Technological barriers top (China) or last (EU)? L81/L82 vs. L83</span>
 
 - **Su, Heshmati, Geng & Yu (L81) và Heshmati (L82)** (bối cảnh Trung Quốc): liệt kê thiếu công
   nghệ tiên tiến/công nghệ môi trường lạc hậu trong nhóm rào cản CE hàng đầu của Trung Quốc.<br><span
@@ -758,9 +722,7 @@ vs. L22 vs. L26</span>
   technological barriers seen as primary in China-focused CE studies (L81, L82) but rank last in
   an EU study (L83)? Propose an explanation based on economic development level."</span>
 
-### 3.20 Quản trị CE: top-down Trung Quốc (L81) vs phân quyền/giá cả Thụy Điển (L86) — và quan hệ quy mô đô thị đảo chiều
-<span class="en">### 3.20 CE governance: top-down China (L81) vs. decentralized/price-based
-Sweden (L86) — and a reversed city-scale relationship</span>
+### 3.20 Quản trị CE: top-down Trung Quốc (L81) vs phân quyền/giá cả Thụy Điển (L86) — và quan hệ quy mô đô thị đảo chiều - <span class="en">CE governance: top-down China (L81) vs. decentralized/price-based Sweden (L86) — and a reversed city-scale relationship</span>
 
 - **Su, Heshmati, Geng & Yu (L81)**: Trung Quốc quản lý CE qua **2 cơ quan trung ương** (MEP,
   NDRC) công bố 2 bộ chỉ số đánh giá EIP khác nhau, cộng chương trình thí điểm cấp thành phố — mô
@@ -797,8 +759,7 @@ Sweden (L86) — and a reversed city-scale relationship</span>
   and Sweden's (L86) CE governance models. Why does the relationship between city scale/density
   and infrastructure-environmental quality reverse between these 2 same-author studies?"</span>
 
-### 3.21 CE và việc làm: vĩ mô rõ ràng (L87) vs vi mô mơ hồ (L56, LN5)
-<span class="en">### 3.21 CE and employment: clear macro (L87) vs. mixed micro (L56, LN5)</span>
+### 3.21 CE và việc làm: vĩ mô rõ ràng (L87) vs vi mô mơ hồ (L56, LN5) - <span class="en">CE and employment: clear macro (L87) vs. mixed micro (L56, LN5)</span>
 
 - **Nademi & Sedaghat Kalmarzi (L87)**: panel GMM 8 mô hình, châu Âu 2010–2019 — **cả 8/8 chỉ số
   CE đều giảm thất nghiệp có ý nghĩa thống kê**; chỉ số CE tổng hợp PCA của nhóm tác giả tác động
@@ -830,9 +791,7 @@ Sweden (L86) — and a reversed city-scale relationship</span>
   complex employment picture at the green-startup level. Is this a contradiction? Explain using
   the concept of level of analysis."</span>
 
-### 3.22 "Chữ ký phương pháp" của GS Heshmati: PCA + chỉ số tổng hợp + hồi quy panel xuyên 3 lecture
-<span class="en">### 3.22 Prof. Heshmati's "methodological signature": PCA + composite index +
-panel regression across 3 lectures</span>
+### 3.22 "Chữ ký phương pháp" của GS Heshmati: PCA + chỉ số tổng hợp + hồi quy panel xuyên 3 lecture - <span class="en">Prof. Heshmati's "methodological signature": PCA + composite index + panel regression across 3 lectures</span>
 
 Không phải một cặp tranh luận 2 phía mà là một quan sát nhất quán về phương pháp đáng ghi nhớ cho
 exam.<br><span class="en">Not a two-sided debate pair but a consistent methodological observation
@@ -862,9 +821,7 @@ worth remembering for the exam.</span>
   identifying determinants + Hausman/AIC-BIC model-selection tests — useful for quickly
   recognizing a Prof. Heshmati paper on the exam regardless of topic.</span>
 
-### 3.23 Xử lý nội sinh: 3SLS + Mills ratio (L62) vs System GMM (L26) — cùng vấn đề, khác công cụ
-<span class="en">### 3.23 Handling endogeneity: 3SLS + Mills ratio (L62) vs. System GMM (L26) —
-same problem, different tools</span>
+### 3.23 Xử lý nội sinh: 3SLS + Mills ratio (L62) vs System GMM (L26) — cùng vấn đề, khác công cụ - <span class="en">Handling endogeneity: 3SLS + Mills ratio (L62) vs. System GMM (L26) — same problem, different tools</span>
 
 - **Lööf & Heshmati (L62, LN6)**: quan hệ innovation-performance ở cấp FIRM (cross-section, CIS
   Thụy Điển) — dùng **3SLS + inverted Mills' ratio** để xử lý ĐỒNG THỜI selectivity bias (chỉ quan
@@ -895,8 +852,7 @@ same problem, different tools</span>
   different tools (3SLS+Mills ratio vs. System GMM). Explain why each tool fits that paper's data
   structure."</span>
 
-## 4. Concept → Paper map
-<span class="en">## 4. Concept → Paper Map</span>
+## 4. Concept → Paper map - <span class="en">Concept → Paper Map</span>
 
 - [[unconditional-convergence]] — L11 (trung tâm), liên hệ L15 (convergence nội bộ Trung Quốc)<br><span
   class="en">[[unconditional-convergence]] — L11 (central), connects to L15 (intra-China
@@ -987,8 +943,7 @@ same problem, different tools</span>
   organizing), L87 (the employment channel, see 3.21), L88 (the innovation-SDG channel,
   bibliometric)</span>
 
-## 5. Ngân hàng câu hỏi ôn thi (61 câu, kèm đáp án gợi ý)
-<span class="en">## 5. Exam Review Question Bank (61 questions, with suggested answers)</span>
+## 5. Ngân hàng câu hỏi ôn thi (61 câu, kèm đáp án gợi ý) - <span class="en">Exam Review Question Bank (61 questions, with suggested answers)</span>
 
 Đáp án dưới là **khung ý chính để tự kiểm tra**, không phải văn mẫu để học thuộc — khi làm bài
 thi/essay cần diễn đạt lại bằng lời của mình và trích dẫn số liệu chính xác từ trang source
@@ -996,8 +951,7 @@ tương ứng.<br><span class="en">The answers below are a **skeleton of key poi
 self-testing**, not model text to memorize — when writing the exam/essay, rephrase in your own
 words and cite exact figures from the corresponding source page.</span>
 
-### Từ LN1
-<span class="en">### From LN1</span>
+### Từ LN1 - <span class="en">From LN1</span>
 
 **1. Phân biệt proximate vs fundamental determinants of development (L13).**<br><span class="en">
 **1. Distinguish proximate vs. fundamental determinants of development (L13).**</span>
@@ -1079,8 +1033,7 @@ class="en">**5. The harm of active Western policy per Nunn; the Vietnamese catfi
   antidumping, migration restrictions) rather than focusing only on "fixing" poor countries with
   aid.</span>
 
-### Từ LN2
-<span class="en">### From LN2</span>
+### Từ LN2 - <span class="en">From LN2</span>
 
 **6. Identification strategy của Acemoglu et al. (2001): chuỗi + 3 điều kiện IV hợp lệ (L21).**<br><span
 class="en">**6. Acemoglu et al.'s (2001) identification strategy: the chain + 3 conditions for
@@ -1166,8 +1119,7 @@ culture's causal effect can't be separated from institutions'? (L24 — see 3.2)
   negative coefficient in the model. Robust across 2 alternative specifications (arcsinh(FDI), a
   TAX/GDP proxy).</span>
 
-### L14 & L15 (bổ sung — trước đây chưa có câu hỏi riêng)
-<span class="en">### L14 & L15 (added — previously had no dedicated questions)</span>
+### L14 & L15 (bổ sung — trước đây chưa có câu hỏi riêng) - <span class="en">L14 & L15 (added — previously had no dedicated questions)</span>
 
 **16. Vì sao Sasges & Takahashi gọi Việt Nam là tăng trưởng "cao VÀ ổn định" — khác gì chỉ "cao"?
 (L14)**<br><span class="en">**16. Why do Sasges & Takahashi call Vietnam's growth "high AND
@@ -1215,8 +1167,7 @@ hướng chung cải thiện? (L15)**<br><span class="en">**17. Why do Yin, Bai 
   national-level unconditional convergence (L11) doesn't automatically imply provincial-level
   σ-convergence within a single country.</span>
 
-### Xuyên lecture (so sánh) — xem mục 3 để lập luận chi tiết
-<span class="en">### Cross-Lecture (Comparison) — see section 3 for detailed arguments</span>
+### Xuyên lecture (so sánh) — xem mục 3 để lập luận chi tiết - <span class="en">Cross-Lecture (Comparison) — see section 3 for detailed arguments</span>
 
 **11. Deep roots truyền qua institutions hay ancestry/geography trực tiếp? (L13 vs L21 — 3.1)**<br><span
 class="en">**11. Are deep roots transmitted via institutions or directly via
@@ -1299,8 +1250,7 @@ class="en">**15. What common research-policy gap problem do L12 and L25 identify
   doesn't automatically translate into policy value; research needs to be designed for
   application from the outset.</span>
 
-### Từ LN3 (6 câu)
-<span class="en">### From LN3 (6 questions)</span>
+### Từ LN3 (6 câu) - <span class="en">From LN3 (6 questions)</span>
 
 **18. Phân biệt "banking crisis" và "panic" theo Baron et al. (2021); vì sao panic không phải
 điều kiện cần? (L31)**<br><span class="en">**18. Distinguish "banking crisis" from "panic" per
@@ -1385,8 +1335,7 @@ cross-lecture)**</span>
   lagging traditional macro data — but applied to 2 different crisis types (endogenous banking
   vs. an external pandemic shock).</span>
 
-### Từ LN4 (6 câu)
-<span class="en">### From LN4 (6 questions)</span>
+### Từ LN4 (6 câu) - <span class="en">From LN4 (6 questions)</span>
 
 **25. Vì sao tác động private land tenure lên phát triển kinh tế VN (Ho 2021) khiêm tốn hơn nhiều
 so với AJR xuyên quốc gia? (L41, xem 3.7)**<br><span class="en">**25. Why is the effect of
@@ -1478,8 +1427,7 @@ in Indonesia per Hastuti et al. (2025)? (L46, see 3.10)**</span>
   households — the ONLY paper in LN4 treating mobility ITSELF as an adaptation (exit) strategy
   rather than a consequence to fix.</span>
 
-### Từ LN5 (6 câu)
-<span class="en">### From LN5 (6 questions)</span>
+### Từ LN5 (6 câu) - <span class="en">From LN5 (6 questions)</span>
 
 **31. Vì sao risk-taking có tác động ÂM lên business performance của women-owned SME VN, ngược
 lý thuyết EO chuẩn? (L51, xem 3.13 tương tự logic)**<br><span class="en">**31. Why does
@@ -1572,8 +1520,7 @@ development, and what are the main barriers per Sharma & Subba (2025)? (L56)**</
   green finance, digital tech AI/blockchain); research gap: lacking longitudinal studies,
   cross-national comparisons, harmonized ESG standards.</span>
 
-### Từ LN6 (5 câu)
-<span class="en">### From LN6 (5 questions)</span>
+### Từ LN6 (5 câu) - <span class="en">From LN6 (5 questions)</span>
 
 **37. TC/TFP growth ÂM ở mọi nhóm thu nhập theo Heshmati & Rashidghalam (2020) — ý nghĩa là gì?
 (L61)**<br><span class="en">**37. TC/TFP growth is NEGATIVE across every income group per
@@ -1658,8 +1605,7 @@ class="en">**41. What paradox appears in energy inequality per Nguyen et al. (20
   the Northern region actually INCREASED coal/biomass reliance — a worrying exception within the
   overall energy-transition trend.</span>
 
-### Từ LN7 (7 câu)
-<span class="en">### From LN7 (7 questions)</span>
+### Từ LN7 (7 câu) - <span class="en">From LN7 (7 questions)</span>
 
 **42. 8/15 thành phần hạ tầng nào có tác động dương lên đô thị hóa Trung Quốc theo Heshmati &
 Rashidghalam (2020)? (L71)**<br><span class="en">**42. Which 8/15 infrastructure components have
@@ -1773,8 +1719,7 @@ in developing countries per Drama et al. (2025)? (L77)**</span>
   sách.<br><span class="en">~16% efficiency-improvement headroom exists (28% for other sectors
   alone) via better governance, WITHOUT more budget.</span>
 
-### Từ LN8 (8 câu)
-<span class="en">### From LN8 (8 questions)</span>
+### Từ LN8 (8 câu) - <span class="en">From LN8 (8 questions)</span>
 
 **49. Trung Quốc quản lý CE qua cơ chế nào, và thành phố thí điểm nào hiệu suất tốt/kém nhất theo
 Su et al. (2013)? (L81)**<br><span class="en">**49. Through what mechanism does China govern CE,
@@ -1905,9 +1850,7 @@ the scientific structure of the innovation-CE-SDG literature? (L88)**</span>
   SDGs: SDG 9 (industry/innovation/infrastructure), SDG 12 (responsible consumption/production),
   SDG 13 (climate action).</span>
 
-### Xuyên lecture (LN6–8) — 5 câu, xem mục 3 để lập luận chi tiết
-<span class="en">### Cross-Lecture (LN6–8) — 5 questions, see section 3 for detailed
-arguments</span>
+### Xuyên lecture (LN6–8) — 5 câu, xem mục 3 để lập luận chi tiết - <span class="en">Cross-Lecture (LN6–8) — 5 questions, see section 3 for detailed arguments</span>
 
 **57. Ba bài LN7 hoài nghi "mở rộng higher education" qua 3 cơ chế khác nhau (3.14)**<br><span
 class="en">**57. LN7's three papers are skeptical of "expanding higher education" via 3
@@ -1968,8 +1911,7 @@ lectures (L22, L26, L77) — present each paper's evidence (3.18)**</span>
   học.<br><span class="en">3 lectures, 3 different outcomes, all converging: institutional
   quality is a foundational variable running through the entire course.</span>
 
-## 6. Đề thi khóa trước (tham khảo định dạng thật) & đề mô phỏng K32
-<span class="en">## 6. Previous-Cohort Exam (Real Format Reference) & K32 Mock Exams</span>
+## 6. Đề thi khóa trước (tham khảo định dạng thật) & đề mô phỏng K32 - <span class="en">Previous-Cohort Exam (Real Format Reference) & K32 Mock Exams</span>
 
 - [[k31-final-exam]] — đề thi viết cuối kỳ K31 (khóa trước, cùng môn/GS): luật thi thật (120 phút,
   compulsory Q1-2 + elective chọn tối thiểu 2/4, PASS ≥27.5/50 mỗi phần) + 6 câu hỏi + đáp án chi

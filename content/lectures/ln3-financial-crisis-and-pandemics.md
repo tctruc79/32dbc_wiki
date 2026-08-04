@@ -17,8 +17,7 @@ Lecture 3 trong [[overview]] (lịch chi tiết: [[ln0-course-intro]]). Slide de
 schedule: [[ln0-course-intro]]). A 56-page slide deck, dated 25/07/2026, covering 6 required
 readings.</span>
 
-## Cấu trúc bài giảng
-<span class="en">## Lecture structure</span>
+## Cấu trúc bài giảng - <span class="en">Lecture structure</span>
 
 Đi qua 6 papers theo thứ tự: Baron, Verner & Xiong 2021 (21 phần) → Jiang, Levine & Lin 2019
 (11 phần) → Lastunen & Richiardi 2023 (7 phần, kèm 1 slide bonus tóm tắt Heshmati 2021 review
@@ -64,8 +63,7 @@ mindmap
       ("Cảnh báo over-tightening sau khi đã kiểm soát lạm phát")
 ```
 
-## Luận điểm chính theo paper
-<span class="en">## Main arguments by paper</span>
+## Luận điểm chính theo paper - <span class="en">Main arguments by paper</span>
 
 ### 1. Baron, Verner & Xiong 2021 — [[l31-baron-2021-banking-crises-without-panics]]
 
@@ -135,8 +133,7 @@ over-tightening.<br><span class="en">3 monetary policy lessons: stabilize money 
 fiscal policy supporting stabilization, budget discipline via long-run solvency rules —
 warning of over-tightening risk.</span>
 
-## Câu hỏi ôn thi tiềm năng
-<span class="en">## Potential exam questions</span>
+## Câu hỏi ôn thi tiềm năng - <span class="en">Potential exam questions</span>
 
 1. Phân biệt "banking crisis" và "panic" theo Baron et al. (2021); vì sao panic không phải
    điều kiện cần?<br><span class="en">Distinguish "banking crisis" from "panic" per Baron et

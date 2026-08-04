@@ -14,8 +14,7 @@ UEH-Vietnam Netherlands Programme). E-mail: almas.heshmati@gmail.com.<br><span c
 The professor teaching **Development Issues and Business Cycle** (Class 32, UEH /
 UEH-Vietnam Netherlands Programme). Email: almas.heshmati@gmail.com.</span>
 
-## Vai trò trong môn
-<span class="en">## Role in the course</span>
+## Vai trò trong môn - <span class="en">Role in the course</span>
 
 - Giảng toàn bộ 10 chủ đề — xem [[overview]].<br><span class="en">Teaches all 10 topics — see
   [[overview]].</span>
@@ -25,9 +24,7 @@ UEH-Vietnam Netherlands Programme). Email: almas.heshmati@gmail.com.</span>
   via email, grades essays, selects 12–15 for Springer publication — see
   [[essays-instructions]].</span>
 
-## Hướng nghiên cứu (suy ra từ reading list của chính giáo sư trong syllabus)
-<span class="en">## Research directions (inferred from the professor's own reading list in
-the syllabus)</span>
+## Hướng nghiên cứu (suy ra từ reading list của chính giáo sư trong syllabus) - <span class="en">Research directions (inferred from the professor's own reading list in the syllabus)</span>
 
 - **Productivity & technological change** (LN6): [[l61-heshmati-rashidghalam-2020-tfp-technology-shifters]]
   (TFP, technology shifters, 190 nước); [[l62-loof-heshmati-2006-innovation-performance]]

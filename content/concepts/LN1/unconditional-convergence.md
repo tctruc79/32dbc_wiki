@@ -20,8 +20,7 @@ gap **without needing** to control for additional conditioning variables (instit
 education...). Predicted by Solow (1956): with the same technology, a lower capital stock →
 higher MPK → faster growth.</span>
 
-## Các biến thể
-<span class="en">## Variants</span>
+## Các biến thể - <span class="en">Variants</span>
 
 - **β-convergence**: hệ số âm khi hồi quy growth lên initial income (Barro & Sala-i-Martin
   1992). Speed chuẩn: ~2% (developed), ~4.5% (developing); half-life τ ≈ 35 năm.<br><span
@@ -36,9 +35,7 @@ higher MPK → faster growth.</span>
   convergence only appears after controlling for factors (human capital, investment...);
   non-linearity creates **convergence clubs**.</span>
 
-## Tiến hóa thực nghiệm (theo [[l11-patel-2021-unconditional-convergence]], slides LN1)
-<span class="en">## Empirical evolution (per
-[[l11-patel-2021-unconditional-convergence]], LN1 slides)</span>
+## Tiến hóa thực nghiệm (theo [[l11-patel-2021-unconditional-convergence]], slides LN1) - <span class="en">Empirical evolution (per [[l11-patel-2021-unconditional-convergence]], LN1 slides)</span>
 
 - Hậu WWII → 1990: unconditional **divergence** (US:India 17:1 → 30:1).<br><span class="en">
   Post-WWII → 1990: unconditional **divergence** (US:India ratio 17:1 → 30:1).</span>
@@ -50,8 +47,7 @@ higher MPK → faster growth.</span>
 - Rủi ro đảo chiều: deglobalization, climate change, labour-saving technology.<br><span
   class="en">Risk of reversal: deglobalization, climate change, labour-saving technology.</span>
 
-## Tranh luận trong môn
-<span class="en">## Debate within the course</span>
+## Tranh luận trong môn - <span class="en">Debate within the course</span>
 
 - [[deep-roots-of-development]] (Spolaore & Wacziarg): persistence dài hạn của lịch sử/ancestry
   có vẻ nghịch với convergence — hòa giải: lịch sử là **barrier to diffusion** có thể vượt
@@ -61,8 +57,7 @@ higher MPK → faster growth.</span>
   **barrier to diffusion** that can be overcome, and modern convergence is itself evidence that
   barriers are shrinking.</span>
 
-## Liên hệ Việt Nam
-<span class="en">## Relevance to Vietnam</span>
+## Liên hệ Việt Nam - <span class="en">Relevance to Vietnam</span>
 
 Giáo sư gợi ý áp dụng convergence models cho các tỉnh/vùng Việt Nam
 ([[ln1-economic-development]], slide 37) — ứng viên đề tài essay.<br><span class="en">The

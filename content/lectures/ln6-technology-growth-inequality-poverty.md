@@ -20,8 +20,7 @@ deck, dated 01/08/2026, covering 5 required readings — 2 methodological papers
 productivity (by Prof. Heshmati himself), then 3 empirical papers on growth-inequality-poverty
 in Vietnam.</span>
 
-## Cấu trúc bài giảng
-<span class="en">## Lecture structure</span>
+## Cấu trúc bài giảng - <span class="en">Lecture structure</span>
 
 Đi qua 5 papers theo thứ tự: Heshmati & Rashidghalam 2020 (9 phần) → Lööf & Heshmati 2006 (11
 phần) → Tran, Alkire & Klasen 2015 (10 phần) → Nguyen & Pham 2018 (12 phần) → Nguyen et al. 2019
@@ -73,8 +72,7 @@ mindmap
       ("Bất bình đẳng năng lượng giảm nhanh hơn thu nhập — trừ coal/biomass TĂNG bất bình đẳng")
 ```
 
-## Luận điểm chính theo paper
-<span class="en">## Main arguments by paper</span>
+## Luận điểm chính theo paper - <span class="en">Main arguments by paper</span>
 
 ### 1. Heshmati & Rashidghalam 2020 — [[l61-heshmati-rashidghalam-2020-tfp-technology-shifters]]
 
@@ -171,8 +169,7 @@ mindmap
   class="en">Overall energy inequality falls faster than income/consumption inequality, but
   coal-and-biomass-specific inequality ROSE sharply (Gini 0.52→0.79) — a distributional paradox.</span>
 
-## Câu hỏi ôn thi tiềm năng
-<span class="en">## Potential exam questions</span>
+## Câu hỏi ôn thi tiềm năng - <span class="en">Potential exam questions</span>
 
 1. Heshmati & Rashidghalam (2020) tìm thấy TC và TFP growth ÂM ở TẤT CẢ nhóm thu nhập quốc gia
    trong technology index model, dù input elasticities dương và RTS > 1. Giải thích nghịch lý này

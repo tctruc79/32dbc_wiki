@@ -28,16 +28,14 @@ Xem thêm: [[k32-mock-exam-1]] (Set 1, LN1–LN2) · [[exam-prep]] (ôn thi tổ
 class="en">See also: [[k32-mock-exam-1]] (Set 1, LN1–LN2) · [[exam-prep]] (consolidated exam
 review).</span>
 
-## 0. Luật thi & cơ cấu điểm (mô phỏng theo K31)
-<span class="en">## 0. Exam Rules & Grading Structure (modeled on K31)</span>
+## 0. Luật thi & cơ cấu điểm (mô phỏng theo K31) - <span class="en">Exam Rules & Grading Structure (modeled on K31)</span>
 
 Giống hệt [[k32-mock-exam-1]] mục 0 — 120 phút, closed-book, 2 compulsory (Câu 1–2) + chọn tối
 thiểu 2/4 elective (Câu 3–6), mỗi câu 12.5đ, tổng 50đ.<br><span class="en">Identical to
 [[k32-mock-exam-1]] section 0 — 120 minutes, closed-book, 2 compulsory (Questions 1–2) + choose
 at least 2/4 elective (Questions 3–6), 12.5 points each, 50 points total.</span>
 
-## 1. Đề bài
-<span class="en">## 1. Questions</span>
+## 1. Đề bài - <span class="en">Questions</span>
 
 ### A. Compulsory questions (each 12.5 points)
 
@@ -69,8 +67,7 @@ argument about the nature of the entrepreneurship problem in developing countrie
 the GET Ahead training programme on the empowerment of female microfinance borrowers in northern
 Vietnam. Discuss their findings and explain why the effects differ between midline and endline.
 
-## 2. Đáp án chi tiết
-<span class="en">## 2. Detailed Answers</span>
+## 2. Đáp án chi tiết - <span class="en">Detailed Answers</span>
 
 ### Question 1 — Banking crises without panics (Baron, Verner & Xiong, QJE 2021)
 

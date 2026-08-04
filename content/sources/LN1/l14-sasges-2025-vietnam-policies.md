@@ -108,8 +108,7 @@ equation estimated by OLS → **Impulse Response Function (IRF)** + **Variance D
 
 ## Regression/Estimation Results
 
-### Period I (1980–1997)
-<span class="en">### Period I (1980–1997)</span>
+### Period I (1980–1997) - <span class="en">Period I (1980–1997)</span>
 
 - Kiểm định VAR(2): ổn định (6/6 nghiệm nghịch đảo trong vòng tròn đơn vị), normal, không tự
   tương quan chuỗi.<br><span class="en">VAR(2) diagnostics: stable (6/6 inverse roots within the
@@ -123,8 +122,7 @@ equation estimated by OLS → **Impulse Response Function (IRF)** + **Variance D
   from the TR shock, ~37% from the ELE shock — together **97%** of GDPG variation in Period
   I.</span>
 
-### Period II (1998–2019)
-<span class="en">### Period II (1998–2019)</span>
+### Period II (1998–2019) - <span class="en">Period II (1998–2019)</span>
 
 - Kiểm định VAR(1): ổn định (8/8 nghiệm nghịch đảo trong vòng tròn).<br><span class="en">VAR(1)
   diagnostics: stable (8/8 inverse roots within the unit circle).</span>

@@ -40,8 +40,7 @@ Productivity/VN Poverty Measurement (LN6, 2 independent axes), Human Capital/Inf
 Public Investment (LN7, 4 sub-themes), and Circular Economy (LN8, 2 same-author empirical cases +
 3 definition/measurement papers + 2 emerging channels).</span>
 
-## Mindmap theo cụm chủ đề
-<span class="en">## Mindmap by Thematic Cluster</span>
+## Mindmap theo cụm chủ đề - <span class="en">Mindmap by Thematic Cluster</span>
 
 ```mermaid
 mindmap
@@ -107,8 +106,7 @@ mindmap
       ("L88 Luengo Vera et al. 2025 — bibliometric innovation-CE-SDG, 1630 bài Scopus")
 ```
 
-## Giải thích 10 cụm
-<span class="en">## Explanation of the 10 Clusters</span>
+## Giải thích 10 cụm - <span class="en">Explanation of the 10 Clusters</span>
 
 ### A. Deep Roots & Historical Determinants
 
@@ -135,8 +133,7 @@ Trung Quốc) thay vì chỉ so sánh quốc gia.<br><span class="en">All three 
 examine growth inequality **within a single country** (Vietnamese provinces, Chinese regions)
 rather than only cross-country comparisons.</span>
 
-### C. Institutions — 4 kênh cụ thể
-<span class="en">### C. Institutions — 4 Specific Channels</span>
+### C. Institutions — 4 kênh cụ thể - <span class="en">C. Institutions — 4 Specific Channels</span>
 
 Đây là cụm dày nhất trong LN1+LN2 (5/11 paper) và có cấu trúc phân cấp rõ nhất: [[institutions]]
 (Acemoglu) là khung lý thuyết gốc, 3 paper sau mỗi paper khai thác **một kênh truyền dẫn** khác
@@ -291,8 +288,7 @@ plurality via a 55-indicator taxonomy) — see [[circular-economy]] (Debates sec
 **emerging channels** — L87 (Nademi & Sedaghat Kalmarzi 2025, CE-unemployment in Europe), L88
 (Luengo Vera et al. 2025, innovation-CE-SDG bibliometrics).</span>
 
-## So sánh với mindmap theo lecture
-<span class="en">## Comparison with the Per-Lecture Mindmaps</span>
+## So sánh với mindmap theo lecture - <span class="en">Comparison with the Per-Lecture Mindmaps</span>
 
 - Mindmap trong [[ln1-economic-development]],
   [[ln2-governance-institutions-policy-making]], [[ln3-financial-crisis-and-pandemics]],

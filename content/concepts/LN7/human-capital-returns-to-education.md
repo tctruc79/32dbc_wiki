@@ -9,8 +9,7 @@ status: complete
 
 # Human Capital and Returns to Education
 
-## Định nghĩa
-<span class="en">## Definition</span>
+## Định nghĩa - <span class="en">Definition</span>
 
 **Returns to education** (giữ nguyên EN) có 2 nghĩa PHÂN BIỆT cần tách rõ trong môn học: (i)
 **suất sinh lời TƯ NHÂN** (private/wage returns) — mức tăng thu nhập cá nhân từ một bậc học/năm học
@@ -32,8 +31,7 @@ models or growth regressions — [[l74-dao-2020-education-economic-growth-vietna
 through education + training + experience, treated as a form of "capital" generating future
 productivity.</span>
 
-## Nguồn gốc lý thuyết
-<span class="en">## Theoretical origins</span>
+## Nguồn gốc lý thuyết - <span class="en">Theoretical origins</span>
 
 - **Becker (1964) human capital model** — nền tảng cho toàn bộ literature returns to education:
   thu nhập tăng theo trình độ học vấn, thể hiện "premium" từ có bằng cấp — trực tiếp trích dẫn ở cả
@@ -77,8 +75,7 @@ productivity.</span>
   levels for 29 Chinese provinces 1993–2001, finding ONLY higher education significant (the
   complete opposite of the VN result).</span>
 
-## Nguồn nào trong môn bàn về nó
-<span class="en">## Which course sources discuss it</span>
+## Nguồn nào trong môn bàn về nó - <span class="en">Which course sources discuss it</span>
 
 - [[l73-mcguinness-2021-returns-to-education-vietnam]] — kênh **suất sinh lời tư nhân, VN**:
   Mincer + Heckman selection, 5 đợt VHLSS 2002–2016; premium giáo dục ĐH tăng mạnh 2002–2010, ĐẢO
@@ -103,8 +100,7 @@ productivity.</span>
   non-tertiary and tertiary schooling lose significance — the core argument shaping how to read
   the two VN papers.</span>
 
-## Tranh luận/căng thẳng đáng nhớ cho exam
-<span class="en">## Debates/tensions worth remembering for the exam</span>
+## Tranh luận/căng thẳng đáng nhớ cho exam - <span class="en">Debates/tensions worth remembering for the exam</span>
 
 - **⚡ Hanushek (hoài nghi "mở rộng higher education") vs McGuinness/Dao (VN — cả hai đều tìm thấy
   higher education kém hiệu quả hơn kỳ vọng, nhưng bằng CƠ CHẾ KHÁC NHAU)**: đây là căng thẳng
@@ -175,8 +171,7 @@ productivity.</span>
   concept that Patel et al. (2021) empirically rebut cross-country (see the
   [[middle-income-trap]] page).</span>
 
-## Liên hệ Việt Nam
-<span class="en">## Relevance to Vietnam</span>
+## Liên hệ Việt Nam - <span class="en">Relevance to Vietnam</span>
 
 2 trong 3 nguồn của concept này lấy Việt Nam làm bối cảnh trực tiếp
 ([[l73-mcguinness-2021-returns-to-education-vietnam]],

@@ -20,8 +20,7 @@ constraints (norms, conventions, self-imposed codes of conduct). Formal rules ar
 polity; informal norms are part of **culture**. Central to
 [[ln2-governance-institutions-policy-making]].</span>
 
-## Các mảnh lý thuyết trong LN2
-<span class="en">## Theoretical pieces in LN2</span>
+## Các mảnh lý thuyết trong LN2 - <span class="en">Theoretical pieces in LN2</span>
 
 1. **Nguồn gốc lịch sử** — [[l21-acemoglu-2001-colonial-origins]]: institutions hiện tại bắt rễ từ
    chiến lược thuộc địa (extractive vs Neo-European), quyết định bởi settler mortality; persist
@@ -56,8 +55,7 @@ polity; informal norms are part of **culture**. Central to
    governance quality (a provincial-level institutions proxy) is the channel through which FDI
    reduces the informal economy.</span>
 
-## Ứng dụng thực nghiệm ở LN4 (thể chế đất đai Việt Nam)
-<span class="en">## Empirical application in LN4 (Vietnamese land institutions)</span>
+## Ứng dụng thực nghiệm ở LN4 (thể chế đất đai Việt Nam) - <span class="en">Empirical application in LN4 (Vietnamese land institutions)</span>
 
 Bổ sung 2026-07-29 khi ingest LN4: hai reading của LN4 kiểm định thực nghiệm trực tiếp lý thuyết
 property-rights/institutions bằng dữ liệu vi mô Việt Nam — hiếm có trong syllabus môn học một cặp
@@ -96,8 +94,7 @@ syllabus of a pair of sources so clearly linking LN2 theory to LN4 evidence.</sp
   certificates). Shows Vietnam's "land institutions" have at least 2 independent problem axes:
   tenure security (L41) and plot structure (L42).</span>
 
-## Mở rộng sang LN5 — Entrepreneurship
-<span class="en">## Extending to LN5 — Entrepreneurship</span>
+## Mở rộng sang LN5 — Entrepreneurship - <span class="en">Extending to LN5 — Entrepreneurship</span>
 
 Naudé (2010, [[l53-naude-2010-entrepreneurship-development-economics]]) dùng chính hình ảnh "black
 box" để mô tả institutions trong development economics — cùng cách dùng như slide LN2 tự nhận về AJR
@@ -125,8 +122,7 @@ endogenous perspective to the institutions concept, in the same spirit as the Al
 debate (culture↔institutions) but here it is entrepreneurial agency↔institutions. See also
 [[entrepreneurship-and-development]] (LN5).</span>
 
-## Tranh luận/căng thẳng đáng nhớ cho exam
-<span class="en">## Debates/tensions worth remembering for the exam</span>
+## Tranh luận/căng thẳng đáng nhớ cho exam - <span class="en">Debates/tensions worth remembering for the exam</span>
 
 - **Institutions như biến ngoại sinh (AJR) vs đồng nội sinh với culture (Alesina & Giuliano)**:
   AJR dùng settler mortality làm instrument ngụ ý institutions có thể tách biệt causally; Alesina
@@ -146,8 +142,7 @@ debate (culture↔institutions) but here it is entrepreneurial agency↔institut
   the deep-roots literature (alongside geography, ancestry) — persistence should not be
   attributed entirely to institutions.</span>
 
-## Liên hệ Việt Nam
-<span class="en">## Relevance to Vietnam</span>
+## Liên hệ Việt Nam - <span class="en">Relevance to Vietnam</span>
 
 [[l26-huynh-tran-2025-fdi-informal-economy]] cho bằng chứng trực tiếp: local governance quality
 cấp tỉnh (2006–2021) là kênh FDI giảm informal economy, bên cạnh kênh growth. Gợi ý essay: so

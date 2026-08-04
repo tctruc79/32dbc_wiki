@@ -32,8 +32,7 @@ Xem thêm: [[k32-mock-exam-2]] (Set 2, LN3–LN5) · [[exam-prep]] (ôn thi tổ
 class="en">See also: [[k32-mock-exam-2]] (Set 2, LN3–LN5) · [[exam-prep]] (consolidated exam
 review).</span>
 
-## 0. Luật thi & cơ cấu điểm (mô phỏng theo K31)
-<span class="en">## 0. Exam Rules & Grading Structure (modeled on K31)</span>
+## 0. Luật thi & cơ cấu điểm (mô phỏng theo K31) - <span class="en">Exam Rules & Grading Structure (modeled on K31)</span>
 
 - **Hình thức**: Written exam (50 điểm) + Essay (50 điểm) — 50/50, PASS ≥50% mỗi phần theo
   [[syllabus-2026]] (K31 áp dụng ngưỡng 55%/27.5 điểm — chưa rõ K32 theo ngưỡng nào, xem
@@ -49,8 +48,7 @@ review).</span>
   Elective — Questions 3–6 (12.5 points each, choose at least 2; if more are answered, only the
   top 2 scores count). Total: 2 compulsory + 2 best elective × 12.5 = 50 points.</span>
 
-## 1. Đề bài
-<span class="en">## 1. Questions</span>
+## 1. Đề bài - <span class="en">Questions</span>
 
 ### A. Compulsory questions (each 12.5 points)
 
@@ -81,8 +79,7 @@ and the economic magnitude of the effect.
 informal economy in Vietnam. Discuss their findings concerning the channels through which FDI
 affects the informal economy, and the implications for Vietnam's development policy.
 
-## 2. Đáp án chi tiết
-<span class="en">## 2. Detailed Answers</span>
+## 2. Đáp án chi tiết - <span class="en">Detailed Answers</span>
 
 ### Question 1 — Colonial origins of comparative development (Acemoglu, Johnson & Robinson, AER 2001)
 

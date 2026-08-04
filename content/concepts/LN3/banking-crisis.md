@@ -9,8 +9,7 @@ status: complete
 
 # Banking Crisis (khủng hoảng ngân hàng)
 
-## Định nghĩa
-<span class="en">## Definition</span>
+## Định nghĩa - <span class="en">Definition</span>
 
 **Banking crisis** (khủng hoảng ngân hàng): giai đoạn khả năng trung gian tài chính (intermediate
 funds) của khu vực ngân hàng bị suy giảm nghiêm trọng, vì chủ sở hữu vốn cổ phần (equity
@@ -29,8 +28,7 @@ part of the banking system. Key distinction: **a banking crisis does not necessa
 panic** — Baron, Verner & Xiong (2021) show that a large bank equity decline still produces
 severe macroeconomic consequences even without a panic (a "quiet crisis").</span>
 
-## Nguồn gốc lý thuyết
-<span class="en">## Theoretical origins</span>
+## Nguồn gốc lý thuyết - <span class="en">Theoretical origins</span>
 
 - **Trường phái panic-trung tâm**: Diamond & Dybvig (1983) — dùng nợ ngắn hạn tài trợ tài sản
   dài hạn khiến ngân hàng dễ bị self-fulfilling panic dù đang có khả năng thanh toán (solvent).
@@ -53,8 +51,7 @@ severe macroeconomic consequences even without a panic (a "quiet crisis").</span
   **amplification** mechanism, not a necessary condition — on average, panics occur after bank
   equity has already lost 55% of its total decline.</span>
 
-## Nguồn nào trong môn bàn về nó
-<span class="en">## Which course sources discuss it</span>
+## Nguồn nào trong môn bàn về nó - <span class="en">Which course sources discuss it</span>
 
 - [[l31-baron-2021-banking-crises-without-panics]] — trung tâm khái niệm, dữ liệu 46 nước
   1870–2016.<br><span class="en">[[l31-baron-2021-banking-crises-without-panics]] — central to
@@ -78,8 +75,7 @@ severe macroeconomic consequences even without a panic (a "quiet crisis").</span
   [[l36-minford-2025-monetary-policy-lessons]] — a long-run macro monetary-policy perspective
   (1970s–present), stabilization lessons after crises.</span>
 
-## Liên hệ Việt Nam
-<span class="en">## Relevance to Vietnam</span>
+## Liên hệ Việt Nam - <span class="en">Relevance to Vietnam</span>
 
 Việt Nam là thị trường ngân hàng mới nổi (per L35, được đánh giá "đặc biệt dễ tổn thương"
 trước phân mảnh tài chính địa chính trị). L26 (Huynh & Tran 2025, LN2) đã cho thấy local

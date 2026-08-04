@@ -10,8 +10,7 @@ source_file: "raw/1. SYLLABUS/Syllabus-2026 V1 UEH Dev issues and business cycle
 
 # Syllabus 2026 (V1, last changed 2026-06-18)
 
-## Tóm tắt
-<span class="en">## Summary</span>
+## Tóm tắt - <span class="en">Summary</span>
 
 Syllabus chính thức của môn. Định nghĩa: mô tả môn học, grading, lịch trình, outline
 10 chủ đề lecture kèm danh sách reading (mỗi chủ đề 5–7 papers, thiên về ứng dụng
@@ -20,8 +19,7 @@ syllabus. Defines: the course description, grading, schedule, an outline of the 
 topics with their reading lists (5–7 papers per topic, leaning toward Vietnamese
 applications), and a list of suggested essay topics.</span>
 
-## Điểm chính
-<span class="en">## Key points</span>
+## Điểm chính - <span class="en">Key points</span>
 
 - Cân bằng theory ↔ empirics; mỗi buổi học = lecture + thảo luận vài paper. Reading là
   **bắt buộc** và có thể vào written exam (syllabus tr.1).<br><span class="en">Balances theory

@@ -17,8 +17,7 @@ the capabilities needed for sustainable technological development and rising to 
 leadership, beyond pure catch-up growth. It requires: asking bold questions, persistently
 accumulating trial-and-error experience, and scaling up from ideas to viable outcomes.</span>
 
-## Trong môn học
-<span class="en">## Within the course</span>
+## Trong môn học - <span class="en">Within the course</span>
 
 - Được trình bày như **lối thoát khỏi [[middle-innovation-trap]]** ([[essays-instructions]],
   Topic Area 2).<br><span class="en">Presented as an **escape route from the

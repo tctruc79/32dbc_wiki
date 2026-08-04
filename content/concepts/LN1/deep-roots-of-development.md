@@ -16,8 +16,7 @@ literature that looks for **fundamental** causes (geography, history, culture, a
 development differences, rather than proximate determinants (capital, labor, technology).
 Anchor paper: [[l13-spolaore-2013-deep-roots]].</span>
 
-## Các khối bằng chứng (theo slides LN1)
-<span class="en">## Blocks of evidence (per the LN1 slides)</span>
+## Các khối bằng chứng (theo slides LN1) - <span class="en">Blocks of evidence (per the LN1 slides)</span>
 
 1. **Geography**: giải thích 44% biến thiên income (latitude mạnh nhất) nhưng chủ yếu qua
    kênh **gián tiếp** (Neolithic transmission — 71% biến thiên adoption of agriculture).<br><span
@@ -43,8 +42,7 @@ Anchor paper: [[l13-spolaore-2013-deep-roots]].</span>
    mechanism**: 4 dimensions (genetic, epigenetic, behavioural, symbolic) → biological /
    cultural / dual transmission (Jablonka & Lamb 2005).</span>
 
-## Thông điệp then chốt
-<span class="en">## Key message</span>
+## Thông điệp then chốt - <span class="en">Key message</span>
 
 Lịch sử persistent nhưng **không deterministic**; hiểu deep roots như **barriers to
 diffusion** → chính sách vẫn có vai trò giảm barriers (Japan → East Asia; Hong Kong

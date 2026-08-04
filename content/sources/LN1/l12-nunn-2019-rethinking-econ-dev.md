@@ -76,8 +76,7 @@ illustrated with 3 case studies (health, agriculture, education).</span>
 
 ## Key Findings
 
-### Foreign aid — bằng chứng cả lợi lẫn hại
-<span class="en">### Foreign aid — evidence of both benefit and harm</span>
+### Foreign aid — bằng chứng cả lợi lẫn hại - <span class="en">Foreign aid — evidence of both benefit and harm</span>
 
 - Có lợi ích thật: deworming ở Kenya (Miguel & Kremer 2004) tăng đi học + lương; unconditional
   cash transfer GiveDirectly tăng tài sản hộ gia đình + well-being (Haushofer & Shapiro
@@ -102,9 +101,7 @@ illustrated with 3 case studies (health, agriculture, education).</span>
   though: Moscona (2019) — well-implemented World Bank projects reduce conflict, while poorly
   implemented ones increase conflict even more than having no aid at all.</span>
 
-### Chính sách khác — trade/industrial policy, và tác hại chủ động của phương Tây
-<span class="en">### Other policies — trade/industrial policy, and the West's active
-harm</span>
+### Chính sách khác — trade/industrial policy, và tác hại chủ động của phương Tây - <span class="en">Other policies — trade/industrial policy, and the West's active harm</span>
 
 - Industrial policy có thể thành công (Hàn Quốc, Phần Lan, Pháp thế kỷ 19...) nhưng mang tính
   **zero-sum** giữa các nước đang phát triển.<br><span class="en">Industrial policy can succeed
@@ -133,9 +130,7 @@ harm</span>
   helped Indonesia raise minimum wages by 400% (Harrison & Scorse 2010) without reducing
   output/employment.</span>
 
-### Rethinking academic research — phê phán RCT "one-size-fits-all"
-<span class="en">### Rethinking academic research — a critique of "one-size-fits-all"
-RCTs</span>
+### Rethinking academic research — phê phán RCT "one-size-fits-all" - <span class="en">Rethinking academic research — a critique of "one-size-fits-all" RCTs</span>
 
 J-PAL: 170 affiliate từ 58 đại học, chỉ 1 ngoài Âu/Âu-hậu-duệ và 1 từ châu Phi. 3 case study
 minh họa **local context is essential**:<br><span class="en">J-PAL: 170 affiliates from 58

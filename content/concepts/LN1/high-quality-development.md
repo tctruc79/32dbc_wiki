@@ -17,8 +17,7 @@ Congress) for shifting the growth model from **high-speed** to **high-quality** 
 a multidimensional composite index under the "new development concept" (5th Plenary Session of
 the 18th Central Committee) rather than GDP alone.</span>
 
-## 5 nguyên tắc & đo lường (theo [[l15-yin-2025-china-hqed]])
-<span class="en">## 5 principles & measurement (per [[l15-yin-2025-china-hqed]])</span>
+## 5 nguyên tắc & đo lường (theo [[l15-yin-2025-china-hqed]]) - <span class="en">principles & measurement (per [[l15-yin-2025-china-hqed]])</span>
 
 5 primary indicators — **innovation, coordination, greenness, openness, sharing** — chia
 thành 11 secondary + **21 tertiary indicators** cụ thể (R&D input/output, chênh lệch thu nhập
@@ -35,8 +34,7 @@ information entropy, avoiding subjective bias as in AHP) → aggregated into a c
 0–1. Spatiotemporal analysis uses Moran's Index (spatial autocorrelation), K-means clustering,
 and Gaussian kernel density estimation.</span>
 
-## Kết quả thực nghiệm (Trung Quốc, 30 tỉnh, 2011–2021)
-<span class="en">## Empirical results (China, 30 provinces, 2011–2021)</span>
+## Kết quả thực nghiệm (Trung Quốc, 30 tỉnh, 2011–2021) - <span class="en">Empirical results (China, 30 provinces, 2011–2021)</span>
 
 - Miền Đông (Quảng Đông, Giang Tô, Bắc Kinh, Chiết Giang, Thượng Hải, Sơn Đông) vượt trội rõ
   rệt Trung/Đông Bắc/Tây — phát triển "uneven, uncoordinated, insufficient" (không đều, thiếu
@@ -51,8 +49,7 @@ and Gaussian kernel density estimation.</span>
   provinces keeps widening even as the overall level improves. Spatial clustering is
   statistically significant throughout 2011–2021 (Moran's I, p<0.05).</span>
 
-## Liên hệ Việt Nam
-<span class="en">## Relevance to Vietnam</span>
+## Liên hệ Việt Nam - <span class="en">Relevance to Vietnam</span>
 
 Khung đo composite cấp tỉnh (entropy + 5 nguyên tắc + cluster + kernel density) replicate
 được trực tiếp cho Việt Nam — nối với gợi ý convergence liên tỉnh của giáo sư

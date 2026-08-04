@@ -35,8 +35,7 @@ mindmap
       ("Lecture 10: Trade Tariffs and Discuss Exam-Essay-Grades-Publications")
 ```
 
-## Lịch học (18:00–20:30, phòng H104)
-<span class="en">## Class Schedule (18:00–20:30, Room H104)</span>
+## Lịch học (18:00–20:30, phòng H104) - <span class="en">Class Schedule (18:00–20:30, Room H104)</span>
 
 | #   | Ngày     |     | #   | Ngày     |
 | --- | -------- | --- | --- | -------- |
@@ -50,8 +49,7 @@ Xen kẽ: ELG-2026 Conference (28–29/7), ACBES-2026 (3–4/8), Ukraine Virtual
 class="en">Interspersed: the ELG-2026 Conference (28–29/7), ACBES-2026 (3–4/8), Ukraine
 Virtual Conference (21–22/8).</span>
 
-## ✅ Lịch thi — đã xác nhận (cập nhật 30/7)
-<span class="en">## ✅ Exam Schedule — Confirmed (Updated 30/7)</span>
+## ✅ Lịch thi — đã xác nhận (cập nhật 30/7) - <span class="en">✅ Exam Schedule — Confirmed (Updated 30/7)</span>
 
 Giáo sư trình chiếu slide "Planning Schedule" cập nhật ngay trong lớp (ảnh chụp màn hình,
 xem `also_covers` ở frontmatter) — đây là nguồn **mới nhất**, thay thế mọi mốc cũ trong
@@ -73,8 +71,7 @@ syllabus (18/06) and the original LN0 deck (17/07):</span>
   publication decision **30/9** — these dates match across all 3 sources (syllabus/LN0/Planning
   Schedule), unchanged.</span>
 
-## Khác biệt nhỏ về tên chủ đề so với syllabus
-<span class="en">## Minor Differences in Topic Names vs. the Syllabus</span>
+## Khác biệt nhỏ về tên chủ đề so với syllabus - <span class="en">Minor Differences in Topic Names vs. the Syllabus</span>
 
 - Lecture 6: "Technology, Growth, Inequality and Poverty" (syllabus có thêm "Innovation").<br><span
   class="en">Lecture 6: "Technology, Growth, Inequality and Poverty" (the syllabus adds

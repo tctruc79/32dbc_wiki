@@ -18,8 +18,7 @@ trang, ngày 17/07/2026, cover 5 required readings. Vị trí trong course: ch�
 [[ln0-course-intro]]). A 53-page slide deck, dated 17/07/2026, covering 5 required readings.
 Position in the course: the opening topic of [[overview]].</span>
 
-## Cấu trúc bài giảng
-<span class="en">## Lecture structure</span>
+## Cấu trúc bài giảng - <span class="en">Lecture structure</span>
 
 Bài giảng đi qua 5 papers theo thứ tự: Spolaore & Wacziarg (16 phần) → Nunn (9 phần) →
 Patel et al. (14 phần) → Sasges & Takahashi (2 phần) → Yin et al. (6 phần), kết bằng
@@ -60,8 +59,7 @@ mindmap
       ("Miền Đông vượt trội Trung/Đông Bắc/Tây")
 ```
 
-## Luận điểm chính theo paper
-<span class="en">## Main arguments by paper</span>
+## Luận điểm chính theo paper - <span class="en">Main arguments by paper</span>
 
 ### 1. Spolaore & Wacziarg 2013 — [[l13-spolaore-2013-deep-roots]]
 
@@ -186,8 +184,7 @@ entropy method + clustering + kernel density, at the provincial level, 2011–20
 outperforms the central/northeastern/western regions; development is "uneven, uncoordinated,
 insufficient."</span>
 
-## Câu hỏi ôn thi tiềm năng
-<span class="en">## Potential exam questions</span>
+## Câu hỏi ôn thi tiềm năng - <span class="en">Potential exam questions</span>
 
 1. Phân biệt proximate vs fundamental determinants of development.<br><span class="en">
    Distinguish proximate vs. fundamental determinants of development.</span>

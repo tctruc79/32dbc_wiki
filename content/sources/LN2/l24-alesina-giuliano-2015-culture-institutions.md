@@ -75,8 +75,7 @@ city**.</span>
 
 ## Key Findings
 
-### (A) Culture → institutions
-<span class="en">### (A) Culture → Institutions</span>
+### (A) Culture → institutions - <span class="en">(A) Culture → Institutions</span>
 
 - **Litina và một số tác giả khác**: individualism đo ở cấp quốc gia có hiệu ứng dương,
   significant lên institutions (dùng settler mortality — Acemoglu, Johnson & Robinson 2001 —
@@ -93,8 +92,7 @@ city**.</span>
   history, is persistent, and correlates with good current institutions and conditions
   favorable to development.</span>
 
-### (B)–(C) Institutions ↔ culture, đồng quyết định development
-<span class="en">### (B)–(C) Institutions ↔ Culture, Jointly Determining Development</span>
+### (B)–(C) Institutions ↔ culture, đồng quyết định development - <span class="en">(B)–(C) Institutions ↔ Culture, Jointly Determining Development</span>
 
 - **Michalopoulos & Papaioannou (2013, 2014)** — châu Phi: precolonial political centralization
   (không phải national institutions) giải thích khác biệt phát triển trong cùng sắc tộc; biên

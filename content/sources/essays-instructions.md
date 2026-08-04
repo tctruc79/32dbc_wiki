@@ -13,8 +13,7 @@ also_covers:
 
 # Essays Topics and Instructions
 
-## Tóm tắt
-<span class="en">## Summary</span>
+## Tóm tắt - <span class="en">Summary</span>
 
 Hướng dẫn chi tiết của [[almas-heshmati]] về bài essay (50% điểm môn): quy trình, deadline,
 cấu trúc bắt buộc, và danh sách topic areas gợi ý.<br><span class="en">
@@ -30,8 +29,7 @@ instructions Class 32 MSc Course Development Issues.pdf`) are **identical** in c
 `.md` page (same 9 clauses, same 2 topic areas, same ~30 suggested articles) — no additional
 information, no separate page needed.</span>
 
-## Yêu cầu essay
-<span class="en">## Essay requirements</span>
+## Yêu cầu essay - <span class="en">Essay requirements</span>
 
 - Nhóm 1–2 người; topic tự chọn (trong hoặc ngoài list gợi ý, miễn relevant).<br><span
   class="en">Groups of 1–2 people; freely chosen topic (within or outside the suggested list,
@@ -59,8 +57,7 @@ information, no separate page needed.</span>
   class="en">Data: recommended sources are Vietnam National Statistics (GSO), Google Scholar,
   Science Direct.</span>
 
-## Topic areas gợi ý
-<span class="en">## Suggested topic areas</span>
+## Topic areas gợi ý - <span class="en">Suggested topic areas</span>
 
 Trọng tâm xoay quanh cụm chủ đề công nghệ – bẫy phát triển:<br><span class="en">Centered on the
 technology–development-trap cluster of topics:</span>

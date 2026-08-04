@@ -9,8 +9,7 @@ status: complete
 
 # Infrastructure Investment and Growth
 
-## Định nghĩa
-<span class="en">## Definition</span>
+## Định nghĩa - <span class="en">Definition</span>
 
 **Infrastructure investment** (giữ nguyên EN): chi tiêu công/tư vào hạ tầng vật chất (giao thông,
 năng lượng, viễn thông, nước/vệ sinh) và hạ tầng "mềm" liên quan (giáo dục, y tế, an sinh xã hội,
@@ -27,8 +26,7 @@ enters as a **Hicks-neutral shift factor** raising the marginal productivity of 
 capital (Aschauer 1989), or as a **pull factor** attracting migration/firms to urbanizing
 areas.</span>
 
-## Nguồn gốc lý thuyết
-<span class="en">## Theoretical origins</span>
+## Nguồn gốc lý thuyết - <span class="en">Theoretical origins</span>
 
 - **Aschauer (1989)** — nghiên cứu nền tảng tìm thấy độ co giãn output theo vốn giao thông = 0.39,
   tương quan mạnh giữa đầu tư giao thông và tăng trưởng — trích dẫn trong cả 2 bài LN7 về hạ tầng
@@ -64,8 +62,7 @@ areas.</span>
   the theoretical basis for the "infrastructure as pro-poor policy" argument appearing in
   [[l72-kadyraliev-2022-transport-infrastructure-investment]].</span>
 
-## Nguồn nào trong môn bàn về nó
-<span class="en">## Which course sources discuss it</span>
+## Nguồn nào trong môn bàn về nó - <span class="en">Which course sources discuss it</span>
 
 - [[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] — kênh **đô thị hóa**: panel N=310
   31 tỉnh Trung Quốc, PCA + fixed-effects regression nghiêm ngặt; 8/15 thành phần hạ tầng
@@ -83,8 +80,7 @@ areas.</span>
   aid, rehabilitated road quality), but the empirical regression has ONLY n=7 observations, with
   no reported statistical significance — a clear methodological weakness.</span>
 
-## Tranh luận/căng thẳng đáng nhớ cho exam
-<span class="en">## Debates/tensions worth remembering for the exam</span>
+## Tranh luận/căng thẳng đáng nhớ cho exam - <span class="en">Debates/tensions worth remembering for the exam</span>
 
 - **Chuẩn mực phương pháp luận: N=310 nghiêm ngặt (L71) vs n=7 lỏng lẻo (L72)** — đây là cặp so
   sánh RÕ RÀNG NHẤT trong toàn LN7 về "khi nào một kết quả hồi quy về hạ tầng đáng tin cậy". L71
@@ -118,8 +114,7 @@ areas.</span>
   a short/medium-run urban migration "pull" factor (per Heshmati & Rashidghalam) — two different
   questions (growth driver vs. migration pull factor).</span>
 
-## Liên hệ Việt Nam
-<span class="en">## Relevance to Vietnam</span>
+## Liên hệ Việt Nam - <span class="en">Relevance to Vietnam</span>
 
 Cả hai bài đều nhắc trực tiếp đến Việt Nam như một ví dụ so sánh: L72 nêu VN cùng Trung Quốc đầu
 tư ~10% GDP vào hạ tầng nhưng vẫn chưa đủ đáp ứng nhu cầu điện/giao thông; kết cấu "chênh lệch

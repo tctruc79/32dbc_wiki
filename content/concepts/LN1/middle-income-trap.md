@@ -24,8 +24,7 @@ concept**: Gill & Kharas (2015) — an economy squeezed between low-wage competi
 countries (mature industries) and the innovation capacity of rich countries (industries
 undergoing technological change) ([[ln1-economic-development]]).</span>
 
-## ⚡ Tranh luận: bằng chứng thực nghiệm PHẢN BÁC trap
-<span class="en">## ⚡ Debate: empirical evidence that REBUTS the trap</span>
+## ⚡ Tranh luận: bằng chứng thực nghiệm PHẢN BÁC trap - <span class="en">⚡ Debate: empirical evidence that REBUTS the trap</span>
 
 [[l11-patel-2021-unconditional-convergence]] (slides LN1, phần 8/14): kiểm định bằng hệ số γ
 cho thấy **sau 1985 middle-income countries tăng trưởng CAO HƠN 0.50–0.75 điểm %** so với
@@ -64,8 +63,7 @@ growth may stem from input ACCUMULATION rather than genuine productivity improve
 with the "technology-upgrading failure" mechanism the middle-income trap posits, even though it
 does not clearly show up in average GDP/capita growth (per L11).</span>
 
-## Trong môn học
-<span class="en">## Within the course</span>
+## Trong môn học - <span class="en">Within the course</span>
 
 - Trọng tâm Topic Area 1 của essay list: growth slowdown ở emerging economies được quy cho
   middle-income trap và thất bại [[technology-upgrading]] ([[essays-instructions]]).<br><span

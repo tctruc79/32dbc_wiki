@@ -14,8 +14,7 @@ status: complete
 Bản đồ môn học. Nguồn: [[syllabus-2026]], [[essays-instructions]].<br><span class="en">The
 course map. Sources: [[syllabus-2026]], [[essays-instructions]].</span>
 
-## Thông tin chung
-<span class="en">## General information</span>
+## Thông tin chung - <span class="en">General information</span>
 
 - **Giảng viên**: [[almas-heshmati]] (UEH), almas.heshmati@gmail.com.<br><span class="en">
   **Instructor**: [[almas-heshmati]] (UEH), almas.heshmati@gmail.com.</span>
@@ -30,8 +29,7 @@ course map. Sources: [[syllabus-2026]], [[essays-instructions]].</span>
   class="en">**Grading**: Essay/Assignment **50%** + Written Exam **50%** — must score ≥50% on
   EACH part to pass.</span>
 
-## Timeline 2026
-<span class="en">## 2026 Timeline</span>
+## Timeline 2026 - <span class="en">2026 Timeline</span>
 
 | Mốc | Ngày |
 |---|---|
@@ -43,8 +41,7 @@ course map. Sources: [[syllabus-2026]], [[essays-instructions]].</span>
 | Công bố điểm | 20/9 |
 | Quyết định book chapter (Springer Southeast Asian series) | 30/9 |
 
-## 10 chủ đề lecture (Course Outline)
-<span class="en">## 10 Lecture Topics (Course Outline)</span>
+## 10 chủ đề lecture (Course Outline) - <span class="en">Lecture Topics (Course Outline)</span>
 
 1. **Economic Development** — [[ln1-economic-development]] — readings: Patel et al. 2021
    ([[l11-patel-2021-unconditional-convergence]]), Nunn 2019 ([[l12-nunn-2019-rethinking-econ-dev]]),
@@ -108,8 +105,7 @@ course map. Sources: [[syllabus-2026]], [[essays-instructions]].</span>
     Alessandria et al. 2025, Che-Lin-Zhang 2025, Sheng-Song-Zheng 2025, Almazan-Gomez et al.
     2025, Dang et al. 2024, Toai 2025.
 
-## Ôn thi
-<span class="en">## Exam preparation</span>
+## Ôn thi - <span class="en">Exam preparation</span>
 
 [[exam-prep]] — trang trung tâm để ôn thi cuối kỳ: quy trình 5 bước, bảng tra nhanh, tranh
 luận giữa các paper, concept map, ngân hàng 61 câu hỏi. [[all-papers-mindmap]] — bản mindmap
@@ -137,16 +133,14 @@ questions" flashcard tab. **When updating (e.g., after ingesting a new reading),
 republish to these exact 3 URLs (using the Artifact tool's `url` parameter) — never create a
 new artifact**, since the link may already have been shared with others.</span>
 
-## Chủ đề essay gợi ý của giáo sư
-<span class="en">## Essay topics suggested by the professor</span>
+## Chủ đề essay gợi ý của giáo sư - <span class="en">Essay topics suggested by the professor</span>
 
 Xoay quanh: [[technology-upgrading]], [[middle-income-trap]], [[middle-innovation-trap]],
 [[creative-accumulation]] — xem [[essays-instructions]].<br><span class="en">Centered on:
 [[technology-upgrading]], [[middle-income-trap]], [[middle-innovation-trap]],
 [[creative-accumulation]] — see [[essays-instructions]].</span>
 
-## Trạng thái wiki theo lecture
-<span class="en">## Wiki status by lecture</span>
+## Trạng thái wiki theo lecture - <span class="en">Wiki status by lecture</span>
 
 | Lecture | Trạng thái |
 |---|---|

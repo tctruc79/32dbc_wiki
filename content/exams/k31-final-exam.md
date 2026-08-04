@@ -63,8 +63,7 @@ independent research (web search) since those papers aren't yet in K32's ingeste
 clearly noting which paper has been **confirmed across multiple independent sources** versus
 which Claude could not verify with certainty.</span>
 
-## 0. Luật thi & cơ cấu điểm
-<span class="en">## 0. Exam Rules & Grading Structure</span>
+## 0. Luật thi & cơ cấu điểm - <span class="en">Exam Rules & Grading Structure</span>
 
 - **Hình thức**: Written exam (50 điểm) + Essay (50 điểm) — cơ cấu 50/50 giống hệt syllabus K32
   ([[syllabus-2026]]).<br><span class="en">**Format**: Written exam (50 points) + Essay (50
@@ -93,8 +92,7 @@ which Claude could not verify with certainty.</span>
   - Tổng: 2 compulsory + 2 elective (tốt nhất) × 12.5 = 50 điểm.<br><span class="en">Total: 2
     compulsory + 2 elective (best) × 12.5 = 50 points.</span>
 
-## 1. Đề bài (nguyên văn)
-<span class="en">## 1. Questions (verbatim)</span>
+## 1. Đề bài (nguyên văn) - <span class="en">Questions (verbatim)</span>
 
 ### A. Compulsory questions (each 12.5 points)
 
@@ -126,8 +124,7 @@ potential impacts on the Vietnamese economy.
 its effects on urbanization in China. Discuss their approach, findings and its implications for
 development of Vietnam's urban infrastructure.
 
-## 2. Đáp án chi tiết
-<span class="en">## 2. Detailed Answers</span>
+## 2. Đáp án chi tiết - <span class="en">Detailed Answers</span>
 
 ### Question 1 — Land consolidation, rice production, Vietnam (Do, Nguyen & Grote, EAP 2023)
 
@@ -611,8 +608,7 @@ Vietnamese urban infrastructure development**:</span>
 - **Đề thi mô phỏng cho K32** (dùng đúng format/luật thi trang này nhưng thay bằng reading K32):
   [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8).
 
-## Bản tương tác (Artifact)
-<span class="en">## Interactive Version (Artifact)</span>
+## Bản tương tác (Artifact) - <span class="en">Interactive Version (Artifact)</span>
 
 Cả 6 câu hỏi K31 kèm đáp án đầy đủ (nguồn, phương pháp, findings, liên hệ Việt Nam) — bổ sung
 2026-07-31 dưới dạng tab riêng **"📝 Đề K31"**/**"K31 Exam"** trong 3 Mindmap Artifact, cập nhật

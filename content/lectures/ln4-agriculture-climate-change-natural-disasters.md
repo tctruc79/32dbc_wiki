@@ -18,8 +18,7 @@ class="en">Lecture 4 in [[overview]] (detailed schedule: [[ln0-course-intro]]). 
 deck, dated 29/07/2026, covering 6 required readings — 5 Vietnam-focused sources, 1 on
 Indonesia.</span>
 
-## Cấu trúc bài giảng
-<span class="en">## Lecture structure</span>
+## Cấu trúc bài giảng - <span class="en">Lecture structure</span>
 
 Đi qua 6 papers theo thứ tự cố định: Ho 2021 (7 phần) → Do et al. 2023 (14 phần) → Le 2020 (14
 phần) → Vo & Tran 2022 (6 phần) → Tran et al. 2022 (6 phần) → Hastuti et al. 2025 (4 phần), kết
@@ -77,8 +76,7 @@ mindmap
       ("Mạnh hơn ở Java, hộ đất nhỏ — DUY NHẤT nghiên cứu 'exit' thay vì 'ở lại thích ứng'")
 ```
 
-## Luận điểm chính theo paper
-<span class="en">## Main arguments by paper</span>
+## Luận điểm chính theo paper - <span class="en">Main arguments by paper</span>
 
 ### 1. Ho 2021 — [[l41-ho-2021-land-tenure-vietnam]]
 
@@ -212,8 +210,7 @@ mindmap
   mobility AS an adaptation strategy (exit), not an outcome to remediate — contrasting with
   L43–L45 (staying and adapting in place).</span>
 
-## Câu hỏi ôn thi tiềm năng
-<span class="en">## Potential exam questions</span>
+## Câu hỏi ôn thi tiềm năng - <span class="en">Potential exam questions</span>
 
 1. So sánh phương pháp xử lý endogeneity của L41 (Oster 2019 bias-adjustment), L42 (Lewbel 2012
    heteroscedasticity-based IV nội tại), và L46 (IV ngoại sinh altitude/latitude) — vì sao mỗi

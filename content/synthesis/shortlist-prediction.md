@@ -7,8 +7,7 @@ updated: 2026-08-04
 status: complete
 ---
 
-# Dự đoán Shortlist 20 bài thi cuối kỳ K32
-<span class="en"># Predicting the K32 Final-Exam 20-Paper Shortlist</span>
+# Dự đoán Shortlist 20 bài thi cuối kỳ K32 - <span class="en">Predicting the K32 Final-Exam 20-Paper Shortlist</span>
 
 Trang này trả lời câu hỏi: trong 49 paper đã deep-ingest (LN1–LN8), 20 bài nào có khả năng cao
 nhất lọt vào shortlist chính thức mà GS Heshmati sẽ gửi **30/8** cho phần thi viết **06/9**
@@ -30,8 +29,7 @@ not announced an official shortlist. This page is meant to guide early exam prep
 revisited when: (a) the real shortlist is announced on 30/8, or (b) LN9/LN10 are ingested (very
 likely to bump a few Tier B picks out of the real shortlist — see section 5).</span>
 
-## 1. Phát hiện chủ chốt: đề K31 map gần như 1:1 vào reading list K32
-<span class="en">## 1. Key finding: the K31 exam maps almost 1:1 onto the K32 reading list</span>
+## 1. Phát hiện chủ chốt: đề K31 map gần như 1:1 vào reading list K32 - <span class="en">Key finding: the K31 exam maps almost 1:1 onto the K32 reading list</span>
 
 Đối chiếu 6 câu hỏi đề thi thật [[k31-final-exam]] với reading list K32 (kể cả phần LN9/LN10 GS
 đã nêu tên trong [[overview]] dù chưa gửi file):<br><span class="en">Cross-checking the 6
@@ -56,11 +54,9 @@ outline. This shows the professor keeps the reading list and exam-question patte
 identical across cohorts → the 4 papers `L31, L42, L64, L71` are near-lock candidates for the K32
 shortlist.</span>
 
-## 2. Top 20 dự đoán (từ 49 paper đã ingest LN1–8)
-<span class="en">## 2. Top-20 prediction (from the 49 ingested LN1–8 papers)</span>
+## 2. Top 20 dự đoán (từ 49 paper đã ingest LN1–8) - <span class="en">Top-20 prediction (from the 49 ingested LN1–8 papers)</span>
 
-### Tier S — gần chắc chắn (4 bài, đã tái sử dụng nguyên văn từ đề K31)
-<span class="en">### Tier S — near-certain (4 papers, verbatim reuse from the K31 exam)</span>
+### Tier S — gần chắc chắn (4 bài, đã tái sử dụng nguyên văn từ đề K31) - <span class="en">Tier S — near-certain (4 papers, verbatim reuse from the K31 exam)</span>
 
 | Mã | Paper | Lý do |
 |---|---|---|
@@ -69,8 +65,7 @@ shortlist.</span>
 | L64 | Nguyen & Pham 2018 | = K31 Q2 |
 | L71 | Heshmati & Rashidghalam 2020 | = K31 Q6 (+ chính bài của GS) |
 
-### Tier A — khả năng cao (kinh điển ngành / bài của GS / VN chuẩn vàng phương pháp)
-<span class="en">### Tier A — high likelihood (field classics / professor's own papers / methodologically gold-standard VN studies)</span>
+### Tier A — khả năng cao (kinh điển ngành / bài của GS / VN chuẩn vàng phương pháp) - <span class="en">Tier A — high likelihood (field classics / professor's own papers / methodologically gold-standard VN studies)</span>
 
 | Mã | Paper | Lý do |
 |---|---|---|
@@ -83,8 +78,7 @@ shortlist.</span>
 | L26 | Huynh & Tran 2025 | Panel VN + System GMM, phương pháp chặt chẽ |
 | L52 | Huis et al. 2019 | RCT (chuẩn vàng phương pháp) + Việt Nam |
 
-### Tier B — ứng viên vững (VN áp dụng / phương pháp mạnh / trunk lý thuyết)
-<span class="en">### Tier B — solid candidates (VN applications / strong methods / theoretical trunks)</span>
+### Tier B — ứng viên vững (VN áp dụng / phương pháp mạnh / trunk lý thuyết) - <span class="en">Tier B — solid candidates (VN applications / strong methods / theoretical trunks)</span>
 
 | Mã | Paper |
 |---|---|
@@ -97,8 +91,7 @@ shortlist.</span>
 | L22 | Mauro 1995 (kinh điển corruption-growth) |
 | L13 | Spolaore & Wacziarg 2013 (deep roots — tranh luận trực tiếp với L11) |
 
-## 3. Phân bố theo lecture
-<span class="en">## 3. Distribution by lecture</span>
+## 3. Phân bố theo lecture - <span class="en">Distribution by lecture</span>
 
 LN1(3) · LN2(3) · LN3(2) · LN4(2) · LN5(2) · LN6(3) · LN7(2) · LN8(3) = 20. LN1/LN2 (nền tảng lý
 thuyết kinh điển) và LN6/LN8 (chuyên môn nghiên cứu chính của GS) được ưu tiên 3 slot; các lecture
@@ -106,8 +99,7 @@ còn lại 2 slot.<br><span class="en">LN1/LN2 (canonical theoretical foundation
 professor's core research specialties) are weighted 3 slots each; the remaining lectures get 2
 each.</span>
 
-## 4. Ứng viên gần đạt, bị loại sát nút
-<span class="en">## 4. Close alternates that narrowly missed the cut</span>
+## 4. Ứng viên gần đạt, bị loại sát nút - <span class="en">Close alternates that narrowly missed the cut</span>
 
 - L44 — Vo & Tran 2022, trunk LVI cho cụm vulnerability, VN.<br><span class="en">L44 — Vo & Tran
   2022, the LVI trunk for the vulnerability cluster, VN.</span>
@@ -120,8 +112,7 @@ each.</span>
   class="en">L51 — Nguyen 2023, the counter-intuitive negative risk-taking finding for
   women-owned Vietnamese SMEs.</span>
 
-## 5. Giới hạn & việc cần làm khi LN9/LN10 về
-<span class="en">## 5. Limitations & follow-up once LN9/LN10 arrive</span>
+## 5. Giới hạn & việc cần làm khi LN9/LN10 về - <span class="en">Limitations & follow-up once LN9/LN10 arrive</span>
 
 Mục 1 đã chứng minh LN9/LN10 **chắc chắn** cũng góp mặt trong shortlist thật (Q3, Q5 của K31 đều
 rơi vào 2 lecture này). Vì vậy danh sách 20 ở mục 2 (tính hoàn toàn từ 49 bài LN1–8) gần chắc sẽ bị
@@ -137,8 +128,7 @@ papers (Tam et al. 2024, Robinson & Thierfelder 2024) plus 1–2 more from those
 LN9/LN10 are ingested, return to this page: add a new Tier S entry for any paper matching a K31
 question (once the name is confirmed), then re-review which Tier B picks should be downgraded.</span>
 
-## Liên kết
-<span class="en">## Links</span>
+## Liên kết - <span class="en">Links</span>
 
 - [[exam-prep]] — bảng tra cứu 49 paper + 10 cụm chủ đề dùng làm nguồn cho mục 2.
 - [[k31-final-exam]] — nguồn cho phát hiện mục 1 + 4 paper Tier S.

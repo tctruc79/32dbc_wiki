@@ -9,8 +9,7 @@ status: complete
 
 # Technology Change and TFP Growth
 
-## Định nghĩa
-<span class="en">## Definition</span>
+## Định nghĩa - <span class="en">Definition</span>
 
 **Total Factor Productivity (TFP) growth** (EN, giữ nguyên) — phần tăng trưởng đầu ra KHÔNG giải
 thích được bởi tăng trưởng đơn thuần của các yếu tố đầu vào (lao động, vốn, năng lượng); về bản
@@ -36,8 +35,7 @@ framework (Pakes & Griliches 1984; extended into the CDM model — Crépon, Dugu
 to model the causal chain: innovation investment (input) → innovation output (e.g., new-product
 sales) → performance/productivity.</span>
 
-## Nguồn gốc lý thuyết
-<span class="en">## Theoretical origins</span>
+## Nguồn gốc lý thuyết - <span class="en">Theoretical origins</span>
 
 - **Solow (1957)** — nền tảng cho toàn bộ dòng nghiên cứu parametric TFP: TC được đại diện bởi
   time trend trong hàm sản xuất; dưới giả định constant returns to scale + thị trường cạnh tranh
@@ -71,8 +69,7 @@ sales) → performance/productivity.</span>
   [[l61-heshmati-rashidghalam-2020-tfp-technology-shifters]] uses to position its own (parametric)
   approach.</span>
 
-## Nguồn nào trong môn bàn về nó (trunk + channels)
-<span class="en">## Which course sources discuss it (trunk + channels)</span>
+## Nguồn nào trong môn bàn về nó (trunk + channels) - <span class="en">Which course sources discuss it (trunk + channels)</span>
 
 **Cặp trunk cùng tác giả**: 2 bài mở đầu LN6, đều của GS Heshmati, cùng chủ đề "công nghệ quyết
 định năng suất thế nào" nhưng khác đơn vị phân tích — trọng tâm khái niệm này của môn học:<br><span
@@ -93,8 +90,7 @@ concept's core for the course:</span>
   4-equation model to correct selectivity + simultaneity bias, finding simple OLS biases the
   coefficient downward.</span>
 
-## Tranh luận/căng thẳng đáng nhớ cho exam
-<span class="en">## Debates/tensions worth remembering for the exam</span>
+## Tranh luận/căng thẳng đáng nhớ cho exam - <span class="en">Debates/tensions worth remembering for the exam</span>
 
 - **TFP âm dù input elasticities dương và RTS > 1**: nghịch lý trung tâm của L61 — nếu chỉ nhìn
   vào input elasticities (labor/capital/energy đều dương) và returns to scale (>1, tăng dần theo
@@ -130,8 +126,7 @@ concept's core for the course:</span>
   technology investment measured by conventional indicators does not automatically translate into
   TFP growth without a corresponding human-capital foundation.</span>
 
-## Liên hệ Việt Nam
-<span class="en">## Relevance to Vietnam</span>
+## Liên hệ Việt Nam - <span class="en">Relevance to Vietnam</span>
 
 Việt Nam nằm trong mẫu 190 nước của L61 (nhóm thu nhập thấp/trung bình thấp giai đoạn 1996–2013)
 — kết quả TC/TFP âm ở MỌI nhóm thu nhập gợi ý tăng trưởng GDP Việt Nam thời kỳ này khó quy hết cho

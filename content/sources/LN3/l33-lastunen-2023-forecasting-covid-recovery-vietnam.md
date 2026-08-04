@@ -87,9 +87,7 @@ class="en">Starting from the most recently available sector-level GDP trend devi
 subsequent recovery trajectory — a nowcasting technique combining dynamic-factor thinking with
 high-frequency financial data in place of low-frequency macroeconomic data.</span>
 
-## Regression/Estimation Results — so sánh dự báo GDP Việt Nam 2020
-<span class="en">## Regression/Estimation Results — comparison of Vietnam's 2020 GDP
-forecasts</span>
+## Regression/Estimation Results — so sánh dự báo GDP Việt Nam 2020 - <span class="en">Regression/Estimation Results — comparison of Vietnam's 2020 GDP forecasts</span>
 
 | Nguồn | Ngày công bố | Mức giảm xu hướng GDP | Tăng trưởng GDP thực tương ứng |
 |---|---|---|---|

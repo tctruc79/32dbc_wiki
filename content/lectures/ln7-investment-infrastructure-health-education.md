@@ -20,8 +20,7 @@ deck, dated 01/08/2026, covering 7 required readings — the first lecture to co
 development-investment pillars (infrastructure, education, health) in a single session, unlike
 prior LNs which each focus on one topic.</span>
 
-## Cấu trúc bài giảng
-<span class="en">## Lecture structure</span>
+## Cấu trúc bài giảng - <span class="en">Lecture structure</span>
 
 Đi qua 7 papers theo thứ tự: Heshmati & Rashidghalam 2020 (11 phần) → Kadyraliev et al. 2022 (5
 phần) → McGuinness et al. 2021 (10 phần) → Dao & Trinh 2020 (7 phần) → Hanushek 2016 (11 phần) →
@@ -81,8 +80,7 @@ mindmap
       ("~16% dư địa cải thiện hiệu quả qua quản trị tốt hơn, không cần thêm ngân sách")
 ```
 
-## Luận điểm chính theo paper
-<span class="en">## Main arguments by paper</span>
+## Luận điểm chính theo paper - <span class="en">Main arguments by paper</span>
 
 ### 1. Heshmati & Rashidghalam 2020 — [[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]]
 
@@ -219,8 +217,7 @@ mindmap
   infrastructure, coefficient 0.085) — with ~16% efficiency-improvement headroom via better
   governance WITHOUT more budget.</span>
 
-## Câu hỏi ôn thi tiềm năng
-<span class="en">## Potential exam questions</span>
+## Câu hỏi ôn thi tiềm năng - <span class="en">Potential exam questions</span>
 
 1. Theo Heshmati & Rashidghalam (2020), 8/15 thành phần hạ tầng đô thị có tác động dương có ý
    nghĩa lên đô thị hóa Trung Quốc là những thành phần nào, và tại sao education/environment

@@ -33,8 +33,7 @@ Xem thêm: [[k32-mock-exam-1]] (Set 1, LN1–LN2) · [[k32-mock-exam-2]] (Set 2,
 LN1–LN2) · [[k32-mock-exam-2]] (Set 2, LN3–LN5) · [[exam-prep]] (consolidated exam
 review).</span>
 
-## 0. Luật thi & cơ cấu điểm (mô phỏng theo K31)
-<span class="en">## 0. Exam Rules & Grading Structure (modeled on K31)</span>
+## 0. Luật thi & cơ cấu điểm (mô phỏng theo K31) - <span class="en">Exam Rules & Grading Structure (modeled on K31)</span>
 
 Giống hệt [[k32-mock-exam-1]]/[[k32-mock-exam-2]] mục 0 — **Hình thức**: Written exam (50 điểm) +
 Essay (50 điểm) — 50/50, PASS ≥50% mỗi phần theo [[syllabus-2026]] (K31 áp dụng ngưỡng 55%/27.5
@@ -50,8 +49,7 @@ structure**: A. Compulsory — Questions 1, 2 (12.5 points each, BOTH required).
 Questions 3–6 (12.5 points each, choose at least 2; if more are answered, only the top 2 scores
 count). Total: 2 compulsory + 2 best elective × 12.5 = 50 points.</span>
 
-## 1. Đề bài
-<span class="en">## 1. Questions</span>
+## 1. Đề bài - <span class="en">Questions</span>
 
 ### A. Compulsory questions (each 12.5 points)
 
@@ -87,8 +85,7 @@ Sweden. Discuss their findings concerning the determinants of the Circular Econo
 Swedish municipalities, and explain why Stockholm ranks lowest despite being the most developed
 capital.
 
-## 2. Đáp án chi tiết
-<span class="en">## 2. Detailed Answers</span>
+## 2. Đáp án chi tiết - <span class="en">Detailed Answers</span>
 
 ### Question 1 — Economic growth, inequality, and poverty in Vietnam (Nguyen & Pham, APEL 2018)
 
