@@ -3,7 +3,7 @@ type: source
 title: "L31 — Baron, Verner & Xiong (2021) — Banking Crises Without Panics"
 tags: [banking-crisis, financial-crisis, bank-equity, panics]
 created: 2026-07-26
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN3 Financial crisis and pandemics/L31 QJE-2021 Baron Banking crisis without panics.pdf"
 ---
@@ -17,6 +17,20 @@ Sloan), Wei Xiong (Princeton University). JEL: G01, G15, G21, N20. Previously ci
 the title "Salient Crises, Quiet Crises."</span>
 
 ## Abstract
+
+> Chúng tôi khảo sát các cuộc khủng hoảng ngân hàng trong lịch sử qua lăng kính sụt giảm bank
+> equity (vốn cổ phần ngân hàng), bao quát một mẫu rộng các giai đoạn khủng hoảng ngân hàng có
+> và không có panic ngân hàng. Để làm điều này, chúng tôi xây dựng một bộ dữ liệu mới về lợi
+> suất bank equity và thông tin tường thuật (narrative) về các panic ngân hàng cho 46 quốc gia
+> trong giai đoạn từ 1870 đến 2016. Chúng tôi phát hiện rằng ngay cả khi không có panic, sụt
+> giảm bank equity lớn vẫn gắn liền với sự co hẹp tín dụng đáng kể và output gap (khoảng cách
+> sản lượng). Mặc dù panic là một cơ chế khuếch đại quan trọng, kết quả của chúng tôi cho thấy
+> panic không phải là điều kiện cần để khủng hoảng ngân hàng gây ra hậu quả kinh tế nghiêm
+> trọng. Hơn nữa, panic có xu hướng xảy ra sau khi bank equity đã sụt giảm lớn, cho thấy panic
+> là kết quả, chứ không phải nguyên nhân, của những tổn thất ngân hàng trước đó. Chúng tôi sử
+> dụng lợi suất bank equity để phát hiện một số cuộc khủng hoảng ngân hàng lịch sử bị lãng quên
+> và xây dựng một biên niên sử khủng hoảng ngân hàng phân biệt giữa tổn thất bank equity và
+> panic. JEL Codes: G01, G15, G21, N20.
 
 > We examine historical banking crises through the lens of bank equity declines, which cover a
 > broad sample of episodes of banking distress with and without banking panics. To do this, we

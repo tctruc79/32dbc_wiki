@@ -3,7 +3,7 @@ type: source
 title: "L65 — Nguyen, Nguyen, Hoang, Wilson & Managi (2019) — Energy Transition, Poverty and Inequality in Vietnam"
 tags: [energy-poverty, energy-transition, energy-inequality, vietnam, sureg, probit]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN6 Technology growth inequality and poverty/L65 EP-2019 Nguyen Energy transition poverty and inequality in Vietnam.pdf"
 ---
@@ -19,6 +19,21 @@ Shunsuke Managi (Urban Institute, Kyushu University, Japan). DOI:
 10.1016/j.enpol.2019.06.001.</span>
 
 ## Abstract
+
+> Bài viết nghiên cứu energy transition, energy poverty và energy inequality tại Việt Nam, sử
+> dụng bộ dữ liệu dọc theo thời gian (longitudinal) từ một khảo sát hộ gia đình đại diện cấp
+> quốc gia. Chúng tôi sử dụng dữ liệu về chi tiêu năng lượng hộ gia đình (residential energy
+> expenditure) của hơn 9.000 hộ trong giai đoạn 2004–2016. Chúng tôi tìm thấy một quá trình
+> chuyển đổi từ năng lượng truyền thống sang năng lượng hiện đại, nhưng quá trình chuyển đổi
+> này khác nhau giữa các vùng, giữa các nhóm dân tộc và phúc lợi (welfare), và giữa dân số nông
+> thôn và đô thị. Các hộ nghèo và hộ dân tộc thiểu số vẫn phụ thuộc nặng nề vào các nguồn năng
+> lượng truyền thống như than và biomass để đáp ứng nhu cầu năng lượng của họ. Electricity
+> poverty đã giảm nhưng energy-cost poverty đã tăng. Ngoài ra, energy inequality có xu hướng
+> giảm với tốc độ đáng kể hơn so với bất bình đẳng thu nhập và tiêu dùng (income and consumption
+> inequalities). Chúng tôi đề xuất thiết lập một chương trình quốc gia nhằm giảm thiểu energy
+> poverty để xây dựng các chính sách hạ chi phí năng lượng cho hộ gia đình. Chúng tôi cũng
+> khuyến nghị hỗ trợ thêm cho các hộ nghèo và hộ dân tộc thiểu số để họ có thể chi trả được mức
+> tiêu thụ điện cao hơn.
 
 > This paper investigates energy transition, energy poverty and energy inequality in Vietnam
 > employing a longitudinal dataset of a nationally representative household survey. We use the

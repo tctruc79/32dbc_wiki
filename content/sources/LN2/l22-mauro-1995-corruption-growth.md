@@ -3,7 +3,7 @@ type: source
 title: "L22 — Mauro (1995) — Corruption and Growth"
 tags: [corruption, institutions, investment, instrumental-variables]
 created: 2026-07-23
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN2 Governance institutions and policy making/L22 QJE-1995 Mauro Corruption and growth.pdf"
 ---
@@ -17,6 +17,13 @@ dissertation; employed at the IMF at publication — the paper explicitly notes 
 those of the IMF). Published by Oxford University Press, JSTOR 2946696.</span>
 
 ## Abstract
+
+> Bài viết này phân tích một bộ dữ liệu mới được tổng hợp, gồm các chỉ số chủ quan về
+> corruption, mức độ red tape (thủ tục hành chính rườm rà), hiệu quả của hệ thống tư pháp, và
+> nhiều hạng mục khác nhau về ổn định chính trị cho một cross-section các quốc gia. Corruption
+> được phát hiện làm giảm đầu tư, qua đó làm giảm tăng trưởng kinh tế. Kết quả vẫn vững
+> (robust) khi kiểm soát endogeneity bằng cách sử dụng một chỉ số ethnolinguistic
+> fractionalization làm instrument.
 
 > This paper analyzes a newly assembled data set consisting of subjective indices of
 > corruption, the amount of red tape, the efficiency of the judicial system, and various

@@ -3,7 +3,7 @@ type: source
 title: "L81 — Su, Heshmati, Geng & Yu (2013) — A Review of the Circular Economy in China: Moving from Rhetoric to Implementation"
 tags: [circular-economy, china, eco-industrial-park, waste-management, sustainable-development]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN8 Circular economy inclusive and sustainable development/L81 Su-Heshmati-Gen-Yu JCP-2013 A review of the CE in China.pdf"
 ---
@@ -23,6 +23,19 @@ Academy of Sciences, Shenyang). DOI: 10.1016/j.jclepro.2012.11.020. Received 9/7
 16/11/2012.</span>
 
 ## Abstract
+
+> Circular economy (CE) là một chiến lược phát triển bền vững do chính phủ trung ương
+> Trung Quốc đề xuất, nhằm cải thiện hiệu quả sử dụng vật liệu và năng lượng. Chiến lược
+> này, được chính thức chấp nhận năm 2002, đã được triển khai và phát triển ở một số khu
+> vực thí điểm tại Trung Quốc. [...] chúng tôi cung cấp một bài tổng quan tài liệu toàn
+> diện về CE, nhằm phác họa bức tranh toàn cảnh về cách chiến lược này đã được phát triển
+> và triển khai. Bài tổng quan bao quát khái niệm, thực tiễn hiện tại, và đánh giá về CE.
+> Để có một khái niệm định lượng hơn về mức độ phát triển của nó, chúng tôi xem xét hiệu
+> suất CE tại Đại Liên (Dalian) sau khi triển khai các chính sách liên quan và so sánh
+> những thay đổi đó với ba thành phố thí điểm khác, Bắc Kinh, Thượng Hải và Thiên Tân.
+> [...] chúng tôi xác định các vấn đề và thách thức nền tảng đối với chiến lược quốc gia
+> này. Cuối cùng, chúng tôi đưa ra kết luận về sự phát triển của CE cũng như các khuyến
+> nghị chính sách cho việc cải thiện trong tương lai.
 
 > Circular economy (CE) is a sustainable development strategy proposed by the central
 > government of China, aiming to improve the efficiency of materials and energy use. This

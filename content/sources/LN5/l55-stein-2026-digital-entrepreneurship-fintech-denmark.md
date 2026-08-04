@@ -3,7 +3,7 @@ type: source
 title: "L55 — Stein, Evers & O'Gorman (2026) — Fostering Conditions for Digital Entrepreneurship: The Role of Institutional Entrepreneurs in Driving FinTech Ecosystem Development"
 tags: [institutional-entrepreneurship, digital-entrepreneurship, fintech, institutions, case-study, denmark]
 created: 2026-07-29
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN5 Entrepreneurship and economic development/L55 T-2026 Stein et al Fostering conditions for digital entrepreneurship-the role of institutional entrepreneurs in driving FinTech.pdf"
 ---
@@ -19,6 +19,31 @@ Halmstad University, Sweden), Natasha Evers (Trinity Business School, Dublin), C
 issue of *Technovation*.</span>
 
 ## Abstract
+
+> Bài viết này khám phá vai trò của institutional entrepreneurship trong việc phát
+> triển các Digital Entrepreneurial Ecosystem (DEE). Do phần lớn literature về DEE
+> tập trung vào phân tích ở cấp độ tổ chức (organisational-level analysis), cần có
+> thêm nghiên cứu bao gồm phân tích ở cấp độ hệ thống (system-level analysis), cụ thể
+> là nghiên cứu khám phá cách các ecosystem actor hỗ trợ Digital Entrepreneurship (DE)
+> bằng cách tạo điều kiện cho sự thích ứng (adaptation) của môi trường thể chế
+> (institutional environment). Chúng tôi phân tích một case study định tính, dọc theo
+> thời gian (single longitudinal case study) về hệ sinh thái FinTech Đan Mạch, một DEE
+> hình thành trong bối cảnh một ngành truyền thống, được quản lý chặt chẽ (highly
+> regulated) và một bối cảnh FinTech toàn cầu đầy biến động. Chúng tôi sử dụng case
+> này để khám phá hai câu hỏi: "những institutional force nào ảnh hưởng đến sự phát
+> triển của DEE?", và "các institutional entrepreneur tạo điều kiện cho institutional
+> change để phát triển DEE như thế nào?" Chúng tôi phát hiện rằng sự phát triển của
+> DEE FinTech Đan Mạch được tạo điều kiện và định hình bởi những thay đổi thể chế
+> (changes to institutions) hỗ trợ: (i) các động lực và cơ chế hợp tác mới (new
+> collaboration dynamics and mechanisms), đặc biệt giữa các doanh nghiệp đương nhiệm
+> (incumbent firms) và các start-up; (ii) các điều chỉnh đối với khung pháp lý
+> (regulatory framework); và (iii) sự phát triển của các kết nối toàn cầu (global
+> connections). Institutional change đòi hỏi những nỗ lực tập thể (collective
+> efforts), phụ thuộc vào các institutional entrepreneur khác nhau ở những thời điểm
+> khác nhau. Vai trò lãnh đạo trung lập (neutral leadership) của các institutional
+> entrepreneur trở nên then chốt đối với institutional change. Hơn nữa, cả agency ở
+> cấp độ hệ thống (system-level) lẫn cấp độ tổ chức (organisation-level) đều ảnh
+> hưởng đến institutional change trong quá trình phát triển của DEE.
 
 > This paper explores the role of institutional entrepreneurship in developing Digital
 > Entrepreneurial Ecosystems (DEE). With much of the literature on DEE focused on

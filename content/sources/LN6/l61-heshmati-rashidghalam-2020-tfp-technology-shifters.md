@@ -21,6 +21,19 @@ corresponding author). DOI: 10.1007/s11123-019-00558-5. JEL: C33, C43, D24, O33,
 
 ## Abstract
 
+> Bài viết mô hình hóa và ước lượng tăng trưởng total factor productivity (TFP) bằng phương pháp
+> tham số (parametrically). Mô hình là một tổng quát hóa của mô hình hàm sản xuất truyền thống,
+> trong đó công nghệ được đại diện bởi một time trend. Bài phân rã tăng trưởng TFP thành ba cấu
+> phần: technical change không quan sát được do time trend gây ra, scale economies, và các cấu
+> phần của một technology shifter index quan sát được. Kết quả thực nghiệm dựa trên dữ liệu panel
+> không cân bằng ở cấp độ toàn cầu cho 190 quốc gia, quan sát trong giai đoạn 1996–2013. Bài sử
+> dụng một số yếu tố tăng trưởng ngoại sinh để mô hình hóa bốn technology shifter index nhằm khảo
+> sát các yếu tố quyết định thuộc về hạ tầng phát triển (development infrastructure), tài chính,
+> công nghệ và phát triển con người (human development) đối với tăng trưởng TFP. Kết quả của
+> chúng tôi cho thấy technical change không quan sát được vẫn là cấu phần quan trọng nhất của
+> tăng trưởng TFP. Phát hiện của chúng tôi cũng cho thấy technical change và tăng trưởng TFP âm
+> một cách bất ngờ ở mọi nhóm thu nhập quốc gia và mọi năm.
+
 > This paper models and estimates total factor productivity (TFP) growth parametrically. The
 > model is a generalization of the traditional production function model where technology is
 > represented by a time trend. It decomposes TFP growth into an unobservable time trend induced

@@ -3,7 +3,7 @@ type: source
 title: "L24 — Alesina & Giuliano (2015) — Culture and Institutions"
 tags: [culture, institutions, survey, social-capital]
 created: 2026-07-23
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN2 Governance institutions and policy making/L24 JEL-2015 Alesina Culture and institutions.pdf"
 ---
@@ -16,6 +16,13 @@ Alberto Alesina (Harvard University, IGIER Bocconi), Paola Giuliano (UCLA Anders
 Management). JEL: D02, D72, I32, J12, Z13.</span>
 
 ## Abstract
+
+> Một khối lượng ngày càng lớn các nghiên cứu thực nghiệm đo lường nhiều loại cultural traits
+> khác nhau đã cho thấy culture có ý nghĩa quan trọng đối với nhiều kết quả kinh tế. Bài viết
+> này tập trung vào một khía cạnh cụ thể của tầm quan trọng của culture: mối quan hệ của nó
+> với institutions. Chúng tôi rà soát các nghiên cứu theo hướng lý thuyết, thực nghiệm và
+> lịch sử để đánh giá sự tồn tại của một hiệu ứng nhân quả hai chiều (two-way causal effect)
+> giữa culture và institutions. (JEL D02, D72, I32, J12, Z13)
 
 > A growing body of empirical work measuring different types of cultural traits has shown that
 > culture matters for a variety of economic outcomes. This paper focuses on one specific

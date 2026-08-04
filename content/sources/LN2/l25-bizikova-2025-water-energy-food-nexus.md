@@ -3,7 +3,7 @@ type: source
 title: "L25 — Bizikova (2025) — Water-Energy-Food Nexus Research: What Can It Tell Us About Governance and Policy?"
 tags: [governance, systematic-review, wef-nexus, sustainability]
 created: 2026-07-23
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN2 Governance institutions and policy making/L25 ESI-2025 Bizikova Water-energy-food nexus research-What can it tell us about governance and policy.pdf"
 ---
@@ -19,6 +19,25 @@ online 10 Oct 2025. Open access CC BY-NC. Funding: IDRC grant 109246-001. No ori
 ("No data was used for the research").</span>
 
 ## Abstract
+
+> Đã có hơn một thập kỷ nghiên cứu về water-energy-food (WEF) nexus, mà theo định nghĩa tập
+> trung vào việc cải thiện governance xuyên suốt các sector của WEF để giải quyết tình trạng
+> khan hiếm tài nguyên. Mục đích của bài viết này là xác định mức độ và các loại khuyến nghị
+> về governance và policy được đề cập trong các nghiên cứu WEF. Phương pháp systematic review
+> được sử dụng để đánh giá các nghiên cứu WEF đã qua bình duyệt (peer-reviewed) dựa trên bộ
+> tiêu chí lựa chọn, xuất bản trong giai đoạn 2011–2023. Từ 683 bài báo, 40 bài đã được chọn
+> và đánh giá đóng góp của chúng đối với governance và policy. Kết quả cho thấy các nghiên
+> cứu được đưa vào tập trung mạnh vào việc biểu diễn định lượng (quantitative representations)
+> của WEF nexus (63%), nhưng lại cho thấy sự chú ý hạn chế đến các hàm ý governance và policy
+> cụ thể (17.5%). Trong phạm vi có xem xét đến governance và policy, các nghiên cứu được xây
+> dựng xoay quanh việc cải thiện sự tham gia (engagement) với các nhà hoạch định chính sách,
+> giới học thuật và cộng đồng (32.5%), cải thiện các nỗ lực điều phối (coordination) (27.5%),
+> và đề xuất các giải pháp công nghệ để quản lý tài nguyên WEF (35.0%). Nghiên cứu kết luận
+> rằng nghiên cứu WEF có tiềm năng đáng kể đóng góp vào việc phát triển governance và policy
+> thông qua việc kiểm định các cơ chế governance sáng tạo, cung cấp thông tin cho các quyết
+> định policy chiến lược, định hình các chiến lược triển khai (implementation strategies), và
+> hỗ trợ việc giám sát (monitoring) kết quả policy nhằm giải quyết tình trạng khan hiếm tài
+> nguyên và thúc đẩy sustainability.
 
 > There has been over a decade of research on the water–energy–food (WEF) nexus, which by
 > definition focuses on improving governance across WEF sectors to address resource scarcity.

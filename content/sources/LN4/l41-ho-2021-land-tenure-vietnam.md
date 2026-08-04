@@ -3,7 +3,7 @@ type: source
 title: "L41 — Ho (2021) — Land Tenure and Economic Development: Evidence from Vietnam"
 tags: [land-tenure, property-rights, institutions, vietnam, nighttime-lights]
 created: 2026-07-29
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN4 Agriculture climate changes and natural disasters/L41 WD-2021 Ho Land tenure and eco dev evidence from vietnam.pdf"
 ---
@@ -16,6 +16,25 @@ class="en">**Author**: Hoang-Anh Ho (University of Economics Ho Chi Minh City). 
 Q15. Keywords: Land tenure, Privatization, Economic development, Southeast Asia, Vietnam.</span>
 
 ## Abstract
+
+> Mối quan hệ giữa private property rights và phát triển kinh tế đã được nhiều nghiên cứu
+> xuyên quốc gia (cross-country studies) khảo sát. Tuy nhiên, các thước đo tổng hợp
+> (aggregate measures) về private property rights nhìn chung đã khiến các nghiên cứu
+> xuyên quốc gia không thể xác định được thể chế (institutions) cụ thể nào chi phối
+> private property rights mà các cải cách chính sách nên xem xét. Bài viết này khảo sát
+> tác động của private property rights đối với đất đai lên phát triển kinh tế trong một
+> bối cảnh within-country, khai thác đợt tư nhân hóa đất đai toàn quốc năm 1993 tại Việt
+> Nam. Sử dụng một mẫu ngẫu nhiên hơn 2000 xã nông thôn trên khắp Việt Nam, nghiên cứu
+> của chúng tôi phát hiện rằng mức độ phổ biến của private land tenure có tác động dương
+> và có ý nghĩa thống kê lên mức độ phát triển kinh tế, được đo lường gián tiếp (proxy)
+> bằng cường độ ánh sáng ban đêm (nighttime light intensity). Tuy nhiên, độ lớn của tác
+> động này nhạy cảm với cả các yếu tố gây nhiễu (confounding factors) quan sát được lẫn
+> không quan sát được, và nhìn chung là khiêm tốn (modest). Những giải thích hợp lý nhất
+> cho tác động khiêm tốn này là tình trạng bất an toàn còn tồn tại (lingering insecurity)
+> do land-use certificates có thể bị nhà nước thu hồi, cùng với mức thuế và chi phí thời
+> gian tương đối cao của các giao dịch đất đai ở Việt Nam. Những bài học này không chỉ
+> có ý nghĩa đối với Việt Nam trong công cuộc cải cách đất đai tương lai, mà còn đối với
+> các nước đang phát triển khác đang cân nhắc việc tư nhân hóa đất nông nghiệp.
 
 > The relationship between private property rights and economic development has been
 > investigated by numerous cross-country studies. Nevertheless, aggregate measures of private

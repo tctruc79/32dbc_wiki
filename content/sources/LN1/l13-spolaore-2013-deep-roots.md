@@ -3,7 +3,7 @@ type: source
 title: "L13 — Spolaore & Wacziarg (2013) — How Deep Are the Roots of Economic Development?"
 tags: [deep-roots, geography, ancestry, institutions, survey]
 created: 2026-07-20
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN1 Economic development/L13 JEL-2013 Spolaore How deep are the roots of econ dev.pdf"
 ---
@@ -18,6 +18,21 @@ O47, Z13. Opens with a quote (attributed to Churchill): "The further backward yo
 further forward you can see."</span>
 
 ## Abstract
+
+> Literature thực nghiệm về economic growth và development đã chuyển dịch từ nghiên cứu các
+> proximate determinants sang phân tích những yếu tố ngày càng sâu hơn, mang tính nền tảng
+> hơn, bắt rễ trong lịch sử dài hạn. Một khối lượng ngày càng lớn các nghiên cứu thực nghiệm
+> mới tập trung vào việc đo lường và ước lượng tác động của các biến số lịch sử lên thu nhập
+> đương đại, bằng cách tính đến một cách tường minh ancestral composition (thành phần tổ tiên)
+> của các dân số hiện tại. Bằng chứng cho thấy economic development chịu ảnh hưởng bởi những
+> tính trạng đã được truyền qua các thế hệ trong một khoảng thời gian rất dài. Bài viết này
+> khảo sát literature mới này và đưa ra một khung phân tích để thảo luận các kênh khác nhau mà
+> qua đó những đặc điểm được truyền liên thế hệ có thể tác động đến economic development —
+> theo con đường biological (qua truyền tải genetic hoặc epigenetic) và cultural (qua truyền
+> tải behavioral hoặc symbolic). Một vấn đề quan trọng là liệu các tính trạng được truyền tải
+> theo lịch sử đã tác động đến development thông qua ảnh hưởng trực tiếp lên productivity, hay
+> hoạt động một cách gián tiếp như những rào cản (barriers) đối với sự khuếch tán của các đổi
+> mới giúp nâng cao productivity giữa các dân số. (JEL J11, O33, O47, Z13)
 
 > The empirical literature on economic growth and development has moved from the study of
 > proximate determinants to the analysis of ever deeper, more fundamental factors, rooted in

@@ -3,7 +3,7 @@ type: source
 title: "L52 — Huis, Lensink, Vu & Hansen (2019) — Impacts of the GET Ahead Training on Empowerment of Female Microfinance Borrowers in Northern Vietnam"
 tags: [women-empowerment, microfinance, randomized-controlled-trial, vietnam, gender]
 created: 2026-07-29
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN5 Entrepreneurship and economic development/L52 WD-2019 Huis Impacts of te gender and entrepreneurship female microfinance in Vietnam.pdf"
 ---
@@ -20,6 +20,26 @@ Groningen & Wageningen University), Nhung Vu (Vietnamese–German University), N
 (including Nhung Vu) — the lecture slide credits only "Huis, Lensink & Hansen."</span>
 
 ## Abstract
+
+> Trên khắp thế giới, chương trình đào tạo Gender and Entrepreneurship Together (GET
+> Ahead), ban đầu do International Labour Organization phát triển, đã được triển khai
+> nhằm cải thiện kết quả kinh doanh và tăng cường women's empowerment. Randomized
+> controlled trial (RCT) này là nỗ lực nghiêm ngặt đầu tiên nhằm xem xét tác động của
+> training GET Ahead lên women's empowerment. Chúng tôi tập trung vào tác động của
+> việc cung cấp training này cho các khách hàng vay vốn vi mô nữ của TYM, tổ chức tài
+> chính vi mô (microfinance) lớn nhất ở miền Bắc Việt Nam. Một đóng góp quan trọng của
+> nghiên cứu này là tập trung vào các khía cạnh khác nhau của women's empowerment: (1)
+> personal empowerment, đo bằng control beliefs, và (2) relational empowerment, đo
+> bằng relational friction và quyền ra quyết định trong hộ gia đình (intra-household
+> decision making power). Nghiên cứu này cũng nổi bật ở chỗ chúng tôi xem xét một cách
+> tường minh liệu việc để chồng tham gia có ảnh hưởng đến tác động của training hay
+> không. Chúng tôi thấy rằng training GET Ahead cải thiện women's empowerment trên cả
+> ba khía cạnh: tăng control beliefs và quyền ra quyết định trong hộ gia đình (chỉ đối
+> với các khoản chi tiêu lớn hơn), và giảm relational friction. Tuy nhiên, các kết quả
+> về relational friction cần được xem xét thận trọng do khả năng bị underreporting
+> (báo cáo thiếu). Hơn nữa, nhìn chung, chúng tôi không thấy tác động bổ sung nào của
+> việc mời chồng tham gia training. Cuối cùng, kết quả của chúng tôi cho thấy cần một
+> khoảng thời gian nhất định trước khi training bắt đầu cải thiện women's empowerment.
 
 > Across the world the Gender and Entrepreneurship Together (GET Ahead) training originally
 > developed by the International Labour Organization has been implemented to improve business

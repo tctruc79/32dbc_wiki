@@ -3,7 +3,7 @@ type: source
 title: "L85 — Saidani, Yannou, Leroy, Cluzel & Kendall (2019) — A Taxonomy of Circular Economy Indicators"
 tags: [circular-economy, indicators, taxonomy, systematic-review, measurement]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN8 Circular economy inclusive and sustainable development/L85 JCP-2019 Saidani A taxonomy of circular economy indicators.pdf"
 ---
@@ -20,6 +20,23 @@ and Environmental Engineering, University of California, Davis, Mỹ). DOI:
 10.1016/j.jclepro.2018.10.014. Received 29/6/2018, accepted 3/10/2018.</span>
 
 ## Abstract
+
+> Việc triển khai các nguyên tắc circular economy (CE) ngày càng được khuyến nghị như một
+> giải pháp thuận tiện để đạt các mục tiêu phát triển bền vững. [...] một loạt các chỉ số
+> đo circularity (C-indicators) đã được phát triển trong những năm gần đây. Tuy nhiên, do
+> không có một định nghĩa duy nhất cho khái niệm CE, việc biết rõ các chỉ số hiện có đang
+> đo lường điều gì để sử dụng chúng đúng cách là vô cùng quan trọng. Thật vậy, thông qua
+> một systematic literature review [...] 55 bộ C-indicators, được phát triển bởi các học
+> giả, công ty tư vấn và cơ quan nhà nước, đã được xác định [...]. Lấy cảm hứng từ các
+> taxonomy hiện có về công cụ eco-design và các chỉ số sustainability, đồng thời phù hợp
+> với các đặc điểm của CE, một hệ thống phân loại chỉ số nhằm đánh giá, cải thiện, giám
+> sát và truyền thông về hiệu suất CE được đề xuất và bàn luận. Trong taxonomy được xây
+> dựng gồm 10 danh mục, các C-indicators được phân biệt theo các tiêu chí như cấp độ
+> triển khai CE (ví dụ: micro, meso, macro), các vòng lặp CE (maintain, reuse,
+> remanufacture, recycle), hiệu suất (intrinsic, impacts), góc nhìn về circularity
+> (actual, potential) [...], hay mức độ xuyên suốt (transversality) của chúng (generic,
+> sector-specific). [...] nghiên cứu này có thể được trải nghiệm qua nhiều use case khác
+> nhau.
 
 > Implementing circular economy (CE) principles is increasingly recommended as a convenient
 > solution to meet the goals of sustainable development. [...] a wide range of circularity

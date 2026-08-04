@@ -3,7 +3,7 @@ type: source
 title: "L88 — Luengo Vera, Gómez Gandía, de Lucas Ancillo & del Val Núñez (2025) — Innovation and Circular Economy Within the Sustainable Development Goals: A Bibliometric and Conceptual Analysis"
 tags: [circular-economy, innovation, sustainable-development-goals, bibliometric-analysis, review]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN8 Circular economy inclusive and sustainable development/L88 GER-2025 Vera_gandia Innovation and circular economy within the sustainable development goals.pdf"
 ---
@@ -41,6 +41,25 @@ Vera, José Andrés Gómez Gandía, Antonio de Lucas Ancillo, María Teresa del 
 > that this content is inaccessible.</span>
 
 ## Abstract
+
+> Quá trình chuyển đổi sang các hệ thống kinh tế bền vững đòi hỏi một sự hiểu biết tích
+> hợp về cách innovation thúc đẩy các thực hành circular economy phù hợp với các Mục
+> tiêu Phát triển Bền vững của Liên Hợp Quốc (Sustainable Development Goals, SDGs).
+> Nghiên cứu này trình bày một phân tích bibliometric và conceptual trên 1630 bài báo
+> peer-reviewed được lập chỉ mục trên Scopus trong giai đoạn 2020–2024, khảo sát sự hội
+> tụ giữa innovation, circular economy, và phát triển bền vững. Sử dụng co-occurrence
+> analysis, text mining, và bibliographic coupling, nghiên cứu xác định các cấu trúc chủ
+> đề then chốt và các mô hình hợp tác toàn cầu. Các phát hiện làm nổi bật innovation như
+> một nút trung tâm (central node) kết nối các giải pháp công nghệ và tổ chức với các
+> khung phát triển bền vững. Các cụm chủ đề (thematic clusters) cho thấy độ chín về mặt
+> diễn ngôn (discursive maturity) xoay quanh "innovation," "sustainable development," và
+> "circular economy," trong khi text mining lộ ra các trọng tâm mới nổi như green
+> innovation, thay đổi công nghệ (technological change), và tăng trưởng kinh tế.
+> Bibliographic coupling nhấn mạnh một bối cảnh sản xuất khoa học đa cực (multipolar),
+> với Trung Quốc, Vương quốc Anh, và Ấn Độ là các nút chính. [...] chúng tôi cho thấy
+> rằng innovation vận hành như một cơ chế tích hợp (integrative mechanism) với biểu hiện
+> không đồng đều theo lãnh thổ và có những hàm ý rõ ràng cho lý thuyết, chính sách và
+> nghiên cứu tương lai.
 
 > The transition to sustainable economic systems demands an integrated understanding of how
 > innovation drives circular economy practices aligned with the United Nations Sustainable

@@ -3,7 +3,7 @@ type: source
 title: "L86 — Heshmati & Rashidghalam (2021) — Assessment of the Urban Circular Economy in Sweden"
 tags: [circular-economy, sweden, principal-component-analysis, panel-data, municipalities]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN8 Circular economy inclusive and sustainable development/L86 JCP-2021 Heshmati-Rashidghalam Assessment of the urban circular economy in Sweden.pdf"
 ---
@@ -19,6 +19,22 @@ Rashidghalam (University of Tabriz, Iran). DOI: 10.1016/j.jclepro.2021.127475. R
 14/1/2021, accepted 9/5/2021, open access (CC BY). JEL: F64, H23, K32, N50, O44, Q56.</span>
 
 ## Abstract
+
+> Nghiên cứu này đề xuất một chuẩn mực tổng quát cho circular economy (CE), và ước lượng
+> một chỉ số tham số đa chiều (multidimensional parametric index) gồm tám thành phần,
+> phù hợp với các nguyên tắc của circular economy. Khái niệm và chỉ số này được dùng để
+> đánh giá thực hành circular economy ở cấp đô thị (municipality). Chỉ số được hồi quy
+> theo một số chỉ báo có ảnh hưởng đến mức độ và sự phát triển của circular economy.
+> Phân tích thực nghiệm dựa trên dữ liệu từ 273 đô thị ở Thụy Điển quan sát trong giai
+> đoạn 2012–2018. Kết quả cho thấy có sự khác biệt đáng kể giữa các đô thị về chỉ số CE
+> và các thành phần con của nó. Sự biến động về mức độ của chỉ số chủ yếu được quy cho vị
+> trí vùng miền, quy mô và mật độ dân số, mức độ tập trung ngành công nghiệp, và các
+> chương trình đầu tư vào hạ tầng circular economy. Ở cấp độ phân rã, các đô thị Gotland,
+> Härjedalen, và Mörbylånga có hiệu suất tốt trong chỉ số CE. Ngược lại, các đô thị
+> Stockholm, Uppsala, và Burlöv có thứ hạng thấp nhất trong chỉ số CE. Chỉ số này có tốc
+> độ tăng trưởng 9,7% trong 7 năm, với tốc độ tăng trưởng trung bình hằng năm là 1,3%.
+> [...] Chính phủ trung ương nên áp dụng các quy định môi trường nghiêm ngặt và cung cấp
+> các ưu đãi cần thiết [...].
 
 > This study proposes a general standard for the circular economy (CE), and estimates a
 > multidimensional parametric index composed of eight components which is in line with the

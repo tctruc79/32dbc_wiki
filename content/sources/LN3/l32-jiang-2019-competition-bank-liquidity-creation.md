@@ -3,7 +3,7 @@ type: source
 title: "L32 — Jiang, Levine & Lin (2019) — Competition and Bank Liquidity Creation"
 tags: [banking-crisis, liquidity-creation, competition, deregulation]
 created: 2026-07-26
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN3 Financial crisis and pandemics/L32 JFQA-2019 Jiang et al Competition and bank liquidity creation.pdf"
 ---
@@ -16,6 +16,17 @@ Liangliang Jiang (Hong Kong Polytechnic University), Ross Levine (UC Berkeley Ha
 Business), Chen Lin (University of Hong Kong).</span>
 
 ## Abstract
+
+> Chúng tôi sử dụng một chiến lược nhận dạng (identification strategy) mới để đánh giá liệu sự
+> gia tăng cạnh tranh giữa các ngân hàng làm tăng hay giảm việc cung cấp một dịch vụ ngân hàng
+> then chốt: liquidity creation (tạo thanh khoản). Mặc dù lý thuyết đưa ra các dự đoán trái
+> ngược nhau về tác động của cạnh tranh lên liquidity creation, chúng tôi phát hiện rằng cạnh
+> tranh do bãi bỏ quy định (regulatory-induced competition) gây ra làm giảm liquidity creation.
+> Phù hợp với một nhóm mô hình lý thuyết nhấn mạnh rằng các ngân hàng bị đẩy gần tới bờ vực mất
+> khả năng thanh toán (insolvency) sẽ giảm các hoạt động chấp nhận rủi ro, chúng tôi phát hiện
+> rằng cạnh tranh do bãi bỏ quy định làm giảm liquidity creation mạnh hơn ở những ngân hàng có
+> khả năng hấp thụ rủi ro (risk-absorbing capacity) thấp hơn (ví dụ: ngân hàng có lợi nhuận
+> thấp hơn).
 
 > We use a new identification strategy to assess whether an intensification of competition
 > among banks increases or decreases the provision of a key banking service: liquidity

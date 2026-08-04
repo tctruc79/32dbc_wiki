@@ -3,7 +3,7 @@ type: source
 title: "L36 — Minford (2025) — Where Next for Monetary Policy? Lessons from the Financial Crisis and the Pandemic"
 tags: [monetary-policy, financial-crisis, inflation, fiscal-policy]
 created: 2026-07-26
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN3 Financial crisis and pandemics/L36 EMPFMB-2025 Minford Where next for monetary policy-lessons from the financial crisis and the pandemic.pdf"
 ---
@@ -23,6 +23,18 @@ Minford (Cardiff University).</span>
 > structure below reflects this.</span>
 
 ## Abstract
+
+> Những diễn biến chính sách tiền tệ trong các thập kỷ gần đây khởi đầu đầy hứa hẹn với
+> inflation targeting (mục tiêu lạm phát) bởi các ngân hàng trung ương độc lập; cuộc khủng
+> hoảng tài chính năm 2007 đã mở ra một giai đoạn bất ổn tiền tệ nghiêm trọng. Có những bài học
+> cho việc quay trở lại sự ổn định hơn. Các ngân hàng trung ương cần ổn định tăng trưởng cung
+> tiền (money supply growth). Chính sách tài khóa nên được "co-opt" (huy động/lồng ghép) vào
+> vai trò ổn định nhằm giảm bất ổn lãi suất, đặc biệt là các rủi ro trong tương lai về việc
+> chạm ngưỡng lãi suất bằng không (zero-interest rate bound). Kỷ luật ngân sách nên được thực
+> thi bằng các quy tắc khả năng thanh toán dài hạn (long run solvency rules), chứ không phải
+> bằng các quy tắc tài khóa ngắn hạn — vốn trong thực tế lại cản trở việc sử dụng chính sách
+> tài khóa. Ngân sách cũng không nên bị gánh nặng bởi các phương pháp chính sách tiền tệ
+> chuyển giao seigniorage cho các ngân hàng thương mại.
 
 > Monetary developments of recent decades began with much promise with inflation targeting by
 > independent central banks; the financial crisis of 2007 ushered in a period of great monetary

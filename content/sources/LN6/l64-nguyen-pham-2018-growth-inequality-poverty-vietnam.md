@@ -3,7 +3,7 @@ type: source
 title: "L64 — Nguyen & Pham (2018) — Economic Growth, Inequality, and Poverty in Vietnam"
 tags: [economic-growth, inequality, poverty, pro-poor-growth, vietnam, fgt-index, decomposition]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN6 Technology growth inequality and poverty/L64 APEL-2018 Nguyen  Economic growth  inequality  and poverty in Vietnam.pdf"
 ---
@@ -33,6 +33,16 @@ Research Institute, Hanoi), Nguyet M. Pham (Truetech Research, Hanoi). DOI:
 > time `wiki/exams/` is reviewed (out of this page's scope).</span>
 
 ## Abstract
+
+> Nghiên cứu này xem xét việc giảm nghèo đã gắn liền như thế nào với tăng trưởng kinh tế và bất
+> bình đẳng ở Việt Nam. Kết quả cho thấy mặc dù tốc độ giảm nghèo trong thập niên 2000 thấp hơn
+> so với thập niên 1990, tăng trưởng kinh tế trong giai đoạn sau lại pro-poor hơn. Trong giai
+> đoạn 1993–98, bất bình đẳng chi tiêu (expenditure inequality) tăng lên và việc giảm nghèo
+> trong giai đoạn này chủ yếu do tăng trưởng kinh tế gây ra. Tuy nhiên, trong giai đoạn 2004–08,
+> bất bình đẳng chi tiêu giảm xuống, qua đó góp phần vào việc giảm nghèo. Tỷ lệ nghèo (poverty
+> incidence) giảm khoảng 5 điểm phần trăm, trong đó tăng trưởng chi tiêu (expenditure growth) và
+> tái phân phối (redistribution) đóng góp lần lượt 2,8 và 2,2 điểm phần trăm vào việc giảm
+> nghèo.
 
 > This study examines how poverty reduction has been associated with economic growth and
 > inequality in Vietnam. It finds that although the speed of poverty reduction was lower in the

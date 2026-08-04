@@ -3,7 +3,7 @@ type: source
 title: "L62 — Lööf & Heshmati (2006) — On the Relationship between Innovation and Performance: A Sensitivity Analysis"
 tags: [innovation, firm-performance, knowledge-production-function, cdm-model, sweden, sensitivity-analysis]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN6 Technology growth inequality and poverty/L62 EINT-2006 Loof-Heshmati On the Relationship between Innovation and Performance.pdf"
 ---
@@ -18,6 +18,18 @@ Heshmati (UNU/WIDER, Helsinki — the professor teaching this course). DOI:
 10.1080/10438590500512810. JEL: C31, C24, L60, O31, O32.</span>
 
 ## Abstract
+
+> Chúng tôi xem xét độ nhạy (sensitivity) của quan hệ ước lượng giữa innovation và firm
+> performance. Để làm điều này, chúng tôi dựa trên cách tiếp cận knowledge production function
+> và thực hiện so sánh theo nhiều cách khác nhau. Phân tích độ nhạy dựa trên việc so sánh một mô
+> hình kinh tế lượng cơ bản được ước lượng dưới các giả định cấu trúc sai số (error structure)
+> khác nhau nhưng dùng cùng một nguồn dữ liệu, một mô hình giống hệt nhưng dùng các nguồn dữ liệu
+> khác nhau, các cách phân loại firm performance khác nhau, các cách phân loại innovation khác
+> nhau, và hai phân khúc chính khác nhau của khu vực doanh nghiệp (business sector). Các phân
+> tích được thực hiện ở cả hai chiều mức độ (level) và tốc độ tăng trưởng (growth-rate). Các
+> phát hiện mới được báo cáo, đồng thời các kết quả trước đó cũng được xác nhận lại. Nghiên cứu
+> chỉ ra những yếu tố nào gây ra sự biến thiên trong các hiệu ứng ước lượng được quan tâm, cùng
+> chiều hướng của những thay đổi đó.
 
 > We examine sensitivity of the estimated relationship between innovation and firm performance.
 > In doing so, we rely on a knowledge production function approach and carry out comparisons in

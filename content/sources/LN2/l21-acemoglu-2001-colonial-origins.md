@@ -3,7 +3,7 @@ type: source
 title: "L21 — Acemoglu, Johnson & Robinson (2001) — The Colonial Origins of Comparative Development"
 tags: [institutions, colonialism, instrumental-variables]
 created: 2026-07-23
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN2 Governance institutions and policy making/L21 AER-2001 Acemoglu The colonial origins of comparative development.pdf"
 ---
@@ -21,6 +21,16 @@ from page 34 onward it is a "Cited by" list (Crossref, thousands of citations 20
 part of the article's content.</span>
 
 ## Abstract
+
+> Chúng tôi khai thác khác biệt về tỷ lệ tử vong của người châu Âu để ước lượng tác động của
+> institutions lên hiệu suất kinh tế. Người châu Âu áp dụng các chính sách thuộc địa hóa rất
+> khác nhau ở các thuộc địa khác nhau, đi kèm với các institutions khác nhau. Ở những nơi người
+> châu Âu đối mặt với tỷ lệ tử vong cao, họ không thể định cư và nhiều khả năng dựng lên các
+> institutions mang tính extractive. Các institutions này tồn tại dai dẳng đến hiện tại. Bằng
+> cách khai thác khác biệt tỷ lệ tử vong của người châu Âu làm instrument cho institutions hiện
+> tại, chúng tôi ước lượng được tác động lớn của institutions lên thu nhập bình quân đầu người.
+> Một khi đã kiểm soát tác động của institutions, các nước ở châu Phi hoặc gần đường xích đạo
+> hơn không còn có thu nhập thấp hơn. (JEL O11, P16, P51)
 
 > We exploit differences in European mortality rates to estimate the effect of institutions on
 > economic performance. Europeans adopted very different colonization policies in different

@@ -3,7 +3,7 @@ type: source
 title: "L23 — Besley & Ghatak (2010) — Property Rights and Economic Development"
 tags: [property-rights, institutions, handbook, expropriation]
 created: 2026-07-23
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN2 Governance institutions and policy making/L23 HED-2010 Besley Property rights and economic development.pdf"
 ---
@@ -25,6 +25,14 @@ assignment, **Evidence** (2.4); (3) Endogenous Property Rights — expropriation
 Concluding Comments.</span>
 
 ## Abstract
+
+> Chương này xây dựng một khung phân tích thống nhất (unified analytical framework), dựa
+> trên và mở rộng literature hiện có về chủ đề này, để nghiên cứu vai trò của property rights
+> trong phát triển kinh tế. Chương sách giải quyết hai câu hỏi nền tảng và có liên quan với
+> nhau về mối quan hệ giữa property rights và hoạt động kinh tế. (i) Đâu là các cơ chế mà
+> qua đó property rights tác động đến hoạt động kinh tế? (ii) Đâu là các yếu tố quyết định
+> property rights? Để trả lời các câu hỏi này, chương sách khảo sát một số ý tưởng thực
+> nghiệm và lý thuyết chính từ literature rộng lớn về chủ đề này.
 
 > This chapter develops a unified analytical framework, drawing on and extending the existing
 > literature on the subject, for studying the role of property rights in economic development.

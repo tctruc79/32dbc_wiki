@@ -3,7 +3,7 @@ type: source
 title: "L15 — Yin, Bai & Sun (2025) — Measurement and Spatiotemporal Dynamic Evolution of China's High-Quality Economic Development"
 tags: [china, high-quality-development, entropy-method, regional, cluster-analysis]
 created: 2026-07-20
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN1 Economic development/L15 SF-2025 Yin et al Measurement and spatiotemporal dynamic evolution of Chinas high-quality economic development.pdf"
 ---
@@ -22,6 +22,16 @@ high-quality development, five principles of development, entropy method, cluste
 kernel density estimation.</span>
 
 ## Abstract
+
+> Economic development của Trung Quốc đã chuyển dịch từ high speed sang high quality. Nghiên
+> cứu này xây dựng một chỉ số đánh giá cho high-quality development của Trung Quốc, sử dụng
+> một new development concept. Entropy method và cluster analysis được dùng để đánh giá mức độ
+> high-quality development ở Trung Quốc trong giai đoạn 2011–2021. Phương pháp kernel density
+> estimation được áp dụng để khám phá spatiotemporal dynamics. Kết quả cho thấy có sự khác
+> biệt đáng kể về mức độ economic development giữa các tỉnh của Trung Quốc, với miền Đông vượt
+> trội đáng kể so với miền Trung, Đông Bắc, và miền Tây. Từ góc độ đánh giá theo từng hạng mục
+> con (sub-item), các thách thức về phát triển kinh tế không đồng đều, thiếu phối hợp, và chưa
+> đầy đủ (uneven, uncoordinated, and insufficient) vẫn tồn tại ở nhiều tỉnh của Trung Quốc.
 
 > China's economic development has shifted from high speed to high quality. This study
 > constructs an evaluation index for China's high-quality development utilizing a new

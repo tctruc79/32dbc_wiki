@@ -3,7 +3,7 @@ type: source
 title: "L72 — Kadyraliev et al. (2022) — Investments in Transport Infrastructure as a Factor of Stimulation of Economic Development"
 tags: [infrastructure, transport, economic-development, kyrgyzstan, ols]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN7 Investment in development infrastructure health and education/L72 TRP-2022 Kadyraliev Investment in transport infratsruture as a factor of stimulation of econ dev.pdf"
 ---
@@ -39,6 +39,19 @@ Transport Forum. Open access CC BY-NC-ND.</span>
 > on the regression result.</span>
 
 ## Abstract
+
+> Quan điểm cho rằng các dự án transport infrastructure có tác động đáng kể lên phát triển kinh
+> tế thường được dùng để biện minh cho việc phân bổ nguồn lực. Trước những khó khăn ngày càng
+> tăng trong việc tài trợ cho transport infrastructure, nhiều quốc gia đang tìm cách phân bổ
+> nguồn lực của mình sao cho tối đa hóa lợi tức ròng (net returns). Để tạo thuận lợi cho việc
+> phân bổ đó, cần hiểu đầy đủ mọi hệ quả quy mô lớn của các khoản đầu tư hạ tầng. Transport
+> infrastructure có thể được định nghĩa là một yếu tố đảm bảo tăng trưởng và phát triển kinh tế,
+> nhờ chức năng "vượt không gian" trong việc di chuyển con người và trao đổi hàng hóa. Mức độ
+> tác động của transport infrastructure lên nền kinh tế phần lớn phụ thuộc vào cách xã hội sử
+> dụng các dịch vụ mà các công trình hạ tầng cung cấp. [...] Người ta thường tin rằng việc quy
+> hoạch và triển khai không đúng cách một dự án hạ tầng có thể gây tác động tiêu cực lên kinh tế
+> và môi trường của khu vực. Trong một số trường hợp, các khoản đầu tư hạ tầng có thể tạo ra rủi
+> ro cho các cộng đồng chịu ảnh hưởng trực tiếp từ dự án đó.
 
 > The view that transport infrastructure projects have a significant impact on the development
 > of the economy is often used to justify the allocation of resources. Faced with increasing

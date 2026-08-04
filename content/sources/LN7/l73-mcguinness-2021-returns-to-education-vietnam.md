@@ -3,7 +3,7 @@ type: source
 title: "L73 — McGuinness et al. (2021) — Returns to Education in Vietnam: A Changing Landscape"
 tags: [education, human-capital, returns-to-education, vietnam, mincer-equation, labor-market]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN7 Investment in development infrastructure health and education/L73 WD-2021 McGuinness Returns to education in Vietnam.pdf"
 ---
@@ -22,6 +22,22 @@ Ha Thi Thu Thuy (National Centre for Socio-Economic Information and Forecast, Ha
 9/11/2020, online 11/11/2020. JEL: I26, J23, J24, O53, P20.</span>
 
 ## Abstract
+
+> Sử dụng dữ liệu từ Vietnam Household Living Standards Survey (VHLSS), bài nghiên cứu xem xét
+> returns to education ở Việt Nam vào các năm 2002, 2008, 2010, 2012 và 2016, cùng cách các suất
+> sinh lời này thay đổi theo thời gian. Returns to education của nam và nữ thể hiện một mô hình
+> tuyến tính (linear pattern) vào các năm 2002, 2008 và 2010, với thu nhập tăng theo trình độ
+> học vấn. Giai đoạn 2002–2010 là giai đoạn chứng kiến sự gia tăng đặc biệt nhanh cả về tăng
+> trưởng nguồn cung lao động có trình độ học vấn lẫn returns to schooling cho cả nam và nữ. [...]
+> Tuy nhiên, tình hình thay đổi mạnh mẽ trong giai đoạn 2010–2012: dù nền kinh tế vẫn tiếp tục
+> tăng trưởng, nguồn cung lao động có trình độ học vấn mở rộng với tốc độ chậm hơn nhiều và wage
+> premium của giáo dục sụt giảm. [...] Kết quả cho thấy bản chất của cầu lao động thay đổi nhanh
+> chóng trong giai đoạn 2010–2016, với cầu tương đối đối với lao động có trình độ học vấn chậm
+> lại đáng kể — điều này gợi ý rằng quỹ đạo gần đây của nền kinh tế Việt Nam không còn được dẫn
+> dắt bởi sự tăng trưởng của các doanh nghiệp giá trị gia tăng cao (higher value-added firms) có
+> nhu cầu ngày càng lớn đối với lao động có trình độ học vấn. [...] Nghiên cứu đặt ra những câu
+> hỏi chính sách quan trọng về định hướng tương lai của các cách tiếp cận chính sách đối với cả
+> skills lẫn FDI ở Việt Nam.
 
 > Using data from the Vietnam Household Living Standards Survey (VHLSS), this paper examines the
 > returns to education in Vietnam in 2002, 2008, 2010, 2012 and 2016, and how these returns have

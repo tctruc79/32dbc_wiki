@@ -3,7 +3,7 @@ type: source
 title: "L75 — Hanushek (2016) — Will More Higher Education Improve Economic Growth?"
 tags: [education, human-capital, economic-growth, knowledge-capital, cognitive-skills]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN7 Investment in development infrastructure health and education/L75 ORE-2016 Hanushek  Will more higher education improve economic growth.pdf"
 ---
@@ -16,6 +16,13 @@ tác lâu năm với Ludger Woessmann. DOI: 10.1093/oxrep/grw025. JEL: O4, I2.<b
 long-standing collaboration with Ludger Woessmann. DOI: 10.1093/oxrep/grw025. JEL: O4, I2.</span>
 
 ## Abstract
+
+> Các lời kêu gọi mở rộng giáo dục đại học thường dựa trên lập luận rằng có nhiều sinh viên tốt
+> nghiệp hơn sẽ dẫn tới tăng trưởng nhanh hơn. Tuy nhiên, phân tích thực nghiệm không ủng hộ
+> luận điểm tổng quát này. Chênh lệch về cognitive skills — tức knowledge capital của các quốc
+> gia — có thể giải thích phần lớn chênh lệch về tốc độ tăng trưởng giữa các nước, nhưng việc
+> chỉ đơn thuần tăng thêm số năm đi học mà không nâng cao cognitive skills, xét về mặt lịch sử,
+> hầu như không có ảnh hưởng mang tính hệ thống nào lên tăng trưởng.
 
 > Calls for expanded university education are frequently based on arguments that more graduates
 > will lead to faster growth. Empirical analysis does not, however, support this general

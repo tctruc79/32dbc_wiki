@@ -3,7 +3,7 @@ type: source
 title: "L56 — Sharma & Subba (2025) — Entrepreneurship and Sustainability: Analyzing the Impact of Green Startups on Economic Development"
 tags: [green-entrepreneurship, sustainability, circular-economy, startups, esg, review]
 created: 2026-07-29
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN5 Entrepreneurship and economic development/L56 IGD-2025 Sharma-Subba Entrepreneurship and sustainability-analysis of the impact of green startups on economic development.pdf"
 ---
@@ -25,6 +25,24 @@ entries — a sign of loose editorial control. The synthesized content is still 
 should be read with more caution than other sources in the course.</span>
 
 ## Abstract
+
+> Sự trỗi dậy của các green startup đã biến đổi vai trò của entrepreneurship bằng
+> cách tích hợp sustainability vào business model, thúc đẩy economic growth trong khi
+> giải quyết các mối lo ngại sinh thái (ecological concerns) cấp bách. Bài review này
+> khám phá vai trò của green startup trong phát triển kinh tế, phân tích đóng góp của
+> chúng vào job creation, đổi mới công nghệ (technological innovation), và chuyển đổi
+> thị trường (market transformation). Bằng cách áp dụng các công nghệ thân thiện với
+> môi trường (eco-friendly technologies), các nguyên tắc circular economy, và quản lý
+> tài nguyên bền vững (sustainable resource management), các doanh nghiệp này đã nổi
+> lên như những động lực then chốt của một nền kinh tế carbon thấp (low-carbon
+> economy). Nghiên cứu nhấn mạnh cách green entrepreneurship gắn kết với các mục tiêu
+> sustainability toàn cầu, làm rõ vai trò của các khung chính sách (policy
+> frameworks), impact investment, và sở thích người tiêu dùng (consumer preferences)
+> trong việc định hình thành công của các doanh nghiệp này. Hơn nữa, bài viết xem xét
+> các thách thức mà green startup phải đối mặt, bao gồm hạn chế về vốn (funding
+> constraints), cạnh tranh thị trường (market competition), và rào cản pháp lý
+> (regulatory barriers), đồng thời bàn về các chiến lược nhằm nâng cao khả năng mở
+> rộng quy mô (scalability) và lợi nhuận dài hạn (long-term profitability) của chúng.
 
 > The rise of green startups transformed the role of entrepreneurship by integrating
 > sustainability into business models, fostering economic growth while addressing urgent

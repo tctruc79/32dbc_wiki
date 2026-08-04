@@ -3,7 +3,7 @@ type: source
 title: "L71 — Heshmati & Rashidghalam (2020) — Measurement and Analysis of Urban Infrastructure and Its Effects on Urbanization in China"
 tags: [infrastructure, urbanization, china, principal-component-analysis, panel-data]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN7 Investment in development infrastructure health and education/L71 ISENG-2020 Heshmati-Rashidghalam Measurement and analysis of urban infrastructure in China.pdf"
 ---
@@ -22,6 +22,22 @@ Keywords: Urbanization; Multidimensional index; Composite index; Principal compo
 Urban infrastructure; Chinese provinces.</span>
 
 ## Abstract
+
+> Bài nghiên cứu đô thị hóa (urbanization) ở Trung Quốc bằng các composite index về urban
+> infrastructure. Bài có hai mục tiêu. Thứ nhất, tính toán một chỉ số tổng hợp đa chiều
+> (multidimensional composite index) về urban infrastructure để xếp hạng 31 tỉnh và sáu vùng
+> của Trung Quốc theo mức độ đô thị hóa và phát triển hạ tầng trong giai đoạn 2005–2014. Chỉ số
+> hạ tầng được cấu thành từ 15 thành phần: consumption, culture, economic, education,
+> employment, environment, finance, human development, health, housing, social security, social
+> services, technology, transport, và utilities. Thứ hai, bài ước lượng tác động của chỉ số
+> urban infrastructure tổng hợp cùng các thành phần cấu thành của nó lên mức độ đô thị hóa. Kết
+> quả thực nghiệm của chúng tôi cho thấy chênh lệch giữa các tỉnh và các vùng là đáng kể, và
+> việc phân bổ cho urban infrastructure không cân bằng giữa các tỉnh và các vùng khác nhau.
+> Guangdong và Tibet có giá trị urban infrastructure cao nhất và thấp nhất tương ứng, trong khi
+> vùng Eastern và Southeast có tỷ lệ dân số đô thị hóa cao nhất và thấp nhất tương ứng. [...]
+> Kết quả ước lượng của chúng tôi cho thấy các thành phần economics, employment, human
+> development, health, housing, security, utilities, và technology của urban infrastructure có
+> tác động dương và có ý nghĩa lên đô thị hóa của Trung Quốc.
 
 > This paper studies urbanization in China using composite indices of urban infrastructure. It
 > has two objectives. First, it computes a multidimensional composite index of urban

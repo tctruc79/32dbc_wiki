@@ -3,7 +3,7 @@ type: source
 title: "L42 — Do, Nguyen & Grote (2023) — Land Consolidation, Rice Production, and Agricultural Transformation: Vietnam"
 tags: [land-fragmentation, land-consolidation, rice, poverty, vietnam, stochastic-frontier]
 created: 2026-07-29
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN4 Agriculture climate changes and natural disasters/L42 EAP-2023 Do Land consolidation rice production and agricultural transformation Vietnam.pdf"
 ---
@@ -18,6 +18,21 @@ Rural transformation, Land fragmentation, Farm income, Non-farm income, Poverty 
 Simultaneous regression.</span>
 
 ## Abstract
+
+> Land consolidation có vai trò quan trọng trong việc gia tăng economies of scale trong
+> nông nghiệp, và việc hiểu rõ các yếu tố quyết định cũng như tác động của nó rất hữu ích
+> để các nhà hoạch định chính sách hỗ trợ rural transformation. Trong bài viết này,
+> chúng tôi xem xét các yếu tố quyết định việc hộ nông dân tự nguyện tham gia land
+> consolidation, đồng thời khảo sát tác động của nó lên chi phí sản xuất cây trồng (crop
+> production costs), nghèo đói nông thôn (rural poverty), và rural transformation. Kết
+> quả của chúng tôi cho thấy land consolidation được thúc đẩy bởi farming efficiency. Nó
+> làm giảm đáng kể chi phí làm đất (land preparation) và chi phí thu hoạch (harvest
+> costs), tăng thu nhập nông nghiệp (farm income), và giảm nghèo đói. Chúng tôi kết luận
+> rằng land consolidation nên được thúc đẩy nhằm tạo điều kiện cho việc tái phân phối đất
+> nông nghiệp từ những nông dân muốn rời khỏi nông nghiệp sang những người tiếp tục làm
+> nông. Việc tái phân phối đất nông nghiệp này thúc đẩy agricultural transformation
+> thông qua việc tái phân bổ lao động từ khu vực nông nghiệp sang khu vực phi nông nghiệp
+> (non-farm sectors).
 
 > Land consolidation is important to increase the economies of scale in farming, and
 > understanding its determinants and effects is useful for policy-makers to support rural

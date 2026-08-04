@@ -3,7 +3,7 @@ type: source
 title: "L82 — Heshmati (2017) — A Review of the Circular Economy and its Implementation"
 tags: [circular-economy, sustainable-development, entrepreneurship, review, sweden]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN8 Circular economy inclusive and sustainable development/L82 IJGE-2017 A review of the circular economy and its implementation.pdf"
 ---
@@ -26,6 +26,20 @@ Entrepreneurship Forum" (Stockholm, 12/2016).</span>
 > other slides) both give 2017 — this page uses 2017 per the paper's own cover page.</span>
 
 ## Abstract
+
+> Circular economy (CE) là một chiến lược phát triển bền vững được đề xuất nhằm giải
+> quyết các vấn đề cấp bách về suy thoái môi trường và khan hiếm tài nguyên. Nguyên tắc
+> 3R của CE là giảm thiểu, tái sử dụng và tái chế vật liệu (reduce, reuse and recycle).
+> Nghiên cứu này là một bài tổng quan về literature đang phát triển nhanh chóng về CE,
+> bao quát khái niệm và thực tiễn hiện tại của nó, đồng thời đánh giá việc triển khai.
+> Bài tổng quan cũng đóng vai trò như một đánh giá về việc thiết kế, triển khai và hiệu
+> quả của các chính sách liên quan đến CE. Trước hết, bài viết trình bày khái niệm CE và
+> so sánh nó với nền kinh tế tuyến tính (linear economy) hiện nay. [...] các thực tiễn
+> hiện tại [...] được giới thiệu và các chuẩn mực đánh giá sự phát triển và hiệu suất của
+> CE được bàn luận. Thứ ba, [...] các vấn đề và thách thức nền tảng đối với CE dưới góc
+> nhìn entrepreneurship [được xác định]. Cuối cùng, bài tổng quan đưa ra kết luận về sự
+> phát triển hiện tại của CE và đề xuất các khuyến nghị chính sách cho sự phát triển
+> trong tương lai.
 
 > Circular economy (CE) is a sustainable development strategy that is being proposed to tackle
 > urgent problems of environmental degradation and resource scarcity. CE's 3R principles are to

@@ -3,7 +3,7 @@ type: source
 title: "L11 — Patel, Sandefur & Subramanian (2021) — The New Era of Unconditional Convergence"
 tags: [convergence, growth, middle-income, solow, volatility]
 created: 2026-07-20
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN1 Economic development/L11 JDE-2021 Patel The new era of unconditional convergence.pdf"
 ---
@@ -19,6 +19,15 @@ Arvind Subramanian (Center for Global Development). Received 19 February 2021, a
 know about cross-country convergence is (now) wrong."</span>
 
 ## Abstract
+
+> Fact trung tâm từng thúc đẩy các nghiên cứu thực nghiệm về tăng trưởng kinh tế — cụ thể là
+> unconditional divergence — không còn đúng nữa, và đã sai như vậy trong nhiều thập kỷ. Trên
+> nhiều nguồn dữ liệu khác nhau, các nước nghèo hơn trên thực tế đã đang đuổi kịp các nước giàu
+> hơn, dù chậm, kể từ giữa thập niên 1990. Kỷ nguyên convergence mới này không chủ yếu bắt
+> nguồn từ việc tăng trưởng chậm lại ở thế giới giàu, mà từ việc tăng trưởng tăng tốc ở thế
+> giới đang phát triển — nơi đồng thời trở nên ít volatile hơn đáng kể và persistent hơn. Các
+> tranh luận về "middle-income trap" cũng có vẻ đã lỗi thời: các nước middle-income đã cho
+> thấy tốc độ tăng trưởng cao hơn mọi nhóm khác kể từ giữa thập niên 1980.
 
 > The central fact that has motivated the empirics of economic growth—namely unconditional
 > divergence—is no longer true and has not been so for decades. Across a range of data sources,

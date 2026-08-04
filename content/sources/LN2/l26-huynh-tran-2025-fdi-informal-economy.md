@@ -3,7 +3,7 @@ type: source
 title: "L26 — Huynh & Tran (2025) — FDI, Economic Growth, Governance Quality and the Informal Economy"
 tags: [fdi, governance, informal-economy, vietnam, panel-data, gmm]
 created: 2026-07-23
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN2 Governance institutions and policy making/L26 IE-2025 Huynh-Tran FDI economic growth governance quality and the informal economy.pdf"
 ---
@@ -26,6 +26,15 @@ UEH.</span>
 > drawn from the full text.</span>
 
 ## Abstract
+
+> Bài viết này nghiên cứu thực nghiệm cách dòng vốn foreign direct investment (FDI) tác động
+> đến informal economy, sử dụng bộ panel data gồm 63 tỉnh thành của Việt Nam trong giai đoạn
+> 2006–2021. Kết quả cho thấy: i) dòng vốn FDI làm giảm informal economy thông qua các kênh
+> thúc đẩy tăng trưởng kinh tế và cải thiện chất lượng local governance; ii) formal economy
+> và informal economy là các substitutes (thay thế lẫn nhau); iii) chất lượng local governance
+> làm giảm các informal activities. Ngoài ra, nghèo đói và thất nghiệp nổi lên như các động
+> lực chính thúc đẩy các hoạt động kinh tế phi chính thức của Việt Nam, trong khi fiscal
+> policy chiến lược và urbanization có thể thu hẹp hiệu quả khu vực phi chính thức.
 
 > This paper empirically investigates how foreign direct investment (FDI) inflows affect the
 > informal economy by using a panel data set of 63 provinces in Vietnam from 2006 to 2021. The

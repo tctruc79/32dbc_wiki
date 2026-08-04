@@ -3,7 +3,7 @@ type: source
 title: "L53 — Naudé (2010) — Entrepreneurship, Developing Countries, and Development Economics: New Approaches and Insights"
 tags: [entrepreneurship, development-economics, institutions, black-box, poverty, structural-change]
 created: 2026-07-29
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN5 Entrepreneurship and economic development/L53 SBE-2010 Naude Entrepreneurship developing countries and development economics.pdf"
 ---
@@ -27,6 +27,21 @@ economics. Treated as a programmatic/agenda-setting essay, in the same way
 reduced page structure (no separate Data/Hypothesis/Regression Results).</span>
 
 ## Abstract
+
+> Bài viết này là lời giới thiệu (introduction) cho số đặc biệt (special issue) của
+> Small Business Economics, bàn về việc tích hợp (đã bị trì hoãn từ lâu) entrepreneurship
+> vào ngành development economics, đồng thời soi sáng một cách hình thức (formal light)
+> vai trò của entrepreneurship ở các nước đang phát triển. Bài viết xuất phát từ tiền đề
+> rằng với hơn một tỷ người đang sống trong absolute poverty, việc hiểu rõ liệu và khi
+> nào entrepreneurship là một binding constraint đối với phát triển kinh tế và quá trình
+> catching up ở các nước đang phát triển có ý nghĩa thực tiễn rất lớn. Điều này đến lượt
+> nó đòi hỏi ít nhất một sự mô hình hóa lý thuyết (theoretical modeling) sâu hơn về
+> entrepreneur trong development economics. Số đặc biệt này bao gồm một số đóng góp
+> xuất phát từ dự án UNU-WIDER về Promoting Entrepreneurial Capacity, dự án tích hợp
+> hai ngành entrepreneurship và development economics. Các đóng góp này mô hình hóa
+> và khám phá vai trò của entrepreneur trong các lĩnh vực trọng tâm của development
+> economics, như structural change và economic growth, bất bình đẳng thu nhập và của
+> cải (income and wealth inequalities), welfare, poverty traps, và market failures.
 
 > This paper provides an introduction to this special issue of Small Business Economics
 > dealing with the (long-postponed) integration of entrepreneurship into the discipline of

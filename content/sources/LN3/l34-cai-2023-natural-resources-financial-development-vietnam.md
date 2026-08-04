@@ -3,7 +3,7 @@ type: source
 title: "L34 — Cai & Le (2023) — Natural Resources and Financial Development: Role of CSR on Green Economic Growth in Vietnam"
 tags: [natural-resources, financial-development, csr, green-growth, vietnam]
 created: 2026-07-26
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN3 Financial crisis and pandemics/L34 RP-2023 Cai Natural resources and financial development CSR in Vietnam.pdf"
 ---
@@ -27,6 +27,23 @@ University of Economics and Finance).</span>
 > introductory passages.</span>
 
 ## Abstract
+
+> Trong nghiên cứu này, mối quan hệ giữa tài nguyên thiên nhiên, phát triển tài chính (financial
+> development), và vai trò của trách nhiệm xã hội doanh nghiệp (corporate social responsibility
+> — CSR) đối với tăng trưởng kinh tế xanh (green economic growth) ở Việt Nam đã được phân tích.
+> Chúng tôi đã áp dụng mô hình Pooled Mean Group – Autoregressive Distributed Lag (PMG-ARDL) để
+> đánh giá mối quan hệ này cho giai đoạn 1990–2018. Các kiểm định đồng liên kết panel
+> Johansen–Fisher và kiểm định Kao cho thấy các biến số có đồng liên kết (cointegrated). Theo
+> đó, CSR, các kết quả PMG-ARDL, phát triển tài chính, và phát triển tài nguyên thiên nhiên đều
+> có mối liên hệ dương trong dài hạn nhưng quan hệ âm trong ngắn hạn với tăng trưởng kinh tế
+> xanh. Nếu các biện pháp quản lý tài khóa và tài chính hiệu quả không được thực hiện, tính bền
+> vững nợ công của các quốc gia trong mẫu panel sẽ bị đe dọa do CSR phụ thuộc quá mức vào doanh
+> thu tài nguyên thiên nhiên (natural resources rents — NRR). Tài nguyên thiên nhiên có thể gây
+> tác động bất lợi đến tăng trưởng tài chính nếu luật pháp không được thực thi. Các quy định về
+> CSR ở Việt Nam có thể làm giảm phát thải khí nhà kính (greenhouse gases — GHG) và thúc đẩy
+> tăng trưởng kinh tế xanh. Nếu tiêu chí này được đáp ứng, những cải thiện liên quan đến NRR
+> trong phát triển tài chính có thể được duy trì, và các khuyến nghị chính sách liên quan có
+> thể được đưa ra.
 
 > In this study, the relationship among natural resources, financial development, and the role
 > of corporate social responsibility (CSR) on green economic growth in Vietnam has been
