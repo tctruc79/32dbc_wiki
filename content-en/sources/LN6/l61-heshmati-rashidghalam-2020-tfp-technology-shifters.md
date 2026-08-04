@@ -3,7 +3,7 @@ type: source
 title: "L61 — Heshmati & Rashidghalam (2020) — Estimation of Technical Change and TFP Growth Based on Observable Technology Shifters"
 tags: [total-factor-productivity, technical-change, translog-production-function, panel-data, cross-country]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN6 Technology growth inequality and poverty/L61 JPA-2020 Heshmati-Rashidghalam Estimation of TC and TFP growth based on observable technology shifters.pdf"
 ---
@@ -121,12 +121,13 @@ while the technology index (R&D/hi-tech exports/patents) has a slight NEGATIVE e
 ## Conclusion
 
 The paper applies the parametric method to examine TFP growth for 190 countries 1996–2013. Model
-4 (RTI) is best supported by the data. Labor and capital elasticities are positive as expected
-across all income groups; RTS > 1 (increasing returns to scale). However, TC and TFP growth are
-NEGATIVE across all income groups and years in the technology index model; TC declines over
-time. The decomposition shows TC's contribution is negative in all models. Production
-elasticities with respect to the technology indices confirm the human capital index has the
-largest impact.
+3 (TI) is best supported by the data — this is the specification whose technology-index weights
+are ESTIMATED directly from the data (unlike Model 4/RTI, which uses PRE-SPECIFIED expert-imposed
+weights). Labor and capital elasticities are positive as expected across all income groups; RTS >
+1 (increasing returns to scale). However, TC and TFP growth are NEGATIVE across all income groups
+and years in the technology index model; TC declines over time. The decomposition shows TC's
+contribution is negative in all models. Production elasticities with respect to the technology
+indices confirm the human capital index has the largest impact.
 
 ## Relevance to the Course/Vietnam
 

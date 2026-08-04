@@ -3,7 +3,7 @@ type: lecture
 title: "LN6 — Innovation, Technology, Growth, Inequality and Poverty (Lecture 6)"
 tags: [technology, innovation, total-factor-productivity, growth, inequality, poverty, energy-poverty, vietnam]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN6 Technology growth inequality and poverty/LN6 Technology growth inequality and poverty.pdf"
 also_covers:
@@ -68,8 +68,9 @@ mindmap
   unobserved time-trend technical change (TC), scale economies, and observable technology
   shifter index — panel data of 190 countries 1996–2013 (N=3362).
 - A surprising result: TC and TFP growth are **NEGATIVE across ALL country income groups and
-  years** in the best-fit technology index model (Model 4, mean TFP −3.6%), despite positive
-  input elasticities (labor/capital/energy) and increasing returns to scale.
+  years** in the data-best-supported technology index model (Model 3/TI, weights estimated from
+  the data — unlike Model 4/RTI's pre-specified weights; mean TFP −3.6%), despite positive input
+  elasticities (labor/capital/energy) and increasing returns to scale.
 - The human capital index (health + education expenditure + tertiary enrollment) has the
   highest TFP elasticity (0.234) among the 4 technology shifter indices; conversely the
   technology index (R&D/hi-tech exports/patents) has a slightly NEGATIVE elasticity (−0.043) —
