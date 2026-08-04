@@ -113,7 +113,7 @@ someone else):
 
 All 3 versions: an expandable mindmap per paper, multi-level detail (Research Question &
 Methodology → Key Findings → Economic Significance → Vietnam Relevance → Cross-Paper Debate),
-covering LN0-LN5 plus a "Self-test · 36 questions" flashcard tab. **When updating (e.g., after
+covering LN0-LN8 plus a "Self-test · 61 questions" flashcard tab. **When updating (e.g., after
 ingesting a new reading), always republish to these exact 3 URLs (using the Artifact tool's
 `url` parameter) — never create a new artifact**, since the link may already have been shared
 with others.

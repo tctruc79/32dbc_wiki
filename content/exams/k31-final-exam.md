@@ -3,7 +3,7 @@ type: exam
 title: "K31 Final Written Exam — Development Issues and Business Cycle"
 tags: [exam, past-exam, k31, land-consolidation, poverty-inequality, construction-digitalization, banking-crisis, trade-policy, urban-infrastructure]
 created: 2026-07-28
-updated: 2026-08-01
+updated: 2026-08-04
 status: complete
 source_file: "raw/4. PAST EXAMS/K31 final written exam/k31-exam-page1-questions.jpeg"
 also_covers:
@@ -26,29 +26,42 @@ user sent duplicated the first, so it was not kept — cross-checked 2026-07-28)
 
 ⚠️ **Lưu ý phạm vi**: đây là đề thi của **một khóa khác (K31)**, không phải đề thi K32 (lớp hiện
 tại của bạn). Ban đầu 6 papers được hỏi trong đề này KHÔNG nằm trong reading list LN1–LN3 đã
-ingest của K32 — nhưng sau khi LN4 được ingest (2026-07-29), **2/6 câu nay đã trùng 100%**:
-Q1 với [[l42-do-2023-land-consolidation-vietnam]] (LN4) và Q4 với
-[[l31-baron-2021-banking-crises-without-panics]] (LN3); 4 câu còn lại (Q2, Q3, Q5, Q6) vẫn ngoài
-reading list K32 hiện tại (xem [[overview]], [[exam-prep]]). Dùng trang này để: (a) làm quen
+ingest của K32 — nhưng qua các đợt ingest sau đó, **4/6 câu nay đã trùng 100%** với reading list
+K32 đã deep-ingest: Q1 với [[l42-do-2023-land-consolidation-vietnam]] (LN4, ingest 2026-07-29),
+Q2 với [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] (LN6, ingest 2026-08-01), Q4 với
+[[l31-baron-2021-banking-crises-without-panics]] (LN3), Q6 với
+[[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (LN7, ingest 2026-08-01); 2 câu còn
+lại (Q3, Q5) khớp đúng tên tác giả/năm trong outline LN9/LN10 mà GS đã liệt kê trong [[overview]]
+nhưng CHƯA gửi tài liệu — tức khả năng cao **cả 6/6 câu K31 đều trùng paper** trong reading list
+đầy đủ của K32 (phát hiện 2026-08-04, xem phân tích + dự đoán shortlist đầy đủ ở
+[[shortlist-prediction]]). Dùng trang này để: (a) làm quen
 **định dạng/luật thi**
 thật (rất có giá trị vì giống cấu trúc môn); (b) tự luyện kỹ năng viết đáp án dạng "trình bày
 findings của 1 paper cụ thể" — cùng dạng câu hỏi khả năng cao sẽ xuất hiện ở đề K32; (c) tham khảo
-nội dung nếu paper trùng với reading tương lai của K32. Đáp án 6 câu dưới đây dựa trên nghiên cứu
-riêng (web search) từng paper — có ghi rõ paper nào **đã xác nhận qua nhiều nguồn độc lập** so với
-paper nào Claude chưa tra cứu được chắc chắn.<br><span class="en">⚠️ **Scope note**: this is the
-exam of a **different cohort (K31)**, not the K32 exam (your current class). Originally, the 6
-papers asked about in this exam did NOT appear in K32's ingested LN1–LN3 reading list — but
-after LN4 was ingested (2026-07-29), **2 of the 6 questions now overlap 100%**: Q1 with
-[[l42-do-2023-land-consolidation-vietnam]] (LN4) and Q4 with
-[[l31-baron-2021-banking-crises-without-panics]] (LN3); the remaining 4 (Q2, Q3, Q5, Q6) are
-still outside K32's current reading list (see [[overview]], [[exam-prep]]). Use this page to:
-(a) get familiar with the real **exam format/rules** (highly valuable since it mirrors the
-course's structure); (b) practice writing "present the findings of one specific paper"-style
-answers — a question type highly likely to appear on the K32 exam; (c) use as content
-reference where a paper overlaps with a future K32 reading. The answers to the 6 questions
-below are based on independent research (web search) into each paper — clearly noting which
-paper has been **confirmed across multiple independent sources** versus which Claude could not
-verify with certainty.</span>
+nội dung nếu paper trùng với reading tương lai của K32. Đáp án Q1/Q2/Q4/Q6 dưới đây đã cập nhật số
+liệu chính xác từ bản đầy đủ (thay cho ước lượng dựa trên abstract/web search ban đầu); Q3/Q5 vẫn
+dựa trên nghiên cứu riêng (web search) vì paper chưa nằm trong reading list K32 đã ingest — có ghi
+rõ paper nào **đã xác nhận qua nhiều nguồn độc lập** so với paper nào Claude chưa tra cứu được
+chắc chắn.<br><span class="en">⚠️ **Scope note**: this is the exam of a **different cohort
+(K31)**, not the K32 exam (your current class). Originally, the 6 papers asked about in this exam
+did NOT appear in K32's ingested LN1–LN3 reading list — but through later ingest rounds, **4 of
+the 6 questions now overlap 100%** with K32's deep-ingested reading list: Q1 with
+[[l42-do-2023-land-consolidation-vietnam]] (LN4, ingested 2026-07-29), Q2 with
+[[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] (LN6, ingested 2026-08-01), Q4 with
+[[l31-baron-2021-banking-crises-without-panics]] (LN3), Q6 with
+[[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (LN7, ingested 2026-08-01); the
+remaining 2 (Q3, Q5) match author/year names exactly in the LN9/LN10 outline already listed in
+[[overview]] but whose materials haven't been sent yet — meaning **all 6/6 K31 questions likely
+correspond to a paper** in K32's full reading list (finding from 2026-08-04, see the full
+analysis + shortlist prediction at [[shortlist-prediction]]). Use this page to: (a) get familiar
+with the real **exam format/rules** (highly valuable since it mirrors the course's structure);
+(b) practice writing "present the findings of one specific paper"-style answers — a question type
+highly likely to appear on the K32 exam; (c) use as content reference where a paper overlaps with
+a future K32 reading. The Q1/Q2/Q4/Q6 answers below have been updated with exact figures from the
+full text (replacing the original abstract/web-search-based estimates); Q3/Q5 still rely on
+independent research (web search) since those papers aren't yet in K32's ingested reading list —
+clearly noting which paper has been **confirmed across multiple independent sources** versus
+which Claude could not verify with certainty.</span>
 
 ## 0. Luật thi & cơ cấu điểm
 <span class="en">## 0. Exam Rules & Grading Structure</span>
@@ -196,69 +209,81 @@ in L42), see [[institutions]] under "Empirical application in LN4."</span>
 
 ### Question 2 — Poverty reduction, growth & inequality, Vietnam (Nguyen & Pham, APEL 2018)
 
+✅ **Cập nhật 2026-08-01**: paper này nay đã được deep-ingest đầy đủ làm reading L64 của
+[[ln6-technology-growth-inequality-poverty]] — xem trang đầy đủ:
+[[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] (không còn giới hạn ở abstract, đã đọc
+trọn bản Asian-Pacific Economic Literature 32(1): 45–58). Đáp án dưới đã cập nhật số liệu chính
+xác thay cho ước lượng dựa trên abstract trước đây.<br><span class="en">✅ **Update 2026-08-01**:
+this paper has now been fully deep-ingested as reading L64 of
+[[ln6-technology-growth-inequality-poverty]] — see the full page:
+[[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] (no longer limited to the abstract, the
+full Asian-Pacific Economic Literature 32(1): 45–58 text has been read). The answer below has
+updated figures replacing the earlier abstract-based estimates.</span>
+
 **Nguồn xác nhận**: Nguyen, Cuong V.; Pham, Nguyet M. (2018), *"Economic growth, inequality, and
-poverty in Vietnam"*, **Asian-Pacific Economic Literature**, 32(1), 45–58 (DOI: 10.1111/apel.12219)
-— xác nhận qua IDEAS/RePEc (abstract nguyên văn), khớp DOI Wiley.<br><span class="en">
-**Confirmed source**: Nguyen, Cuong V.; Pham, Nguyet M. (2018), *"Economic growth, inequality,
-and poverty in Vietnam"*, **Asian-Pacific Economic Literature**, 32(1), 45–58 (DOI:
-10.1111/apel.12219) — confirmed via IDEAS/RePEc (verbatim abstract), matching the Wiley DOI.</span>
+poverty in Vietnam"*, **Asian-Pacific Economic Literature**, 32(1), 45–58 (DOI: 10.1111/apel.12219).<br><span
+class="en">**Confirmed source**: Nguyen, Cuong V.; Pham, Nguyet M. (2018), *"Economic growth,
+inequality, and poverty in Vietnam"*, **Asian-Pacific Economic Literature**, 32(1), 45–58 (DOI:
+10.1111/apel.12219).</span>
 
-**Abstract nguyên văn (đã xác nhận, không diễn giải)**: nghiên cứu xem xét poverty reduction gắn
-với economic growth và inequality ở Việt Nam ra sao thế nào qua 2 giai đoạn.<br><span
-class="en">**Verbatim abstract (confirmed, not paraphrased)**: the study examines how poverty
-reduction relates to economic growth and inequality in Vietnam across 2 periods.</span>
+**Dữ liệu & phương pháp**: 4 khảo sát hộ GSO/World Bank — VLSS 1993 (n=4800), VLSS 1998 (n=6000),
+VHLSS 2004 (n=9188), VHLSS 2008 (n=9189). Đo nghèo bằng chỉ số FGT (Foster-Greer-Thorbecke 1984);
+phân rã thay đổi nghèo thành cấu phần growth và redistribution/inequality theo Datt & Ravallion
+(1991), mở rộng bởi Kolenikov & Shorrocks (2005); đo mức độ "pro-poor" bằng chỉ số Kakwani-Pernia
+(2000): φ = 1 + D/G.<br><span class="en">**Data & method**: 4 GSO/World Bank household surveys —
+VLSS 1993 (n=4,800), VLSS 1998 (n=6,000), VHLSS 2004 (n=9,188), VHLSS 2008 (n=9,189). Poverty is
+measured via the FGT (Foster-Greer-Thorbecke 1984) index; the change in poverty is decomposed
+into growth and redistribution/inequality components per Datt & Ravallion (1991), extended by
+Kolenikov & Shorrocks (2005); the degree of "pro-poorness" is measured via the Kakwani-Pernia
+(2000) index: φ = 1 + D/G.</span>
 
-**Findings chính**:<br><span class="en">**Key findings**:</span>
-- Tốc độ giảm nghèo **chậm hơn** ở thập niên 2000s so với 1990s, nhưng tăng trưởng ở giai đoạn
-  2000s lại **pro-poor hơn** (có lợi cho người nghèo hơn) so với 1990s.<br><span class="en">The
-  pace of poverty reduction was **slower** in the 2000s than the 1990s, but growth in the 2000s
-  was **more pro-poor** (more beneficial to the poor) than in the 1990s.</span>
-- **Giai đoạn 1993–98**: bất bình đẳng chi tiêu (expenditure inequality) **tăng**; giảm nghèo giai
-  đoạn này chủ yếu do **economic growth** (không phải redistribution).<br><span class="en">
-  **1993–98 period**: expenditure inequality **rose**; poverty reduction in this period was
-  mainly driven by **economic growth** (not redistribution).</span>
-- **Giai đoạn 2004–08**: bất bình đẳng chi tiêu **giảm**, và chính sự giảm này góp phần vào giảm
-  nghèo (growth-with-equity pattern).<br><span class="en">**2004–08 period**: expenditure
-  inequality **fell**, and this decline itself contributed to poverty reduction (a
-  growth-with-equity pattern).</span>
-- **Định lượng**: tỷ lệ nghèo giảm khoảng **5 điểm %** trong giai đoạn sau, trong đó **expenditure
-  growth đóng góp 2.8 điểm %** và **redistribution đóng góp 2.2 điểm %** vào mức giảm nghèo đó.<br><span
-  class="en">**Quantification**: the poverty rate fell by about **5 percentage points** in the
-  later period, of which **expenditure growth contributed 2.8 points** and **redistribution
-  contributed 2.2 points** to that reduction.</span>
-- ⚠️ **Chưa xác nhận được** (bản đầy đủ trả phí, ResearchGate 403): tên bộ dữ liệu cụ thể (nhiều
-  khả năng VLSS/VHLSS theo mốc năm khớp với các đợt khảo sát này, nhưng KHÔNG khẳng định chắc),
-  phương pháp decomposition cụ thể (khả năng Datt-Ravallion growth-redistribution decomposition —
-  đây là phương pháp chuẩn cho loại phân tích này, nhưng chưa xác nhận trực tiếp từ bài báo), và
-  khuyến nghị chính sách cụ thể mà câu hỏi thi yêu cầu ("recommendations to promote pro-poor
-  growth") — phần này cần truy cập bản đầy đủ, KHÔNG bịa ra danh sách khuyến nghị.<br><span
-  class="en">⚠️ **Not yet confirmed** (full text paywalled, ResearchGate 403): the specific
-  dataset name (likely VLSS/VHLSS given the matching survey years, but NOT confirmed with
-  certainty), the specific decomposition method (likely a Datt-Ravallion growth-redistribution
-  decomposition — the standard method for this type of analysis, but not directly confirmed
-  from the paper), and the specific policy recommendations the exam question requires
-  ("recommendations to promote pro-poor growth") — this section requires access to the full
-  text; a list of recommendations should NOT be fabricated.</span>
+**Findings — phân rã growth-redistribution (trọng tâm câu hỏi)**: giai đoạn 1993–98, nghèo giảm
+20.75 điểm % = growth component (−23.15pp) + inequality component (+2.40pp, bất bình đẳng TĂNG
+làm CHẬM giảm nghèo — Gini 0.33→0.35). Giai đoạn 2004–08, nghèo giảm chỉ 5.02 điểm % = growth
+(−2.79pp) + inequality (−2.22pp, CẢ HAI cùng góp phần — Gini 0.37→0.356).<br><span class="en">
+**Findings — the growth-redistribution decomposition (the focus of the question)**: in 1993–98,
+poverty fell 20.75 percentage points = the growth component (−23.15pp) + the inequality
+component (+2.40pp, RISING inequality PARTLY OFFSET poverty reduction — Gini 0.33→0.35). In
+2004–08, poverty fell only 5.02 percentage points = growth (−2.79pp) + inequality (−2.22pp, BOTH
+jointly contributing — Gini 0.37→0.356).</span>
 
-**Khung trả lời gợi ý cho phần "recommendations" (suy luận hợp lý từ chính finding, không phải
-trích nguyên văn từ bài)**: vì bài cho thấy giai đoạn giảm bất bình đẳng (2004–08) mang lại hiệu
-quả giảm nghèo kép (growth + redistribution cùng chiều), khuyến nghị hợp lý theo logic bài là ưu
-tiên chính sách vừa duy trì tăng trưởng vừa chủ động giảm bất bình đẳng (redistribution) thay vì
-chỉ dựa vào tăng trưởng đơn thuần như giai đoạn 1993–98 — nhưng đây là suy luận của Claude từ số
-liệu đã xác nhận, cần đối chiếu lại với bản đầy đủ nếu có thể truy cập trước khi dùng làm đáp án
-thi chính thức.<br><span class="en">**A suggested answer framework for the "recommendations"
-part (a reasonable inference from the findings themselves, not a verbatim quote from the
-paper)**: since the paper shows the inequality-reducing period (2004–08) delivered a double
-poverty-reduction benefit (growth + redistribution both working together), a logical
-recommendation is to prioritize policy that both sustains growth and actively reduces
-inequality (redistribution), rather than relying on growth alone as in 1993–98 — but this is
-Claude's inference from the confirmed figures, and should be cross-checked against the full
-text if accessible before being used as an official exam answer.</span>
+**Vì sao 2004–08 "pro-poor" hơn dù giảm nghèo chậm hơn về số tuyệt đối**: chỉ số Kakwani-Pernia
+φ=0.90 (1993–98, dưới ngưỡng pro-poor — chỉ pro-poor mức vừa phải) vs φ=1.80 (2004–08, "highly
+pro-poor"). Elasticity nghèo theo mean expenditure ổn định quanh −1.09 (1993) đến −1.38 (2008),
+nhưng elasticity theo inequality TĂNG MẠNH từ 0.15 (1993) lên 1.78 (2008) — nghèo Việt Nam ngày
+càng nhạy cảm với thay đổi bất bình đẳng hơn thay đổi tốc độ tăng trưởng.<br><span class="en">
+**Why 2004–08 is more "pro-poor" despite slower absolute poverty reduction**: the Kakwani-Pernia
+index φ=0.90 (1993–98, below the pro-poor threshold — only moderately pro-poor) vs. φ=1.80
+(2004–08, "highly pro-poor"). Poverty's elasticity to mean expenditure stays around −1.09 (1993)
+to −1.38 (2008), but its elasticity to inequality RISES SHARPLY from 0.15 (1993) to 1.78 (2008) —
+Vietnamese poverty is increasingly more sensitive to inequality change than to the growth
+rate.</span>
 
-**Liên hệ môn học**: đối chiếu với [[l26-huynh-tran-2025-fdi-informal-economy]] (LN2) — cùng dùng
-dữ liệu panel VN để phân tích kênh tăng trưởng/thể chế ảnh hưởng đến outcome xã hội (informal
-economy vs poverty), cùng logic phương pháp decomposition/multiple-channel.<br><span
-class="en">**Course connection**: cross-references
+**Khuyến nghị chính sách** (nguyên văn từ bài, không còn là suy luận): tiếp tục chiến lược tăng
+trưởng vì người nghèo, ưu tiên giảm bất bình đẳng hơn thuần túy thúc đẩy tăng trưởng chi tiêu, đặc
+biệt cho dân tộc thiểu số/vùng núi (nghèo giảm từ 86.4%→50.3% dân tộc thiểu số so với 53.9%→9.0%
+người Kinh, 1993–2008). Chính sách trực tiếp (an sinh xã hội: bảo hiểm y tế, giáo dục, chuyển tiền
+mặt) hoặc gián tiếp (đào tạo nghề, tín dụng vi mô tăng việc làm phi nông nghiệp, nâng năng suất
+nông nghiệp — rural growth đóng góp 103% giảm nghèo quốc gia thập niên 2000).<br><span class="en">
+**Policy recommendations** (verbatim from the paper, no longer an inference): continue a pro-poor
+growth strategy, prioritizing inequality reduction over purely boosting expenditure growth,
+especially for ethnic minorities/mountainous regions (poverty fell from 86.4%→50.3% for ethnic
+minorities vs. 53.9%→9.0% for the Kinh, 1993–2008). Policy can be direct (social safety nets:
+health insurance, education, cash transfers) or indirect (vocational training, microcredit to
+raise non-farm employment, raising agricultural productivity — rural growth contributed 103% of
+national poverty reduction in the 2000s).</span>
+
+**Liên hệ môn học**: cùng cụm H (Technology, Productivity & Vietnam Poverty Measurement, LN6) với
+[[l63-tran-alkire-klasen-2015-monetary-multidimensional-poverty-vietnam]] và
+[[l65-nguyen-2019-energy-transition-poverty-inequality-vietnam]] — xem
+[[growth-inequality-poverty-nexus]]. Cũng đối chiếu với
+[[l26-huynh-tran-2025-fdi-informal-economy]] (LN2) — cùng dùng dữ liệu panel VN để phân tích kênh
+tăng trưởng/thể chế ảnh hưởng đến outcome xã hội (informal economy vs poverty), cùng logic phương
+pháp decomposition/multiple-channel.<br><span class="en">**Course connection**: shares cluster H
+(Technology, Productivity & Vietnam Poverty Measurement, LN6) with
+[[l63-tran-alkire-klasen-2015-monetary-multidimensional-poverty-vietnam]] and
+[[l65-nguyen-2019-energy-transition-poverty-inequality-vietnam]] — see
+[[growth-inequality-poverty-nexus]]. Also cross-references
 [[l26-huynh-tran-2025-fdi-informal-economy]] (LN2) — both use Vietnamese panel data to analyze
 how growth/institutional channels affect social outcomes (informal economy vs. poverty), the
 same decomposition/multiple-channel methodological logic.</span>
@@ -473,116 +498,131 @@ Robinson & Thierfelder.</span>
 
 ### Question 6 — Urban infrastructure & urbanization, China (Heshmati & Rashidghalam, JCP 2020)
 
-⚠️ **Đính chính tên tạp chí**: đề thi ghi "JCP" nhưng research xác nhận qua nhiều nguồn độc lập
-(ASCE library, IDEAS/RePEc) rằng tạp chí thực tế là **Journal of Infrastructure Systems** (ASCE),
-KHÔNG phải "JCP" (Journal of Cleaner Production hay tên khác bắt đầu J-C-P). Đồng tác giả là
-**Masoomeh Rashidghalam** (Đại học Tabriz) — khác với "Mehdi Rashidghalam" trong giả thuyết ban
-đầu. Đề bài/slide gốc có thể ghi sai viết tắt tạp chí; nội dung câu hỏi (đo lường & phân tích urban
-infrastructure, hiệu ứng lên urbanization Trung Quốc) khớp CHÍNH XÁC với paper này nên độ tin cậy
-về việc đây đúng là paper được hỏi vẫn cao, chỉ riêng mã tạp chí "JCP" trong đề là sai/gây nhầm.<br><span
-class="en">⚠️ **Journal-name correction**: the exam states "JCP" but research confirms across
-multiple independent sources (ASCE library, IDEAS/RePEc) that the actual journal is the
-**Journal of Infrastructure Systems** (ASCE), NOT "JCP" (Journal of Cleaner Production or
-another J-C-P name). The co-author is **Masoomeh Rashidghalam** (Tabriz University) — different
-from the initially hypothesized "Mehdi Rashidghalam." The original exam/slide may have
-mislabeled the journal abbreviation; the question content (measuring & analyzing urban
-infrastructure, its effect on urbanization in China) matches this paper EXACTLY, so confidence
-this is the correct paper remains high — only the "JCP" journal code in the exam is
-incorrect/misleading.</span>
+✅ **Cập nhật 2026-08-01**: paper này nay đã được deep-ingest đầy đủ làm reading L71 của
+[[ln7-investment-infrastructure-health-education]] — xem trang đầy đủ:
+[[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (không còn giới hạn bởi ASCE
+paywall, đã đọc trọn abstract + toàn bộ kết quả hồi quy). Đáp án dưới đã cập nhật số liệu chính
+xác thay cho các trích dẫn thứ cấp trước đây — một chi tiết trong đáp án cũ ("chính sách ưu tiên
+giao thông bao trùm mọi lứa tuổi") KHÔNG được xác nhận trong bản đầy đủ nên đã được thay bằng 3
+khuyến nghị chính sách thật của bài.<br><span class="en">✅ **Update 2026-08-01**: this paper has
+now been fully deep-ingested as reading L71 of
+[[ln7-investment-infrastructure-health-education]] — see the full page:
+[[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (no longer limited by the ASCE
+paywall — the full abstract and all regression results have been read). The answer below has
+updated figures replacing the earlier secondary-citation estimates — one detail in the old
+answer ("policy priority on transport inclusive of all age groups") is NOT confirmed in the full
+text, so it has been replaced with the paper's actual 3 policy recommendations.</span>
 
-**Nguồn xác nhận**: Heshmati, A. and Rashidghalam, M. (2020), *"Measurement and Analysis of Urban
-Infrastructure and Its Effects on Urbanization in China"*, **Journal of Infrastructure Systems**
-(ASCE), 26(1), Article 04019030 (DOI: 10.1061/(ASCE)IS.1943-555X.0000513). Đây là paper của chính
-[[almas-heshmati]] — giáo sư phụ trách môn này — thuộc hướng nghiên cứu "Infrastructure &
-urbanization" đã ghi trong trang cá nhân giáo sư.<br><span class="en">**Confirmed source**:
-Heshmati, A. and Rashidghalam, M. (2020), *"Measurement and Analysis of Urban Infrastructure
-and Its Effects on Urbanization in China"*, **Journal of Infrastructure Systems** (ASCE),
-26(1), Article 04019030 (DOI: 10.1061/(ASCE)IS.1943-555X.0000513). This is a paper by
-[[almas-heshmati]] himself — the professor teaching this course — under the "Infrastructure &
-urbanization" research direction noted on his personal page.</span>
+⚠️ **Đính chính tên tạp chí (vẫn đúng)**: đề thi ghi "JCP" nhưng tạp chí thực tế là **Journal of
+Infrastructure Systems** (ASCE), 26(1), Article 04019030 (DOI:
+10.1061/(ASCE)IS.1943-555X.0000513); đồng tác giả là **Masoomeh Rashidghalam** (Đại học Tabriz).
+Đây là paper của chính [[almas-heshmati]] — giáo sư phụ trách môn này.<br><span class="en">⚠️
+**Journal-name correction (still holds)**: the exam states "JCP" but the actual journal is the
+**Journal of Infrastructure Systems** (ASCE), 26(1), Article 04019030 (DOI:
+10.1061/(ASCE)IS.1943-555X.0000513); the co-author is **Masoomeh Rashidghalam** (Tabriz
+University). This is a paper by [[almas-heshmati]] himself — the professor teaching this
+course.</span>
 
-**Phương pháp**: Xây dựng **chỉ số tổng hợp đa chiều** (composite index) đo urban infrastructure,
-xếp hạng **31 tỉnh và 6 vùng** của Trung Quốc, dữ liệu panel **2005–2014**. Chỉ số tổng hợp từ
-**15 thành phần**: consumption, culture, economic, education, employment, environment, finance,
-human development, health, housing, social security, social services, technology, transport,
-utilities. Sau đó hồi quy tác động của chỉ số tổng hợp và từng thành phần lên mức độ urbanization.<br><span
-class="en">**Method**: constructs a **multidimensional composite index** measuring urban
-infrastructure, ranking **31 provinces and 6 regions** of China, panel data **2005–2014**. The
-index aggregates **15 components**: consumption, culture, economic, education, employment,
-environment, finance, human development, health, housing, social security, social services,
-technology, transport, utilities. It then regresses the effect of the composite index and each
-component on the degree of urbanization.</span>
+**Dữ liệu & phương pháp**: panel cân bằng 31 tỉnh Trung Quốc, 2005–2014 (N=310), nguồn National
+Bureau of Statistics of China. Bước 1 — PCA giảm chiều 74 chỉ báo gốc thành 15 thành phần con
+(consumption, culture, economics, education, employment, environment, finance, human development,
+health, housing, security, services, technology, transportation, utilities), rồi gộp thành 1 chỉ
+số tổng hợp bậc 2. Bước 2 — 6 mô hình hồi quy (Model 1-3 pooled OLS, Model 4-6 fixed-effects) với
+biến phụ thuộc là tỷ lệ đô thị hóa.<br><span class="en">**Data & method**: a balanced panel of 31
+Chinese provinces, 2005–2014 (N=310), sourced from the National Bureau of Statistics of China.
+Step 1 — PCA reduces 74 underlying indicators into 15 sub-components (consumption, culture,
+economics, education, employment, environment, finance, human development, health, housing,
+security, services, technology, transportation, utilities), then aggregates them into a
+second-order composite index. Step 2 — 6 regression models (Models 1-3 pooled OLS, Models 4-6
+fixed-effects) with the urbanization rate as the dependent variable.</span>
 
-**Findings chính**:<br><span class="en">**Key findings**:</span>
-- Có **chênh lệch đáng kể giữa các tỉnh/vùng** — phân bổ urban infrastructure ở Trung Quốc **không
-  cân bằng** giữa các khu vực.<br><span class="en">There are **significant gaps across
-  provinces/regions** — the distribution of urban infrastructure in China is **unbalanced**
-  across areas.</span>
-- Trong 15 thành phần, các thành phần **economics, employment, human development, health, housing,
-  security, utilities, technology** có tác động **dương và có ý nghĩa thống kê** lên urbanization.<br><span
-  class="en">Among the 15 components, **economics, employment, human development, health,
-  housing, security, utilities, technology** have a **positive and statistically significant**
-  effect on urbanization.</span>
-- Hàm ý chính sách của tác giả: chính phủ nên hướng đầu tư vào **hệ thống giao thông hiệu quả hơn,
-  bao trùm mọi nhóm tuổi** (ngụ ý transport là thành phần đóng góp yếu/kém hiệu quả hơn so với các
-  thành phần khác trong mẫu).<br><span class="en">The authors' policy implication: government
-  should direct investment toward **a more efficient transport system, inclusive of all age
-  groups** (implying transport is a weaker/less effective contributor than other components in
-  the sample).</span>
-- Bất cân bằng vùng miền được lý giải là hệ quả của phân bổ nguồn lực chính phủ thiếu đồng bộ
-  trong quá trình đô thị hóa nhanh của Trung Quốc.<br><span class="en">Regional imbalance is
-  explained as a consequence of uncoordinated government resource allocation during China's
-  rapid urbanization.</span>
-- ⚠️ Không truy cập được abstract/số liệu hồi quy gốc (ASCE paywall) — findings trên tổng hợp từ
-  nhiều nguồn trích dẫn thứ cấp nhất quán, độ tin cậy trung bình-cao, không phải đọc trực tiếp bản
-  gốc.<br><span class="en">⚠️ The original abstract/regression figures could not be accessed
-  (ASCE paywall) — the findings above are synthesized from multiple consistent secondary
-  citation sources, medium-high confidence, not read directly from the original text.</span>
+**Findings chính (trọng tâm câu hỏi)**:<br><span class="en">**Key findings (the focus of the
+question)**:</span>
+- **Độ khớp mô hình**: pooled OLS R²=0.86/0.34/0.35; fixed-effects R²≈0.99 (kiểm soát province
+  fixed effects cải thiện độ khớp rất mạnh).<br><span class="en">**Model fit**: pooled OLS
+  R²=0.86/0.34/0.35; fixed-effects R²≈0.99 (controlling for province fixed effects strongly
+  improves fit).</span>
+- Trong 15 thành phần, **8 thành phần có tác động DƯƠNG có ý nghĩa** lên urbanization: economics,
+  employment, human development, health, housing, security, utilities, technology; education và
+  environment tương quan âm nhưng KHÔNG có ý nghĩa thống kê.<br><span class="en">Among the 15
+  components, **8 have a significant POSITIVE effect** on urbanization: economics, employment,
+  human development, health, housing, security, utilities, technology; education and environment
+  correlate negatively but are NOT statistically significant.</span>
+- **Chênh lệch tỉnh/vùng**: Guangdong (hạ tầng cao nhất) vs Tibet (thấp nhất); Eastern region (Giang
+  Tô, Chiết Giang, Thượng Hải...) có tỷ trọng đô thị hóa CAO NHẤT và hầu hết chỉ số hạ tầng cao
+  nhất.<br><span class="en">**Provincial/regional gaps**: Guangdong (highest infrastructure) vs.
+  Tibet (lowest); the Eastern region (Jiangsu, Zhejiang, Shanghai...) has the HIGHEST
+  urbanization share and most of the highest infrastructure indices.</span>
+- **Xu hướng theo thời gian — cảnh báo chính sách**: chỉ số consumption/finance/human development
+  TĂNG liên tục 2005-2014, nhưng employment/security/technology lại GIẢM dần — chính đây là 3
+  trong số các thành phần có hệ số hồi quy dương MẠNH NHẤT với đô thị hóa, nên xu hướng giảm này
+  đáng lo ngại.<br><span class="en">**Trends over time — a policy warning**: the
+  consumption/finance/human development indices ROSE continuously 2005-2014, but
+  employment/security/technology DECLINED — and these are exactly 3 of the components with the
+  STRONGEST positive regression coefficients on urbanization, making this decline concerning.</span>
+
+**Khuyến nghị chính sách** (3 kết luận thật của bài, thay cho chi tiết "giao thông bao trùm mọi
+lứa tuổi" trong đáp án cũ — KHÔNG được xác nhận trong bản đầy đủ):<br><span class="en">**Policy
+recommendations** (the paper's actual 3 conclusions, replacing the "inclusive-of-all-ages
+transport" detail in the old answer — NOT confirmed in the full text):</span>
+- Chính phủ trung ương nên cải thiện phân bổ nguồn lực và vị trí ngành công nghiệp trọng điểm giữa
+  tỉnh giàu/nghèo.<br><span class="en">The central government should improve resource allocation
+  and the location of key industries between rich/poor provinces.</span>
+- Mỗi tỉnh cần kế hoạch đô thị hóa RIÊNG theo đặc thù; vùng Tây Bắc/Đông Nam nên tận dụng lợi thế
+  so sánh để thu hẹp khoảng cách.<br><span class="en">Each province needs its OWN tailored
+  urbanization plan; Northwest/Southeast regions should leverage comparative advantages to narrow
+  the gap.</span>
+- Tỉnh đô thị hóa cao (Thượng Hải, Bắc Kinh) nên xây "smart cities" + "green/forest cities" để đối
+  phó ô nhiễm.<br><span class="en">Highly urbanized provinces (Shanghai, Beijing) should build
+  "smart cities" + "green/forest cities" to tackle pollution.</span>
 
 **Implications cho phát triển hạ tầng đô thị Việt Nam**:<br><span class="en">**Implications for
 Vietnamese urban infrastructure development**:</span>
 - Cách tiếp cận đa chiều (15 thành phần thay vì chỉ đo hạ tầng cứng như đường/điện) là khung tham
-  khảo hữu ích cho VN — hạ tầng "mềm" (human development, health, social security) cũng cần đo
-  song song với hạ tầng vật lý khi đánh giá tác động đến đô thị hóa.<br><span class="en">The
-  multidimensional approach (15 components rather than measuring only hard infrastructure like
-  roads/electricity) is a useful reference framework for VN — "soft" infrastructure (human
-  development, health, social security) also needs to be measured alongside physical
-  infrastructure when assessing urbanization impact.</span>
-- Bài học chênh lệch vùng miền TQ liên hệ trực tiếp với [[l15-yin-2025-china-hqed]] (LN1 — cũng đo
-  polarization 3 đỉnh Đông/Tây Trung Quốc bằng entropy method) — cùng cảnh báo tăng trưởng/đô thị
-  hóa nhanh có thể đi kèm phân hóa vùng miền nếu đầu tư hạ tầng không đồng bộ; VN cần tránh lặp lại
-  mất cân bằng Đông-Tây kiểu Trung Quốc khi đô thị hóa các tỉnh ngoài Hà Nội/TP.HCM.<br><span
-  class="en">The China regional-gap lesson directly connects to [[l15-yin-2025-china-hqed]]
-  (LN1 — also measuring East/West three-peak polarization via the entropy method) — both warn
-  that rapid growth/urbanization can come with regional divergence if infrastructure investment
-  is uncoordinated; Vietnam needs to avoid repeating a China-style East-West imbalance when
-  urbanizing provinces beyond Hanoi/HCMC.</span>
-- Khuyến nghị ưu tiên giao thông bao trùm (all age cohorts) có thể áp dụng cho quy hoạch đô thị VN
-  khi dân số già hóa nhanh song song đô thị hóa.<br><span class="en">The recommendation
-  prioritizing inclusive transport (all age cohorts) can apply to Vietnamese urban planning as
-  the population ages rapidly alongside urbanization.</span>
+  khảo hữu ích cho VN — khớp cấu trúc dữ liệu với [[l26-huynh-tran-2025-fdi-informal-economy]]
+  (panel 63 tỉnh VN, cùng logic province fixed effects).<br><span class="en">The multidimensional
+  approach (15 components rather than measuring only hard infrastructure like roads/electricity)
+  is a useful reference framework for VN — matching the data structure of
+  [[l26-huynh-tran-2025-fdi-informal-economy]] (a 63-province VN panel, the same province
+  fixed-effects logic).</span>
+- Bài học chênh lệch vùng miền TQ liên hệ trực tiếp với [[l15-yin-2025-china-hqed]] (LN1) và
+  [[l44-vo-tran-2022-rural-vulnerability-vietnam]] (LN4) — một mô típ lặp lại: hạ tầng/thể chế/thu
+  nhập đều phân hóa theo cùng trục địa lý; VN cần tránh lặp lại mất cân bằng Đông-Tây kiểu Trung
+  Quốc khi đô thị hóa các tỉnh ngoài Hà Nội/TP.HCM.<br><span class="en">The China regional-gap
+  lesson directly connects to [[l15-yin-2025-china-hqed]] (LN1) and
+  [[l44-vo-tran-2022-rural-vulnerability-vietnam]] (LN4) — a recurring motif: infrastructure/
+  institutions/income all diverge along the same geographic axis; Vietnam needs to avoid
+  repeating a China-style East-West imbalance when urbanizing provinces beyond Hanoi/HCMC.</span>
 
 ## Liên kết
 
-- [[overview]] · [[exam-prep]] · [[syllabus-2026]]
-- Paper trùng với reading K32: [[l42-do-2023-land-consolidation-vietnam]] (Q1),
-  [[l31-baron-2021-banking-crises-without-panics]] (Q4)
+- [[overview]] · [[exam-prep]] · [[syllabus-2026]] · [[shortlist-prediction]]
+- Paper trùng 100% với reading K32 (4/6 câu, xác nhận đầy đủ):
+  [[l42-do-2023-land-consolidation-vietnam]] (Q1), [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] (Q2),
+  [[l31-baron-2021-banking-crises-without-panics]] (Q4), [[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (Q6)
+- Khớp tên tác giả/năm trong outline LN9/LN10 chưa gửi (2/6 câu còn lại): Q3 ("Tam et al. 2024"),
+  Q5 ("Robinson & Thierfelder 2024") — xem [[shortlist-prediction]] mục 1.
 - Tác giả: [[almas-heshmati]] (Q6 — chính giáo sư phụ trách môn)
-- LN2 (bối cảnh VN tương tự Q3, Q5): [[l26-huynh-tran-2025-fdi-informal-economy]]
 - LN1 (bối cảnh VN tương tự Q1): [[l14-sasges-2025-vietnam-policies]]; LN4 (kênh thể chế đất
   đai khác của Q1): [[l41-ho-2021-land-tenure-vietnam]]; LN1 (bất cân bằng vùng miền tương tự
-  Q6): [[l15-yin-2025-china-hqed]]
+  Q6): [[l15-yin-2025-china-hqed]]; LN6 (tam giác đo nghèo VN cùng cụm với Q2):
+  [[l63-tran-alkire-klasen-2015-monetary-multidimensional-poverty-vietnam]],
+  [[l65-nguyen-2019-energy-transition-poverty-inequality-vietnam]]
 - **Đề thi mô phỏng cho K32** (dùng đúng format/luật thi trang này nhưng thay bằng reading K32):
-  [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5).
+  [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8).
 
 ## Bản tương tác (Artifact)
 <span class="en">## Interactive Version (Artifact)</span>
 
 Cả 6 câu hỏi K31 kèm đáp án đầy đủ (nguồn, phương pháp, findings, liên hệ Việt Nam) — bổ sung
-2026-07-31 dưới dạng tab riêng **"📝 Đề K31"**/**"K31 Exam"** trong 3 Mindmap Artifact (đều
+2026-07-31 dưới dạng tab riêng **"📝 Đề K31"**/**"K31 Exam"** trong 3 Mindmap Artifact, cập nhật
+2026-08-04 với callout trỏ sang 2 tab mới **"🔮 Dự đoán Shortlist"** (phân tích K31↔K32 + Tier
+S/A/B 20 paper) và **"🧪 Đề K32 (mô phỏng)"** (18 câu mock exam K32) (đều
 private, cần bấm Share trên trang đó nếu muốn gửi cho người khác):<br><span class="en">All 6
 K31 questions with full answers (source, method, findings, Vietnam relevance) — added
-2026-07-31 as a dedicated **"📝 Đề K31"**/**"K31 Exam"** tab in the 3 Mindmap Artifacts (all
+2026-07-31 as a dedicated **"📝 Đề K31"**/**"K31 Exam"** tab in the 3 Mindmap Artifacts, updated
+2026-08-04 with a callout pointing to 2 new tabs, **"🔮 Predicted Shortlist"** (the K31↔K32
+analysis + 20-paper Tier S/A/B) and **"🧪 K32 Mock Exam"** (18 K32 mock-exam questions) (all
 private, click Share on that page if you want to send it to someone else):</span>
 
 - Song ngữ (bản gốc, VI diễn giải + giữ thuật ngữ EN): https://claude.ai/code/artifact/b1704073-2623-44b9-8b64-b0cf8461d866

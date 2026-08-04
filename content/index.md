@@ -127,12 +127,12 @@ it to someone else):</span>
 - Toàn tiếng Anh (để gửi GS Heshmati/bạn quốc tế): https://claude.ai/code/artifact/720594d7-477d-4936-9c9f-f81bf4314f2a
 
 Cả 3 bản: mindmap bấm mở/đóng từng paper, đa cấp chi tiết (Research Question & Methodology →
-Key Findings → Economic Significance → Vietnam Relevance → Cross-Paper Debate), gồm LN0-LN5 +
-tab "Tự test · 36 câu" dạng flashcard. **Khi cập nhật lại (vd sau khi ingest thêm reading), phải
+Key Findings → Economic Significance → Vietnam Relevance → Cross-Paper Debate), gồm LN0-LN8 +
+tab "Tự test · 61 câu" dạng flashcard. **Khi cập nhật lại (vd sau khi ingest thêm reading), phải
 republish đúng 3 URL này (dùng tham số `url` của Artifact tool) — không tạo artifact mới**, vì
 link đã có thể đã gửi cho người khác.<br><span class="en">All 3 versions: an expandable mindmap
 per paper, multi-level detail (Research Question & Methodology → Key Findings → Economic
-Significance → Vietnam Relevance → Cross-Paper Debate), covering LN0-LN5 plus a "Self-test · 36
+Significance → Vietnam Relevance → Cross-Paper Debate), covering LN0-LN8 plus a "Self-test · 61
 questions" flashcard tab. **When updating (e.g., after ingesting a new reading), always
 republish to these exact 3 URLs (using the Artifact tool's `url` parameter) — never create a
 new artifact**, since the link may already have been shared with others.</span>

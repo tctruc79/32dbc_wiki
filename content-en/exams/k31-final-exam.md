@@ -3,7 +3,7 @@ type: exam
 title: "K31 Final Written Exam — Development Issues and Business Cycle"
 tags: [exam, past-exam, k31, land-consolidation, poverty-inequality, construction-digitalization, banking-crisis, trade-policy, urban-infrastructure]
 created: 2026-07-28
-updated: 2026-07-31
+updated: 2026-08-04
 status: complete
 source_file: "raw/4. PAST EXAMS/K31 final written exam/k31-exam-page1-questions.jpeg"
 also_covers:
@@ -21,17 +21,24 @@ sent was identical to the first and was not kept separately — cross-checked 20
 
 ⚠️ **Scope note**: this is the exam of **a different cohort (K31)**, not the current cohort's
 (K32) exam. Originally, the 6 papers asked about here were NOT part of the LN1–LN3 reading list
-ingested for K32 — but after LN4 was ingested (2026-07-29), **2 of the 6 questions now overlap
-100%**: Q1 with [[l42-do-2023-land-consolidation-vietnam]] (LN4) and Q4 with
-[[l31-baron-2021-banking-crises-without-panics]] (LN3); the other 4 (Q2, Q3, Q5, Q6) are still
-outside the current K32 reading list (see [[overview]], [[exam-prep]]). Use this page to:
-(a) get familiar with the **real exam format/rules**, which is highly valuable
-since the structure mirrors K32's; (b) practise the specific skill of "presenting the findings of
-one specific paper" in answer form — a question style very likely to reappear on K32's exam; (c)
-use the content directly if a paper happens to overlap with a future K32 reading. The 6 answers
-below are grounded in independent research (web search) into each paper — it is explicitly noted
-below which findings have been **confirmed via multiple independent sources** versus which
-Claude could not verify with full confidence.
+ingested for K32 — but through later ingest rounds, **4 of the 6 questions now overlap 100%**
+with K32's deep-ingested reading list: Q1 with [[l42-do-2023-land-consolidation-vietnam]] (LN4,
+ingested 2026-07-29), Q2 with [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] (LN6,
+ingested 2026-08-01), Q4 with [[l31-baron-2021-banking-crises-without-panics]] (LN3), Q6 with
+[[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (LN7, ingested 2026-08-01); the
+remaining 2 (Q3, Q5) match author/year names exactly in the LN9/LN10 outline already listed in
+[[overview]] but whose materials haven't been sent yet — meaning **all 6/6 K31 questions likely
+correspond to a paper** in K32's full reading list (finding from 2026-08-04, see the full
+analysis + shortlist prediction at [[shortlist-prediction]]). Use this page to: (a) get familiar
+with the **real exam format/rules**, which is highly valuable since the structure mirrors K32's;
+(b) practise the specific skill of "presenting the findings of one specific paper" in answer form
+— a question style very likely to reappear on K32's exam; (c) use the content directly if a paper
+happens to overlap with a future K32 reading. The Q1/Q2/Q4/Q6 answers below have been updated
+with exact figures from the full text (replacing the original abstract/web-search-based
+estimates); Q3/Q5 still rely on independent research (web search) since those papers aren't yet
+in K32's ingested reading list — it is explicitly noted below which findings have been
+**confirmed via multiple independent sources** versus which Claude could not verify with full
+confidence.
 
 ## 0. Exam rules & grading structure
 
@@ -132,43 +139,50 @@ in L42); see [[institutions]], section "Empirical application in LN4."
 
 ### Question 2 — Poverty reduction, growth & inequality, Vietnam (Nguyen & Pham, APEL 2018)
 
+✅ **Updated 2026-08-01**: this paper has now been fully deep-ingested as reading L64 of
+[[ln6-technology-growth-inequality-poverty]] — see the full page:
+[[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] (no longer limited to the abstract; the
+full Asian-Pacific Economic Literature 32(1): 45–58 text has been read). The answer below has been
+updated with the exact figures, replacing the earlier abstract-based estimates.
+
 **Confirmed source**: Nguyen, Cuong V.; Pham, Nguyet M. (2018), *"Economic growth, inequality, and
 poverty in Vietnam"*, **Asian-Pacific Economic Literature**, 32(1), 45–58 (DOI:
-10.1111/apel.12219) — confirmed via IDEAS/RePEc (verbatim abstract), matching the Wiley DOI.
+10.1111/apel.12219).
 
-**Verbatim abstract (confirmed, not paraphrased)**: the study examines how poverty reduction was
-associated with economic growth and inequality in Vietnam across two periods.
+**Data & methodology**: 4 GSO/World Bank household surveys — VLSS 1993 (n=4,800), VLSS 1998
+(n=6,000), VHLSS 2004 (n=9,188), VHLSS 2008 (n=9,189). Poverty is measured via the FGT
+(Foster-Greer-Thorbecke 1984) index; the change in poverty is decomposed into growth and
+redistribution/inequality components per Datt & Ravallion (1991), extended by Kolenikov &
+Shorrocks (2005); the degree of "pro-poorness" is measured via the Kakwani-Pernia (2000) index:
+φ = 1 + D/G.
 
-**Key findings**:
-- The pace of poverty reduction was **slower** in the 2000s than in the 1990s, but growth in the
-  2000s was **more pro-poor** than in the 1990s.
-- **1993–98 period**: expenditure inequality **increased**; poverty reduction in this period was
-  driven mainly by **economic growth** (not redistribution).
-- **2004–08 period**: expenditure inequality **decreased**, and this decline itself contributed to
-  poverty reduction (a growth-with-equity pattern).
-- **Quantified**: the poverty rate fell by roughly **5 percentage points** in the latter period,
-  of which **expenditure growth contributed 2.8 points** and **redistribution contributed 2.2
-  points**.
-- ⚠️ **Could not be confirmed** (full paper paywalled, ResearchGate returned 403): the exact
-  dataset name (likely VLSS/VHLSS given the timing of the survey rounds, but NOT confirmed with
-  certainty), the exact decomposition method (likely a Datt–Ravallion growth-redistribution
-  decomposition — the standard method for this type of analysis, but not directly confirmed from
-  the paper itself), and the specific policy recommendations the question asks for
-  ("recommendations to promote pro-poor growth") — this would require access to the full text and
-  should NOT be fabricated.
+**Findings — the growth-redistribution decomposition (the focus of the question)**: in 1993–98,
+poverty fell 20.75 percentage points = the growth component (−23.15pp) + the inequality component
+(+2.40pp, RISING inequality PARTLY OFFSET poverty reduction — Gini 0.33→0.35). In 2004–08, poverty
+fell only 5.02 percentage points = growth (−2.79pp) + inequality (−2.22pp, BOTH jointly
+contributing — Gini 0.37→0.356).
 
-**Suggested answer framing for the "recommendations" part** (a reasonable inference from the
-confirmed findings, not a verbatim quote from the paper): since the paper shows that the period of
-declining inequality (2004–08) delivered a compounded poverty-reduction benefit (growth and
-redistribution both working in the same direction), a logical recommendation in line with the
-paper's own findings is to prioritize policies that sustain growth *while* actively reducing
-inequality (redistribution), rather than relying on growth alone as in 1993–98 — but this is
-Claude's inference from the confirmed data, and should be cross-checked against the full paper
-before use as an official exam answer.
+**Why 2004–08 is more "pro-poor" despite slower absolute poverty reduction**: the Kakwani-Pernia
+index φ=0.90 (1993–98, below the pro-poor threshold — only moderately pro-poor) vs. φ=1.80
+(2004–08, "highly pro-poor"). Poverty's elasticity to mean expenditure stays around −1.09 (1993)
+to −1.38 (2008), but its elasticity to inequality RISES SHARPLY from 0.15 (1993) to 1.78 (2008) —
+Vietnamese poverty is increasingly more sensitive to inequality change than to the growth rate.
 
-**Course connections**: compare with [[l26-huynh-tran-2025-fdi-informal-economy]] (LN2) — both
-use Vietnamese panel data to analyze how growth/institutional channels affect a social outcome
-(informal economy vs. poverty), sharing a similar multi-channel decomposition logic.
+**Policy recommendations** (verbatim from the paper, no longer an inference): continue a pro-poor
+growth strategy, prioritizing inequality reduction over purely boosting expenditure growth,
+especially for ethnic minorities/mountainous regions (poverty fell from 86.4%→50.3% for ethnic
+minorities vs. 53.9%→9.0% for the Kinh, 1993–2008). Policy can be direct (social safety nets:
+health insurance, education, cash transfers) or indirect (vocational training, microcredit to
+raise non-farm employment, raising agricultural productivity — rural growth contributed 103% of
+national poverty reduction in the 2000s).
+
+**Course connections**: shares cluster H (Technology, Productivity & Vietnam Poverty Measurement,
+LN6) with [[l63-tran-alkire-klasen-2015-monetary-multidimensional-poverty-vietnam]] and
+[[l65-nguyen-2019-energy-transition-poverty-inequality-vietnam]] — see
+[[growth-inequality-poverty-nexus]]. Also compare with
+[[l26-huynh-tran-2025-fdi-informal-economy]] (LN2) — both use Vietnamese panel data to analyze how
+growth/institutional channels affect a social outcome (informal economy vs. poverty), sharing a
+similar multi-channel decomposition logic.
 
 ### Question 3 — Barriers to construction digitalization (Tam, Toan & Phong, IJIMDI 2024)
 
@@ -292,76 +306,87 @@ Vietnam figures, rather than misattributing such numbers to Robinson & Thierfeld
 
 ### Question 6 — Urban infrastructure & urbanization, China (Heshmati & Rashidghalam, JCP 2020)
 
-⚠️ **Journal correction**: the exam question states "JCP," but research confirmed via multiple
-independent sources (the ASCE library, IDEAS/RePEc) that the actual journal is the **Journal of
-Infrastructure Systems** (ASCE), NOT "JCP" (Journal of Cleaner Production or any other
-J-C-P-initialed title). The co-author is **Masoomeh Rashidghalam** (University of Tabriz) — not
-"Mehdi Rashidghalam" as initially hypothesized. The exam/slide's original citation likely used an
-incorrect journal abbreviation; the question's content (measuring and analyzing urban
-infrastructure and its effect on urbanization in China) matches this paper exactly, so confidence
-that this is the correct paper remains high — only the "JCP" journal code in the exam appears to
-be mistaken.
+✅ **Updated 2026-08-01**: this paper has now been fully deep-ingested as reading L71 of
+[[ln7-investment-infrastructure-health-education]] — see the full page:
+[[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (no longer limited by the ASCE
+paywall — the full abstract and all regression results have been read). The answer below has been
+updated with the exact figures, replacing the earlier secondary-citation estimates — one detail in
+the old answer ("policy priority on transport inclusive of all age groups") is NOT confirmed in
+the full text, so it has been replaced with the paper's actual 3 policy recommendations.
 
-**Confirmed source**: Heshmati, A. and Rashidghalam, M. (2020), *"Measurement and Analysis of
-Urban Infrastructure and Its Effects on Urbanization in China"*, **Journal of Infrastructure
-Systems** (ASCE), 26(1), Article 04019030 (DOI: 10.1061/(ASCE)IS.1943-555X.0000513). This is a
-paper by [[almas-heshmati]] himself — the professor teaching this course — falling under the
-"Infrastructure & urbanization" research direction already noted on his profile page.
+⚠️ **Journal correction (still holds)**: the exam question states "JCP," but the actual journal is
+the **Journal of Infrastructure Systems** (ASCE), 26(1), Article 04019030 (DOI:
+10.1061/(ASCE)IS.1943-555X.0000513); the co-author is **Masoomeh Rashidghalam** (University of
+Tabriz). This is a paper by [[almas-heshmati]] himself — the professor teaching this course.
 
-**Methodology**: Constructs a **multidimensional composite index** of urban infrastructure,
-ranking **31 provinces and 6 regions** of China using panel data for **2005–2014**. The index
-aggregates **15 components**: consumption, culture, economic, education, employment, environment,
-finance, human development, health, housing, social security, social services, technology,
-transport, and utilities. The paper then regresses the effect of the aggregate index and its
-individual components on the level of urbanization.
+**Data & methodology**: a balanced panel of 31 Chinese provinces, 2005–2014 (N=310), sourced from
+the National Bureau of Statistics of China. Step 1 — PCA reduces 74 underlying indicators into 15
+sub-components (consumption, culture, economics, education, employment, environment, finance,
+human development, health, housing, security, services, technology, transportation, utilities),
+then aggregates them into a second-order composite index. Step 2 — 6 regression models (Models 1-3
+pooled OLS, Models 4-6 fixed-effects) with the urbanization rate as the dependent variable.
 
-**Key findings**:
-- There are **significant provincial and regional disparities** — the allocation of urban
-  infrastructure across China's regions is **not balanced**.
-- Of the 15 components, **economics, employment, human development, health, housing, security,
-  utilities, and technology** show **positive and statistically significant effects** on
-  urbanization.
-- Policy implication drawn by the authors: government should direct investment toward **more
-  efficient transportation systems that are inclusive of all age cohorts** (implying that the
-  transport component's contribution was weaker/less efficient relative to the others in the
-  sample).
-- Regional imbalance is framed as a consequence of uneven/haphazard government resource
-  allocation during China's fast-track urbanization.
-- ⚠️ The original abstract/regression tables could not be accessed (ASCE paywall) — the findings
-  above are synthesized from multiple consistent secondary citations, moderate-to-high confidence,
-  not read directly from the primary source.
+**Key findings (the focus of the question)**:
+- **Model fit**: pooled OLS R²=0.86/0.34/0.35; fixed-effects R²≈0.99 (controlling for province
+  fixed effects strongly improves fit).
+- Among the 15 components, **8 have a significant POSITIVE effect** on urbanization: economics,
+  employment, human development, health, housing, security, utilities, technology; education and
+  environment correlate negatively but are NOT statistically significant.
+- **Provincial/regional gaps**: Guangdong (highest infrastructure) vs. Tibet (lowest); the Eastern
+  region (Jiangsu, Zhejiang, Shanghai...) has the HIGHEST urbanization share and most of the
+  highest infrastructure indices.
+- **Trends over time — a policy warning**: the consumption/finance/human development indices ROSE
+  continuously 2005-2014, but employment/security/technology DECLINED — and these are exactly 3 of
+  the components with the STRONGEST positive regression coefficients on urbanization, making this
+  decline concerning.
+
+**Policy recommendations** (the paper's actual 3 conclusions, replacing the
+"inclusive-of-all-ages transport" detail in the old answer — NOT confirmed in the full text):
+- The central government should improve resource allocation and the location of key industries
+  between rich/poor provinces.
+- Each province needs its OWN tailored urbanization plan; Northwest/Southeast regions should
+  leverage comparative advantages to narrow the gap.
+- Highly urbanized provinces (Shanghai, Beijing) should build "smart cities" + "green/forest
+  cities" to tackle pollution.
 
 **Implications for Vietnam's urban infrastructure development**:
 - The multidimensional approach (15 components rather than just hard infrastructure like roads or
-  electricity) is a useful reference framework for Vietnam — "soft" infrastructure (human
-  development, health, social security) should be measured alongside physical infrastructure when
-  assessing its effect on urbanization.
-- The lesson on China's regional disparities connects directly to
-  [[l15-yin-2025-china-hqed]] (LN1 — which also measures a three-peak polarization between
-  Eastern and Western China using the entropy method) — both warn that rapid growth/urbanization
-  can come with regional polarization if infrastructure investment is uneven; Vietnam should avoid
-  replicating China's East–West imbalance as it urbanizes provinces beyond Hanoi/Ho Chi Minh City.
-- The recommendation to prioritize inclusive transportation (covering all age cohorts) is
-  applicable to Vietnamese urban planning as the population ages alongside rapid urbanization.
+  electricity) is a useful reference framework for Vietnam — matching the data structure of
+  [[l26-huynh-tran-2025-fdi-informal-economy]] (a 63-province VN panel, the same province
+  fixed-effects logic).
+- The lesson on China's regional disparities connects directly to [[l15-yin-2025-china-hqed]]
+  (LN1) and [[l44-vo-tran-2022-rural-vulnerability-vietnam]] (LN4) — a recurring motif:
+  infrastructure/institutions/income all diverge along the same geographic axis; Vietnam should
+  avoid replicating China's East–West imbalance as it urbanizes provinces beyond Hanoi/Ho Chi Minh
+  City.
 
 ## Links
 
-- [[overview]] · [[exam-prep]] · [[syllabus-2026]]
-- Papers shared with K32 readings: [[l42-do-2023-land-consolidation-vietnam]] (Q1),
-  [[l31-baron-2021-banking-crises-without-panics]] (Q4)
+- [[overview]] · [[exam-prep]] · [[syllabus-2026]] · [[shortlist-prediction]]
+- Papers overlapping 100% with K32 readings (4/6 questions, fully confirmed):
+  [[l42-do-2023-land-consolidation-vietnam]] (Q1),
+  [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] (Q2),
+  [[l31-baron-2021-banking-crises-without-panics]] (Q4),
+  [[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (Q6)
+- Matching author/year names in the not-yet-sent LN9/LN10 outline (the remaining 2/6): Q3 ("Tam et
+  al. 2024"), Q5 ("Robinson & Thierfelder 2024") — see [[shortlist-prediction]] section 1.
 - Author: [[almas-heshmati]] (Q6 — the professor teaching this course)
-- LN2 (a similar Vietnam context to Q3, Q5): [[l26-huynh-tran-2025-fdi-informal-economy]]
 - LN1 (a similar Vietnam context to Q1): [[l14-sasges-2025-vietnam-policies]]; LN4 (a different
   land-institutions channel for Q1): [[l41-ho-2021-land-tenure-vietnam]]; LN1 (regional
-  imbalance similar to Q6): [[l15-yin-2025-china-hqed]]
+  imbalance similar to Q6): [[l15-yin-2025-china-hqed]]; LN6 (the Vietnam poverty-measurement
+  triangle sharing a cluster with Q2):
+  [[l63-tran-alkire-klasen-2015-monetary-multidimensional-poverty-vietnam]],
+  [[l65-nguyen-2019-energy-transition-poverty-inequality-vietnam]]
 - **Mock exams for K32** (same format/rules as this page, using K32 readings instead):
-  [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5).
+  [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8).
 
 ## Interactive Version (Artifact)
 
 All 6 K31 questions with full answers (source, methodology, key findings, Vietnam relevance) —
-added 2026-07-31 as a dedicated **"📝 K31 Exam"** tab in the 3 Mindmap Artifacts (all private;
-click Share on that page if you want to send it to someone else):
+added 2026-07-31 as a dedicated **"K31 Exam"** tab in the 3 Mindmap Artifacts, updated 2026-08-04
+with a callout pointing to 2 new tabs, **"🔮 Predicted Shortlist"** (the K31↔K32 analysis +
+20-paper Tier S/A/B) and **"🧪 K32 Mock Exam"** (18 K32 mock-exam questions) (all private; click
+Share on that page if you want to send it to someone else):
 
 - Bilingual (original, Vietnamese explanation + English terminology kept): https://claude.ai/code/artifact/b1704073-2623-44b9-8b64-b0cf8461d866
 - Fully Vietnamese: https://claude.ai/code/artifact/c65cd0f4-2ac9-413e-890f-f82651314290

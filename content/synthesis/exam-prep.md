@@ -68,7 +68,7 @@ class="en">If time is short: prioritize steps 3 + 4, skip re-reading each paper 
 
 | Việc | Trạng thái |
 |---|---|
-| Shortlist 20 bài cho written exam | ⏳ Giáo sư gửi **30/8** (cập nhật — trước đó syllabus ghi 23/8) — **CHƯA có**, đây mới là phạm vi thi thật sự |
+| Shortlist 20 bài cho written exam | ⏳ Giáo sư gửi **30/8** (cập nhật — trước đó syllabus ghi 23/8) — **CHƯA có**, đây mới là phạm vi thi thật sự. Dự đoán sớm (chưa chính thức): [[shortlist-prediction]] |
 | Ngày Written Exam | ✅ **06/9** — đã xác nhận qua slide "Planning Schedule" cập nhật trong lớp (giải quyết mâu thuẫn syllabus 30/8 vs LN0 06/9 trước đây) — xem [[ln0-course-intro]] |
 | Phạm vi wiki hiện tại | LN1 (5) + LN2 (6) + LN3 (6) + LN4 (6) + LN5 (6) + LN6 (5) + LN7 (7) + LN8 (8) = 49 papers. Lecture 9–10 **chưa có** tài liệu trong `raw/` |
 
