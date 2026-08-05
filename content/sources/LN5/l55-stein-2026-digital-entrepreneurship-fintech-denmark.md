@@ -20,30 +20,27 @@ issue of *Technovation*.</span>
 
 ## Abstract
 
-> Bài viết này khám phá vai trò của institutional entrepreneurship trong việc phát
-> triển các Digital Entrepreneurial Ecosystem (DEE). Do phần lớn literature về DEE
-> tập trung vào phân tích ở cấp độ tổ chức (organisational-level analysis), cần có
-> thêm nghiên cứu bao gồm phân tích ở cấp độ hệ thống (system-level analysis), cụ thể
-> là nghiên cứu khám phá cách các ecosystem actor hỗ trợ Digital Entrepreneurship (DE)
-> bằng cách tạo điều kiện cho sự thích ứng (adaptation) của môi trường thể chế
-> (institutional environment). Chúng tôi phân tích một case study định tính, dọc theo
-> thời gian (single longitudinal case study) về hệ sinh thái FinTech Đan Mạch, một DEE
-> hình thành trong bối cảnh một ngành truyền thống, được quản lý chặt chẽ (highly
-> regulated) và một bối cảnh FinTech toàn cầu đầy biến động. Chúng tôi sử dụng case
-> này để khám phá hai câu hỏi: "những institutional force nào ảnh hưởng đến sự phát
-> triển của DEE?", và "các institutional entrepreneur tạo điều kiện cho institutional
-> change để phát triển DEE như thế nào?" Chúng tôi phát hiện rằng sự phát triển của
-> DEE FinTech Đan Mạch được tạo điều kiện và định hình bởi những thay đổi thể chế
-> (changes to institutions) hỗ trợ: (i) các động lực và cơ chế hợp tác mới (new
-> collaboration dynamics and mechanisms), đặc biệt giữa các doanh nghiệp đương nhiệm
-> (incumbent firms) và các start-up; (ii) các điều chỉnh đối với khung pháp lý
-> (regulatory framework); và (iii) sự phát triển của các kết nối toàn cầu (global
-> connections). Institutional change đòi hỏi những nỗ lực tập thể (collective
-> efforts), phụ thuộc vào các institutional entrepreneur khác nhau ở những thời điểm
-> khác nhau. Vai trò lãnh đạo trung lập (neutral leadership) của các institutional
-> entrepreneur trở nên then chốt đối với institutional change. Hơn nữa, cả agency ở
-> cấp độ hệ thống (system-level) lẫn cấp độ tổ chức (organisation-level) đều ảnh
-> hưởng đến institutional change trong quá trình phát triển của DEE.
+> Bài viết này khám phá vai trò của hoạt động khởi nghiệp thể chế trong việc phát
+> triển các hệ sinh thái khởi nghiệp số (Digital Entrepreneurial Ecosystem, viết tắt
+> DEE). Do phần lớn tài liệu nghiên cứu về DEE tập trung vào phân tích ở cấp độ tổ
+> chức, cần có thêm nghiên cứu bao gồm phân tích ở cấp độ hệ thống, cụ thể là nghiên
+> cứu khám phá cách các chủ thể trong hệ sinh thái hỗ trợ hoạt động khởi nghiệp số
+> bằng cách tạo điều kiện cho sự thích ứng của môi trường thể chế. Chúng tôi phân tích
+> một nghiên cứu tình huống định tính, dọc theo thời gian, về hệ sinh thái công nghệ
+> tài chính của Đan Mạch, một DEE hình thành trong bối cảnh một ngành truyền thống,
+> được quản lý chặt chẽ và một bối cảnh công nghệ tài chính toàn cầu đầy biến động.
+> Chúng tôi sử dụng nghiên cứu tình huống này để khám phá hai câu hỏi: "những lực
+> lượng thể chế nào ảnh hưởng đến sự phát triển của DEE?", và "các doanh nhân thể chế
+> tạo điều kiện cho sự thay đổi thể chế để phát triển DEE như thế nào?" Chúng tôi
+> phát hiện rằng sự phát triển của DEE ngành công nghệ tài chính Đan Mạch được tạo
+> điều kiện và định hình bởi những thay đổi thể chế hỗ trợ: (i) các động lực và cơ
+> chế hợp tác mới, đặc biệt giữa các doanh nghiệp đương nhiệm và các doanh nghiệp
+> khởi nghiệp; (ii) các điều chỉnh đối với khung pháp lý; và (iii) sự phát triển của
+> các kết nối toàn cầu. Sự thay đổi thể chế đòi hỏi những nỗ lực tập thể, phụ thuộc
+> vào các doanh nhân thể chế khác nhau ở những thời điểm khác nhau. Vai trò lãnh đạo
+> trung lập của các doanh nhân thể chế trở nên then chốt đối với sự thay đổi thể chế.
+> Hơn nữa, cả năng lực hành động ở cấp độ hệ thống lẫn cấp độ tổ chức đều ảnh hưởng
+> đến sự thay đổi thể chế trong quá trình phát triển của DEE.
 
 > This paper explores the role of institutional entrepreneurship in developing Digital
 > Entrepreneurial Ecosystems (DEE). With much of the literature on DEE focused on

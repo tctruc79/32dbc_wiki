@@ -23,21 +23,20 @@ Urban infrastructure; Chinese provinces.</span>
 
 ## Abstract
 
-> Bài nghiên cứu đô thị hóa (urbanization) ở Trung Quốc bằng các composite index về urban
-> infrastructure. Bài có hai mục tiêu. Thứ nhất, tính toán một chỉ số tổng hợp đa chiều
-> (multidimensional composite index) về urban infrastructure để xếp hạng 31 tỉnh và sáu vùng
-> của Trung Quốc theo mức độ đô thị hóa và phát triển hạ tầng trong giai đoạn 2005–2014. Chỉ số
-> hạ tầng được cấu thành từ 15 thành phần: consumption, culture, economic, education,
-> employment, environment, finance, human development, health, housing, social security, social
-> services, technology, transport, và utilities. Thứ hai, bài ước lượng tác động của chỉ số
-> urban infrastructure tổng hợp cùng các thành phần cấu thành của nó lên mức độ đô thị hóa. Kết
+> Bài nghiên cứu đô thị hóa ở Trung Quốc bằng các chỉ số tổng hợp về hạ tầng đô thị. Bài có hai
+> mục tiêu. Thứ nhất, tính toán một chỉ số tổng hợp đa chiều về hạ tầng đô thị để xếp hạng 31
+> tỉnh và sáu vùng của Trung Quốc theo mức độ đô thị hóa và phát triển hạ tầng trong giai đoạn
+> 2005–2014. Chỉ số hạ tầng được cấu thành từ 15 thành phần: tiêu dùng, văn hóa, kinh tế, giáo
+> dục, việc làm, môi trường, tài chính, phát triển con người, y tế, nhà ở, an sinh xã hội, dịch
+> vụ xã hội, công nghệ, giao thông, và tiện ích công cộng. Thứ hai, bài ước lượng tác động của
+> chỉ số hạ tầng đô thị tổng hợp cùng các thành phần cấu thành của nó lên mức độ đô thị hóa. Kết
 > quả thực nghiệm của chúng tôi cho thấy chênh lệch giữa các tỉnh và các vùng là đáng kể, và
-> việc phân bổ cho urban infrastructure không cân bằng giữa các tỉnh và các vùng khác nhau.
-> Guangdong và Tibet có giá trị urban infrastructure cao nhất và thấp nhất tương ứng, trong khi
-> vùng Eastern và Southeast có tỷ lệ dân số đô thị hóa cao nhất và thấp nhất tương ứng. [...]
-> Kết quả ước lượng của chúng tôi cho thấy các thành phần economics, employment, human
-> development, health, housing, security, utilities, và technology của urban infrastructure có
-> tác động dương và có ý nghĩa lên đô thị hóa của Trung Quốc.
+> việc phân bổ cho hạ tầng đô thị không cân bằng giữa các tỉnh và các vùng khác nhau. Guangdong
+> và Tibet có giá trị hạ tầng đô thị cao nhất và thấp nhất tương ứng, trong khi vùng Đông và
+> Đông Nam có tỷ lệ dân số đô thị hóa cao nhất và thấp nhất tương ứng. [...] Kết quả ước lượng
+> của chúng tôi cho thấy các thành phần kinh tế, việc làm, phát triển con người, y tế, nhà ở, an
+> sinh, tiện ích công cộng, và công nghệ của hạ tầng đô thị có tác động dương và có ý nghĩa lên
+> đô thị hóa của Trung Quốc.
 
 > This paper studies urbanization in China using composite indices of urban infrastructure. It
 > has two objectives. First, it computes a multidimensional composite index of urban

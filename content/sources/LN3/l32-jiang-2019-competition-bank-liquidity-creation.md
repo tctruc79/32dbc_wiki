@@ -17,16 +17,14 @@ Business), Chen Lin (University of Hong Kong).</span>
 
 ## Abstract
 
-> Chúng tôi sử dụng một chiến lược nhận dạng (identification strategy) mới để đánh giá liệu sự
-> gia tăng cạnh tranh giữa các ngân hàng làm tăng hay giảm việc cung cấp một dịch vụ ngân hàng
-> then chốt: liquidity creation (tạo thanh khoản). Mặc dù lý thuyết đưa ra các dự đoán trái
-> ngược nhau về tác động của cạnh tranh lên liquidity creation, chúng tôi phát hiện rằng cạnh
-> tranh do bãi bỏ quy định (regulatory-induced competition) gây ra làm giảm liquidity creation.
-> Phù hợp với một nhóm mô hình lý thuyết nhấn mạnh rằng các ngân hàng bị đẩy gần tới bờ vực mất
-> khả năng thanh toán (insolvency) sẽ giảm các hoạt động chấp nhận rủi ro, chúng tôi phát hiện
-> rằng cạnh tranh do bãi bỏ quy định làm giảm liquidity creation mạnh hơn ở những ngân hàng có
-> khả năng hấp thụ rủi ro (risk-absorbing capacity) thấp hơn (ví dụ: ngân hàng có lợi nhuận
-> thấp hơn).
+> Chúng tôi sử dụng một chiến lược nhận dạng mới để đánh giá liệu sự gia tăng cạnh tranh giữa
+> các ngân hàng làm tăng hay giảm việc cung cấp một dịch vụ ngân hàng then chốt: tạo thanh
+> khoản. Mặc dù lý thuyết đưa ra các dự đoán trái ngược nhau về tác động của cạnh tranh lên việc
+> tạo thanh khoản, chúng tôi phát hiện rằng cạnh tranh do bãi bỏ quy định gây ra làm giảm việc
+> tạo thanh khoản. Phù hợp với một nhóm mô hình lý thuyết nhấn mạnh rằng các ngân hàng bị đẩy
+> gần tới bờ vực mất khả năng thanh toán sẽ giảm các hoạt động chấp nhận rủi ro, chúng tôi phát
+> hiện rằng cạnh tranh do bãi bỏ quy định làm giảm việc tạo thanh khoản mạnh hơn ở những ngân
+> hàng có khả năng hấp thụ rủi ro thấp hơn (ví dụ: ngân hàng có lợi nhuận thấp hơn).
 
 > We use a new identification strategy to assess whether an intensification of competition
 > among banks increases or decreases the provision of a key banking service: liquidity

@@ -24,7 +24,7 @@ Academy of Sciences, Shenyang). DOI: 10.1016/j.jclepro.2012.11.020. Received 9/7
 
 ## Abstract
 
-> Circular economy (CE) là một chiến lược phát triển bền vững do chính phủ trung ương
+> Kinh tế tuần hoàn (CE) là một chiến lược phát triển bền vững do chính phủ trung ương
 > Trung Quốc đề xuất, nhằm cải thiện hiệu quả sử dụng vật liệu và năng lượng. Chiến lược
 > này, được chính thức chấp nhận năm 2002, đã được triển khai và phát triển ở một số khu
 > vực thí điểm tại Trung Quốc. [...] chúng tôi cung cấp một bài tổng quan tài liệu toàn

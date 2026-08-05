@@ -40,18 +40,18 @@ Transport Forum. Open access CC BY-NC-ND.</span>
 
 ## Abstract
 
-> Quan điểm cho rằng các dự án transport infrastructure có tác động đáng kể lên phát triển kinh
-> tế thường được dùng để biện minh cho việc phân bổ nguồn lực. Trước những khó khăn ngày càng
-> tăng trong việc tài trợ cho transport infrastructure, nhiều quốc gia đang tìm cách phân bổ
-> nguồn lực của mình sao cho tối đa hóa lợi tức ròng (net returns). Để tạo thuận lợi cho việc
-> phân bổ đó, cần hiểu đầy đủ mọi hệ quả quy mô lớn của các khoản đầu tư hạ tầng. Transport
-> infrastructure có thể được định nghĩa là một yếu tố đảm bảo tăng trưởng và phát triển kinh tế,
-> nhờ chức năng "vượt không gian" trong việc di chuyển con người và trao đổi hàng hóa. Mức độ
-> tác động của transport infrastructure lên nền kinh tế phần lớn phụ thuộc vào cách xã hội sử
-> dụng các dịch vụ mà các công trình hạ tầng cung cấp. [...] Người ta thường tin rằng việc quy
-> hoạch và triển khai không đúng cách một dự án hạ tầng có thể gây tác động tiêu cực lên kinh tế
-> và môi trường của khu vực. Trong một số trường hợp, các khoản đầu tư hạ tầng có thể tạo ra rủi
-> ro cho các cộng đồng chịu ảnh hưởng trực tiếp từ dự án đó.
+> Quan điểm cho rằng các dự án hạ tầng giao thông có tác động đáng kể lên phát triển kinh tế
+> thường được dùng để biện minh cho việc phân bổ nguồn lực. Trước những khó khăn ngày càng tăng
+> trong việc tài trợ cho hạ tầng giao thông, nhiều quốc gia đang tìm cách phân bổ nguồn lực của
+> mình sao cho tối đa hóa lợi tức ròng. Để tạo thuận lợi cho việc phân bổ đó, cần hiểu đầy đủ mọi
+> hệ quả quy mô lớn của các khoản đầu tư hạ tầng. Hạ tầng giao thông có thể được định nghĩa là
+> một yếu tố đảm bảo tăng trưởng và phát triển kinh tế, nhờ chức năng "vượt không gian" trong
+> việc di chuyển con người và trao đổi hàng hóa. Mức độ tác động của hạ tầng giao thông lên nền
+> kinh tế phần lớn phụ thuộc vào cách xã hội sử dụng các dịch vụ mà các công trình hạ tầng cung
+> cấp. [...] Người ta thường tin rằng việc quy hoạch và triển khai không đúng cách một dự án hạ
+> tầng có thể gây tác động tiêu cực lên kinh tế và môi trường của khu vực. Trong một số trường
+> hợp, các khoản đầu tư hạ tầng có thể tạo ra rủi ro cho các cộng đồng chịu ảnh hưởng trực tiếp
+> từ dự án đó.
 
 > The view that transport infrastructure projects have a significant impact on the development
 > of the economy is often used to justify the allocation of resources. Faced with increasing

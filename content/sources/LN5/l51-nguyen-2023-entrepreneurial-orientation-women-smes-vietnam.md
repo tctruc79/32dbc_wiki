@@ -16,19 +16,20 @@ B55, D85, M10.</span>
 
 ## Abstract
 
-> Nghiên cứu này mong muốn xem xét tác động của năm khía cạnh Entrepreneurial
-> Orientation (EO) — innovation, competitive aggressiveness, proactiveness, risk-taking,
-> autonomy — lên hoạt động của các SME do phụ nữ làm chủ; tác giả thực hiện một case
-> study tại Việt Nam. Mỗi khía cạnh của EO sẽ ảnh hưởng thế nào đến performance của các
-> SME do phụ nữ làm chủ? Nghiên cứu này nhằm tìm câu trả lời cho những câu hỏi đó. Một
-> thiết kế nghiên cứu khảo sát (survey) và một khung lý thuyết đã được xây dựng cho tất
-> cả các yếu tố trong bối cảnh hiện tại. Kỹ thuật lấy mẫu ngẫu nhiên đơn giản (simple
-> random sampling) đã được áp dụng trên 300 SME tại một số tỉnh của Việt Nam thông qua
-> bảng hỏi khảo sát, và tổng cộng 258 phản hồi hợp lệ được đánh giá là phù hợp. Kiểm
-> định Cronbach's α và phân tích nhân tố (factor analysis) đã được thực hiện để kiểm
-> tra độ tin cậy của dữ liệu và xác nhận giả thuyết. Kết quả nghiên cứu cho thấy
-> innovation, competitive aggressiveness, proactiveness và autonomy tác động dương đến
-> business performance, trong khi risk-taking tác động âm đến business performance.
+> Nghiên cứu này mong muốn xem xét tác động của năm khía cạnh thuộc định hướng khởi
+> nghiệp (Entrepreneurial Orientation, viết tắt EO) — gồm tính đổi mới, tính cạnh tranh
+> quyết liệt, tính chủ động, mức độ chấp nhận rủi ro và tính tự chủ — lên hoạt động của
+> các doanh nghiệp nhỏ và vừa (DNNVV) do phụ nữ làm chủ; tác giả thực hiện một nghiên
+> cứu tình huống tại Việt Nam. Mỗi khía cạnh của EO ảnh hưởng thế nào đến hiệu quả hoạt
+> động của các DNNVV do phụ nữ làm chủ? Nghiên cứu này nhằm tìm câu trả lời cho những
+> câu hỏi đó. Một thiết kế nghiên cứu khảo sát và một khung lý thuyết đã được xây dựng
+> cho tất cả các yếu tố trong bối cảnh hiện tại. Kỹ thuật lấy mẫu ngẫu nhiên đơn giản đã
+> được áp dụng trên 300 DNNVV tại một số tỉnh của Việt Nam thông qua bảng hỏi khảo sát,
+> và tổng cộng 258 phản hồi hợp lệ được đánh giá là phù hợp. Kiểm định Cronbach's α và
+> phân tích nhân tố đã được thực hiện để kiểm tra độ tin cậy của dữ liệu và xác nhận giả
+> thuyết. Kết quả nghiên cứu cho thấy tính đổi mới, tính cạnh tranh quyết liệt, tính chủ
+> động và tính tự chủ tác động dương đến hiệu quả kinh doanh, trong khi mức độ chấp nhận
+> rủi ro tác động âm đến hiệu quả kinh doanh.
 
 > This study desires to examine the impact of five dimensions of entrepreneurial (EO)
 > orientation (innovation, competitive aggressiveness, proactiveness, risk-taking, autonomy) on

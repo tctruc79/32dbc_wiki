@@ -24,17 +24,16 @@ Minford (Cardiff University).</span>
 
 ## Abstract
 
-> Những diễn biến chính sách tiền tệ trong các thập kỷ gần đây khởi đầu đầy hứa hẹn với
-> inflation targeting (mục tiêu lạm phát) bởi các ngân hàng trung ương độc lập; cuộc khủng
-> hoảng tài chính năm 2007 đã mở ra một giai đoạn bất ổn tiền tệ nghiêm trọng. Có những bài học
-> cho việc quay trở lại sự ổn định hơn. Các ngân hàng trung ương cần ổn định tăng trưởng cung
-> tiền (money supply growth). Chính sách tài khóa nên được "co-opt" (huy động/lồng ghép) vào
-> vai trò ổn định nhằm giảm bất ổn lãi suất, đặc biệt là các rủi ro trong tương lai về việc
-> chạm ngưỡng lãi suất bằng không (zero-interest rate bound). Kỷ luật ngân sách nên được thực
-> thi bằng các quy tắc khả năng thanh toán dài hạn (long run solvency rules), chứ không phải
-> bằng các quy tắc tài khóa ngắn hạn — vốn trong thực tế lại cản trở việc sử dụng chính sách
-> tài khóa. Ngân sách cũng không nên bị gánh nặng bởi các phương pháp chính sách tiền tệ
-> chuyển giao seigniorage cho các ngân hàng thương mại.
+> Những diễn biến chính sách tiền tệ trong các thập kỷ gần đây khởi đầu đầy hứa hẹn với chính
+> sách mục tiêu lạm phát bởi các ngân hàng trung ương độc lập; cuộc khủng hoảng tài chính năm
+> 2007 đã mở ra một giai đoạn bất ổn tiền tệ nghiêm trọng. Có những bài học cho việc quay trở
+> lại sự ổn định hơn. Các ngân hàng trung ương cần ổn định tăng trưởng cung tiền. Chính sách
+> tài khóa nên được huy động/lồng ghép vào vai trò ổn định nhằm giảm bất ổn lãi suất, đặc biệt
+> là các rủi ro trong tương lai về việc chạm ngưỡng lãi suất bằng không. Kỷ luật ngân sách nên
+> được thực thi bằng các quy tắc khả năng thanh toán dài hạn, chứ không phải bằng các quy tắc
+> tài khóa ngắn hạn — vốn trong thực tế lại cản trở việc sử dụng chính sách tài khóa. Ngân sách
+> cũng không nên bị gánh nặng bởi các phương pháp chính sách tiền tệ chuyển giao lợi tức phát
+> hành tiền cho các ngân hàng thương mại.
 
 > Monetary developments of recent decades began with much promise with inflation targeting by
 > independent central banks; the financial crisis of 2007 ushered in a period of great monetary

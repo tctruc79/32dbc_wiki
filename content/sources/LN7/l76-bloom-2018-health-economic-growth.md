@@ -23,13 +23,13 @@ health–growth relationship.</span>
 
 ## Abstract
 
-> Tương quan dương xuyên quốc gia giữa health và economic growth đã được xác lập vững chắc,
-> nhưng các cơ chế nền tảng lại phức tạp và khó nhận diện. Ba vấn đề trọng tâm được đặt ra. Thứ
-> nhất, việc đánh giá và tách bạch quan hệ nhân quả (causality) giữa health và economic growth
-> là một thách thức về mặt thực nghiệm. Thứ hai, quan hệ giữa health và economic growth thay đổi
-> theo tiến trình phát triển kinh tế. Thứ ba, các chiều khác nhau của health (mortality so với
-> morbidity, sức khỏe trẻ em và phụ nữ, và sức khỏe ở người cao tuổi) có thể có những tác động
-> kinh tế khác nhau.
+> Tương quan dương xuyên quốc gia giữa sức khỏe và tăng trưởng kinh tế đã được xác lập vững
+> chắc, nhưng các cơ chế nền tảng lại phức tạp và khó nhận diện. Ba vấn đề trọng tâm được đặt
+> ra. Thứ nhất, việc đánh giá và tách bạch quan hệ nhân quả giữa sức khỏe và tăng trưởng kinh tế
+> là một thách thức về mặt thực nghiệm. Thứ hai, quan hệ giữa sức khỏe và tăng trưởng kinh tế
+> thay đổi theo tiến trình phát triển kinh tế. Thứ ba, các chiều khác nhau của sức khỏe (tử vong
+> so với bệnh tật, sức khỏe trẻ em và phụ nữ, và sức khỏe ở người cao tuổi) có thể có những tác
+> động kinh tế khác nhau.
 
 > The positive cross-country correlation between health and economic growth is well-established,
 > but the underlying mechanisms are complex and difficult to discern. Three issues are of

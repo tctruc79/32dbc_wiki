@@ -27,21 +27,20 @@ Ruben Bour (Utrecht University & Deloitte), Erica Kostense-Smit (Deloitte), Jenn
 
 ## Abstract
 
-> Khái niệm circular economy được bàn luận nhiều trong Liên minh châu Âu (European Union,
-> EU), nhưng cho đến nay tiến độ triển khai thực tế vẫn còn hạn chế. Đa số các nghiên cứu
+> Khái niệm kinh tế tuần hoàn (CE) được bàn luận nhiều trong Liên minh châu Âu (EU),
+> nhưng cho đến nay tiến độ triển khai thực tế vẫn còn hạn chế. Đa số các nghiên cứu
 > học thuật đổ lỗi điều này cho nhiều rào cản công nghệ khác nhau. Nghiên cứu của chúng
-> tôi phản bác các nghiên cứu đó. Chúng tôi trình bày nghiên cứu large-N đầu tiên về các
-> rào cản circular economy ở EU (208 người trả lời khảo sát, 47 phỏng vấn chuyên gia).
-> Chúng tôi phát hiện rằng các rào cản văn hóa (cultural barriers) — đặc biệt là sự thiếu
-> quan tâm và nhận thức của người tiêu dùng cũng như văn hóa doanh nghiệp do dự — được cả
-> doanh nghiệp lẫn nhà hoạch định chính sách coi là rào cản circular economy chính. Những
-> rào cản này bị chi phối bởi các rào cản thị trường (market barriers), mà đến lượt chúng
-> lại được tạo ra bởi sự thiếu các can thiệp đồng bộ của chính phủ nhằm thúc đẩy quá trình
-> chuyển đổi sang circular economy. Trong khi đó, theo nghiên cứu của chúng tôi, không có
-> một rào cản công nghệ nào được xếp vào nhóm rào cản circular economy cấp bách nhất.
-> Nhìn chung, nghiên cứu của chúng tôi cho thấy circular economy hiện vẫn là một chủ đề
-> thảo luận mang tính ngách (niche) trong giới chuyên gia phát triển bền vững ở giai đoạn
-> này.
+> tôi phản bác các nghiên cứu đó. Chúng tôi trình bày nghiên cứu định lượng quy mô mẫu
+> lớn đầu tiên về các rào cản CE ở EU (208 người trả lời khảo sát, 47 phỏng vấn chuyên
+> gia). Chúng tôi phát hiện rằng các rào cản văn hóa — đặc biệt là sự thiếu quan tâm và
+> nhận thức của người tiêu dùng cũng như văn hóa doanh nghiệp do dự — được cả doanh
+> nghiệp lẫn nhà hoạch định chính sách coi là rào cản CE chính. Những rào cản này bị chi
+> phối bởi các rào cản thị trường, mà đến lượt chúng lại được tạo ra bởi sự thiếu các
+> can thiệp đồng bộ của chính phủ nhằm thúc đẩy quá trình chuyển đổi sang CE. Trong khi
+> đó, theo nghiên cứu của chúng tôi, không có một rào cản công nghệ nào được xếp vào
+> nhóm rào cản CE cấp bách nhất. Nhìn chung, nghiên cứu của chúng tôi cho thấy CE hiện
+> vẫn là một chủ đề thảo luận mang tính ngách trong giới chuyên gia phát triển bền vững
+> ở giai đoạn này.
 
 > The circular economy concept is much discussed in the European Union (EU), but only limited
 > progress has been accomplished so far regarding its implementation. Most scholarly studies blame

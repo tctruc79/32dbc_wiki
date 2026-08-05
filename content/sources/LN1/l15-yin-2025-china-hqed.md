@@ -23,15 +23,16 @@ kernel density estimation.</span>
 
 ## Abstract
 
-> Economic development của Trung Quốc đã chuyển dịch từ high speed sang high quality. Nghiên
-> cứu này xây dựng một chỉ số đánh giá cho high-quality development của Trung Quốc, sử dụng
-> một new development concept. Entropy method và cluster analysis được dùng để đánh giá mức độ
-> high-quality development ở Trung Quốc trong giai đoạn 2011–2021. Phương pháp kernel density
-> estimation được áp dụng để khám phá spatiotemporal dynamics. Kết quả cho thấy có sự khác
-> biệt đáng kể về mức độ economic development giữa các tỉnh của Trung Quốc, với miền Đông vượt
-> trội đáng kể so với miền Trung, Đông Bắc, và miền Tây. Từ góc độ đánh giá theo từng hạng mục
-> con (sub-item), các thách thức về phát triển kinh tế không đồng đều, thiếu phối hợp, và chưa
-> đầy đủ (uneven, uncoordinated, and insufficient) vẫn tồn tại ở nhiều tỉnh của Trung Quốc.
+> Phát triển kinh tế của Trung Quốc đã chuyển dịch từ tăng trưởng tốc độ cao sang phát triển
+> chất lượng cao. Nghiên cứu này xây dựng một chỉ số đánh giá cho phát triển chất lượng cao
+> của Trung Quốc, sử dụng một khái niệm phát triển mới. Phương pháp entropy và phân tích cụm
+> được dùng để đánh giá mức độ phát triển chất lượng cao ở Trung Quốc trong giai đoạn
+> 2011–2021. Phương pháp ước lượng mật độ hạt nhân được áp dụng để khám phá động lực biến đổi
+> theo không gian-thời gian. Kết quả cho thấy có sự khác biệt đáng kể về mức độ phát triển
+> kinh tế giữa các tỉnh của Trung Quốc, với miền Đông vượt trội đáng kể so với miền Trung,
+> Đông Bắc, và miền Tây. Từ góc độ đánh giá theo từng hạng mục con, các thách thức về phát
+> triển kinh tế không đồng đều, thiếu phối hợp, và chưa đầy đủ vẫn tồn tại ở nhiều tỉnh của
+> Trung Quốc.
 
 > China's economic development has shifted from high speed to high quality. This study
 > constructs an evaluation index for China's high-quality development utilizing a new

@@ -20,18 +20,16 @@ I32, D31.</span>
 
 ## Abstract
 
-> Trong những năm gần đây, literature về đo lường multidimensional poverty đã mở rộng nhanh
-> chóng. Bài viết này tập trung vào khía cạnh dọc theo thời gian (longitudinal) của
-> multidimensional poverty và mối liên hệ của nó với việc đo lường nghèo thu nhập theo hướng
-> động (dynamic income poverty). Sử dụng dữ liệu khảo sát hộ gia đình dạng panel tại Việt Nam
-> các năm 2007, 2008 và 2010, bài viết phân tích mức độ phổ biến (prevalence) và động thái
-> (dynamics) của cả nghèo đa chiều lẫn nghèo tiền tệ (monetary poverty) từ cùng một bộ dữ liệu.
-> Kết quả cho thấy người nghèo tiền tệ (hoặc không nghèo) không phải lúc nào cũng nghèo đa chiều
-> (hoặc không nghèo đa chiều) — trên thực tế, mức độ trùng khớp (overlap) giữa hai thước đo thấp
-> hơn nhiều so với 50%. Thêm vào đó, nghèo tiền tệ cho thấy tiến bộ nhanh hơn cũng như mức độ
-> biến động (fluctuation) cao hơn so với nghèo đa chiều. Chúng tôi cho rằng tăng trưởng kinh tế
-> nhanh mà Việt Nam trải qua đã có tác động lớn hơn và tức thời hơn lên nghèo tiền tệ so với
-> nghèo đa chiều.
+> Trong những năm gần đây, các nghiên cứu về đo lường nghèo đa chiều đã mở rộng nhanh chóng. Bài
+> viết này tập trung vào khía cạnh dọc theo thời gian của nghèo đa chiều và mối liên hệ của nó
+> với việc đo lường nghèo thu nhập theo hướng động. Sử dụng dữ liệu khảo sát hộ gia đình dạng
+> bảng tại Việt Nam các năm 2007, 2008 và 2010, bài viết phân tích mức độ phổ biến và động thái
+> của cả nghèo đa chiều lẫn nghèo tiền tệ từ cùng một bộ dữ liệu. Kết quả cho thấy người nghèo
+> tiền tệ (hoặc không nghèo) không phải lúc nào cũng nghèo đa chiều (hoặc không nghèo đa chiều)
+> — trên thực tế, mức độ trùng khớp giữa hai thước đo thấp hơn nhiều so với 50%. Thêm vào đó,
+> nghèo tiền tệ cho thấy tiến bộ nhanh hơn cũng như mức độ biến động cao hơn so với nghèo đa
+> chiều. Chúng tôi cho rằng tăng trưởng kinh tế nhanh mà Việt Nam trải qua đã có tác động lớn
+> hơn và tức thời hơn lên nghèo tiền tệ so với nghèo đa chiều.
 
 > There has been a rapid expansion in the literature on the measurement of multidimensional
 > poverty in recent years. This paper focuses on the longitudinal aspects of multidimensional

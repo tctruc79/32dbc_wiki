@@ -25,17 +25,16 @@ Kakhkharov, Shuhrat Yarashov.</span>
 
 ## Abstract
 
-> Một thập kỷ rưỡi sau Khủng hoảng Tài chính Toàn cầu (Global Financial Crisis — GFC) và trong
-> bối cảnh hậu đại dịch COVID-19, ngành ngân hàng đang đối mặt với những thách thức chưa từng
-> có giữa bối cảnh địa chính trị đang thay đổi và nguy cơ phân mảnh tài chính (financial
-> fragmentation) đang hiện hữu. Bài báo tổng thuật này tổng hợp các nghiên cứu hiện có về sự
-> chuyển đổi của rủi ro và hoạt động ngân hàng, với trọng tâm đặc biệt vào việc áp dụng các
-> công nghệ số và sự tiến hóa của các khung pháp lý điều tiết (regulatory frameworks). Bài viết
-> xem xét một cách phê phán tác động của GFC, đại dịch, và các căng thẳng địa chính trị toàn
-> cầu lên ổn định tài chính (financial stability), dựa trên các công trình của giới học thuật
-> và các tổ chức tài chính đa phương. Do các ngân hàng ở thị trường mới nổi có thể đặc biệt dễ
-> tổn thương trước các thách thức và rủi ro mới, chúng tôi cũng dành sự chú ý đặc biệt đến vai
-> trò của các ngân hàng ở thị trường đang phát triển trong kỷ nguyên mới này.
+> Một thập kỷ rưỡi sau Khủng hoảng Tài chính Toàn cầu (GFC) và trong bối cảnh hậu đại dịch
+> COVID-19, ngành ngân hàng đang đối mặt với những thách thức chưa từng có giữa bối cảnh địa
+> chính trị đang thay đổi và nguy cơ phân mảnh tài chính đang hiện hữu. Bài báo tổng thuật này
+> tổng hợp các nghiên cứu hiện có về sự chuyển đổi của rủi ro và hoạt động ngân hàng, với trọng
+> tâm đặc biệt vào việc áp dụng các công nghệ số và sự tiến hóa của các khung pháp lý điều tiết.
+> Bài viết xem xét một cách phê phán tác động của GFC, đại dịch, và các căng thẳng địa chính trị
+> toàn cầu lên ổn định tài chính, dựa trên các công trình của giới học thuật và các tổ chức tài
+> chính đa phương. Do các ngân hàng ở thị trường mới nổi có thể đặc biệt dễ tổn thương trước các
+> thách thức và rủi ro mới, chúng tôi cũng dành sự chú ý đặc biệt đến vai trò của các ngân hàng
+> ở thị trường đang phát triển trong kỷ nguyên mới này.
 
 > A decade and a half after the Global Financial Crisis (GFC) and in the aftermath of the
 > COVID-19 pandemic, the banking industry faces unprecedented challenges amid shifting

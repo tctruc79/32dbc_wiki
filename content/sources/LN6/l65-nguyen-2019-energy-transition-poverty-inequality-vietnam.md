@@ -20,18 +20,17 @@ Shunsuke Managi (Urban Institute, Kyushu University, Japan). DOI:
 
 ## Abstract
 
-> Bài viết nghiên cứu energy transition, energy poverty và energy inequality tại Việt Nam, sử
-> dụng bộ dữ liệu dọc theo thời gian (longitudinal) từ một khảo sát hộ gia đình đại diện cấp
-> quốc gia. Chúng tôi sử dụng dữ liệu về chi tiêu năng lượng hộ gia đình (residential energy
-> expenditure) của hơn 9.000 hộ trong giai đoạn 2004–2016. Chúng tôi tìm thấy một quá trình
-> chuyển đổi từ năng lượng truyền thống sang năng lượng hiện đại, nhưng quá trình chuyển đổi
-> này khác nhau giữa các vùng, giữa các nhóm dân tộc và phúc lợi (welfare), và giữa dân số nông
-> thôn và đô thị. Các hộ nghèo và hộ dân tộc thiểu số vẫn phụ thuộc nặng nề vào các nguồn năng
-> lượng truyền thống như than và biomass để đáp ứng nhu cầu năng lượng của họ. Electricity
-> poverty đã giảm nhưng energy-cost poverty đã tăng. Ngoài ra, energy inequality có xu hướng
-> giảm với tốc độ đáng kể hơn so với bất bình đẳng thu nhập và tiêu dùng (income and consumption
-> inequalities). Chúng tôi đề xuất thiết lập một chương trình quốc gia nhằm giảm thiểu energy
-> poverty để xây dựng các chính sách hạ chi phí năng lượng cho hộ gia đình. Chúng tôi cũng
+> Bài viết nghiên cứu chuyển đổi năng lượng, nghèo năng lượng và bất bình đẳng năng lượng tại
+> Việt Nam, sử dụng bộ dữ liệu dọc theo thời gian từ một khảo sát hộ gia đình đại diện cấp quốc
+> gia. Chúng tôi sử dụng dữ liệu về chi tiêu năng lượng hộ gia đình của hơn 9.000 hộ trong giai
+> đoạn 2004–2016. Chúng tôi tìm thấy một quá trình chuyển đổi từ năng lượng truyền thống sang
+> năng lượng hiện đại, nhưng quá trình chuyển đổi này khác nhau giữa các vùng, giữa các nhóm
+> dân tộc và phúc lợi, và giữa dân số nông thôn và đô thị. Các hộ nghèo và hộ dân tộc thiểu số
+> vẫn phụ thuộc nặng nề vào các nguồn năng lượng truyền thống như than và sinh khối để đáp ứng
+> nhu cầu năng lượng của họ. Nghèo điện đã giảm nhưng nghèo do chi phí năng lượng đã tăng. Ngoài
+> ra, bất bình đẳng năng lượng có xu hướng giảm với tốc độ đáng kể hơn so với bất bình đẳng thu
+> nhập và tiêu dùng. Chúng tôi đề xuất thiết lập một chương trình quốc gia nhằm giảm thiểu nghèo
+> năng lượng để xây dựng các chính sách hạ chi phí năng lượng cho hộ gia đình. Chúng tôi cũng
 > khuyến nghị hỗ trợ thêm cho các hộ nghèo và hộ dân tộc thiểu số để họ có thể chi trả được mức
 > tiêu thụ điện cao hơn.
 

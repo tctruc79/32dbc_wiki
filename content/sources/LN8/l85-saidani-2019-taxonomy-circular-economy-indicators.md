@@ -21,22 +21,22 @@ and Environmental Engineering, University of California, Davis, Mỹ). DOI:
 
 ## Abstract
 
-> Việc triển khai các nguyên tắc circular economy (CE) ngày càng được khuyến nghị như một
-> giải pháp thuận tiện để đạt các mục tiêu phát triển bền vững. [...] một loạt các chỉ số
-> đo circularity (C-indicators) đã được phát triển trong những năm gần đây. Tuy nhiên, do
-> không có một định nghĩa duy nhất cho khái niệm CE, việc biết rõ các chỉ số hiện có đang
-> đo lường điều gì để sử dụng chúng đúng cách là vô cùng quan trọng. Thật vậy, thông qua
-> một systematic literature review [...] 55 bộ C-indicators, được phát triển bởi các học
-> giả, công ty tư vấn và cơ quan nhà nước, đã được xác định [...]. Lấy cảm hứng từ các
-> taxonomy hiện có về công cụ eco-design và các chỉ số sustainability, đồng thời phù hợp
-> với các đặc điểm của CE, một hệ thống phân loại chỉ số nhằm đánh giá, cải thiện, giám
-> sát và truyền thông về hiệu suất CE được đề xuất và bàn luận. Trong taxonomy được xây
-> dựng gồm 10 danh mục, các C-indicators được phân biệt theo các tiêu chí như cấp độ
-> triển khai CE (ví dụ: micro, meso, macro), các vòng lặp CE (maintain, reuse,
-> remanufacture, recycle), hiệu suất (intrinsic, impacts), góc nhìn về circularity
-> (actual, potential) [...], hay mức độ xuyên suốt (transversality) của chúng (generic,
-> sector-specific). [...] nghiên cứu này có thể được trải nghiệm qua nhiều use case khác
-> nhau.
+> Việc triển khai các nguyên tắc kinh tế tuần hoàn (CE) ngày càng được khuyến nghị như
+> một giải pháp thuận tiện để đạt các mục tiêu phát triển bền vững. [...] một loạt các
+> chỉ số đo tính tuần hoàn (C-indicators) đã được phát triển trong những năm gần đây.
+> Tuy nhiên, do không có một định nghĩa duy nhất cho khái niệm CE, việc biết rõ các chỉ
+> số hiện có đang đo lường điều gì để sử dụng chúng đúng cách là vô cùng quan trọng.
+> Thật vậy, thông qua một tổng quan tài liệu có hệ thống [...] 55 bộ C-indicators, được
+> phát triển bởi các học giả, công ty tư vấn và cơ quan nhà nước, đã được xác định
+> [...]. Lấy cảm hứng từ các hệ thống phân loại hiện có về công cụ thiết kế sinh thái và
+> các chỉ số phát triển bền vững, đồng thời phù hợp với các đặc điểm của CE, một hệ
+> thống phân loại chỉ số nhằm đánh giá, cải thiện, giám sát và truyền thông về hiệu suất
+> CE được đề xuất và bàn luận. Trong hệ thống phân loại được xây dựng gồm 10 danh mục,
+> các C-indicators được phân biệt theo các tiêu chí như cấp độ triển khai CE (ví dụ: vi
+> mô, trung mô, vĩ mô), các vòng lặp CE (duy trì, tái sử dụng, tái sản xuất, tái chế),
+> hiệu suất (nội tại, tác động), góc nhìn về tính tuần hoàn (thực tế, tiềm năng) [...],
+> hay mức độ xuyên suốt của chúng (tổng quát, chuyên biệt theo ngành). [...] nghiên cứu
+> này có thể được vận dụng qua nhiều tình huống ứng dụng khác nhau.
 
 > Implementing circular economy (CE) principles is increasingly recommended as a convenient
 > solution to meet the goals of sustainable development. [...] a wide range of circularity

@@ -18,12 +18,11 @@ those of the IMF). Published by Oxford University Press, JSTOR 2946696.</span>
 
 ## Abstract
 
-> Bài viết này phân tích một bộ dữ liệu mới được tổng hợp, gồm các chỉ số chủ quan về
-> corruption, mức độ red tape (thủ tục hành chính rườm rà), hiệu quả của hệ thống tư pháp, và
-> nhiều hạng mục khác nhau về ổn định chính trị cho một cross-section các quốc gia. Corruption
-> được phát hiện làm giảm đầu tư, qua đó làm giảm tăng trưởng kinh tế. Kết quả vẫn vững
-> (robust) khi kiểm soát endogeneity bằng cách sử dụng một chỉ số ethnolinguistic
-> fractionalization làm instrument.
+> Bài viết này phân tích một bộ dữ liệu mới được tổng hợp, gồm các chỉ số chủ quan về tham
+> nhũng, mức độ thủ tục hành chính rườm rà, hiệu quả của hệ thống tư pháp, và nhiều hạng mục
+> khác nhau về ổn định chính trị cho một mẫu cắt ngang các quốc gia. Tham nhũng được phát hiện
+> làm giảm đầu tư, qua đó làm giảm tăng trưởng kinh tế. Kết quả vẫn vững khi kiểm soát tính nội
+> sinh bằng cách sử dụng một chỉ số phân mảnh sắc tộc-ngôn ngữ làm biến công cụ.
 
 > This paper analyzes a newly assembled data set consisting of subjective indices of
 > corruption, the amount of red tape, the efficiency of the judicial system, and various

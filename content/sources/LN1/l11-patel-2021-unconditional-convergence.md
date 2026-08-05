@@ -20,14 +20,15 @@ know about cross-country convergence is (now) wrong."</span>
 
 ## Abstract
 
-> Fact trung tâm từng thúc đẩy các nghiên cứu thực nghiệm về tăng trưởng kinh tế — cụ thể là
-> unconditional divergence — không còn đúng nữa, và đã sai như vậy trong nhiều thập kỷ. Trên
-> nhiều nguồn dữ liệu khác nhau, các nước nghèo hơn trên thực tế đã đang đuổi kịp các nước giàu
-> hơn, dù chậm, kể từ giữa thập niên 1990. Kỷ nguyên convergence mới này không chủ yếu bắt
-> nguồn từ việc tăng trưởng chậm lại ở thế giới giàu, mà từ việc tăng trưởng tăng tốc ở thế
-> giới đang phát triển — nơi đồng thời trở nên ít volatile hơn đáng kể và persistent hơn. Các
-> tranh luận về "middle-income trap" cũng có vẻ đã lỗi thời: các nước middle-income đã cho
-> thấy tốc độ tăng trưởng cao hơn mọi nhóm khác kể từ giữa thập niên 1980.
+> Thực tế cốt lõi từng thúc đẩy các nghiên cứu thực nghiệm về tăng trưởng kinh tế — cụ thể là
+> sự phân kỳ không điều kiện — không còn đúng nữa, và đã sai như vậy trong nhiều thập kỷ qua.
+> Trên nhiều nguồn dữ liệu khác nhau, các nước nghèo hơn trên thực tế đã và đang đuổi kịp các
+> nước giàu hơn, dù với tốc độ chậm, kể từ giữa thập niên 1990. Kỷ nguyên hội tụ mới này không
+> chủ yếu bắt nguồn từ việc tăng trưởng chậm lại ở thế giới giàu, mà từ việc tăng trưởng tăng
+> tốc ở thế giới đang phát triển — nơi đồng thời trở nên ít biến động hơn đáng kể và ổn định
+> hơn theo thời gian. Các tranh luận về "bẫy thu nhập trung bình" cũng có vẻ đã lỗi thời: các
+> nước thu nhập trung bình đã cho thấy tốc độ tăng trưởng cao hơn mọi nhóm khác kể từ giữa
+> thập niên 1980.
 
 > The central fact that has motivated the empirics of economic growth—namely unconditional
 > divergence—is no longer true and has not been so for decades. Across a range of data sources,

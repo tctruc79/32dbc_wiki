@@ -19,10 +19,10 @@ long-standing collaboration with Ludger Woessmann. DOI: 10.1093/oxrep/grw025. JE
 
 > Các lời kêu gọi mở rộng giáo dục đại học thường dựa trên lập luận rằng có nhiều sinh viên tốt
 > nghiệp hơn sẽ dẫn tới tăng trưởng nhanh hơn. Tuy nhiên, phân tích thực nghiệm không ủng hộ
-> luận điểm tổng quát này. Chênh lệch về cognitive skills — tức knowledge capital của các quốc
-> gia — có thể giải thích phần lớn chênh lệch về tốc độ tăng trưởng giữa các nước, nhưng việc
-> chỉ đơn thuần tăng thêm số năm đi học mà không nâng cao cognitive skills, xét về mặt lịch sử,
-> hầu như không có ảnh hưởng mang tính hệ thống nào lên tăng trưởng.
+> luận điểm tổng quát này. Chênh lệch về kỹ năng nhận thức — tức vốn tri thức của các quốc gia —
+> có thể giải thích phần lớn chênh lệch về tốc độ tăng trưởng giữa các nước, nhưng việc chỉ đơn
+> thuần tăng thêm số năm đi học mà không nâng cao kỹ năng nhận thức, xét về mặt lịch sử, hầu như
+> không có ảnh hưởng mang tính hệ thống nào lên tăng trưởng.
 
 > Calls for expanded university education are frequently based on arguments that more graduates
 > will lead to faster growth. Empirical analysis does not, however, support this general

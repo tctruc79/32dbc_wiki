@@ -19,20 +19,19 @@ Simultaneous regression.</span>
 
 ## Abstract
 
-> Land consolidation có vai trò quan trọng trong việc gia tăng economies of scale trong
-> nông nghiệp, và việc hiểu rõ các yếu tố quyết định cũng như tác động của nó rất hữu ích
-> để các nhà hoạch định chính sách hỗ trợ rural transformation. Trong bài viết này,
-> chúng tôi xem xét các yếu tố quyết định việc hộ nông dân tự nguyện tham gia land
-> consolidation, đồng thời khảo sát tác động của nó lên chi phí sản xuất cây trồng (crop
-> production costs), nghèo đói nông thôn (rural poverty), và rural transformation. Kết
-> quả của chúng tôi cho thấy land consolidation được thúc đẩy bởi farming efficiency. Nó
-> làm giảm đáng kể chi phí làm đất (land preparation) và chi phí thu hoạch (harvest
-> costs), tăng thu nhập nông nghiệp (farm income), và giảm nghèo đói. Chúng tôi kết luận
-> rằng land consolidation nên được thúc đẩy nhằm tạo điều kiện cho việc tái phân phối đất
-> nông nghiệp từ những nông dân muốn rời khỏi nông nghiệp sang những người tiếp tục làm
-> nông. Việc tái phân phối đất nông nghiệp này thúc đẩy agricultural transformation
-> thông qua việc tái phân bổ lao động từ khu vực nông nghiệp sang khu vực phi nông nghiệp
-> (non-farm sectors).
+> Dồn điền đổi thửa có vai trò quan trọng trong việc gia tăng lợi thế kinh tế theo quy mô
+> trong nông nghiệp, và việc hiểu rõ các yếu tố quyết định cũng như tác động của nó rất
+> hữu ích để các nhà hoạch định chính sách hỗ trợ chuyển dịch cơ cấu nông thôn. Trong bài
+> viết này, chúng tôi xem xét các yếu tố quyết định việc hộ nông dân tự nguyện tham gia
+> dồn điền đổi thửa, đồng thời khảo sát tác động của nó lên chi phí sản xuất cây trồng,
+> nghèo đói nông thôn, và chuyển dịch cơ cấu nông thôn. Kết quả của chúng tôi cho thấy
+> dồn điền đổi thửa được thúc đẩy bởi hiệu quả canh tác. Nó làm giảm đáng kể chi phí làm
+> đất và chi phí thu hoạch, tăng thu nhập nông nghiệp, và giảm nghèo đói. Chúng tôi kết
+> luận rằng dồn điền đổi thửa nên được thúc đẩy nhằm tạo điều kiện cho việc tái phân phối
+> đất nông nghiệp từ những nông dân muốn rời khỏi nông nghiệp sang những người tiếp tục
+> làm nông. Việc tái phân phối đất nông nghiệp này thúc đẩy chuyển dịch cơ cấu nông
+> nghiệp thông qua việc tái phân bổ lao động từ khu vực nông nghiệp sang khu vực phi nông
+> nghiệp.
 
 > Land consolidation is important to increase the economies of scale in farming, and
 > understanding its determinants and effects is useful for policy-makers to support rural

@@ -22,15 +22,14 @@ Trinh Ngoc Hieu, not listed in the lecture note).</span>
 
 ## Abstract
 
-> Mối quan hệ giữa education và economic growth luôn được xem là một mối quan tâm nền tảng của
+> Mối quan hệ giữa giáo dục và tăng trưởng kinh tế luôn được xem là một mối quan tâm nền tảng của
 > nhiều nhà kinh tế học cũng như của các chính phủ. Nghiên cứu này cung cấp bằng chứng thực
 > nghiệm cho thấy tác động thực sự của giáo dục vẫn chưa được hiểu rõ, đặc biệt là ở Việt Nam.
 > Nghiên cứu cung cấp bằng chứng thực nghiệm về ảnh hưởng của giáo dục lên nền kinh tế Việt Nam,
-> cụ thể hơn là lên productivity của Việt Nam, trong giai đoạn 2000 đến 2015. Bài nghiên cứu
-> nhận thấy các kết quả cuối cùng ủng hộ giả thuyết đã đặt ra: giáo dục là yếu tố then chốt của
-> cải thiện kinh tế (economic enhancement). Cụ thể hơn, các bậc học tiểu học và trung học cải
-> thiện productivity của nền kinh tế, được đo bằng Total Factor Productivity và tốc độ tăng
-> trưởng GDP.
+> cụ thể hơn là lên năng suất của Việt Nam, trong giai đoạn 2000 đến 2015. Bài nghiên cứu nhận
+> thấy các kết quả cuối cùng ủng hộ giả thuyết đã đặt ra: giáo dục là yếu tố then chốt của việc
+> cải thiện kinh tế. Cụ thể hơn, các bậc học tiểu học và trung học cải thiện năng suất của nền
+> kinh tế, được đo bằng Tổng năng suất các yếu tố sản xuất (TFP) và tốc độ tăng trưởng GDP.
 
 > The relationship between education and economic growth has always been considered a
 > fundamental concern of many economists as well as governments. This research provides

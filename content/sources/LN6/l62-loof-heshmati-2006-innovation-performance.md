@@ -19,17 +19,16 @@ Heshmati (UNU/WIDER, Helsinki — the professor teaching this course). DOI:
 
 ## Abstract
 
-> Chúng tôi xem xét độ nhạy (sensitivity) của quan hệ ước lượng giữa innovation và firm
-> performance. Để làm điều này, chúng tôi dựa trên cách tiếp cận knowledge production function
-> và thực hiện so sánh theo nhiều cách khác nhau. Phân tích độ nhạy dựa trên việc so sánh một mô
-> hình kinh tế lượng cơ bản được ước lượng dưới các giả định cấu trúc sai số (error structure)
-> khác nhau nhưng dùng cùng một nguồn dữ liệu, một mô hình giống hệt nhưng dùng các nguồn dữ liệu
-> khác nhau, các cách phân loại firm performance khác nhau, các cách phân loại innovation khác
-> nhau, và hai phân khúc chính khác nhau của khu vực doanh nghiệp (business sector). Các phân
-> tích được thực hiện ở cả hai chiều mức độ (level) và tốc độ tăng trưởng (growth-rate). Các
-> phát hiện mới được báo cáo, đồng thời các kết quả trước đó cũng được xác nhận lại. Nghiên cứu
-> chỉ ra những yếu tố nào gây ra sự biến thiên trong các hiệu ứng ước lượng được quan tâm, cùng
-> chiều hướng của những thay đổi đó.
+> Chúng tôi xem xét độ nhạy của quan hệ ước lượng giữa đổi mới sáng tạo và hiệu quả hoạt động
+> doanh nghiệp. Để làm điều này, chúng tôi dựa trên cách tiếp cận hàm sản xuất tri thức và thực
+> hiện so sánh theo nhiều cách khác nhau. Phân tích độ nhạy dựa trên việc so sánh một mô hình
+> kinh tế lượng cơ bản được ước lượng dưới các giả định cấu trúc sai số khác nhau nhưng dùng cùng
+> một nguồn dữ liệu, một mô hình giống hệt nhưng dùng các nguồn dữ liệu khác nhau, các cách phân
+> loại hiệu quả hoạt động doanh nghiệp khác nhau, các cách phân loại đổi mới sáng tạo khác nhau,
+> và hai phân khúc chính khác nhau của khu vực doanh nghiệp. Các phân tích được thực hiện ở cả
+> hai chiều mức độ và tốc độ tăng trưởng. Các phát hiện mới được báo cáo, đồng thời các kết quả
+> trước đó cũng được xác nhận lại. Nghiên cứu chỉ ra những yếu tố nào gây ra sự biến thiên trong
+> các hiệu ứng ước lượng được quan tâm, cùng chiều hướng của những thay đổi đó.
 
 > We examine sensitivity of the estimated relationship between innovation and firm performance.
 > In doing so, we rely on a knowledge production function approach and carry out comparisons in

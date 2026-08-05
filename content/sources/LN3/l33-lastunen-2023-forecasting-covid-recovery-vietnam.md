@@ -17,21 +17,21 @@ University of Essex).</span>
 
 ## Abstract
 
-> Chúng tôi xây dựng một phương pháp luận mới để nowcast (dự báo gần như tức thời) tác động
-> của khủng hoảng COVID-19 lên GDP và dự báo diễn biến của nó ở các nước nhỏ, hướng xuất khẩu.
-> Để làm điều này, chúng tôi khai thác sự biến động của các chỉ số tài chính (financial
-> indexes) ở cấp ngành trong giai đoạn đầu khủng hoảng và liên hệ chúng với thời gian kỳ vọng
-> của khủng hoảng đối với từng ngành, dựa trên giả định rằng các cú sốc chính đối với giá tài
-> chính năm 2020 xuất phát từ COVID-19. Bắt đầu từ thông tin chính thức mới nhất sẵn có ở các
-> giai đoạn khác nhau của khủng hoảng về độ lệch xu hướng GDP cấp ngành — thường đã có độ trễ
-> vài tháng — chúng tôi dự báo quỹ đạo phục hồi tiếp theo bằng cách sử dụng dữ liệu tài chính
-> mới nhất sẵn có tại thời điểm dự báo. Dữ liệu tài chính phản ánh, cùng nhiều yếu tố khác,
-> cách các làn sóng lây nhiễm tiếp theo và thông tin về vắc-xin mới đã tác động đến kỳ vọng về
-> tương lai. Chúng tôi áp dụng phương pháp này cho Việt Nam, một trong những nền kinh tế mở
-> nhất thế giới, và thu được các dự báo lạc quan hơn so với các dự báo của Quỹ Tiền tệ Quốc tế
-> (IMF) và các tổ chức dự báo quốc tế khác, đồng thời gần với số liệu thực tế hơn. Luận điểm
-> của chúng tôi là hiệu suất tốt hơn kỳ vọng này đã thể hiện rõ sớm trong dữ liệu thị trường
-> chứng khoán nhưng phần lớn đã bị các phương pháp dự báo thông thường bỏ lỡ.
+> Chúng tôi xây dựng một phương pháp luận mới để dự báo gần như tức thời tác động của khủng
+> hoảng COVID-19 lên GDP và dự báo diễn biến của nó ở các nước nhỏ, hướng xuất khẩu. Để làm
+> điều này, chúng tôi khai thác sự biến động của các chỉ số tài chính ở cấp ngành trong giai
+> đoạn đầu khủng hoảng và liên hệ chúng với thời gian kỳ vọng của khủng hoảng đối với từng
+> ngành, dựa trên giả định rằng các cú sốc chính đối với giá tài chính năm 2020 xuất phát từ
+> COVID-19. Bắt đầu từ thông tin chính thức mới nhất sẵn có ở các giai đoạn khác nhau của khủng
+> hoảng về độ lệch xu hướng GDP cấp ngành — thường đã có độ trễ vài tháng — chúng tôi dự báo
+> quỹ đạo phục hồi tiếp theo bằng cách sử dụng dữ liệu tài chính mới nhất sẵn có tại thời điểm
+> dự báo. Dữ liệu tài chính phản ánh, cùng nhiều yếu tố khác, cách các làn sóng lây nhiễm tiếp
+> theo và thông tin về vắc-xin mới đã tác động đến kỳ vọng về tương lai. Chúng tôi áp dụng
+> phương pháp này cho Việt Nam, một trong những nền kinh tế mở nhất thế giới, và thu được các
+> dự báo lạc quan hơn so với các dự báo của Quỹ Tiền tệ Quốc tế (IMF) và các tổ chức dự báo
+> quốc tế khác, đồng thời gần với số liệu thực tế hơn. Luận điểm của chúng tôi là hiệu suất tốt
+> hơn kỳ vọng này đã thể hiện rõ sớm trong dữ liệu thị trường chứng khoán nhưng phần lớn đã bị
+> các phương pháp dự báo thông thường bỏ lỡ.
 
 > We develop a new methodology to nowcast the effects of the COVID-19 crisis on GDP and
 > forecast its evolution in small, export-oriented countries. To this aim, we exploit variation

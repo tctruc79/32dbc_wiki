@@ -16,19 +16,18 @@ University). JEL: I31, Q15, Q51, Q54.</span>
 
 ## Abstract
 
-> Nghiên cứu này sử dụng một bộ dữ liệu panel phong phú từ các khảo sát hộ gia đình cùng
+> Nghiên cứu này sử dụng một bộ dữ liệu bảng phong phú từ các khảo sát hộ gia đình cùng
 > với dữ liệu lũ lụt dài hạn từ bên ngoài, được trích xuất từ ảnh vệ tinh, nhằm hoàn
-> thiện một bức tranh còn nhiều điều khó lý giải (puzzling) về tác động của lũ lụt lên
-> household welfare. Lũ lụt tạo ra một tác động hỗn hợp (mixed impact) lên các hộ gia
-> đình. Một mặt, lũ lụt làm giảm thu nhập hộ gia đình phụ thuộc vào các nguồn tự nhiên;
-> mặt khác, lũ lụt đẩy nông dân ra khỏi đồng ruộng để tìm kiếm thu nhập bổ sung từ các
-> hoạt động phi nông nghiệp (non-agricultural activities). Ngoài ra, lũ lụt làm gia tăng
-> đáng kể một số loại chi tiêu. Phát hiện về điểm số subjective wellbeing thấp hơn củng
-> cố thêm cho tất cả các kết quả này. Hơn nữa, nghiên cứu này cho thấy những nỗ lực mà
-> các hộ nông thôn đang thực hiện để ứng phó (cope) với tác động của lũ lụt. Họ sử dụng
-> cả cơ chế ứng phó chính thức lẫn phi chính thức (formal and informal coping
-> mechanisms); tuy nhiên, chỉ có kiều hối (financial remittances) được chứng minh là có
-> hiệu quả có ý nghĩa thống kê trong việc mang lại sự trợ giúp (relief).
+> thiện một bức tranh còn nhiều điều khó lý giải về tác động của lũ lụt lên phúc lợi hộ
+> gia đình. Lũ lụt tạo ra một tác động hỗn hợp lên các hộ gia đình. Một mặt, lũ lụt làm
+> giảm thu nhập hộ gia đình phụ thuộc vào các nguồn tự nhiên; mặt khác, lũ lụt đẩy nông
+> dân ra khỏi đồng ruộng để tìm kiếm thu nhập bổ sung từ các hoạt động phi nông nghiệp.
+> Ngoài ra, lũ lụt làm gia tăng đáng kể một số loại chi tiêu. Phát hiện về điểm số hạnh
+> phúc chủ quan thấp hơn củng cố thêm cho tất cả các kết quả này. Hơn nữa, nghiên cứu này
+> cho thấy những nỗ lực mà các hộ nông thôn đang thực hiện để ứng phó với tác động của lũ
+> lụt. Họ sử dụng cả cơ chế ứng phó chính thức lẫn phi chính thức; tuy nhiên, chỉ có kiều
+> hối được chứng minh là có hiệu quả có ý nghĩa thống kê trong việc mang lại sự trợ
+> giúp.
 
 > This research uses a rich panel data set of household surveys and external long-term flood
 > data, extracted from satellite images, to complete a puzzling picture of the effects of

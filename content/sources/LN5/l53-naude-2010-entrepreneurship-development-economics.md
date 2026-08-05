@@ -28,20 +28,20 @@ reduced page structure (no separate Data/Hypothesis/Regression Results).</span>
 
 ## Abstract
 
-> Bài viết này là lời giới thiệu (introduction) cho số đặc biệt (special issue) của
-> Small Business Economics, bàn về việc tích hợp (đã bị trì hoãn từ lâu) entrepreneurship
-> vào ngành development economics, đồng thời soi sáng một cách hình thức (formal light)
-> vai trò của entrepreneurship ở các nước đang phát triển. Bài viết xuất phát từ tiền đề
-> rằng với hơn một tỷ người đang sống trong absolute poverty, việc hiểu rõ liệu và khi
-> nào entrepreneurship là một binding constraint đối với phát triển kinh tế và quá trình
-> catching up ở các nước đang phát triển có ý nghĩa thực tiễn rất lớn. Điều này đến lượt
-> nó đòi hỏi ít nhất một sự mô hình hóa lý thuyết (theoretical modeling) sâu hơn về
-> entrepreneur trong development economics. Số đặc biệt này bao gồm một số đóng góp
-> xuất phát từ dự án UNU-WIDER về Promoting Entrepreneurial Capacity, dự án tích hợp
-> hai ngành entrepreneurship và development economics. Các đóng góp này mô hình hóa
-> và khám phá vai trò của entrepreneur trong các lĩnh vực trọng tâm của development
-> economics, như structural change và economic growth, bất bình đẳng thu nhập và của
-> cải (income and wealth inequalities), welfare, poverty traps, và market failures.
+> Bài viết này là lời giới thiệu cho số đặc biệt của tạp chí Small Business Economics,
+> bàn về việc tích hợp (vốn đã bị trì hoãn từ lâu) tinh thần khởi nghiệp vào ngành kinh
+> tế học phát triển, đồng thời làm sáng tỏ một cách có hệ thống, mang tính hình thức
+> hóa vai trò của tinh thần khởi nghiệp ở các nước đang phát triển. Bài viết xuất phát
+> từ tiền đề rằng với hơn một tỷ người đang sống trong cảnh nghèo cùng cực, việc hiểu
+> rõ liệu và khi nào tinh thần khởi nghiệp là một rào cản mang tính ràng buộc đối với
+> phát triển kinh tế và quá trình đuổi kịp ở các nước đang phát triển có ý nghĩa thực
+> tiễn rất lớn. Điều này đến lượt nó đòi hỏi ít nhất một sự mô hình hóa lý thuyết sâu
+> hơn về doanh nhân trong kinh tế học phát triển. Số đặc biệt này bao gồm một số đóng
+> góp xuất phát từ dự án của UNU-WIDER về Promoting Entrepreneurial Capacity, dự án
+> tích hợp hai ngành nghiên cứu về khởi nghiệp và kinh tế học phát triển. Các đóng góp
+> này mô hình hóa và khám phá vai trò của doanh nhân trong các lĩnh vực trọng tâm của
+> kinh tế học phát triển, như chuyển dịch cơ cấu và tăng trưởng kinh tế, bất bình đẳng
+> thu nhập và của cải, phúc lợi, bẫy nghèo, và thất bại thị trường.
 
 > This paper provides an introduction to this special issue of Small Business Economics
 > dealing with the (long-postponed) integration of entrepreneurship into the discipline of

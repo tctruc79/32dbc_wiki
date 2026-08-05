@@ -25,17 +25,16 @@ Modeling of Material Flows), funded by Belgian Science Policy (BELSPO). DOI:
 
 ## Abstract
 
-> Literature về circular economy còn thiếu những định nghĩa rõ ràng, không mơ hồ. Chúng
-> tôi lập luận rằng một giải pháp thuận tiện cho vấn đề này là định nghĩa circular
-> economy như một hàm số của một chỉ số (metric), xuất phát từ một hệ thống dòng vật
-> liệu và giá trị được xác định rõ ràng. Cụ thể, chúng tôi đề xuất một chỉ số được suy ra
-> từ việc tối đa hóa giá trị xã hội của các vật liệu được sử dụng trong sản xuất hàng hóa
-> nhằm cung cấp dịch vụ cho người tiêu dùng. Chỉ số của chúng tôi có thể bao quát cả tái
-> chế (recycling) lẫn các chiến lược thay thế khác như kéo dài vòng đời sản phẩm
-> (lifetime extension) và các mô hình kinh doanh mới làm tăng năng suất của hàng hóa.
-> Theo phương pháp luận này, chúng tôi cung cấp các định nghĩa không mơ hồ cho kinh tế
-> tuyến tính (linear economy), kinh tế tuần hoàn (circular economy), và tăng trưởng kinh
-> tế tuần hoàn (circular economic growth).
+> Tài liệu học thuật về kinh tế tuần hoàn (CE) còn thiếu những định nghĩa rõ ràng, không
+> mơ hồ. Chúng tôi lập luận rằng một giải pháp thuận tiện cho vấn đề này là định nghĩa
+> CE như một hàm số của một chỉ số, xuất phát từ một hệ thống dòng vật liệu và giá trị
+> được xác định rõ ràng. Cụ thể, chúng tôi đề xuất một chỉ số được suy ra từ việc tối đa
+> hóa giá trị xã hội của các vật liệu được sử dụng trong sản xuất hàng hóa nhằm cung cấp
+> dịch vụ cho người tiêu dùng. Chỉ số của chúng tôi có thể bao quát cả tái chế lẫn các
+> chiến lược thay thế khác như kéo dài vòng đời sản phẩm và các mô hình kinh doanh mới
+> làm tăng năng suất của hàng hóa. Theo phương pháp luận này, chúng tôi cung cấp các
+> định nghĩa không mơ hồ cho kinh tế tuyến tính, kinh tế tuần hoàn, và tăng trưởng kinh
+> tế tuần hoàn.
 
 > The circular economy literature lacks unambiguous definitions. We argue that a convenient
 > solution to this problem consists of defining the circular economy as a function of a metric,

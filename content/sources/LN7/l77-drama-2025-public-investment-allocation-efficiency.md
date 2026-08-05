@@ -24,17 +24,16 @@ usage" section).</span>
 
 ## Abstract
 
-> Nghiên cứu này đánh giá public investment efficiency trên 75 nước đang phát triển trong giai
-> đoạn 2002–2022, sử dụng Data Envelopment Analysis (DEA) và Stochastic Frontier Analysis (SFA).
-> Kết quả cho thấy hiệu quả trung bình đạt 83.58%, với health (85.37%) và education (84.79%)
-> vượt trội hơn các ngành khác (71.94%). Corruption control và rule of law nổi lên là những yếu
-> tố quyết định quan trọng nhất đối với hiệu quả, trong khi trade openness, lợi thế địa lý, và
-> cơ cấu lực lượng lao động cũng có ảnh hưởng đáng kể lên kết quả. Các phát hiện cho thấy còn
-> nhiều dư địa cải thiện đáng kể — gần 16% mức tăng hiệu quả có thể đạt được thông qua quản trị
-> tốt hơn và tái phân bổ chiến lược sang các khu vực vốn con người (human capital sectors).
-> Những kết quả này cung cấp gợi ý hành động thiết thực cho các nhà hoạch định chính sách đang
-> tìm cách tối ưu hóa phân bổ nguồn lực và nâng cao lợi tức đầu tư công trong bối cảnh nguồn lực
-> hạn chế.
+> Nghiên cứu này đánh giá hiệu quả đầu tư công trên 75 nước đang phát triển trong giai đoạn
+> 2002–2022, sử dụng Phân tích bao dữ liệu (DEA) và Phân tích biên ngẫu nhiên (SFA). Kết quả cho
+> thấy hiệu quả trung bình đạt 83.58%, với y tế (85.37%) và giáo dục (84.79%) vượt trội hơn các
+> ngành khác (71.94%). Kiểm soát tham nhũng và pháp quyền nổi lên là những yếu tố quyết định
+> quan trọng nhất đối với hiệu quả, trong khi độ mở thương mại, lợi thế địa lý, và cơ cấu lực
+> lượng lao động cũng có ảnh hưởng đáng kể lên kết quả. Các phát hiện cho thấy còn nhiều dư địa
+> cải thiện đáng kể — gần 16% mức tăng hiệu quả có thể đạt được thông qua quản trị tốt hơn và
+> tái phân bổ chiến lược sang các khu vực vốn con người. Những kết quả này cung cấp gợi ý hành
+> động thiết thực cho các nhà hoạch định chính sách đang tìm cách tối ưu hóa phân bổ nguồn lực
+> và nâng cao lợi tức đầu tư công trong bối cảnh nguồn lực hạn chế.
 
 > This study evaluates public investment efficiency across 75 developing countries from 2002 to
 > 2022 using Data Envelopment Analysis (DEA) and Stochastic Frontier Analysis (SFA). Results show

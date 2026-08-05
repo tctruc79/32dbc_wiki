@@ -23,14 +23,14 @@ part of the article's content.</span>
 ## Abstract
 
 > Chúng tôi khai thác khác biệt về tỷ lệ tử vong của người châu Âu để ước lượng tác động của
-> institutions lên hiệu suất kinh tế. Người châu Âu áp dụng các chính sách thuộc địa hóa rất
-> khác nhau ở các thuộc địa khác nhau, đi kèm với các institutions khác nhau. Ở những nơi người
-> châu Âu đối mặt với tỷ lệ tử vong cao, họ không thể định cư và nhiều khả năng dựng lên các
-> institutions mang tính extractive. Các institutions này tồn tại dai dẳng đến hiện tại. Bằng
-> cách khai thác khác biệt tỷ lệ tử vong của người châu Âu làm instrument cho institutions hiện
-> tại, chúng tôi ước lượng được tác động lớn của institutions lên thu nhập bình quân đầu người.
-> Một khi đã kiểm soát tác động của institutions, các nước ở châu Phi hoặc gần đường xích đạo
-> hơn không còn có thu nhập thấp hơn. (JEL O11, P16, P51)
+> thể chế lên hiệu suất kinh tế. Người châu Âu áp dụng các chính sách thuộc địa hóa rất khác
+> nhau ở các thuộc địa khác nhau, đi kèm với các thể chế khác nhau. Ở những nơi người châu Âu
+> đối mặt với tỷ lệ tử vong cao, họ không thể định cư và nhiều khả năng dựng lên các thể chế
+> mang tính bóc lột/khai thác. Các thể chế này tồn tại dai dẳng đến hiện tại. Bằng cách khai
+> thác khác biệt tỷ lệ tử vong của người châu Âu làm biến công cụ cho thể chế hiện tại, chúng
+> tôi ước lượng được tác động lớn của thể chế lên thu nhập bình quân đầu người. Một khi đã kiểm
+> soát tác động của thể chế, các nước ở châu Phi hoặc gần đường xích đạo hơn không còn có thu
+> nhập thấp hơn. (JEL O11, P16, P51)
 
 > We exploit differences in European mortality rates to estimate the effect of institutions on
 > economic performance. Europeans adopted very different colonization policies in different

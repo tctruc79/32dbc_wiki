@@ -19,21 +19,21 @@ at the 53rd Annual Meeting of the Canadian Economics Association (Banff, Alberta
 
 ## Abstract
 
-> Tôi trình bày một bản tóm tắt, suy ngẫm và đánh giá về hiện trạng của economic development ở
+> Tôi trình bày một bản tóm tắt, suy ngẫm và đánh giá về hiện trạng của phát triển kinh tế ở
 > cả hai thế giới chính sách và học thuật. Về mặt chính sách phát triển, hiện nay trọng tâm
-> chính là các can thiệp chính sách — cụ thể là foreign aid — nhằm sửa chữa "khiếm khuyết"
-> (deficiencies) của các nước đang phát triển. Nghiên cứu học thuật cũng có trọng tâm tương tự,
-> ngoại trừ việc nhấn mạnh vào đánh giá nghiêm ngặt các can thiệp để ước lượng causal effects.
-> Một bộ công cụ định lượng linh hoạt tiêu chuẩn được sử dụng, ví dụ như các phương pháp
-> experimental và quasi-experimental, vốn có thể dễ dàng áp dụng trong nhiều bối cảnh khác nhau
-> để ước lượng causal effects của các chính sách — thường được giả định là tương tự nhau giữa
-> các bối cảnh. Trong bài viết này, tôi lùi lại một bước và đặt câu hỏi liệu các thực hành hiện
-> tại đã là tốt nhất mà chúng ta có thể làm hay chưa. Foreign aid và các can thiệp chính sách
-> có phải là lựa chọn tốt nhất mà chúng ta có để giảm nghèo? Còn có thể làm gì khác? Chiến lược
-> nghiên cứu hiện tại của chúng ta — vốn nghiêm ngặt nhưng thiếu phân tích theo bối cảnh cụ thể
-> (context-specific) — có phải là phương pháp phân tích tốt nhất? Liệu có vai trò nào cho các
-> phương pháp nghiên cứu khác, để hiểu sâu hơn về local context và hợp tác nhiều hơn với các
-> học giả bản địa?
+> chính là các can thiệp chính sách — cụ thể là viện trợ nước ngoài — nhằm khắc phục những
+> khiếm khuyết của các nước đang phát triển. Nghiên cứu học thuật cũng có trọng tâm tương tự,
+> ngoại trừ việc nhấn mạnh vào đánh giá nghiêm ngặt các can thiệp để ước lượng tác động nhân
+> quả. Một bộ công cụ định lượng linh hoạt tiêu chuẩn được sử dụng, ví dụ như các phương pháp
+> thực nghiệm ngẫu nhiên và bán thực nghiệm, vốn có thể dễ dàng áp dụng trong nhiều bối cảnh
+> khác nhau để ước lượng tác động nhân quả của các chính sách — thường được giả định là tương
+> tự nhau giữa các bối cảnh. Trong bài viết này, tôi lùi lại một bước và đặt câu hỏi liệu các
+> thực hành hiện tại đã là tốt nhất mà chúng ta có thể làm hay chưa. Viện trợ nước ngoài và
+> các can thiệp chính sách có phải là lựa chọn tốt nhất mà chúng ta có để giảm nghèo? Còn có
+> thể làm gì khác? Chiến lược nghiên cứu hiện tại của chúng ta — vốn nghiêm ngặt nhưng thiếu
+> phân tích theo bối cảnh cụ thể — có phải là phương pháp phân tích tốt nhất? Liệu có vai trò
+> nào cho các phương pháp nghiên cứu khác, để hiểu sâu hơn về bối cảnh địa phương và hợp tác
+> nhiều hơn với các học giả bản địa?
 
 > I provide a summary, reflection and assessment of the current state of economic development
 > in both the policy and academic worlds. In terms of development policy, currently, the

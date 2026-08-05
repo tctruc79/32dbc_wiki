@@ -18,13 +18,12 @@ Miguel-Ángel Galindo-Martín (University of Castilla-La Mancha), Domingo Ribeir
 
 ## Abstract
 
-> Bài viết này nghiên cứu mối quan hệ giữa governance, entrepreneurship và economic
-> growth thông qua một mô hình panel hai phương trình (two-equation panel model) cho
-> 11 nước phát triển trong giai đoạn 2002–2007. Kết quả cho thấy governance có tác
-> động gián tiếp dương (positive indirect effect) lên growth thông qua entrepreneurship;
-> tuy nhiên, bất bình đẳng thu nhập (income inequality, đo bằng Gini) và cung tiền
-> (money supply) cũng ảnh hưởng đến entrepreneurship, đòi hỏi phải quản lý cẩn trọng
-> các đánh đổi (trade-offs) phát sinh từ đó.
+> Bài viết này nghiên cứu mối quan hệ giữa quản trị, tinh thần khởi nghiệp và tăng
+> trưởng kinh tế thông qua một mô hình dữ liệu bảng hai phương trình cho 11 nước phát
+> triển trong giai đoạn 2002–2007. Kết quả cho thấy quản trị có tác động gián tiếp
+> dương lên tăng trưởng thông qua tinh thần khởi nghiệp; tuy nhiên, bất bình đẳng thu
+> nhập (đo bằng hệ số Gini) và cung tiền cũng ảnh hưởng đến tinh thần khởi nghiệp, đòi
+> hỏi phải quản lý cẩn trọng các đánh đổi phát sinh từ đó.
 
 > This paper studies the relationship between governance, entrepreneurship and economic growth
 > through a two-equation panel model for 11 developed countries over 2002–2007. The results

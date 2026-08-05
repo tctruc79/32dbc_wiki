@@ -27,14 +27,15 @@ UEH.</span>
 
 ## Abstract
 
-> Bài viết này nghiên cứu thực nghiệm cách dòng vốn foreign direct investment (FDI) tác động
-> đến informal economy, sử dụng bộ panel data gồm 63 tỉnh thành của Việt Nam trong giai đoạn
-> 2006–2021. Kết quả cho thấy: i) dòng vốn FDI làm giảm informal economy thông qua các kênh
-> thúc đẩy tăng trưởng kinh tế và cải thiện chất lượng local governance; ii) formal economy
-> và informal economy là các substitutes (thay thế lẫn nhau); iii) chất lượng local governance
-> làm giảm các informal activities. Ngoài ra, nghèo đói và thất nghiệp nổi lên như các động
-> lực chính thúc đẩy các hoạt động kinh tế phi chính thức của Việt Nam, trong khi fiscal
-> policy chiến lược và urbanization có thể thu hẹp hiệu quả khu vực phi chính thức.
+> Bài viết này nghiên cứu thực nghiệm cách dòng vốn đầu tư trực tiếp nước ngoài (FDI) tác động
+> đến kinh tế phi chính thức, sử dụng bộ dữ liệu bảng gồm 63 tỉnh thành của Việt Nam trong giai
+> đoạn 2006–2021. Kết quả cho thấy: i) dòng vốn FDI làm giảm kinh tế phi chính thức thông qua
+> các kênh thúc đẩy tăng trưởng kinh tế và cải thiện chất lượng quản trị địa phương; ii) kinh
+> tế chính thức và kinh tế phi chính thức thay thế lẫn nhau; iii) chất lượng quản trị địa
+> phương làm giảm các hoạt động phi chính thức. Ngoài ra, nghèo đói và thất nghiệp nổi lên như
+> các động lực chính thúc đẩy các hoạt động kinh tế phi chính thức của Việt Nam, trong khi
+> chính sách tài khóa chiến lược và đô thị hóa có thể thu hẹp hiệu quả khu vực phi chính
+> thức.
 
 > This paper empirically investigates how foreign direct investment (FDI) inflows affect the
 > informal economy by using a panel data set of 63 provinces in Vietnam from 2006 to 2021. The

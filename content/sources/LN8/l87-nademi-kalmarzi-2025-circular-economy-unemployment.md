@@ -35,27 +35,26 @@ Energy Transition, and Justice Assessment" (Guest Editor: Prof. Patrizia Ghisell
 
 ## Abstract
 
-> Mục tiêu của bài viết này là khảo sát tác động của circular economy (CE) lên tình
-> trạng unemployment ở các nước châu Âu trong giai đoạn 2010–2019. Trước tiên, sử dụng
-> spectral clustering, chúng tôi xác định được ba cụm (clusters) trong số các nước châu
-> Âu xét theo mối quan hệ CE-unemployment. Kết quả phân cụm cho thấy các nước có mức độ
-> CE cao nhất thuộc về cụm có mức unemployment thấp nhất. Tiếp theo, chúng tôi ước lượng
-> tám mô hình panel data khác nhau sử dụng nhiều chỉ số CE khác nhau nhằm đảm bảo tính
-> vững (robustness) của mối quan hệ CE-unemployment và xác định những khía cạnh cụ thể
-> của CE có tác động lớn hơn đến việc giảm unemployment. Kết quả thực nghiệm, thu được
-> bằng phương pháp Panel GMM, cho thấy cả tám chỉ số của circular economy đều làm giảm
-> unemployment một cách có ý nghĩa ở các nước châu Âu. Chỉ số CE do chúng tôi đề xuất, sử
-> dụng phương pháp PCA và phản ánh một thước đo toàn diện về CE, có tác động lớn nhất đến
-> việc giảm unemployment [...]. Trong số các sub-index của CE, những yếu tố sau có tác
-> động lớn nhất đến việc giảm unemployment: "đầu tư tư nhân và giá trị gia tăng gộp liên
-> quan đến các ngành circular economy," "thương mại nguyên liệu thô có thể tái chế,"
-> "circular material use," "tỷ lệ tái chế rác thải đô thị (municipal waste)," "tỷ lệ tái
-> chế rác thải bao bì (packaging waste)," "tái chế rác thải hữu cơ (bio waste)," và "tiêu
-> thụ năng lượng tái tạo và nhiên liệu sinh học trong ngành công nghiệp." [...] hai khía
-> cạnh có ảnh hưởng lớn nhất [...] là đầu tư tư nhân vào CE và thương mại nguyên liệu tái
-> chế. [...] các nhà hoạch định chính sách nên giải quyết các tác động xã hội đối với tất
-> cả cộng đồng, đặc biệt chú ý đến các nhóm yếu thế (marginalized groups). Việc tích hợp
-> các nguyên tắc circular justice có thể giúp ngăn CE tiếp tục duy trì những bất bình
+> Mục tiêu của bài viết này là khảo sát tác động của kinh tế tuần hoàn (CE) lên tình
+> trạng thất nghiệp ở các nước châu Âu trong giai đoạn 2010–2019. Trước tiên, sử dụng
+> spectral clustering, chúng tôi xác định được ba cụm nước châu Âu xét theo mối quan hệ
+> CE-thất nghiệp. Kết quả phân cụm cho thấy các nước có mức độ CE cao nhất thuộc về cụm
+> có mức thất nghiệp thấp nhất. Tiếp theo, chúng tôi ước lượng tám mô hình dữ liệu bảng
+> khác nhau sử dụng nhiều chỉ số CE khác nhau nhằm đảm bảo tính vững của mối quan hệ
+> CE-thất nghiệp và xác định những khía cạnh cụ thể của CE có tác động lớn hơn đến việc
+> giảm thất nghiệp. Kết quả thực nghiệm, thu được bằng phương pháp GMM trên dữ liệu
+> bảng, cho thấy cả tám chỉ số CE đều làm giảm thất nghiệp một cách có ý nghĩa ở các
+> nước châu Âu. Chỉ số CE do chúng tôi đề xuất, sử dụng phương pháp PCA và phản ánh một
+> thước đo toàn diện về CE, có tác động lớn nhất đến việc giảm thất nghiệp [...]. Trong
+> số các chỉ số thành phần của CE, những yếu tố sau có tác động lớn nhất đến việc giảm
+> thất nghiệp: "đầu tư tư nhân và giá trị gia tăng gộp liên quan đến các ngành CE,"
+> "thương mại nguyên liệu thô có thể tái chế," "mức sử dụng vật liệu tuần hoàn," "tỷ lệ
+> tái chế rác thải đô thị," "tỷ lệ tái chế rác thải bao bì," "tái chế rác thải hữu cơ,"
+> và "tiêu thụ năng lượng tái tạo và nhiên liệu sinh học trong ngành công nghiệp." [...]
+> hai khía cạnh có ảnh hưởng lớn nhất [...] là đầu tư tư nhân vào CE và thương mại
+> nguyên liệu tái chế. [...] các nhà hoạch định chính sách nên giải quyết các tác động
+> xã hội đối với tất cả cộng đồng, đặc biệt chú ý đến các nhóm yếu thế. Việc tích hợp
+> các nguyên tắc công bằng tuần hoàn có thể giúp ngăn CE tiếp tục duy trì những bất bình
 > đẳng hiện có [...].
 
 > The goal of this paper is to examine the impact of the circular economy (CE) on unemployment in

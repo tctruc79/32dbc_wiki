@@ -22,24 +22,26 @@ Groningen & Wageningen University), Nhung Vu (Vietnamese–German University), N
 ## Abstract
 
 > Trên khắp thế giới, chương trình đào tạo Gender and Entrepreneurship Together (GET
-> Ahead), ban đầu do International Labour Organization phát triển, đã được triển khai
-> nhằm cải thiện kết quả kinh doanh và tăng cường women's empowerment. Randomized
-> controlled trial (RCT) này là nỗ lực nghiêm ngặt đầu tiên nhằm xem xét tác động của
-> training GET Ahead lên women's empowerment. Chúng tôi tập trung vào tác động của
-> việc cung cấp training này cho các khách hàng vay vốn vi mô nữ của TYM, tổ chức tài
-> chính vi mô (microfinance) lớn nhất ở miền Bắc Việt Nam. Một đóng góp quan trọng của
-> nghiên cứu này là tập trung vào các khía cạnh khác nhau của women's empowerment: (1)
-> personal empowerment, đo bằng control beliefs, và (2) relational empowerment, đo
-> bằng relational friction và quyền ra quyết định trong hộ gia đình (intra-household
-> decision making power). Nghiên cứu này cũng nổi bật ở chỗ chúng tôi xem xét một cách
-> tường minh liệu việc để chồng tham gia có ảnh hưởng đến tác động của training hay
-> không. Chúng tôi thấy rằng training GET Ahead cải thiện women's empowerment trên cả
-> ba khía cạnh: tăng control beliefs và quyền ra quyết định trong hộ gia đình (chỉ đối
-> với các khoản chi tiêu lớn hơn), và giảm relational friction. Tuy nhiên, các kết quả
-> về relational friction cần được xem xét thận trọng do khả năng bị underreporting
-> (báo cáo thiếu). Hơn nữa, nhìn chung, chúng tôi không thấy tác động bổ sung nào của
-> việc mời chồng tham gia training. Cuối cùng, kết quả của chúng tôi cho thấy cần một
-> khoảng thời gian nhất định trước khi training bắt đầu cải thiện women's empowerment.
+> Ahead), ban đầu do Tổ chức Lao động Quốc tế phát triển, đã được triển khai nhằm cải
+> thiện kết quả kinh doanh và tăng cường việc trao quyền cho phụ nữ. Thử nghiệm ngẫu
+> nhiên có đối chứng (Randomized Controlled Trial, viết tắt RCT) này là nỗ lực nghiêm
+> ngặt đầu tiên nhằm xem xét tác động của chương trình đào tạo GET Ahead lên việc trao
+> quyền cho phụ nữ. Chúng tôi tập trung vào tác động của việc cung cấp chương trình đào
+> tạo này cho các khách hàng vay vốn vi mô nữ của TYM, tổ chức tài chính vi mô lớn nhất
+> ở miền Bắc Việt Nam. Một đóng góp quan trọng của nghiên cứu này là tập trung vào các
+> khía cạnh khác nhau của việc trao quyền cho phụ nữ: (1) trao quyền cá nhân, đo bằng
+> niềm tin về khả năng kiểm soát, và (2) trao quyền trong quan hệ, đo bằng mức độ xung
+> đột trong quan hệ và quyền ra quyết định trong nội bộ hộ gia đình. Nghiên cứu này
+> cũng nổi bật ở chỗ chúng tôi xem xét một cách tường minh liệu việc để người chồng
+> tham gia có ảnh hưởng đến tác động của chương trình đào tạo hay không. Chúng tôi thấy
+> rằng chương trình đào tạo GET Ahead cải thiện việc trao quyền cho phụ nữ trên cả ba
+> khía cạnh: tăng niềm tin về khả năng kiểm soát và quyền ra quyết định trong nội bộ hộ
+> gia đình (chỉ đối với các khoản chi tiêu lớn hơn), và giảm xung đột trong quan hệ.
+> Tuy nhiên, các kết quả về xung đột trong quan hệ cần được xem xét thận trọng do khả
+> năng bị báo cáo thiếu. Hơn nữa, nhìn chung, chúng tôi không thấy tác động bổ sung nào
+> của việc mời chồng tham gia chương trình đào tạo. Cuối cùng, kết quả của chúng tôi
+> cho thấy cần một khoảng thời gian nhất định trước khi chương trình đào tạo bắt đầu
+> cải thiện việc trao quyền cho phụ nữ.
 
 > Across the world the Gender and Entrepreneurship Together (GET Ahead) training originally
 > developed by the International Labour Organization has been implemented to improve business

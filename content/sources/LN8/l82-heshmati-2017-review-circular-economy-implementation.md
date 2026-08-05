@@ -27,19 +27,18 @@ Entrepreneurship Forum" (Stockholm, 12/2016).</span>
 
 ## Abstract
 
-> Circular economy (CE) là một chiến lược phát triển bền vững được đề xuất nhằm giải
+> Kinh tế tuần hoàn (CE) là một chiến lược phát triển bền vững được đề xuất nhằm giải
 > quyết các vấn đề cấp bách về suy thoái môi trường và khan hiếm tài nguyên. Nguyên tắc
-> 3R của CE là giảm thiểu, tái sử dụng và tái chế vật liệu (reduce, reuse and recycle).
-> Nghiên cứu này là một bài tổng quan về literature đang phát triển nhanh chóng về CE,
-> bao quát khái niệm và thực tiễn hiện tại của nó, đồng thời đánh giá việc triển khai.
-> Bài tổng quan cũng đóng vai trò như một đánh giá về việc thiết kế, triển khai và hiệu
-> quả của các chính sách liên quan đến CE. Trước hết, bài viết trình bày khái niệm CE và
-> so sánh nó với nền kinh tế tuyến tính (linear economy) hiện nay. [...] các thực tiễn
-> hiện tại [...] được giới thiệu và các chuẩn mực đánh giá sự phát triển và hiệu suất của
-> CE được bàn luận. Thứ ba, [...] các vấn đề và thách thức nền tảng đối với CE dưới góc
-> nhìn entrepreneurship [được xác định]. Cuối cùng, bài tổng quan đưa ra kết luận về sự
-> phát triển hiện tại của CE và đề xuất các khuyến nghị chính sách cho sự phát triển
-> trong tương lai.
+> 3R của CE là giảm thiểu, tái sử dụng và tái chế vật liệu. Nghiên cứu này là một bài
+> tổng quan về khối tài liệu học thuật đang phát triển nhanh chóng về CE, bao quát khái
+> niệm và thực tiễn hiện tại của nó, đồng thời đánh giá việc triển khai. Bài tổng quan
+> cũng đóng vai trò như một đánh giá về việc thiết kế, triển khai và hiệu quả của các
+> chính sách liên quan đến CE. Trước hết, bài viết trình bày khái niệm CE và so sánh nó
+> với nền kinh tế tuyến tính hiện nay. [...] các thực tiễn hiện tại [...] được giới
+> thiệu và các chuẩn mực đánh giá sự phát triển và hiệu suất của CE được bàn luận. Thứ
+> ba, [...] các vấn đề và thách thức nền tảng đối với CE dưới góc nhìn tinh thần khởi
+> nghiệp [được xác định]. Cuối cùng, bài tổng quan đưa ra kết luận về sự phát triển hiện
+> tại của CE và đề xuất các khuyến nghị chính sách cho sự phát triển trong tương lai.
 
 > Circular economy (CE) is a sustainable development strategy that is being proposed to tackle
 > urgent problems of environmental degradation and resource scarcity. CE's 3R principles are to

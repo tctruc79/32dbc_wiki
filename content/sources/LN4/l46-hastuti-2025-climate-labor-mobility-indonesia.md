@@ -19,25 +19,23 @@ Mobility, Indonesia, Instrumental variable, Mediation analysis.</span>
 
 ## Abstract
 
-> Climate change đặt ra một thách thức đáng kể đối với khu vực nông nghiệp. Nó làm gián
-> đoạn các quy trình canh tác và làm giảm năng suất, gia tăng sự bất định (uncertainty)
-> cho các hộ nông nghiệp và thúc đẩy họ tìm kiếm các sinh kế thay thế. Nghiên cứu này
-> thực hiện một khảo sát về tác động của climate change, được đo lường gián tiếp (proxy)
-> qua biến động lượng mưa và nhiệt độ, lên labor mobility tại Indonesia, sử dụng dữ liệu
-> dọc (longitudinal data) từ ba vòng khảo sát liên tiếp của Indonesia Family Life Survey
-> (IFLS). Labor mobility ở đây đề cập đến sự dịch chuyển giữa các khu vực kinh tế
-> (sectoral shifts), trong đó chủ hộ chuyển đổi khu vực việc làm, bất kể có di dời nơi ở
-> hay không. Chúng tôi áp dụng phương pháp instrumental variable để đảm bảo ước lượng
-> vững chắc bằng cách xử lý khả năng nội sinh (endogeneity) tiềm ẩn của các biến khí hậu,
-> sử dụng độ cao (altitude) và vĩ độ (latitude) làm các biến công cụ (instruments). Các
-> phát hiện của chúng tôi cho thấy biến động lượng mưa và nhiệt độ có ảnh hưởng đến labor
-> mobility của các hộ nông nghiệp tại Indonesia. Cụ thể, mức tăng một phần trăm trong hệ
-> số biến thiên (coefficient of variation) của lượng mưa và nhiệt độ làm tăng có ý nghĩa
-> thống kê xác suất xảy ra labor mobility lần lượt khoảng 0,47 và 1,38 điểm phần trăm.
-> Chúng tôi tiếp tục chứng minh rằng tác động này chủ yếu vận hành thông qua những thay
-> đổi trong chi phí sản xuất nông nghiệp (farm production costs), vốn ảnh hưởng đến labor
-> mobility, đặc biệt dưới sự biến động của lượng mưa. Phân tích tính không đồng nhất
-> (heterogeneity analysis) cho thấy tác động của biến động lượng mưa và nhiệt độ rõ rệt
+> Biến đổi khí hậu đặt ra một thách thức đáng kể đối với khu vực nông nghiệp. Nó làm gián
+> đoạn các quy trình canh tác và làm giảm năng suất, gia tăng sự bất định cho các hộ nông
+> nghiệp và thúc đẩy họ tìm kiếm các sinh kế thay thế. Nghiên cứu này thực hiện một khảo
+> sát về tác động của biến đổi khí hậu, được đo lường gián tiếp qua biến động lượng mưa
+> và nhiệt độ, lên di chuyển lao động tại Indonesia, sử dụng dữ liệu dọc từ ba vòng khảo
+> sát liên tiếp của Khảo sát Đời sống Gia đình Indonesia (IFLS). Di chuyển lao động ở đây
+> đề cập đến sự dịch chuyển giữa các khu vực kinh tế, trong đó chủ hộ chuyển đổi khu vực
+> việc làm, bất kể có di dời nơi ở hay không. Chúng tôi áp dụng phương pháp biến công cụ
+> để đảm bảo ước lượng vững chắc bằng cách xử lý khả năng nội sinh tiềm ẩn của các biến
+> khí hậu, sử dụng độ cao và vĩ độ làm các biến công cụ. Các phát hiện của chúng tôi cho
+> thấy biến động lượng mưa và nhiệt độ có ảnh hưởng đến di chuyển lao động của các hộ
+> nông nghiệp tại Indonesia. Cụ thể, mức tăng một phần trăm trong hệ số biến thiên của
+> lượng mưa và nhiệt độ làm tăng có ý nghĩa thống kê xác suất xảy ra di chuyển lao động
+> lần lượt khoảng 0,47 và 1,38 điểm phần trăm. Chúng tôi tiếp tục chứng minh rằng tác
+> động này chủ yếu vận hành thông qua những thay đổi trong chi phí sản xuất nông nghiệp,
+> vốn ảnh hưởng đến di chuyển lao động, đặc biệt dưới sự biến động của lượng mưa. Phân
+> tích tính không đồng nhất cho thấy tác động của biến động lượng mưa và nhiệt độ rõ rệt
 > hơn ở những nông dân tại đảo Java, đặc biệt là những người có trình độ học vấn cao hơn
 > và diện tích đất canh tác nhỏ hơn.
 

@@ -26,22 +26,22 @@ France-Japan conference at Sciences Po Aix.</span>
 
 ## Abstract
 
-> Nghiên cứu này đánh giá đóng góp của ba chính sách then chốt — electricity infrastructure,
-> globalization, và privatization — đối với economic development của Việt Nam từ 1980 đến
-> 2018. Giai đoạn này có thể chia thành hai thời kỳ riêng biệt: Period I (1980–1997) đặc trưng
-> bởi tăng trưởng cao nhưng bất ổn (unstable), trong khi Period II (1998–2018) chứng kiến tăng
-> trưởng cao bền vững và độ ổn định được cải thiện. Để đánh giá tác động của các chính sách này
-> lên GDP growth trong cả hai thời kỳ, các phân tích impulse response và vector autoregression
-> (VAR) đã được thực hiện. Kết quả của chúng tôi cho thấy trong Period I, globalization và hạ
-> tầng năng lượng có tác động dương tức thời và đáng kể lên GDP growth nhưng đồng thời cũng góp
-> phần gây bất ổn tốc độ tăng trưởng. Trong Period II, hạ tầng điện và globalization tiếp tục
-> hỗ trợ GDP growth, dù hiệu ứng tương đối nhỏ. Ngược lại, các chính sách privatization có tác
-> động đáng kể: chúng góp phần vào tăng trưởng ổn định của household consumption và tăng cường
-> khả năng chống chịu (resilience) của GDP growth trước các cú sốc chính sách, qua đó đóng vai
-> trò then chốt trong việc đạt được quỹ đạo tăng trưởng cao và ổn định được quan sát kể từ
+> Nghiên cứu này đánh giá đóng góp của ba chính sách then chốt — hạ tầng điện, toàn cầu hóa,
+> và tư nhân hóa — đối với phát triển kinh tế của Việt Nam từ 1980 đến 2018. Giai đoạn này có
+> thể chia thành hai thời kỳ riêng biệt: Giai đoạn I (1980–1997) đặc trưng bởi tăng trưởng cao
+> nhưng bất ổn, trong khi Giai đoạn II (1998–2018) chứng kiến tăng trưởng cao bền vững và độ
+> ổn định được cải thiện. Để đánh giá tác động của các chính sách này lên tăng trưởng GDP trong
+> cả hai thời kỳ, các phân tích hàm phản ứng xung lực và mô hình vector tự hồi quy (VAR) đã
+> được thực hiện. Kết quả của chúng tôi cho thấy trong Giai đoạn I, toàn cầu hóa và hạ tầng
+> năng lượng có tác động dương tức thời và đáng kể lên tăng trưởng GDP nhưng đồng thời cũng
+> góp phần gây bất ổn tốc độ tăng trưởng. Trong Giai đoạn II, hạ tầng điện và toàn cầu hóa tiếp
+> tục hỗ trợ tăng trưởng GDP, dù hiệu ứng tương đối nhỏ. Ngược lại, các chính sách tư nhân hóa
+> có tác động đáng kể: chúng góp phần vào tăng trưởng ổn định của tiêu dùng hộ gia đình và
+> tăng cường khả năng chống chịu của tăng trưởng GDP trước các cú sốc chính sách, qua đó đóng
+> vai trò then chốt trong việc đạt được quỹ đạo tăng trưởng cao và ổn định được quan sát kể từ
 > 1998. Dù con đường phát triển của Việt Nam có thể trông có vẻ độc đáo dưới góc nhìn của các
-> lý thuyết phát triển hiện có, optimal growth theory cung cấp một khung giải thích phù hợp
-> hơn.
+> lý thuyết phát triển hiện có, lý thuyết tăng trưởng tối ưu cung cấp một khung giải thích phù
+> hợp hơn.
 
 > This study evaluates the contributions of three key policies—electricity infrastructure,
 > globalization, and privatization—to Vietnam's economic development from 1980 to 2018. This
