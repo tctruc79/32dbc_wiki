@@ -3,7 +3,7 @@ type: synthesis
 title: "Predicting the K32 Final-Exam 20-Paper Shortlist"
 tags: [exam-prep, shortlist-prediction, k32, k31-final-exam]
 created: 2026-08-04
-updated: 2026-08-07
+updated: 2026-08-08
 status: complete
 ---
 
@@ -19,10 +19,11 @@ course/professor), and [[overview]] (the 10-lecture outline).
 shortlist. This page is meant to guide early exam prep, and MUST be revisited once the real
 shortlist is announced on 30/8.
 
-✅ **Updated 2026-08-07**: LN9 + LN10 are now fully deep-ingested (62 papers total across
+✅ **Updated 2026-08-08**: LN9 + LN10 are now fully deep-ingested (62 papers total across
 LN1–LN10) — the 2 "near-lock" predictions in section 1 (Q3→Tam et al. 2024, Q5→Robinson &
-Thierfelder 2024) are CONFIRMED 100% correct on both author name and paper content. Section 2
-below has been updated accordingly.
+Thierfelder 2024) are CONFIRMED 100% correct on both author name and paper content. Per the
+user's request, the section-2 list has been LOCKED to exactly 20 papers (rather than left open at
+~22–24 as in the previous version).
 
 ## Key finding: the K31 exam maps almost 1:1 onto the K32 reading list
 
@@ -44,13 +45,12 @@ and CONFIRMED 100% correct. This shows the professor keeps the reading list and 
 pattern nearly identical across cohorts → the 6 papers `L31, L42, L64, L71, L95, L101` are
 near-lock candidates for the K32 shortlist.
 
-## Top-~22 prediction (from the 62 ingested LN1–10 papers)
+## Top-20 prediction (from the 62 ingested LN1–10 papers)
 
-The original list (2026-08-04) was capped at exactly 20 papers because LN9/LN10 had no materials
-yet; now 2 new near-lock papers (L95, L101) are added to confirmed Tier S, plus 2 new Tier A
-candidates from LN9/LN10 — the priority list widens to ~22–24 papers rather than being forced to
-exactly 20 (the number 20 only becomes meaningful once the professor announces the real shortlist
-on 30/8).
+After LN9/LN10 finished deep-ingesting (2026-08-07), the list was reviewed and LOCKED to exactly
+20 papers per the user's request (2026-08-08) — 6 Tier S papers (near-certain) + 10 Tier A papers
+(high likelihood) + 4 selected from Tier B (rounding out 20). The remaining 4 Tier B papers move
+to the "close alternates" section alongside the 4 previous ones.
 
 ### Tier S — near-certain (6 papers, verbatim reuse from the K31 exam)
 
@@ -78,27 +78,30 @@ on 30/8).
 | L96 | Kuosmanen, Pajarinen & Heshmati | **New (LN9)** — the professor's own paper, sharing the same "methodological signature" as L61/L71/L86 |
 | L106 | Dang, Yawei & Abdullah 2024 | **New (LN10)** — direct DiD evidence from Vietnam, fitting the same VN-priority pattern as L26/L52 |
 
-### Tier B — solid candidates (VN applications / strong methods / theoretical trunks)
+### Tier B — 4 papers rounding out the 20 (theoretical trunks / cross-lecture convergence)
 
-| Code | Paper |
-|---|---|
-| L14 | Sasges & Takahashi 2025 (Vietnam, VAR/IRF) |
-| L33 | Lastunen & Richiardi 2023 (COVID Vietnam nowcasting) |
-| L41 | Ho 2021 (land tenure Vietnam, nighttime lights) |
-| L53 | Naudé 2010 (the entrepreneurship trunk paper) |
-| L77 | Drama et al. 2025 (public-investment allocation efficiency, connecting to [[institutions]]) |
-| L63 | Tran, Alkire & Klasen 2015 (completes the "Vietnam poverty triangle" alongside L64) |
-| L22 | Mauro 1995 (the classic corruption-growth paper) |
-| L13 | Spolaore & Wacziarg 2013 (deep roots — a direct debate with L11) |
+| Code | Paper | Reason |
+|---|---|---|
+| L13 | Spolaore & Wacziarg 2013 | The deep-roots trunk (cluster A) — a direct debate with L11 (already Tier A), a classic comparison-question pair |
+| L22 | Mauro 1995 | The classic corruption-growth paper — together with L26 (Tier A) + L77 (same table) completes the FULL 3-lecture corruption-control convergence chain |
+| L53 | Naudé 2010 | The programmatic trunk of the entire entrepreneurship cluster (LN5) — the "black box" institutions framing that L26/L52 (already selected) build on |
+| L77 | Drama et al. 2025 | Completes the 3-lecture corruption-control convergence chain alongside L22+L26 (see [[exam-prep]] section 3.18, an exam question — Q61 — already exists) |
+
+**Selection note**: these 4 were prioritized over the other 4 former Tier-B candidates (L14, L33,
+L41, L63) because each is either the trunk/classic of an entire thematic cluster OR completes an
+existing cross-lecture convergence chain that already has a ready-made exam question — not an
+absolute choice, just a reasoned inference while the professor hasn't announced the real
+shortlist.
 
 ## Distribution by lecture
 
-LN1(3) · LN2(3) · LN3(2) · LN4(2) · LN5(2) · LN6(3) · LN7(2) · LN8(3) · LN9(2) · LN10(2) = 22.
+LN1(3) · LN2(3) · LN3(1) · LN4(1) · LN5(2) · LN6(3) · LN7(2) · LN8(3) · LN9(2) · LN10(2) = 20.
 LN1/LN2 (canonical theoretical foundations) and LN6/LN8 (the professor's core research
-specialties) are weighted 3 slots each; the remaining lectures (including the new LN9/LN10) get 2
-slots each.
+specialties) are weighted 3 slots each; LN9/LN10 (new, with the strongest near-lock evidence from
+K31) and LN5/LN7 get 2 slots; LN3/LN4 get only 1 slot since no additional strong candidate exists
+beyond the already-locked Tier S paper.
 
-## Close alternates that narrowly missed the cut
+## Close alternates that narrowly missed the cut (8 papers)
 
 - L44 — Vo & Tran 2022, the LVI trunk for the vulnerability cluster, VN.
 - L73 — McGuinness et al. 2021, the reversing Vietnamese university wage premium (a "low skills
@@ -106,16 +109,24 @@ slots each.
 - L75 — Hanushek 2016, a classic in education economics.
 - L51 — Nguyen 2023, the counter-intuitive negative risk-taking finding for women-owned Vietnamese
   SMEs.
+- L63 — Tran, Alkire & Klasen 2015, would complete the "Vietnam poverty triangle" alongside L64
+  (already Tier S) — narrowly missed since L64 already represents the VN poverty theme.
+- L14 — Sasges & Takahashi 2025, VN VAR/IRF, 3 economic policies 1980–2019.
+- L41 — Ho 2021, VN land tenure, nighttime-light proxy — topic overlaps with L42 (already Tier S).
+- L33 — Lastunen & Richiardi 2023, VN COVID-19 nowcasting — a narrower topic than the 4 selected
+  Tier B papers.
 
 ## Remaining limitations
 
 The old "follow-up once LN9/LN10 arrive" section is now complete (2026-08-07) — all 62 LN1–10
-papers are deep-ingested, and 6 Tier S papers are confirmed 100% correct via K31 cross-checking.
-The ONE remaining limitation of this page: it is still a PREDICTION based on a single prior
-cohort's exam (K31) — the professor could fully change the remaining 14–16 Tier A/B papers when
-the real shortlist is announced on 30/8; only the 6 Tier S papers rest on solid empirical
-grounding (matching the real exam). This entire page must be cross-checked once the 30/8
-shortlist is announced.
+papers are deep-ingested, 6 Tier S papers are confirmed 100% correct via K31 cross-checking, and
+the list has been LOCKED to exactly 20 papers (2026-08-08). The ONE remaining limitation of this
+page: it is still a PREDICTION based on a single prior cohort's exam (K31) — the professor could
+fully change the remaining 14 Tier A/B papers when the real shortlist is announced on 30/8; only
+the 6 Tier S papers rest on solid empirical grounding (matching the real exam). The 4 Tier B
+papers rounding out the 20 (L13/L22/L53/L77) rest on trunk/convergence reasoning, NOT direct
+empirical evidence like Tier S. This entire page must be cross-checked once the 30/8 shortlist is
+announced.
 
 ## Links
 

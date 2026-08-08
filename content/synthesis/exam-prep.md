@@ -27,7 +27,7 @@ text).</span>
 
 1. **Nắm bản đồ tổng trước** (~10 phút) — đọc mục 1 (bảng tra nhanh) + mục 2 (12 cụm chủ đề)
    dưới đây, hoặc trang [[all-papers-mindmap]].<br><span class="en">**First grasp the overall
-   map** (~10 minutes) — read section 1 (quick-lookup table) + section 2 (10 thematic clusters)
+   map** (~10 minutes) — read section 1 (quick-lookup table) + section 2 (12 thematic clusters)
    below, or the [[all-papers-mindmap]] page.</span>
 2. **Học theo cụm, không theo thứ tự slide** — Deep Roots (L13) → Convergence (L11, L14, L15)
    → Institutions (L21 trunk + L22/23/24/26) → Policy Critique (L12, L25) → Banking Crisis
@@ -2489,15 +2489,16 @@ trade diversion (L104) and tariff-driven relocation to Vietnam (L106/L107) (3.30
   K32.<br><span class="en">Main value: getting familiar with the **question type** ("present the
   findings + drivers/impacts/mechanism of one specific paper") — likely to reappear on the K32
   exam.</span>
-- [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5) và [[k32-mock-exam-3]] (LN6–LN8) —
-  đề thi **mô phỏng cho K32** (Claude tự soạn, KHÔNG phải đề thật — giáo sư chưa công bố
-  shortlist/đề K32), bám đúng format/luật thi của [[k31-final-exam]] nhưng thay bằng 18/49 paper
-  đã deep-ingest của K32 (12 ở Set 1-2, thêm 6 paper LN6-8 mới ở Set 3), trải đều cả 10 cụm chủ
-  đề.<br><span class="en">[[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5) and
-  [[k32-mock-exam-3]] (LN6–LN8) — **mock exams for K32** (authored by Claude, NOT the real exam
-  — the professor hasn't published K32's shortlist/exam), closely following
-  [[k31-final-exam]]'s format/rules but substituting 18/49 of K32's deep-ingested papers (12 in
-  Sets 1-2, plus 6 new LN6-8 papers in Set 3), spread across all 10 thematic clusters.</span>
+- [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8) và
+  [[k32-mock-exam-4]] (LN9–LN10) — đề thi **mô phỏng cho K32** (Claude tự soạn, KHÔNG phải đề thật
+  — giáo sư chưa công bố shortlist/đề K32), bám đúng format/luật thi của [[k31-final-exam]] nhưng
+  thay bằng 24/62 paper đã deep-ingest của K32 (12 ở Set 1-2, 6 paper LN6-8 ở Set 3, 6 paper
+  LN9-10 mới ở Set 4), trải đều cả 12 cụm chủ đề.<br><span class="en">[[k32-mock-exam-1]]
+  (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8) and [[k32-mock-exam-4]]
+  (LN9–LN10) — **mock exams for K32** (authored by Claude, NOT the real exam — the professor
+  hasn't published K32's shortlist/exam), closely following [[k31-final-exam]]'s format/rules but
+  substituting 24/62 of K32's deep-ingested papers (12 in Sets 1-2, 6 LN6-8 papers in Set 3, 6 new
+  LN9-10 papers in Set 4), spread across all 12 thematic clusters.</span>
   Dùng để luyện dạng câu hỏi + luyện viết đáp án đúng khuôn khổ thi thật. Sẽ mở rộng thêm set/câu
   hỏi mỗi khi có reading mới được deep-ingest (xem CLAUDE.md).<br><span class="en">Used to
   practice the question type + practice writing answers within the real exam's constraints. Will

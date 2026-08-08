@@ -1502,13 +1502,14 @@ diversion (L104) and tariff-driven relocation to Vietnam (L106/L107) (3.30)**
   by this course's own professor. Main value: getting used to the **question format** ("present
   the findings + drivers/impacts/mechanism of a specific paper") — likely to reappear on the
   K32 exam.
-- [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5) and [[k32-mock-exam-3]] (LN6–LN8)
-  — **mock exams for K32** (Claude-authored, NOT a real exam — the professor has not yet
-  released the K32 shortlist or exam), following the exact format/rules of [[k31-final-exam]]
-  but using 18/49 of K32's already deep-ingested papers (12 in Sets 1-2, plus 6 new LN6-8 papers
-  in Set 3), spanning all 10 thematic clusters. Use these to practice the question format and to
-  practice writing answers within the real exam's constraints. Will be extended with more
-  sets/questions as new readings are deep-ingested (see CLAUDE.md).
+- [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8) and
+  [[k32-mock-exam-4]] (LN9–LN10) — **mock exams for K32** (Claude-authored, NOT a real exam — the
+  professor has not yet released the K32 shortlist or exam), following the exact format/rules of
+  [[k31-final-exam]] but using 24/62 of K32's already deep-ingested papers (12 in Sets 1-2, 6
+  LN6-8 papers in Set 3, 6 new LN9-10 papers in Set 4), spanning all 12 thematic clusters. Use
+  these to practice the question format and to practice writing answers within the real exam's
+  constraints. Will be extended with more sets/questions as new readings are deep-ingested (see
+  CLAUDE.md).
 
 ## Links
 
