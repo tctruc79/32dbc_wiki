@@ -1,16 +1,16 @@
 ---
 type: synthesis
-title: "Final Exam Prep — Master Synthesis (LN1–LN8)"
-tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis, agriculture, climate-vulnerability, entrepreneurship, total-factor-productivity, human-capital, circular-economy, poverty, infrastructure, health]
+title: "Final Exam Prep — Master Synthesis (LN1–LN10)"
+tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis, agriculture, climate-vulnerability, entrepreneurship, total-factor-productivity, human-capital, circular-economy, poverty, infrastructure, health, artificial-intelligence, digitalization, trade-war]
 created: 2026-07-24
-updated: 2026-08-01
+updated: 2026-08-07
 status: complete
 ---
 
 # Final Exam Prep — Master Synthesis
 
-The central reference point for exam review, gathering all 49 deep-ingested papers (LN1–LN8)
-into: a quick-lookup table, 10 thematic clusters, **debates/tensions between papers** (the focus
+The central reference point for exam review, gathering all 62 deep-ingested papers (LN1–LN10)
+into: a quick-lookup table, 12 thematic clusters, **debates/tensions between papers** (the focus
 of comparison-style exam questions), a concept map, and a question bank. This page is updated
 continuously — whenever a new lecture/reading is ingested, it is added here right away per the
 rules in CLAUDE.md. See also the visual version: the mindmap Artifact (link sent in chat) and
@@ -19,7 +19,7 @@ rules in CLAUDE.md. See also the visual version: the mindmap Artifact (link sent
 ## 5-Step Exam Review Process
 
 1. **First grasp the overall map** (~10 minutes) — read section 1 (quick-lookup table) +
-   section 2 (10 thematic clusters) below, or the [[all-papers-mindmap]] page.
+   section 2 (12 thematic clusters) below, or the [[all-papers-mindmap]] page.
 2. **Study by cluster, not slide order** — Deep Roots (L13) → Convergence (L11, L14, L15) →
    Institutions (L21 trunk + L22/23/24/26) → Policy Critique (L12, L25) → Banking Crisis (L31
    trunk + L32/33/34/35/36) → Agriculture & Land Institutions/Climate Vulnerability (L41/42 trunk
@@ -27,8 +27,10 @@ rules in CLAUDE.md. See also the visual version: the mindmap Artifact (link sent
    Technology, Productivity & Vietnam Poverty Measurement (L61/62 methodological pair + L63/64/65
    Vietnam poverty triangle) → Human Capital, Infrastructure & Public Investment (L71/72
    infrastructure + L73/74/75 education + L76 health + L77 allocative efficiency) → Circular
-   Economy (L81-88, 2 empirical cases + 3 definition/measurement papers + 2 emerging channels).
-   Exams often ask comparisons *within* a cluster.
+   Economy (L81-88, 2 empirical cases + 3 definition/measurement papers + 2 emerging channels) →
+   AI & Digitalization (L91/92 AI for environmental risk in Vietnam + L93/94/95/96 digital
+   transformation & productivity) → Trade War & Protectionism (L101-105 global mechanisms +
+   L106/107 Vietnam evidence). Exams often ask comparisons *within* a cluster.
 3. **Study the "debates" section (section 3) — the most important part.** It's exactly the
    comparison-style question type that shows up on exams; learn the arguments on **both sides**,
    not just one.
@@ -46,9 +48,9 @@ If time is short: prioritize steps 3 + 4, skip re-reading each paper in detail.
 |---|---|
 | Shortlist of 20 readings for the written exam | ⏳ Professor sends **30/8** (updated — original syllabus said 23/8) — **NOT yet available**, this is the real exam scope |
 | Written Exam date | ✅ **06/9** — confirmed via the "Planning Schedule" slide updated in class (resolves the earlier syllabus 30/8 vs LN0 06/9 conflict) — see [[ln0-course-intro]] |
-| Current wiki coverage | LN1 (5) + LN2 (6) + LN3 (6) + LN4 (6) + LN5 (6) + LN6 (5) + LN7 (7) + LN8 (8) = 49 papers. Lectures 9–10 **have no** material in `raw/` yet |
+| Current wiki coverage | LN1 (5) + LN2 (6) + LN3 (6) + LN4 (6) + LN5 (6) + LN6 (5) + LN7 (7) + LN8 (8) + LN9 (6) + LN10 (7) = 62 papers, **all 10 lectures fully deep-ingested** |
 
-## 1. Quick-Lookup Table — 49 Papers
+## 1. Quick-Lookup Table — 62 Papers
 
 | Code | Paper                              | Lecture | Method                                            | Key finding (1 line)                                                        |
 | --- | ---------------------------------- | ------- | ------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -101,8 +103,21 @@ If time is short: prioritize steps 3 + 4, skip re-reading each paper in detail.
 | L86 | Heshmati & Rashidghalam 2021, JCP   | LN8     | PCA (8 components/40 indicators), panel of 273 Swedish municipalities 2012-2018 | Gotland #1 (88.35); Stockholm LAST (29.50) despite being the capital; the waste-collection charge (WCOL) is the strongest lever |
 | L87 | Nademi & Sedaghat Kalmarzi 2025, JCP | LN8    | Spectral clustering + 8 panel GMM models, Europe 2010-2019 | All 8/8 CE indexes significantly reduce unemployment; private CE investment + recyclable-material trade are strongest |
 | L88 | Luengo Vera et al. 2025, GER        | LN8     | Bibliometrics (co-occurrence + text mining + bibliographic coupling), 1,630 Scopus articles 2020-2024 | Innovation is the central node/"systemic enabler"; China/UK/India are 3 scientific poles in a multipolar landscape |
+| L91 | Pham, Luu, Phong et al. 2020, J. Hydrology | LN9 | Hybrid AI (AdaBoost-DT, Bagging-DT) + MCDA, 847 flood points in Quảng Nam | Hybrid AI + MCDA produces more objective factor weights than MCDA alone |
+| L92 | Rakholia, Le, Vu, Ho & Carbajo 2022, Urban Climate | LN9 | ML forecasting (SGD, 1D CNN-LSTM, XGBoost, Prophet), 6 monitoring stations in Ho Chi Minh City | Simple linear SGD outperforms CNN-LSTM/Prophet — small samples cause complex models to overfit |
+| L93 | Pham, Nong, Simshauser, Nguyen & Duong 2024, J. Cleaner Production | LN9 | Critical review, synthesizing OECD.AI + policy documents | Vietnam's AI investment is only $31 million (2021), lagging the region; a low-quantity/high-quality paradox (top-5% journal output ranks 2nd regionally) |
+| L94 | Dang, Tran, Dang & Bui 2024, Telecommunications Policy | LN9 | Digital-spillover panel model, Vietnam 2007-2019 | Core digital economy grows from 1.45%→7.08% of GDP, but spillover to the rest of the economy stays nearly flat |
+| L95 | Nguyen Van Tam, Nguyen Quoc Toan & Vu Van Phong 2024, IJIMDI | LN9 | Survey of 248 experts + EFA + ANOVA, 31 barriers | Social/habitual resistance is barrier #1 (not technology); clear differences across the 3 stakeholder groups |
+| L96 | Kuosmanen, Pajarinen & Heshmati 2025, Telecommunications Policy | LN9 | Digital Intensity Index + quantile regression, linked employer-employee panel, Finland 2015-2021 | Digital intensity ↔ performance is positive but UNEVEN — strongest at top-performing firms; suggests a "digital divide" |
+| L101 | Robinson & Thierfelder 2024, J. Policy Modeling | LN10 | CGE model (US trade-policy scenarios) | Trade war sharply cuts US-China trade, but the world adjusts via trade diversion around the US |
+| L102 | Alessandria, Yar Khan, Khederlarian, Ruhl & Steinberg 2025, J. International Economics | LN10 | Dynamic export model + indirect inference (Markov policy process), US-China 2015-2050 | Policy uncertainty only emerges AFTER 2018; the nature of the risk shifts from temporary to long-run structural |
+| L103 | Che, Lin & Zhang 2025, J. International Economics | LN10 | DiD + input-output analysis, US-China customs data | 69.70% of the US-China trade statistical discrepancy (2021) is due to tariff evasion, not an actual trade decline |
+| L104 | Sheng, Song & Zheng 2025, J. International Money and Finance | LN10 | Structural quality-ladder gravity model, Chinese micro export data | China diverts trade VERTICALLY (VTD) toward the Global South, not horizontally (HTD) as predicted |
+| L105 | Almazán-Gómez, El Khatabi, Llano & Pérez 2025, J. Policy Modeling | LN10 | SMART partial-equilibrium + multiregional IO model (EUREGIO-2017), 297 EU NUTS-2 regions | Every EU region is affected, even those not producing tariffed goods; highly specialized/deeply integrated regions are hit hardest |
+| L106 | Dang, Yawei & Abdullah 2024, J. Trade Science | LN10 | DiD, Vietnamese exports to the US (UN Comtrade, 6-digit) | Trade war INCREASES Vietnamese exports to the US by 14%, concentrated in intermediate goods (plastics, steel) |
+| L107 | Toai 2025, J. Information Systems Engineering and Management | LN10 | Literature review + secondary data analysis | Vietnam benefits from trade diversion but deepens dependence on Chinese inputs + faces US transshipment-investigation risk |
 
-## 2. Ten Thematic Clusters
+## 2. Twelve Thematic Clusters
 
 Full detail: [[all-papers-mindmap]]. Summary:
 
@@ -144,6 +159,27 @@ Full detail: [[all-papers-mindmap]]. Summary:
   global review bridging the 2 cases) + 3 definition/measurement papers (L83/L84/L85 — 3
   different responses to "114 CE definitions") + 2 emerging channels (L87 employment, L88
   innovation-SDG bibliometrics).
+- **K. AI & Digitalization (LN9)** — 2 independent axes: (i) [[ai-for-environmental-risk-vietnam]]
+  — L91 (flood risk, hybrid AI+MCDA) + L92 (PM2.5 air quality forecasting) — both use AI/ML to
+  forecast environmental risk in Vietnam, differing in application domain; (ii)
+  [[digital-transformation-and-productivity]] — L93 (Vietnam's AI investment lags the region, a
+  policy review) + L94 (Vietnam's digital economy grows in scale but spillover stays flat) + L95
+  (construction-sector digitalization barriers in Vietnam — human factors > technology) + L96
+  (Heshmati, digital intensity ↔ firm performance in Finland, uneven — a "digital divide"). L96
+  shares an author (Prof. Heshmati) with L61/L71/L86, providing a developed-country (Finland)
+  counterweight to the 3 Vietnam-focused papers L93-95.
+- **L. Trade War & Protectionism (LN10)** — no single trunk paper, structured via
+  [[trade-war-and-protectionism]] along 2 axes — (i) global/theoretical mechanisms — L101 (CGE, the
+  world adjusts via trade diversion around the US), L102 (policy uncertainty shifting from
+  temporary to structural), L103 (evasion explains 69.70% of the US-China statistical gap), L104
+  (China diverts VERTICALLY — VTD — not horizontally as predicted), L105 (regional NUTS-2 European
+  impact, every region affected); (ii) Vietnam-specific evidence — L106 (DiD: Vietnamese exports to
+  the US +14%, concentrated in intermediate goods) + L107 (review: Vietnam benefits from trade
+  diversion but deepens dependence on Chinese inputs + faces transshipment-investigation risk). A
+  notable L104 nuance: the paper directly confirms Vietnam is NOT a primary destination of China's
+  diversion flow (VTD points toward the poorer South, while Vietnam is already deeply integrated
+  into Chinese supply chains) — an interesting bridge to L106/L107 (Vietnam benefits from trade
+  diversion FROM the US, not from receiving China's diverted goods).
 
 ## 3. Debates & Tensions Between Papers
 
@@ -532,6 +568,178 @@ the exam.
   endogeneity problem but choose different tools (3SLS+Mills ratio vs. System GMM). Explain why
   each tool fits that paper's data structure."
 
+### 3.24 A more complex AI model doesn't always win: L91 (ensemble tree wins) vs. L92 (linear SGD wins)
+
+- **Pham et al. (L91, LN9)**: for flood-susceptibility forecasting, the hybrid decision-tree
+  ensemble (BDT — Bagging Decision Tree) outperforms other variants — higher complexity (an
+  ensemble of many trees) yields better performance.
+- **Rakholia et al. (L92, LN9)**: for PM2.5 forecasting, the simplest LINEAR model (the SGD
+  Regressor) outperforms both deep learning (1D CNN-LSTM) and Prophet — here higher complexity
+  BACKFIRES because the small training sets (~3 months, due to the non-stationarity protocol)
+  make the complex model prone to overfitting.
+- **Balance**: there is no universally "best AI model" — performance depends on data structure
+  (sample size, seasonality, dimensionality), not on algorithmic complexity per se; the 2 papers,
+  same lecture, same Vietnamese environmental application, yield opposite lessons about model
+  choice.
+- **Potential exam question**: "L91 shows a complex ensemble model winning, L92 shows a simple
+  linear model winning. From these 2 papers, derive a principle for choosing an AI model for
+  environmental-risk forecasting in a developing country."
+
+### 3.25 The digital gap doesn't disappear as a country gets richer, it just changes shape: L93 (Vietnam's AI-investment shortfall) vs. L96 (Finland's digital divide despite advanced status)
+
+- **Pham et al. (L93, LN9)**: in Vietnam — a DEVELOPING country — the digital gap shows up at the
+  NATIONAL level: AI investment of just USD 31 million (2021), far behind Singapore/Indonesia/
+  Thailand/Malaysia.
+- **Kuosmanen, Pajarinen & Heshmati (L96, LN9)**: in Finland — an already digitally advanced
+  country — the digital gap still exists but shifts down to the FIRM level: the digitalization-
+  performance link is strongest among TOP-performing firms, weak or insignificant among
+  low-performers.
+- **Balance**: the "digital divide" is a multi-level phenomenon — it doesn't vanish as a country
+  develops, it just MOVES from the national level (Vietnam: which countries invest enough) down
+  to the firm level (Finland: which firms actually capture the benefit) — implying digitalization
+  policy must track both levels, not just aggregate national investment.
+- **Potential exam question**: "Compare how the 'digital divide' manifests in Vietnam (L93) and
+  Finland (L96). From this, discuss whether digitalization automatically narrows development
+  inequality."
+
+### 3.26 Scale growth doesn't mean quality improvement: L94 (Vietnam's digital economy) vs. L61 (global TFP, another Prof. Heshmati paper)
+
+- **Dang, Tran, Dang & Bui (L94, LN9)**: Vietnam's core digital economy grows rapidly in SCALE
+  (1.45%→7.08% of GDP, 2007-2019) but the SPILLOVER effect to the rest of the economy stays
+  nearly flat — sector growth does not translate into broader domestic technological capability.
+- **Heshmati & Rashidghalam (L61, LN6)**: GDP growth accumulates across every income group, but
+  TC/TFP growth — the measure of REAL productivity improvement — is NEGATIVE across all of them;
+  growth may stem from input accumulation rather than real productivity.
+- **Balance**: the same motif recurs across 2 different lectures — HEADLINE indicators (GDP,
+  digital-economy share) can rise steadily while the underlying QUALITY indicator (TFP,
+  technology spillover) stagnates or worsens — a caution against reading development success
+  purely from surface-level aggregate indicators.
+- **Potential exam question**: "Both L94 and L61 show that scale/input growth does not guarantee
+  real quality/productivity improvement. Compare the mechanism behind each paper's finding."
+
+### 3.27 Cultural/human barriers, not technology, rank first: L95 (Vietnamese construction) vs. L83 (EU circular economy, LN8)
+
+- **Nguyen Van Tam et al. (L95, LN9)**: barrier #1 for construction digitalization in Vietnam is
+  "social and habitual resistance to change" (mean=4.31); technological barriers rank well below
+  the financial/legal group.
+- **Kirchherr et al. (L83, LN8)**: barrier #1 for circular economy in the EU is a CULTURAL
+  barrier (lack of consumer awareness, lack of a circular culture — 47%); TECHNOLOGICAL barriers
+  rank LAST (15/15).
+- **Balance**: despite 2 completely different contexts (Vietnam's developing construction sector
+  vs. the EU's developed circular economy), the same pattern recurs — technology/business-model
+  transitions are hindered mainly by PEOPLE/HABITS/CULTURE, not by whether the technology exists
+  — the older "technology is the main barrier" literature may be outdated in both contexts.
+- **Potential exam question**: "L95 (Vietnam, construction digitalization) and L83 (EU, circular
+  economy) both find cultural/human barriers ranking first and technological barriers ranking
+  last. Is this a coincidence or a general pattern of major transitions? Argue your case."
+
+### 3.28 Measuring "how the world adjusts" through 2 different lenses: static CGE (L101) vs. a dynamic model (L102)
+
+- **Robinson & Thierfelder (L101, LN10)**: uses a CGE model (a static general-equilibrium
+  scenario) — concluding the world adjusts via trade diversion around the US, a STATIC picture at
+  a new equilibrium point.
+- **Alessandria et al. (L102, LN10)**: uses a DYNAMIC export model + indirect inference — showing
+  the policy uncertainty itself CHANGES OVER TIME (from temporary to structural, long-run
+  expectations), a dynamic process rather than a single shock followed by re-equilibration.
+- **Balance**: the 2 approaches are complementary, not contradictory — the static CGE (L101)
+  suits estimating the MAGNITUDE of impact once adjustment is complete; the dynamic model (L102)
+  suits understanding the PROCESS by which expectations form/change while adjustment is underway
+  — a methodological lesson about choosing tools to fit the research question (end-state outcome
+  vs. path dynamics).
+- **Potential exam question**: "Compare what a static CGE model (L101) and a dynamic model (L102)
+  can and cannot tell us about the US-China trade war."
+
+### 3.29 Evading formal policy distorts official statistics: US-China tariff evasion (L103) vs. Vietnam's informal economy (L26, LN2)
+
+- **Che, Lin & Zhang (L103, LN10)**: 69.70% of the US-China trade statistical gap (2021) is due
+  to tariff evasion — even a strongly governed country like the US (EAPA investigation cases
+  rising 7→64, 2018-2020) sees widespread evasion of formal policy.
+- **Huynh & Tran (L26, LN2)**: FDI reduces the size of Vietnam's informal economy via a growth +
+  governance/PAPI channel — implying the converse: when institutions/governance are WEAK,
+  evasion of the formal sector (the informal economy) is more widespread.
+- **Balance**: the same "evasion behavior distorts official statistics" motif appears at both
+  extremes — a strongly governed country (the US, evading newly imposed tariffs) and a
+  developing-governance country (Vietnam, evading the formal sector broadly) — challenging the
+  common assumption that policy evasion is only a weak-governance problem.
+- **Potential exam question**: "L103 shows evasion spreading even within the US — a strongly
+  governed country. Connect this to L26 (Vietnam's informal economy) to discuss the limits of
+  the assumption that 'strong governance = high policy compliance.'"
+
+### 3.30 Vietnam is not a destination of China's VTD (L104) but still benefits from direct US-driven trade diversion (L106/L107)
+
+- **Sheng, Song & Zheng (L104, LN10)**: China's dominant strategy is Vertical Trade Diversion
+  (VTD) toward POORER Southern countries with lower high-quality-goods competition — the paper
+  directly confirms Vietnam is NOT a primary destination of this diversion flow.
+- **Dang, Yawei & Abdullah (L106, LN10) and Toai (L107, LN10)**: Vietnam still clearly benefits
+  (Vietnamese exports to the US +14%, DiD evidence) — but through a DIFFERENT mechanism:
+  Vietnamese goods became relatively cheaper than Chinese goods AFTER China was directly
+  tariffed by the US, and some Chinese investment/production may relocate to Vietnam to evade
+  tariffs — this is trade diversion TIED TO US TARIFFS, not Chinese goods "flowing" to Vietnam
+  via L104's VTD mechanism.
+- **Balance**: these 3 LN10 papers are easily mistaken for all saying "Vietnam benefits from
+  China's trade diversion," but they actually describe 2 DIFFERENT flows — (1) China actively
+  diverting ITS OWN exports away from high-competition markets (L104, not toward Vietnam) and
+  (2) US importers + investors shifting ORDERS/PRODUCTION to Vietnam to evade US-China tariffs
+  (L106/107) — distinguishing these 2 mechanisms is the easiest point to confuse when reviewing
+  the Trade War cluster.
+- **Potential exam question**: "Distinguish the mechanism by which 'Vietnam benefits from the
+  trade war' in L104 versus L106/L107. Is this the same phenomenon? Explain."
+
+### 3.31 The same phenomenon, 2 different tones: an optimistic DiD (L106) vs. a cautious review (L107)
+
+- **Dang, Yawei & Abdullah (L106, LN10)**: rigorous quantitative causal evidence (DiD) —
+  Vietnamese exports to the US INCREASE by 14% — a concrete figure, an optimistic tone, focused
+  on measurable benefit.
+- **Toai (L107, LN10)**: the same beneficial trade-diversion phenomenon for Vietnam, but this
+  qualitative review emphasizes accompanying RISKS — deepening dependence on Chinese inputs, a
+  ballooning trade surplus inviting US scrutiny, transshipment-investigation risk — a cautious
+  tone, questioning sustainability.
+- **Balance**: no contradiction in the DATA (both agree Vietnam benefits), but they differ in
+  TIME HORIZON and FOCUS — L106 measures a SHORT-RUN effect that has already occurred (tight
+  identification, looking backward); L107 speculates about LONG-RUN RISK (qualitative, looking
+  forward) — the 2 papers complement rather than oppose each other, illustrating why a positive
+  empirical finding still needs to be placed within a broader policy-risk frame.
+- **Potential exam question**: "L106 and L107 both conclude Vietnam benefits from the US-China
+  trade war, but differ in tone and focus. Explain where this difference comes from (data,
+  method, or time horizon)?"
+
+### 3.32 Does the level of analysis change the policy conclusion? National (L101) vs. NUTS-2 regional (L105)
+
+- **Robinson & Thierfelder (L101, LN10)**: analysis at the NATIONAL level (CGE, countries/large
+  blocs) — conclusion: the world (aggregated by country) adjusts fairly well via trade diversion,
+  except for value-chain-tied partners.
+- **Almazán-Gómez et al. (L105, LN10)**: drilling down to the REGIONAL level (297 European
+  NUTS-2 regions) — finding EVERY region is affected, even those not producing the taxed goods,
+  via inter-sectoral/inter-regional spillovers — a considerably more pessimistic picture than
+  looking only at the aggregate national level.
+- **Balance**: the level of analysis doesn't just change the level of detail — it can change the
+  TENOR of the policy conclusion — aggregate national analysis (L101) can mask severe inequality
+  of impact across regions within the same country that only region-level analysis (L105)
+  reveals — an important methodological caution when interpreting national CGE results for
+  regional policy purposes.
+- **Potential exam question**: "L101 concludes the world adjusts fairly well to the trade war.
+  L105 drills to the regional level and finds EVERY region affected. Are these 2 contradictory
+  conclusions? Explain using the concept of the level of analysis."
+
+### 3.33 Applied AI in a developing country: environmental risk (LN9) as a model of context-appropriate technology
+
+- **Pham et al. (L91) and Rakholia et al. (L92), LN9**: both papers are NARROW, CONCRETE AI
+  applications (flood forecasting, PM2.5 forecasting) for Vietnam — not general-purpose AI or
+  national strategy, but tools solving real development problems (natural disasters, pollution)
+  with limited local data.
+- **Pham et al. (L93, LN9)**: at the MACRO POLICY level, shows Vietnam lags in AI investment, and
+  that domestic AI research concentrates heavily on exactly these "narrow, applied" fields like
+  agriculture/environment (matching L91/L92) — while strategic fields like energy remain nearly
+  absent.
+- **Balance**: L91/L92 are not a coincidence but exactly illustrate the macro pattern L93
+  describes — Vietnam does AI well at a narrow/applied scale (where data exists, need is urgent,
+  cost is low) but has not yet built large-scale strategic AI capacity — reading these 3 papers
+  together gives a consistent picture of "AI in a developing country: strong on narrow
+  application, weak on strategy."
+- **Potential exam question**: "Use L91 and L92 as concrete evidence for L93's macro claim that
+  Vietnamese AI research skews toward agriculture/environment. From this, propose 1 policy
+  recommendation not already among L93's 5 recommendations."
+
 ## 4. Concept → Paper Map
 
 - [[unconditional-convergence]] — L11 (central), connects to L15 (intra-China convergence)
@@ -578,8 +786,19 @@ the exam.
   decentralized Sweden governance — see 3.20), L82 (a global review, bridging), L83/L84/L85 (3
   responses to "114 CE definitions" — accepting/eliminating/organizing), L87 (the employment
   channel, see 3.21), L88 (the innovation-SDG channel, bibliometric)
+- [[ai-for-environmental-risk-vietnam]] — L91 (flood risk, hybrid AI+MCDA), L92 (PM2.5
+  forecasting) — 2 narrow, concrete AI applications for environmental risk in Vietnam, both
+  illustrating the macro pattern in L93 (see 3.24, 3.33)
+- [[digital-transformation-and-productivity]] — L93 (Vietnam's AI-investment gap, policy), L94
+  (Vietnam's digital economy, scale vs. spillover), L95 (construction digitalization barriers in
+  Vietnam, people > technology), L96 (Heshmati, digital intensity ↔ performance in Finland,
+  digital divide) — see 3.25, 3.26, 3.27
+- [[trade-war-and-protectionism]] — L101 (CGE, global mechanism), L102 (dynamic policy
+  uncertainty), L103 (tariff evasion), L104 (China's VTD, see 3.30), L105 (regional EU impact,
+  see 3.32), L106 (DiD, Vietnamese exports +14%), L107 (Vietnam review, transshipment risk) —
+  see 3.28, 3.29, 3.30, 3.31, 3.32
 
-## 5. Exam Review Question Bank (61 questions, with suggested answers)
+## 5. Exam Review Question Bank (76 questions, with suggested answers)
 
 The answers below are a **skeleton of key points for self-testing**, not model text to
 memorize — when writing the exam/essay, rephrase in your own words and cite exact figures from
@@ -1157,6 +1376,119 @@ each paper's evidence (3.18)**
 - 3 lectures, 3 different outcomes, all converging: institutional quality is a foundational
   variable running through the entire course.
 
+### From LN9 (6 questions)
+
+**62. Why does BDT win at flood forecasting (L91) but linear SGD wins at PM2.5 forecasting (L92)?
+(3.24)**
+- L91: the decision-tree ensemble (BDT) works well thanks to a sufficiently large dataset (847
+  flood points) and a binary classification task (flood/no flood).
+- L92: small training sets (~3 months each, due to the non-stationarity protocol) cause the
+  complex model (CNN-LSTM) to overfit; the simple linear SGD generalizes better.
+
+**63. How much did Vietnam invest in AI in 2021 relative to the region, and what paradox do Pham
+et al. (2024) identify in Vietnamese AI research? (L93)**
+- Only USD 31 million — far below Singapore (2,293m), Indonesia (344m), Thailand (162m), Malaysia
+  (114m).
+- Quantity-quality paradox: Vietnam ranks last in TOTAL AI publications but 2nd regionally/
+  globally in TOP-5% journals (152 publications 1980–2021, behind only the US).
+
+**64. How did Vietnam's digital economy grow 2007–2019, and why did the spillover effect stay
+nearly flat? (L94)**
+- Core digital economy: 1.45%→7.08% of GDP; digitalized economy: 4.90%→11.56% of GDP.
+- The ICT hardware sector is mainly export-oriented OUTSOURCING/ASSEMBLY (95% FDI firms) serving
+  EXPORT rather than domestic demand — little technology spillover to other sectors (see 3.26).
+
+**65. What is the top digitalization barrier in Vietnam's construction sector, and what does the
+international comparison (Table 6) show? (L95)**
+- Social/habitual resistance to change (B1, mean=4.31) — well above barrier #2 (3.94); Management
+  barriers is the LOWEST-mean group.
+- Vietnam has a distinctly different "barrier profile": Vietnam's top barrier is nearly absent/
+  low-ranked in most comparator countries — cannot simply be inferred from developed-country
+  literature (see 3.27).
+
+**66. What tool do Kuosmanen, Pajarinen & Heshmati (2025) use to measure digital intensity, and
+what do they find about the "digital divide"? (L96)**
+- The Digital Intensity Index (Eurostat, 12 technologies) + linked employer-employee data for
+  Finland, 2015–2021.
+- Digitalization-performance links positive but UNEVEN — strongest among top-performing firms,
+  weak/insignificant among low-performers — a digital divide persists even in an advanced country
+  (see 3.25).
+
+### From LN10 (7 questions)
+
+**67. Per Robinson & Thierfelder's (2024) CGE model, how does the world adjust to the US-China
+trade war, and which countries CANNOT? (L101)**
+- Trade diversion around the US — most other countries expand trade with both China and the US.
+- Exceptions: Canada/Mexico (tied to the US via USMCA) and all of East/Southeast Asia (tied to
+  China via regional supply chains) — the US itself still bears a net cost.
+
+**68. How has the nature of US-China trade-policy uncertainty changed from 2015 to 2050
+(projected), per Alessandria et al. (2025)? (L102)**
+- Before 2018: the market did NOT anticipate the trade war. After 2018: uncertainty emerges,
+  initially expected to be temporary (>70% probability of returning to NTR).
+- The "temporary" belief collapses over time (down to 21% by 2023) — uncertainty shifts from
+  short-run to a STRUCTURAL long-run risk (see 3.28).
+
+**69. What percentage of the US-China trade statistical gap does evasion explain, and what local
+factor does evasion tie to? (L103)**
+- 69.70% by 2021 — most of the 24.9% trade-deficit decline the Trump administration touted does
+  not reflect a genuine change.
+- Local demand at port areas (a 1-SD increase → a 1.312-fold rise in evasion), concentrated in
+  intermediate goods (see 3.29).
+
+**70. How does China's Vertical Trade Diversion (VTD) differ from conventional Horizontal Trade
+Diversion (HTD), per Sheng, Song & Zheng (2025)? (L104)**
+- HTD (conventional prediction): China shifts goods to other Northern countries. VTD (actual
+  finding): China moves down the quality ladder, shifting high-quality goods to the South.
+- Vietnam is NOT a primary destination of this VTD — different from the mechanism by which
+  Vietnam benefits in L106/L107 (see 3.30).
+
+**71. What tool do Almazán-Gómez et al. (2025) use to quantify the regional impact of the trade
+war, and which regions are hit hardest? (L105)**
+- The SMART partial-equilibrium model + the EUREGIO-2017 multiregional input-output table, for
+  297 European NUTS-2 regions.
+- Regions highly specialized in taxed products (automotive, aerospace) AND regions deeply
+  integrated into European value chains — even regions not directly producing the taxed goods
+  still suffer spillovers (see 3.32).
+
+**72. How did the US-China trade war affect Vietnamese exports to the US, and was this effect
+uniform across sectors? (L106)**
+- Total Vietnamese exports to the US INCREASED by 14% (causal DiD evidence).
+- Uneven: plastics, iron/steel, textiles, machinery clearly benefit; electronics, agriculture/
+  forestry, furniture show NO statistically significant effect.
+
+**73. What risks does Toai (2025) identify alongside the trade-diversion benefits Vietnam
+currently enjoys? (L107)**
+- Deepening dependence on Chinese inputs (vertical specialization); a ballooning trade surplus
+  with the US inviting scrutiny/retaliation risk.
+- Risk of transshipment investigation by CBP; low domestic value-added, not yet leveraging
+  CPTPP/RCEP to spread trade risk (see 3.31).
+
+### Cross-Lecture (LN9–10 and Broader) — 3 Questions
+
+**74. Compare how the "digital divide" manifests in Vietnam (L93, national level) and Finland
+(L96, firm level) (3.25)**
+- Vietnam: the digital gap is an INVESTMENT gap between countries (USD 31m vs. hundreds/
+  thousands of millions among neighbors).
+- Finland: the digital gap is a PERFORMANCE gap between firms within the same already-advanced
+  country — it doesn't disappear as a country gets richer, it just changes level.
+
+**75. What shared pattern do L94 (Vietnam's digital economy) and L61 (global TFP, Prof. Heshmati)
+reveal about scale vs. quality growth? (3.26)**
+- L94: Vietnam's core digital economy grows fast in scale but technology spillover stays nearly
+  flat.
+- L61: GDP grows across every income group but TC/TFP growth is NEGATIVE — growth may stem from
+  input accumulation rather than real productivity; both caution against reading success purely
+  from headline indicators.
+
+**76. Distinguish 2 mechanisms of "Vietnam benefiting from the trade war": China's own trade
+diversion (L104) and tariff-driven relocation to Vietnam (L106/L107) (3.30)**
+- L104: China actively diverts ITS OWN exports to the South (VTD) — Vietnam is NOT a primary
+  destination.
+- L106/L107: US importers + investors shift ORDERS/PRODUCTION to Vietnam to evade bilateral
+  US-China tariffs — a completely different flow, not Chinese goods "flowing" into Vietnam via
+  VTD.
+
 ## 6. Previous-Cohort Exam (Real Format Reference) & K32 Mock Exams
 
 - [[k31-final-exam]] — K31's final written exam (the previous cohort, same course/professor):
@@ -1185,8 +1517,10 @@ each paper's evidence (3.18)**
   [[ln4-agriculture-climate-change-natural-disasters]] ·
   [[ln5-entrepreneurship-economic-development]] · [[ln6-technology-growth-inequality-poverty]] ·
   [[ln7-investment-infrastructure-health-education]] ·
-  [[ln8-circular-economy-inclusive-sustainable-development]]
-- All 49 source pages: [[l11-patel-2021-unconditional-convergence]],
+  [[ln8-circular-economy-inclusive-sustainable-development]] ·
+  [[ln9-ai-digitalization-economic-development-growth]] ·
+  [[ln10-impacts-trade-war-vietnamese-economy]]
+- All 62 source pages: [[l11-patel-2021-unconditional-convergence]],
   [[l12-nunn-2019-rethinking-econ-dev]], [[l13-spolaore-2013-deep-roots]],
   [[l14-sasges-2025-vietnam-policies]], [[l15-yin-2025-china-hqed]],
   [[l21-acemoglu-2001-colonial-origins]], [[l22-mauro-1995-corruption-growth]],
@@ -1229,7 +1563,17 @@ each paper's evidence (3.18)**
   [[l85-saidani-2019-taxonomy-circular-economy-indicators]],
   [[l86-heshmati-rashidghalam-2021-urban-circular-economy-sweden]],
   [[l87-nademi-kalmarzi-2025-circular-economy-unemployment]],
-  [[l88-vera-2025-innovation-circular-economy-sdgs]]
+  [[l88-vera-2025-innovation-circular-economy-sdgs]],
+  [[l91-pham-2020-flood-risk-ai-vietnam]], [[l92-rakholia-2022-air-quality-ai-hcmc]],
+  [[l93-pham-2024-ai-development-vietnam-review]], [[l94-vietduc-2024-digital-economy-vietnam]],
+  [[l95-tam-2024-construction-digitalization-barriers-vietnam]],
+  [[l96-kuosmanen-2026-digital-adoption-firm-performance-finland]],
+  [[l101-robinson-thierfelder-2024-us-trade-policy-cge]],
+  [[l102-alessandria-2025-trade-war-tariff-risk]], [[l103-che-2025-tariff-evasion-trade-war]],
+  [[l104-sheng-2025-chinese-exporters-trade-diversion]],
+  [[l105-almazan-gomez-2025-regional-exposure-trade-wars-eu]],
+  [[l106-dang-2024-vietnam-exports-us-trade-war-did]],
+  [[l107-toai-2025-vietnam-import-export-trade-war]]
 - **Interactive version (Artifact)**: a mindmap with expandable/collapsible papers + a "Self-test"
   flashcard tab (both private, need to click Share on that page to send to someone else):
   - Bilingual (original, VI explanations + EN terminology): https://claude.ai/code/artifact/b1704073-2623-44b9-8b64-b0cf8461d866

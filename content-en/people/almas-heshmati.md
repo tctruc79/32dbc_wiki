@@ -30,7 +30,8 @@ UEH-Vietnam Netherlands Programme). Email: almas.heshmati@gmail.com.
   [[l82-heshmati-2017-review-circular-economy-implementation]] (global review);
   [[l86-heshmati-rashidghalam-2021-urban-circular-economy-sweden]] (urban circular economy,
   Sweden).
-- **Digitalization**: Kuosmanen, Pajarinen & Heshmati 2026 (digital adoption, Finland).
+- **Digitalization** (LN9): [[l96-kuosmanen-2026-digital-adoption-firm-performance-finland]]
+  (Kuosmanen, Pajarinen & Heshmati — digital adoption & firm performance, Finland).
 
 → Strategic suggestion: topics 6, 7, 8, 9 include the professor's own papers — likely to be
 emphasized in lectures and the exam; an essay closer to these directions is more likely to get
@@ -42,6 +43,7 @@ students who want to emulate the professor's methodological style.
 
 - [[syllabus-2026]], [[ln1-economic-development]], [[ln6-technology-growth-inequality-poverty]],
   [[ln7-investment-infrastructure-health-education]],
-  [[ln8-circular-economy-inclusive-sustainable-development]].
+  [[ln8-circular-economy-inclusive-sustainable-development]],
+  [[ln9-ai-digitalization-economic-development-growth]].
 - [[k31-final-exam]] — K31 exam question 6 asks directly about Heshmati & Rashidghalam's (2020)
   paper, urban infrastructure & urbanization in China.

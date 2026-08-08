@@ -3,7 +3,7 @@ type: exam
 title: "K31 Final Written Exam — Development Issues and Business Cycle"
 tags: [exam, past-exam, k31, land-consolidation, poverty-inequality, construction-digitalization, banking-crisis, trade-policy, urban-infrastructure]
 created: 2026-07-28
-updated: 2026-08-04
+updated: 2026-08-07
 status: complete
 source_file: "raw/4. PAST EXAMS/K31 final written exam/k31-exam-page1-questions.jpeg"
 also_covers:
@@ -20,25 +20,22 @@ rules plus the start of Q1–3, and one clear photo of the full Q1–6 text; a t
 sent was identical to the first and was not kept separately — cross-checked 2026-07-28).
 
 ⚠️ **Scope note**: this is the exam of **a different cohort (K31)**, not the current cohort's
-(K32) exam. Originally, the 6 papers asked about here were NOT part of the LN1–LN3 reading list
-ingested for K32 — but through later ingest rounds, **4 of the 6 questions now overlap 100%**
-with K32's deep-ingested reading list: Q1 with [[l42-do-2023-land-consolidation-vietnam]] (LN4,
-ingested 2026-07-29), Q2 with [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] (LN6,
-ingested 2026-08-01), Q4 with [[l31-baron-2021-banking-crises-without-panics]] (LN3), Q6 with
-[[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (LN7, ingested 2026-08-01); the
-remaining 2 (Q3, Q5) match author/year names exactly in the LN9/LN10 outline already listed in
-[[overview]] but whose materials haven't been sent yet — meaning **all 6/6 K31 questions likely
-correspond to a paper** in K32's full reading list (finding from 2026-08-04, see the full
-analysis + shortlist prediction at [[shortlist-prediction]]). Use this page to: (a) get familiar
+(K32) exam. Originally, the 6 papers asked about in this exam did NOT appear in K32's ingested
+reading list — but through later ingest rounds, **ALL 6/6 questions now overlap 100%** with K32's
+deep-ingested reading list: Q1 with [[l42-do-2023-land-consolidation-vietnam]] (LN4, ingested
+2026-07-29), Q2 with [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] (LN6, ingested
+2026-08-01), Q3 with [[l95-tam-2024-construction-digitalization-barriers-vietnam]] (LN9, ingested
+2026-08-07), Q4 with [[l31-baron-2021-banking-crises-without-panics]] (LN3), Q5 with
+[[l101-robinson-thierfelder-2024-us-trade-policy-cge]] (LN10, ingested 2026-08-07), Q6 with
+[[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (LN7, ingested 2026-08-01) —
+confirming the "6/6 K31 questions overlap the K32 reading list" prediction stated in
+[[shortlist-prediction]] (section 1, discovered 2026-08-04). Use this page to: (a) get familiar
 with the **real exam format/rules**, which is highly valuable since the structure mirrors K32's;
-(b) practise the specific skill of "presenting the findings of one specific paper" in answer form
-— a question style very likely to reappear on K32's exam; (c) use the content directly if a paper
-happens to overlap with a future K32 reading. The Q1/Q2/Q4/Q6 answers below have been updated
-with exact figures from the full text (replacing the original abstract/web-search-based
-estimates); Q3/Q5 still rely on independent research (web search) since those papers aren't yet
-in K32's ingested reading list — it is explicitly noted below which findings have been
-**confirmed via multiple independent sources** versus which Claude could not verify with full
-confidence.
+(b) practice writing "present the findings of one specific paper"-style answers — a question type
+highly likely to appear on the K32 exam; (c) use as content reference since every paper overlaps a
+K32 reading. All 6 answers below have been updated with exact figures from the full text (Q3 from
+the full text; Q5 from the ScienceDirect preview PDF plus a related PIIE brief — see the separate
+note at Q5), no longer relying on web search/estimates.
 
 ## 0. Exam rules & grading structure
 
@@ -186,13 +183,18 @@ similar multi-channel decomposition logic.
 
 ### Question 3 — Barriers to construction digitalization (Tam, Toan & Phong, IJIMDI 2024)
 
+✅ **Updated 2026-08-07**: this paper has now been fully deep-ingested as reading L95 of
+[[ln9-ai-digitalization-economic-development-growth]] — see the full page:
+[[l95-tam-2024-construction-digitalization-barriers-vietnam]] (the full text has been read, no
+longer limited to web search). The answer below has updated exact mean scores for each barrier
+(from the paper's own table) replacing the earlier qualitative description.
+
 **Confirmed source**: Nguyen Van Tam, Nguyen Quoc Toan, Vu Van Phong (2024), *"Investigating
 potential barriers to construction digitalization in emerging economies: A study in Vietnam"*,
 **International Journal of Information Management Data Insights**, 4(1), Article 100226 (DOI:
-10.1016/j.jjimei.2024.100226) — confirmed via three independent sources (OpenAlex, Semantic
-Scholar, search results), high confidence. Note that the names in the exam question (Tam, Toan,
-Phong) are the authors' Vietnamese **given names**, not surnames — the full names are Nguyen Van
-Tam / Nguyen Quoc Toan / Vu Van Phong.
+10.1016/j.jjimei.2024.100226). Note: the author names in the exam question (Tam, Toan, Phong) are
+Vietnamese **given names**, not surnames — the full names are Nguyen Van Tam / Nguyen Quoc Toan /
+Vu Van Phong.
 
 **Methodology**: A quantitative survey of 248 construction professionals in Vietnam, split across
 three stakeholder groups: clients, contractors, and consultants. Respondents rated 31 potential
@@ -201,18 +203,26 @@ descriptive statistics, exploratory factor analysis (grouping the 31 barriers in
 factors), and ANOVA (testing for significant differences in perception across the three
 stakeholder groups).
 
-**Key findings — barriers ranked by significance**:
-1. **Social and habitual resistance to change** — the single most significant barrier.
-2. **High costs** of digital software/hardware.
-3. **Lack of market data** to support technology-integration decisions.
-4. **Security and data privacy concerns** around digital systems.
-5. **Absence of standardized practices, guidelines, and regulatory frameworks** for
-   digitalization.
-6. **Incompatible tools/systems** and a lack of technical support/in-house expertise.
+**Key findings — barriers ranked by mean score (N=248)**:
+1. **Social and habitual resistance to change** (B1) — mean=**4.31**, the most important barrier,
+   leading by a clear margin.
+2. **High costs** of software/hardware (B21) — mean=**3.94**.
+3. **Lack of market data** to integrate technology with existing infrastructure (B8) —
+   mean=**3.92**.
+4. **Security issues** (B12) — mean=**3.91**.
+5. **Unavailability of standards and guidelines** (B27) — mean=**3.90**.
 
-ANOVA results show that the three stakeholder groups (client/contractor/consultant) perceive the
-severity of these barriers **differently, to a statistically significant degree** — i.e.,
-digitalization adoption is not a uniform problem but varies by role in the project delivery chain.
+Exploratory factor analysis (EFA) groups the 31 barriers into 5 factors: Human-related (highest
+mean, 3.94), Technical-related, Management-related, Financial-related, Legal-related (Management
+lowest, 3.86).
+
+ANOVA results show statistically significant differences among the 3 stakeholder groups
+(client/contractor/consultant) for only **4/31 barriers** (p<0.05): B1 habitual resistance
+(p=0.001, contractors feel it most acutely, mean=4.51 vs. client 3.96/consultant 4.29), B3 lack of
+digitally skilled staff (p=0.004), B11 lack of management trust in new technology (p=0.022), B30
+licensing issues (p=0.021) — the remaining 27/31 barriers show NO significant difference across
+the 3 groups, meaning most barriers are perceived similarly across project roles, except for these
+4 specific points.
 
 **Implications for digitalization adoption & construction efficiency/quality in Vietnam**:
 - Since the top barrier is **human/behavioral** rather than technological, policy should
@@ -230,6 +240,11 @@ digitalization adoption is not a uniform problem but varies by role in the proje
   context, both papers show that governance/institutional frameworks (here, regulatory frameworks
   for digitalization) are the key channel that converts technology/investment into real-world
   efficiency — not a purely technical matter.
+- Shares the [[digital-transformation-and-productivity]] cluster (LN9) with
+  [[l94-vietduc-2024-digital-economy-vietnam]] (measuring the macro scale of Vietnam's digital
+  economy); the top-ranked cultural/habitual barrier here repeats the pattern seen in
+  [[l83-kirchherr-2018-barriers-circular-economy-eu]] (LN8) — technological barriers rank last in
+  both papers.
 
 ### Question 4 — Banking crises without panics (Baron, Verner & Xiong, QJE 2021)
 
@@ -259,10 +274,17 @@ digitalization adoption is not a uniform problem but varies by role in the proje
 
 ### Question 5 — US trade policy, protectionism, trade war, China (Robinson & Thierfelder, JPM 2024)
 
+✅ **Updated 2026-08-07**: this paper has now been deep-ingested as reading L101 of
+[[ln10-impacts-trade-war-vietnamese-economy]] — see the full page:
+[[l101-robinson-thierfelder-2024-us-trade-policy-cge]]. ⚠️ The PDF in `raw/` is only a printed
+ScienceDirect landing page (not the paywalled full text — missing detailed sector/country tables),
+so the answer below still relies on the readable Abstract/Introduction/Conclusion plus
+cross-checking the professor's LN10 slide (paraphrasing nearly the same passage) — no longer
+relying on web search as before.
+
 **Confirmed source**: Robinson, Sherman; Thierfelder, Karen (2024), *"US international trade
 policy: Scenarios of protectionism and trade wars"*, **Journal of Policy Modeling**, 46(4),
-723–739 (DOI: 10.1016/j.jpolmod.2024.02.010) — confirmed via the ScienceDirect DOI record plus
-IDEAS/RePEc (verbatim abstract).
+723–739 (DOI: 10.1016/j.jpolmod.2024.02.010).
 
 **Methodology**: A multi-country **computable general equilibrium (CGE)** model of the world
 economy. Two policy scenarios "under active discussion" during the Trump and Biden
@@ -303,6 +325,17 @@ Vietnam figures, rather than misattributing such numbers to Robinson & Thierfeld
   into Vietnam, this is exactly the FDI channel L26 analyzes for its effect on governance/the
   informal economy — a natural bridge between the two questions if an essay/exam asks for
   synthesis.
+- **An interesting evidence-reconciliation point (2026-08-07)**: L101's abstract lists East/
+  Southeast Asian countries as NOT expanding trade much under the trade-war scenario — seemingly
+  contradicting the Vietnamese empirical evidence in
+  [[l106-dang-2024-vietnam-exports-us-trade-war-did]] (Vietnamese exports to the US +14%) and
+  [[l107-toai-2025-vietnam-import-export-trade-war]] (+40%). A plausible reconciliation: (a)
+  L101's CGE model aggregates regions/countries at a high level, potentially masking variation
+  within a specific country; (b) the Vertical Trade Diversion mechanism in
+  [[l104-sheng-2025-chinese-exporters-trade-diversion]] shows China evading tariffs by redirecting
+  exports — not ruling out Vietnam benefiting via a direct substitution channel in the US market
+  (exactly the mechanism L106 measures) without contradicting L101's region-level conclusion. This
+  is an excellent cross-paper comparison question for exam review.
 
 ### Question 6 — Urban infrastructure & urbanization, China (Heshmati & Rashidghalam, JCP 2020)
 
@@ -363,13 +396,13 @@ pooled OLS, Models 4-6 fixed-effects) with the urbanization rate as the dependen
 ## Links
 
 - [[overview]] · [[exam-prep]] · [[syllabus-2026]] · [[shortlist-prediction]]
-- Papers overlapping 100% with K32 readings (4/6 questions, fully confirmed):
+- Papers overlapping 100% with K32 readings (**6/6 questions**, fully confirmed as of 2026-08-07):
   [[l42-do-2023-land-consolidation-vietnam]] (Q1),
   [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] (Q2),
+  [[l95-tam-2024-construction-digitalization-barriers-vietnam]] (Q3),
   [[l31-baron-2021-banking-crises-without-panics]] (Q4),
+  [[l101-robinson-thierfelder-2024-us-trade-policy-cge]] (Q5),
   [[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (Q6)
-- Matching author/year names in the not-yet-sent LN9/LN10 outline (the remaining 2/6): Q3 ("Tam et
-  al. 2024"), Q5 ("Robinson & Thierfelder 2024") — see [[shortlist-prediction]] section 1.
 - Author: [[almas-heshmati]] (Q6 — the professor teaching this course)
 - LN1 (a similar Vietnam context to Q1): [[l14-sasges-2025-vietnam-policies]]; LN4 (a different
   land-institutions channel for Q1): [[l41-ho-2021-land-tenure-vietnam]]; LN1 (regional

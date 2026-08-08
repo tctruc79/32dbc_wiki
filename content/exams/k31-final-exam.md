@@ -3,7 +3,7 @@ type: exam
 title: "K31 Final Written Exam — Development Issues and Business Cycle"
 tags: [exam, past-exam, k31, land-consolidation, poverty-inequality, construction-digitalization, banking-crisis, trade-policy, urban-infrastructure]
 created: 2026-07-28
-updated: 2026-08-04
+updated: 2026-08-07
 status: complete
 source_file: "raw/4. PAST EXAMS/K31 final written exam/k31-exam-page1-questions.jpeg"
 also_covers:
@@ -25,43 +25,38 @@ showing the exam rules + the start of Q1–3, one clearly showing all of Q1–6;
 user sent duplicated the first, so it was not kept — cross-checked 2026-07-28).</span>
 
 ⚠️ **Lưu ý phạm vi**: đây là đề thi của **một khóa khác (K31)**, không phải đề thi K32 (lớp hiện
-tại của bạn). Ban đầu 6 papers được hỏi trong đề này KHÔNG nằm trong reading list LN1–LN3 đã
-ingest của K32 — nhưng qua các đợt ingest sau đó, **4/6 câu nay đã trùng 100%** với reading list
-K32 đã deep-ingest: Q1 với [[l42-do-2023-land-consolidation-vietnam]] (LN4, ingest 2026-07-29),
-Q2 với [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] (LN6, ingest 2026-08-01), Q4 với
-[[l31-baron-2021-banking-crises-without-panics]] (LN3), Q6 với
-[[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (LN7, ingest 2026-08-01); 2 câu còn
-lại (Q3, Q5) khớp đúng tên tác giả/năm trong outline LN9/LN10 mà GS đã liệt kê trong [[overview]]
-nhưng CHƯA gửi tài liệu — tức khả năng cao **cả 6/6 câu K31 đều trùng paper** trong reading list
-đầy đủ của K32 (phát hiện 2026-08-04, xem phân tích + dự đoán shortlist đầy đủ ở
-[[shortlist-prediction]]). Dùng trang này để: (a) làm quen
-**định dạng/luật thi**
-thật (rất có giá trị vì giống cấu trúc môn); (b) tự luyện kỹ năng viết đáp án dạng "trình bày
-findings của 1 paper cụ thể" — cùng dạng câu hỏi khả năng cao sẽ xuất hiện ở đề K32; (c) tham khảo
-nội dung nếu paper trùng với reading tương lai của K32. Đáp án Q1/Q2/Q4/Q6 dưới đây đã cập nhật số
-liệu chính xác từ bản đầy đủ (thay cho ước lượng dựa trên abstract/web search ban đầu); Q3/Q5 vẫn
-dựa trên nghiên cứu riêng (web search) vì paper chưa nằm trong reading list K32 đã ingest — có ghi
-rõ paper nào **đã xác nhận qua nhiều nguồn độc lập** so với paper nào Claude chưa tra cứu được
-chắc chắn.<br><span class="en">⚠️ **Scope note**: this is the exam of a **different cohort
-(K31)**, not the K32 exam (your current class). Originally, the 6 papers asked about in this exam
-did NOT appear in K32's ingested LN1–LN3 reading list — but through later ingest rounds, **4 of
-the 6 questions now overlap 100%** with K32's deep-ingested reading list: Q1 with
+tại của bạn). Ban đầu 6 papers được hỏi trong đề này KHÔNG nằm trong reading list đã ingest của
+K32 — nhưng qua các đợt ingest sau đó, **CẢ 6/6 câu nay đã trùng 100%** với reading list K32 đã
+deep-ingest: Q1 với [[l42-do-2023-land-consolidation-vietnam]] (LN4, ingest 2026-07-29), Q2 với
+[[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] (LN6, ingest 2026-08-01), Q3 với
+[[l95-tam-2024-construction-digitalization-barriers-vietnam]] (LN9, ingest 2026-08-07), Q4 với
+[[l31-baron-2021-banking-crises-without-panics]] (LN3), Q5 với
+[[l101-robinson-thierfelder-2024-us-trade-policy-cge]] (LN10, ingest 2026-08-07), Q6 với
+[[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (LN7, ingest 2026-08-01) — xác nhận
+đầy đủ dự đoán "6/6 câu K31 trùng reading list K32" nêu ở [[shortlist-prediction]] (mục 1, phát
+hiện 2026-08-04). Dùng trang này để: (a) làm quen **định dạng/luật thi** thật (rất có giá trị vì
+giống cấu trúc môn); (b) tự luyện kỹ năng viết đáp án dạng "trình bày findings của 1 paper cụ
+thể" — cùng dạng câu hỏi khả năng cao sẽ xuất hiện ở đề K32; (c) tham khảo nội dung nếu paper
+trùng với reading K32. Toàn bộ 6 đáp án dưới đây đã cập nhật số liệu CHÍNH XÁC từ bản đầy đủ (Q3
+từ full text; Q5 từ bản PDF ScienceDirect preview + PIIE brief liên quan — xem ghi chú riêng ở Q5),
+không còn dựa trên web search/ước lượng.<br><span class="en">⚠️ **Scope note**: this is the exam
+of a **different cohort (K31)**, not the K32 exam (your current class). Originally, the 6 papers
+asked about in this exam did NOT appear in K32's ingested reading list — but through later ingest
+rounds, **ALL 6/6 questions now overlap 100%** with K32's deep-ingested reading list: Q1 with
 [[l42-do-2023-land-consolidation-vietnam]] (LN4, ingested 2026-07-29), Q2 with
-[[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] (LN6, ingested 2026-08-01), Q4 with
-[[l31-baron-2021-banking-crises-without-panics]] (LN3), Q6 with
-[[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (LN7, ingested 2026-08-01); the
-remaining 2 (Q3, Q5) match author/year names exactly in the LN9/LN10 outline already listed in
-[[overview]] but whose materials haven't been sent yet — meaning **all 6/6 K31 questions likely
-correspond to a paper** in K32's full reading list (finding from 2026-08-04, see the full
-analysis + shortlist prediction at [[shortlist-prediction]]). Use this page to: (a) get familiar
+[[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] (LN6, ingested 2026-08-01), Q3 with
+[[l95-tam-2024-construction-digitalization-barriers-vietnam]] (LN9, ingested 2026-08-07), Q4 with
+[[l31-baron-2021-banking-crises-without-panics]] (LN3), Q5 with
+[[l101-robinson-thierfelder-2024-us-trade-policy-cge]] (LN10, ingested 2026-08-07), Q6 with
+[[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (LN7, ingested 2026-08-01) —
+confirming the "6/6 K31 questions overlap the K32 reading list" prediction stated in
+[[shortlist-prediction]] (section 1, discovered 2026-08-04). Use this page to: (a) get familiar
 with the real **exam format/rules** (highly valuable since it mirrors the course's structure);
 (b) practice writing "present the findings of one specific paper"-style answers — a question type
-highly likely to appear on the K32 exam; (c) use as content reference where a paper overlaps with
-a future K32 reading. The Q1/Q2/Q4/Q6 answers below have been updated with exact figures from the
-full text (replacing the original abstract/web-search-based estimates); Q3/Q5 still rely on
-independent research (web search) since those papers aren't yet in K32's ingested reading list —
-clearly noting which paper has been **confirmed across multiple independent sources** versus
-which Claude could not verify with certainty.</span>
+highly likely to appear on the K32 exam; (c) use as content reference since every paper overlaps a
+K32 reading. All 6 answers below have been updated with EXACT figures from the full text (Q3 from
+the full text; Q5 from the ScienceDirect preview PDF + a related PIIE brief — see the separate note
+at Q5), no longer relying on web search/estimates.</span>
 
 ## 0. Luật thi & cơ cấu điểm - <span class="en">Exam Rules & Grading Structure</span>
 
@@ -287,17 +282,26 @@ same decomposition/multiple-channel methodological logic.</span>
 
 ### Question 3 — Barriers to construction digitalization (Tam, Toan & Phong, IJIMDI 2024)
 
+✅ **Cập nhật 2026-08-07**: paper này nay đã được deep-ingest đầy đủ làm reading L95 của
+[[ln9-ai-digitalization-economic-development-growth]] — xem trang đầy đủ:
+[[l95-tam-2024-construction-digitalization-barriers-vietnam]] (đã đọc trọn toàn văn, không còn
+giới hạn ở web search). Đáp án dưới đã cập nhật mean score CHÍNH XÁC của từng rào cản (Bảng
+gốc trong bài) thay cho mô tả định tính trước đây.<br><span class="en">✅ **Update 2026-08-07**:
+this paper has now been fully deep-ingested as reading L95 of
+[[ln9-ai-digitalization-economic-development-growth]] — see the full page:
+[[l95-tam-2024-construction-digitalization-barriers-vietnam]] (the full text has been read, no
+longer limited to web search). The answer below has updated EXACT mean scores for each barrier
+(from the paper's own table) replacing the earlier qualitative description.</span>
+
 **Nguồn xác nhận**: Nguyen Van Tam, Nguyen Quoc Toan, Vu Van Phong (2024), *"Investigating
 potential barriers to construction digitalization in emerging economies: A study in Vietnam"*,
 **International Journal of Information Management Data Insights**, 4(1), Article 100226 (DOI:
-10.1016/j.jjimei.2024.100226) — xác nhận qua 3 nguồn độc lập (OpenAlex, Semantic Scholar, kết quả
-tìm kiếm), độ tin cậy cao. Lưu ý tên tác giả trong đề thi (Tam, Toan, Phong) là **tên (given
+10.1016/j.jjimei.2024.100226). Lưu ý tên tác giả trong đề thi (Tam, Toan, Phong) là **tên (given
 name)** tiếng Việt, không phải họ — họ đầy đủ là Nguyen Van Tam / Nguyen Quoc Toan / Vu Van Phong.<br><span
 class="en">**Confirmed source**: Nguyen Van Tam, Nguyen Quoc Toan, Vu Van Phong (2024),
 *"Investigating potential barriers to construction digitalization in emerging economies: A
 study in Vietnam"*, **International Journal of Information Management Data Insights**, 4(1),
-Article 100226 (DOI: 10.1016/j.jjimei.2024.100226) — confirmed via 3 independent sources
-(OpenAlex, Semantic Scholar, search results), high confidence. Note: the author names in the
+Article 100226 (DOI: 10.1016/j.jjimei.2024.100226). Note: the author names in the
 exam question (Tam, Toan, Phong) are Vietnamese **given names**, not surnames — the full names
 are Nguyen Van Tam / Nguyen Quoc Toan / Vu Van Phong.</span>
 
@@ -313,31 +317,40 @@ techniques: reliability testing (Cronbach's alpha), descriptive statistics, expl
 analysis (grouping the 31 barriers into latent factors), and ANOVA (testing differences in
 perception among the 3 stakeholder groups).</span>
 
-**Findings chính — rào cản xếp theo mức độ quan trọng**:<br><span class="en">**Key findings —
-barriers ranked by importance**:</span>
-1. **Social and habitual resistance to change** — rào cản quan trọng nhất (thói quen làm việc cũ,
-   tâm lý ngại thay đổi của nhân sự ngành xây dựng).<br><span class="en">**Social and habitual
-   resistance to change** — the most important barrier (old work habits, reluctance to change
-   among construction-industry staff).</span>
-2. **High costs** của phần mềm/phần cứng công nghệ số.<br><span class="en">**High costs** of
-   digital technology software/hardware.</span>
-3. **Lack of market data** hỗ trợ quyết định tích hợp công nghệ.<br><span class="en">**Lack of
-   market data** supporting technology-integration decisions.</span>
-4. **Security and data privacy concerns** quanh hệ thống số hóa.<br><span class="en">**Security
-   and data privacy concerns** around digitalized systems.</span>
-5. **Absence of standardized practices, guidelines, and regulatory frameworks** cho digitalization
-   (thiếu khung pháp lý/tiêu chuẩn ngành).<br><span class="en">**Absence of standardized
-   practices, guidelines, and regulatory frameworks** for digitalization.</span>
-6. **Incompatible tools/systems** và thiếu technical support/in-house expertise.<br><span
-   class="en">**Incompatible tools/systems** and a lack of technical support/in-house
-   expertise.</span>
+**Findings chính — rào cản xếp theo mean score (N=248)**:<br><span class="en">**Key findings —
+barriers ranked by mean score (N=248)**:</span>
+1. **Social and habitual resistance to change** (B1) — mean=**4,31**, rào cản quan trọng nhất, dẫn
+   đầu vượt trội.<br><span class="en">**Social and habitual resistance to change** (B1) —
+   mean=**4.31**, the most important barrier, leading by a clear margin.</span>
+2. **High costs** của phần mềm/phần cứng (B21) — mean=**3,94**.<br><span class="en">**High
+   costs** of software/hardware (B21) — mean=**3.94**.</span>
+3. **Lack of market data** để tích hợp công nghệ với hạ tầng hiện có (B8) — mean=**3,92**.<br><span
+   class="en">**Lack of market data** to integrate technology with existing infrastructure (B8) —
+   mean=**3.92**.</span>
+4. **Security issues** (B12) — mean=**3,91**.<br><span class="en">**Security issues** (B12) —
+   mean=**3.91**.</span>
+5. **Unavailability of standards and guidelines** (B27) — mean=**3,90**.<br><span class="en">
+   **Unavailability of standards and guidelines** (B27) — mean=**3.90**.</span>
+
+Phân tích nhân tố khám phá (EFA) gom 31 rào cản thành 5 nhóm: Human-related (mean cao nhất, 3,94),
+Technical-related, Management-related, Financial-related, Legal-related (Management thấp nhất,
+3,86).<br><span class="en">Exploratory factor analysis (EFA) groups the 31 barriers into 5
+factors: Human-related (highest mean, 3.94), Technical-related, Management-related,
+Financial-related, Legal-related (Management lowest, 3.86).</span>
 
 Kết quả ANOVA cho thấy 3 nhóm stakeholder (client/contractor/consultant) đánh giá mức độ nghiêm
-trọng các rào cản **khác nhau có ý nghĩa thống kê** — tức digitalization adoption không phải vấn
-đề đồng nhất mà khác nhau theo vai trò trong chuỗi triển khai dự án.<br><span class="en">ANOVA
-results show the 3 stakeholder groups (client/contractor/consultant) rate barrier severity
-**significantly differently** — digitalization adoption is not a uniform issue but varies by
-role in the project delivery chain.</span>
+trọng khác nhau có ý nghĩa thống kê chỉ ở **4/31 rào cản** (p<0,05): B1 kháng cự thói quen
+(p=0,001, contractor cảm nhận gay gắt nhất mean=4,51 so với client 3,96/consultant 4,29), B3 thiếu
+nhân sự kỹ năng số (p=0,004), B11 thiếu niềm tin quản lý vào công nghệ mới (p=0,022), B30 vấn đề
+cấp phép (p=0,021) — 27/31 rào cản còn lại KHÔNG khác biệt đáng kể giữa 3 nhóm, tức phần lớn rào
+cản được cảm nhận TƯƠNG ĐỒNG xuyên vai trò trong dự án, ngoại trừ 4 điểm cụ thể trên.<br><span
+class="en">ANOVA results show statistically significant differences among the 3 stakeholder
+groups (client/contractor/consultant) for only **4/31 barriers** (p<0.05): B1 habitual resistance
+(p=0.001, contractors feel it most acutely, mean=4.51 vs. client 3.96/consultant 4.29), B3 lack of
+digitally skilled staff (p=0.004), B11 lack of management trust in new technology (p=0.022), B30
+licensing issues (p=0.021) — the remaining 27/31 barriers show NO significant difference across
+the 3 groups, meaning most barriers are perceived SIMILARLY across project roles, except for these
+4 specific points.</span>
 
 **Implications cho digitalization adoption & hiệu quả/chất lượng xây dựng VN**:<br><span
 class="en">**Implications for digitalization adoption & construction efficiency/quality in
@@ -368,6 +381,15 @@ VN**:</span>
   (LN2): same Vietnam context, both papers show governance/institutional frameworks (here,
   regulatory frameworks for digitalization) are an important channel for converting
   technology/investment into real effectiveness — not a purely technical issue.</span>
+- Cùng cụm [[digital-transformation-and-productivity]] (LN9) với
+  [[l94-vietduc-2024-digital-economy-vietnam]] (đo quy mô digital economy VN vĩ mô); rào cản văn
+  hóa/thói quen đứng đầu đây LẶP LẠI mô hình đã thấy ở
+  [[l83-kirchherr-2018-barriers-circular-economy-eu]] (LN8) — rào cản công nghệ đứng CUỐI ở cả 2
+  bài.<br><span class="en">Shares the [[digital-transformation-and-productivity]] cluster (LN9)
+  with [[l94-vietduc-2024-digital-economy-vietnam]] (measuring the macro scale of VN's digital
+  economy); the top-ranked cultural/habitual barrier here REPEATS the pattern seen in
+  [[l83-kirchherr-2018-barriers-circular-economy-eu]] (LN8) — technological barriers rank LAST in
+  both papers.</span>
 
 ### Question 4 — Banking crises without panics (Baron, Verner & Xiong, QJE 2021)
 
@@ -412,13 +434,25 @@ paper overlaps 100% with K32's own reading L31** — see the full page:
 
 ### Question 5 — US trade policy, protectionism, trade war, China (Robinson & Thierfelder, JPM 2024)
 
+✅ **Cập nhật 2026-08-07**: paper này nay đã được deep-ingest làm reading L101 của
+[[ln10-impacts-trade-war-vietnamese-economy]] — xem trang đầy đủ:
+[[l101-robinson-thierfelder-2024-us-trade-policy-cge]]. ⚠️ File PDF trong `raw/` chỉ là bản in
+trang ScienceDirect (không phải toàn văn có khóa — thiếu bảng số liệu chi tiết theo ngành/nước),
+nên đáp án dưới vẫn dựa trên Abstract/Introduction/Conclusion đọc được + đối chiếu slide LN10 của
+GS (diễn giải gần nguyên văn cùng đoạn) — KHÔNG còn dựa trên web search như trước.<br><span
+class="en">✅ **Update 2026-08-07**: this paper has now been deep-ingested as reading L101 of
+[[ln10-impacts-trade-war-vietnamese-economy]] — see the full page:
+[[l101-robinson-thierfelder-2024-us-trade-policy-cge]]. ⚠️ The PDF in `raw/` is only a printed
+ScienceDirect landing page (not the paywalled full text — missing detailed sector/country tables),
+so the answer below still relies on the readable Abstract/Introduction/Conclusion + cross-checking
+the professor's LN10 slide (paraphrasing nearly the same passage) — no longer relying on web
+search as before.</span>
+
 **Nguồn xác nhận**: Robinson, Sherman; Thierfelder, Karen (2024), *"US international trade policy:
 Scenarios of protectionism and trade wars"*, **Journal of Policy Modeling**, 46(4), 723–739 (DOI:
-10.1016/j.jpolmod.2024.02.010) — xác nhận qua ScienceDirect DOI record + IDEAS/RePEc (trích abstract
-nguyên văn).<br><span class="en">**Confirmed source**: Robinson, Sherman; Thierfelder, Karen
-(2024), *"US international trade policy: Scenarios of protectionism and trade wars"*,
-**Journal of Policy Modeling**, 46(4), 723–739 (DOI: 10.1016/j.jpolmod.2024.02.010) — confirmed
-via the ScienceDirect DOI record + IDEAS/RePEc (verbatim abstract excerpt).</span>
+10.1016/j.jpolmod.2024.02.010).<br><span class="en">**Confirmed source**: Robinson, Sherman;
+Thierfelder, Karen (2024), *"US international trade policy: Scenarios of protectionism and trade
+wars"*, **Journal of Policy Modeling**, 46(4), 723–739 (DOI: 10.1016/j.jpolmod.2024.02.010).</span>
 
 **Phương pháp**: Mô hình **CGE (computable general equilibrium) đa quốc gia** cho kinh tế thế
 giới. 2 kịch bản chính sách "đang được thảo luận tích cực" dưới thời chính quyền Trump và Biden:
@@ -492,6 +526,26 @@ Robinson & Thierfelder.</span>
   into Vietnam, this is exactly the FDI channel L26 analyzes for its impact on
   governance/informal economy — a natural bridge between the two questions if an essay/exam
   requires synthesis.</span>
+- **Điểm hòa giải bằng chứng thú vị (2026-08-07)**: Abstract L101 liệt kê các nước Đông/Đông Nam Á
+  vào nhóm KHÔNG mở rộng thương mại nhiều dưới kịch bản trade war — có vẻ MÂU THUẪN bề mặt với
+  bằng chứng thực nghiệm Việt Nam ở [[l106-dang-2024-vietnam-exports-us-trade-war-did]] (xuất khẩu
+  VN sang Mỹ +14%) và [[l107-toai-2025-vietnam-import-export-trade-war]] (+40%). Cách hòa giải khả
+  dĩ: (a) mô hình CGE của L101 gộp vùng/quốc gia ở cấp độ tổng hợp cao, có thể che khuất biến động
+  ở một nước cụ thể; (b) cơ chế Vertical Trade Diversion ở
+  [[l104-sheng-2025-chinese-exporters-trade-diversion]] cho thấy TQ né thuế bằng cách chuyển hướng
+  xuất khẩu — không loại trừ khả năng VN hưởng lợi qua kênh THAY THẾ TRỰC TIẾP tại thị trường Mỹ
+  (đúng cơ chế L106 đo được) mà không mâu thuẫn với kết luận cấp vùng của L101. Đây là một câu hỏi
+  so sánh xuyên bài rất hay cho ôn thi.<br><span class="en">**An interesting evidence-reconciliation
+  point (2026-08-07)**: L101's abstract lists East/Southeast Asian countries as NOT expanding
+  trade much under the trade-war scenario — seemingly CONTRADICTING the Vietnamese empirical
+  evidence in [[l106-dang-2024-vietnam-exports-us-trade-war-did]] (VN exports to the US +14%) and
+  [[l107-toai-2025-vietnam-import-export-trade-war]] (+40%). A plausible reconciliation: (a) L101's
+  CGE model aggregates regions/countries at a high level, potentially masking variation within a
+  specific country; (b) the Vertical Trade Diversion mechanism in
+  [[l104-sheng-2025-chinese-exporters-trade-diversion]] shows China evading tariffs by redirecting
+  exports — not ruling out Vietnam benefiting via a DIRECT SUBSTITUTION channel in the US market
+  (exactly the mechanism L106 measures) without contradicting L101's region-level conclusion. This
+  is an excellent cross-paper comparison question for exam review.</span>
 
 ### Question 6 — Urban infrastructure & urbanization, China (Heshmati & Rashidghalam, JCP 2020)
 
@@ -594,11 +648,12 @@ Vietnamese urban infrastructure development**:</span>
 ## Liên kết
 
 - [[overview]] · [[exam-prep]] · [[syllabus-2026]] · [[shortlist-prediction]]
-- Paper trùng 100% với reading K32 (4/6 câu, xác nhận đầy đủ):
+- Paper trùng 100% với reading K32 (**6/6 câu**, xác nhận đầy đủ 2026-08-07):
   [[l42-do-2023-land-consolidation-vietnam]] (Q1), [[l64-nguyen-pham-2018-growth-inequality-poverty-vietnam]] (Q2),
-  [[l31-baron-2021-banking-crises-without-panics]] (Q4), [[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (Q6)
-- Khớp tên tác giả/năm trong outline LN9/LN10 chưa gửi (2/6 câu còn lại): Q3 ("Tam et al. 2024"),
-  Q5 ("Robinson & Thierfelder 2024") — xem [[shortlist-prediction]] mục 1.
+  [[l95-tam-2024-construction-digitalization-barriers-vietnam]] (Q3),
+  [[l31-baron-2021-banking-crises-without-panics]] (Q4),
+  [[l101-robinson-thierfelder-2024-us-trade-policy-cge]] (Q5),
+  [[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (Q6)
 - Tác giả: [[almas-heshmati]] (Q6 — chính giáo sư phụ trách môn)
 - LN1 (bối cảnh VN tương tự Q1): [[l14-sasges-2025-vietnam-policies]]; LN4 (kênh thể chế đất
   đai khác của Q1): [[l41-ho-2021-land-tenure-vietnam]]; LN1 (bất cân bằng vùng miền tương tự

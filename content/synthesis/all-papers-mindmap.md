@@ -1,50 +1,57 @@
 ---
 type: synthesis
-title: "Mindmap toàn bộ Required Readings — LN1–LN8"
-tags: [mindmap, overview, convergence, institutions, deep-roots, banking-crisis, agriculture, entrepreneurship, technology, human-capital, circular-economy]
+title: "Mindmap toàn bộ Required Readings — LN1–LN10"
+tags: [mindmap, overview, convergence, institutions, deep-roots, banking-crisis, agriculture, entrepreneurship, technology, human-capital, circular-economy, artificial-intelligence, digitalization, trade-war]
 created: 2026-07-24
-updated: 2026-08-01
+updated: 2026-08-07
 status: complete
 ---
 
-# Mindmap toàn bộ Required Readings — LN1–LN8
+# Mindmap toàn bộ Required Readings — LN1–LN10
 
 Tổng hợp từ [[ln1-economic-development]], [[ln2-governance-institutions-policy-making]],
 [[ln3-financial-crisis-and-pandemics]], [[ln4-agriculture-climate-change-natural-disasters]],
 [[ln5-entrepreneurship-economic-development]], [[ln6-technology-growth-inequality-poverty]],
-[[ln7-investment-infrastructure-health-education]] và
-[[ln8-circular-economy-inclusive-sustainable-development]] (49 papers, lectures 9–10 chưa có tài
-liệu trong `raw/` — xem [[overview]]).<br><span class="en">Synthesized from
-[[ln1-economic-development]], [[ln2-governance-institutions-policy-making]],
-[[ln3-financial-crisis-and-pandemics]], [[ln4-agriculture-climate-change-natural-disasters]],
+[[ln7-investment-infrastructure-health-education]],
+[[ln8-circular-economy-inclusive-sustainable-development]],
+[[ln9-ai-digitalization-economic-development-growth]] và
+[[ln10-impacts-trade-war-vietnamese-economy]] (62 papers, toàn bộ 10 lecture đã deep-ingest — xem
+[[overview]]).<br><span class="en">Synthesized from [[ln1-economic-development]],
+[[ln2-governance-institutions-policy-making]], [[ln3-financial-crisis-and-pandemics]],
+[[ln4-agriculture-climate-change-natural-disasters]],
 [[ln5-entrepreneurship-economic-development]], [[ln6-technology-growth-inequality-poverty]],
-[[ln7-investment-infrastructure-health-education]] and
-[[ln8-circular-economy-inclusive-sustainable-development]] (49 papers; lectures 9–10 have no
-materials yet in `raw/` — see [[overview]]).</span> Khác với mindmap riêng của từng lecture (vốn
-đi theo đúng thứ tự slide), trang này nhóm 49 paper theo **10 cụm chủ đề xuyên lecture** để lộ ra
-các connection không nằm gọn trong 1 buổi học — đặc biệt cụm Institutions, nơi Acemoglu et al.
-(2001) đóng vai trò "trunk" lý thuyết mà nhiều paper khác (LN2, và nay cả LN4/LN5/LN7) build
-trên; cụm Banking Crisis, nơi Baron, Verner & Xiong (2021) đóng vai trò tương tự cho 5 paper LN3
-còn lại; cụm Entrepreneurship, nơi Naudé (2010) đóng vai trò trunk programmatic cho 5 paper LN5
-còn lại; và 3 cụm mới từ LN6-8 — Technology/Productivity/VN Poverty Measurement (LN6, 2 trục độc
-lập), Human Capital/Infrastructure/Public Investment (LN7, 4 chủ đề con), và Circular Economy
-(LN8, 2 case thực nghiệm cùng tác giả + 3 bài định nghĩa/đo lường + 2 kênh mới).<br><span
+[[ln7-investment-infrastructure-health-education]],
+[[ln8-circular-economy-inclusive-sustainable-development]],
+[[ln9-ai-digitalization-economic-development-growth]] and
+[[ln10-impacts-trade-war-vietnamese-economy]] (62 papers; all 10 lectures fully deep-ingested —
+see [[overview]]).</span> Khác với mindmap riêng của từng lecture (vốn đi theo đúng thứ tự slide),
+trang này nhóm 62 paper theo **12 cụm chủ đề xuyên lecture** để lộ ra các connection không nằm gọn
+trong 1 buổi học — đặc biệt cụm Institutions, nơi Acemoglu et al. (2001) đóng vai trò "trunk" lý
+thuyết mà nhiều paper khác (LN2, và nay cả LN4/LN5/LN7) build trên; cụm Banking Crisis, nơi Baron,
+Verner & Xiong (2021) đóng vai trò tương tự cho 5 paper LN3 còn lại; cụm Entrepreneurship, nơi
+Naudé (2010) đóng vai trò trunk programmatic cho 5 paper LN5 còn lại; 3 cụm từ LN6-8 — Technology/
+Productivity/VN Poverty Measurement (LN6, 2 trục độc lập), Human Capital/Infrastructure/Public
+Investment (LN7, 4 chủ đề con), và Circular Economy (LN8, 2 case thực nghiệm cùng tác giả + 3 bài
+định nghĩa/đo lường + 2 kênh mới); và 2 cụm mới từ LN9-10 — AI & Digitalization (LN9, 2 trục độc
+lập) và Trade War & Protectionism (LN10, cơ chế toàn cầu + bằng chứng Việt Nam).<br><span
 class="en">Unlike the per-lecture mindmaps (which follow the professor's slide order), this page
-groups the 49 papers into **10 cross-lecture thematic clusters** to surface connections that
+groups the 62 papers into **12 cross-lecture thematic clusters** to surface connections that
 don't fit neatly within a single lecture — especially the Institutions cluster, where Acemoglu
 et al. (2001) acts as the theoretical "trunk" that many other papers (LN2, and now LN4/LN5/LN7
 too) build on; the Banking Crisis cluster, where Baron, Verner & Xiong (2021) plays a similar
 role for the other 5 LN3 papers; the Entrepreneurship cluster, where Naudé (2010) acts as the
-programmatic trunk for the other 5 LN5 papers; and 3 new clusters from LN6-8 — Technology/
+programmatic trunk for the other 5 LN5 papers; 3 clusters from LN6-8 — Technology/
 Productivity/VN Poverty Measurement (LN6, 2 independent axes), Human Capital/Infrastructure/
 Public Investment (LN7, 4 sub-themes), and Circular Economy (LN8, 2 same-author empirical cases +
-3 definition/measurement papers + 2 emerging channels).</span>
+3 definition/measurement papers + 2 emerging channels); and 2 new clusters from LN9-10 — AI &
+Digitalization (LN9, 2 independent axes) and Trade War & Protectionism (LN10, global mechanisms +
+Vietnam evidence).</span>
 
 ## Mindmap theo cụm chủ đề - <span class="en">Mindmap by Thematic Cluster</span>
 
 ```mermaid
 mindmap
-  root(("49 Required Readings<br/>LN1 – LN8"))
+  root(("62 Required Readings<br/>LN1 – LN10"))
     ("A. Deep Roots &amp;<br/>Historical Determinants")
       ("L13 Spolaore &amp; Wacziarg 2013<br/>Geography 44% + ancestry → persistence")
     ("B. Convergence &amp;<br/>Growth Trajectories")
@@ -104,9 +111,24 @@ mindmap
       ("L85 Saidani et al. 2019 — taxonomy 10 danh mục cho 55 bộ C-indicators hiện có")
       ("L87 Nademi &amp; Sedaghat Kalmarzi 2025 — CE giảm thất nghiệp châu Âu, panel GMM")
       ("L88 Luengo Vera et al. 2025 — bibliometric innovation-CE-SDG, 1630 bài Scopus")
+    ("K. AI &amp; Digitalization")
+      ("L91 Pham, Luu, Phong et al. 2020<br/>Hybrid AI+MCDA — flood risk Quảng Nam")
+        ("L92 Rakholia et al. 2022 — kênh PM2.5 forecasting TP.HCM, SGD thắng CNN-LSTM")
+      ("L93 Pham, Nong, Simshauser et al. 2024<br/>VN đầu tư AI tụt hậu khu vực, review chính sách")
+        ("L94 Dang, Tran, Dang &amp; Bui 2024 — kinh tế số VN tăng quy mô, lan tỏa không đổi")
+        ("L95 Nguyen Van Tam et al. 2024 — rào cản digitalization xây dựng VN, con người &gt; công nghệ")
+        ("L96 Kuosmanen, Pajarinen &amp; Heshmati 2025 — digital intensity ↔ hiệu suất Phần Lan, digital divide")
+    ("L. Trade War &amp; Protectionism")
+      ("L101 Robinson &amp; Thierfelder 2024<br/>CGE — thế giới thích ứng qua trade diversion vòng quanh Mỹ")
+      ("L102 Alessandria et al. 2025 — bất định chính sách chuyển từ tạm thời sang cơ cấu dài hạn")
+      ("L103 Che, Lin &amp; Zhang 2025 — né thuế giải thích 69,70% khoảng vênh thống kê Mỹ-Trung")
+      ("L104 Sheng, Song &amp; Zheng 2025 — Trung Quốc chuyển hướng THEO CHIỀU DỌC (VTD), không theo HTD")
+      ("L105 Almazán-Gómez et al. 2025 — tác động cấp vùng NUTS-2 EU, mọi vùng đều chịu ảnh hưởng")
+      ("L106 Dang, Yawei &amp; Abdullah 2024<br/>DiD — xuất khẩu VN sang Mỹ +14%, hàng trung gian")
+      ("L107 Toai 2025 — VN hưởng lợi trade diversion nhưng phụ thuộc sâu đầu vào TQ")
 ```
 
-## Giải thích 10 cụm - <span class="en">Explanation of the 10 Clusters</span>
+## Giải thích 12 cụm - <span class="en">Explanation of the 12 Clusters</span>
 
 ### A. Deep Roots & Historical Determinants
 
@@ -178,7 +200,7 @@ framing long-run geopolitics and monetary history for the whole cluster.</span>
 
 ### F. Agriculture, Land Institutions & Climate Vulnerability
 
-Cụm mới từ LN4 (6/49 paper), cấu trúc KHÁC 2 cụm trunk-based trên — đây là 2 trục độc lập gộp
+Cụm mới từ LN4 (6/62 paper), cấu trúc KHÁC 2 cụm trunk-based trên — đây là 2 trục độc lập gộp
 chung vì cùng bối cảnh "hộ nông thôn Việt Nam/Đông Nam Á": (i) **thể chế đất đai** — L41 (Ho
 2021, property rights/tenure security, tác động khiêm tốn vì incomplete) và L42 (Do, Nguyen &
 Grote 2023, land fragmentation/consolidation) — cùng chủ đề đất đai VN nhưng 2 kênh độc lập, xem
@@ -186,7 +208,7 @@ Grote 2023, land fragmentation/consolidation) — cùng chủ đề đất đai 
 L44+L45 (Vo & Tran 2022; Tran et al. 2022, cùng công cụ LVI/LVI-IPCC nhưng khác độ phân
 giải/mục đích, xem [[livelihood-vulnerability-index]]), và L46 (Hastuti et al. 2025, Indonesia —
 duy nhất coi labor mobility là chiến lược "exit" thay vì thích ứng tại chỗ).<br><span class="en">
-A new cluster from LN4 (6/49 papers), with a structure DIFFERENT from the 2 trunk-based clusters
+A new cluster from LN4 (6/62 papers), with a structure DIFFERENT from the 2 trunk-based clusters
 above — these are 2 independent axes grouped together because they share a "rural
 Vietnamese/Southeast Asian household" context: (i) **land institutions** — L41 (Ho 2021,
 property rights/tenure security, a modest effect due to incompleteness) and L42 (Do, Nguyen &
@@ -199,7 +221,7 @@ strategy rather than in-place adaptation).</span>
 
 ### G. Entrepreneurship & Institutions
 
-Cụm mới từ LN5 (6/49 paper), cấu trúc trunk giống cụm C/E: [[entrepreneurship-and-development]]
+Cụm mới từ LN5 (6/62 paper), cấu trúc trunk giống cụm C/E: [[entrepreneurship-and-development]]
 (Naudé 2010) là trunk programmatic — đặt 2 gap nghị sự (entrepreneurship bị đánh giá thấp;
 institutions = "black box") mà 5 paper còn lại cụ thể hóa qua các kênh khác nhau: Nguyen (2023)
 và Huis et al. (2019) là 2 kênh vi mô/hộ gia đình Việt Nam (EO↔performance SME nữ; RCT
@@ -207,7 +229,7 @@ empowerment qua microfinance), Méndez-Picazo et al. (2012) là kênh vĩ mô
 (governance→entrepreneurship→growth, trích trực tiếp khung Acemoglu 2003 — cầu nối rõ sang
 [[institutions]] LN2), Stein et al. (2026) "mở" chính hộp đen mà Naudé đặt ra bằng case study
 institutional entrepreneurs cụ thể (FinTech Đan Mạch), còn Sharma & Subba (2025) mở rộng logic
-sang sustainability/green startups.<br><span class="en">A new cluster from LN5 (6/49 papers),
+sang sustainability/green startups.<br><span class="en">A new cluster from LN5 (6/62 papers),
 with a trunk structure like clusters C/E: [[entrepreneurship-and-development]] (Naudé 2010) is
 the programmatic trunk — setting 2 agenda gaps (entrepreneurship undervalued; institutions as a
 "black box") that the other 5 papers flesh out via different channels: Nguyen (2023) and Huis et
@@ -220,7 +242,7 @@ identified via a concrete institutional-entrepreneurs case study (Danish FinTech
 
 ### H. Technology, Productivity & Vietnam Poverty Measurement
 
-Cụm mới từ LN6 (5/49 paper), cấu trúc KHÁC các cụm trunk-based trên — 2 trục độc lập cùng lecture:
+Cụm mới từ LN6 (5/62 paper), cấu trúc KHÁC các cụm trunk-based trên — 2 trục độc lập cùng lecture:
 (i) **công nghệ/năng suất** — L61 (Heshmati & Rashidghalam 2020, TFP 190 nước, TC/TFP growth ÂM ở
 mọi nhóm thu nhập, xem [[technology-change-and-tfp-growth]]) + L62 (Lööf & Heshmati 2006,
 innovation-firm performance Thụy Điển) — cặp phương pháp cùng tác giả (GS Heshmati), khác đơn vị
@@ -228,7 +250,7 @@ phân tích (quốc gia vs firm); (ii) **"tam giác đo nghèo Việt Nam"** —
 2015, đa chiều/Alkire-Foster), L64 (Nguyen & Pham 2018, tiền tệ/FGT + Datt-Ravallion, chính paper
 [[k31-final-exam]] Q2), L65 (Nguyen et al. 2019, năng lượng/SUREG) — 3 lăng kính độc lập cùng hội
 tụ về kết luận "poverty measures diverge", xem [[growth-inequality-poverty-nexus]].<br><span
-class="en">A new cluster from LN6 (5/49 papers), with a structure DIFFERENT from the trunk-based
+class="en">A new cluster from LN6 (5/62 papers), with a structure DIFFERENT from the trunk-based
 clusters above — 2 independent axes within the same lecture: (i) **technology/productivity** —
 L61 (Heshmati & Rashidghalam 2020, 190-country TFP, TC/TFP growth NEGATIVE across every income
 group, see [[technology-change-and-tfp-growth]]) + L62 (Lööf & Heshmati 2006, Swedish
@@ -241,7 +263,7 @@ energy/SUREG) — 3 independent lenses all converging on "poverty measures diver
 
 ### I. Human Capital, Infrastructure & Public Investment
 
-Cụm mới từ LN7 (7/49 paper), lecture đầu tiên gộp CẢ 3 trụ đầu tư phát triển trong 1 buổi: **hạ
+Cụm mới từ LN7 (7/62 paper), lecture đầu tiên gộp CẢ 3 trụ đầu tư phát triển trong 1 buổi: **hạ
 tầng** — L71 (Heshmati & Rashidghalam 2020, đô thị hóa TQ, PCA panel N=310 nghiêm ngặt) + L72
 (Kadyraliev et al. 2022, giao thông/ODA Kyrgyzstan, n=7 lỏng lẻo — cặp đối lập độ chặt chẽ
 phương pháp, xem [[infrastructure-investment-and-growth]]); **giáo dục** — L73 (McGuinness et al.
@@ -251,7 +273,7 @@ capital xuyên quốc gia) — 3 góc hoài nghi "mở rộng higher education" 
 review, Preston curve, xem [[health-and-growth]]); **tổng hợp** — L77 (Drama et al. 2025, hiệu
 quả phân bổ đầu tư công xuyên ngành, corruption control mạnh nhất, cầu nối trực tiếp
 [[institutions]] LN2, xem [[public-investment-allocation-efficiency]]).<br><span class="en">A new
-cluster from LN7 (7/49 papers), the first lecture to combine ALL 3 development-investment pillars
+cluster from LN7 (7/62 papers), the first lecture to combine ALL 3 development-investment pillars
 in one session: **infrastructure** — L71 (Heshmati & Rashidghalam 2020, Chinese urbanization,
 rigorous PCA panel N=310) + L72 (Kadyraliev et al. 2022, Kyrgyzstan transport/ODA, a loose n=7 —
 a methodological-rigor contrast pair, see [[infrastructure-investment-and-growth]]);
@@ -266,7 +288,7 @@ strongest, a direct bridge to [[institutions]] LN2, see
 
 ### J. Circular Economy
 
-Cụm mới từ LN8 (8/49 paper), cấu trúc KHÔNG có 1 trunk duy nhất: 2 **case thực nghiệm cùng tác
+Cụm mới từ LN8 (8/62 paper), cấu trúc KHÔNG có 1 trunk duy nhất: 2 **case thực nghiệm cùng tác
 giả** (GS Heshmati) làm cột trụ — L81 (Su, Heshmati, Geng & Yu 2013, Trung Quốc, quản trị
 top-down 2 cơ quan MEP/NDRC) + L86 (Heshmati & Rashidghalam 2021, Thụy Điển, quản trị phân
 quyền/đòn bẩy giá, PCA 273 đô thị) — mô hình quản trị đối lập; L82 (Heshmati 2017) là review toàn
@@ -276,7 +298,7 @@ large-N), L84 (García-Barragán et al. 2019, loại bỏ mơ hồ bằng địn
 et al. 2019, tổ chức hóa đa nguyên qua taxonomy 55 chỉ số) — xem [[circular-economy]] (mục Tranh
 luận); 2 **kênh mới nổi** — L87 (Nademi & Sedaghat Kalmarzi 2025, CE-thất nghiệp châu Âu), L88
 (Luengo Vera et al. 2025, bibliometric innovation-CE-SDG).<br><span class="en">A new cluster from
-LN8 (8/49 papers), with NO single trunk paper: 2 **same-author empirical cases** (Prof. Heshmati)
+LN8 (8/62 papers), with NO single trunk paper: 2 **same-author empirical cases** (Prof. Heshmati)
 as pillars — L81 (Su, Heshmati, Geng & Yu 2013, China, top-down governance via 2 agencies
 MEP/NDRC) + L86 (Heshmati & Rashidghalam 2021, Sweden, decentralized/price-lever governance, a
 PCA index for 273 municipalities) — opposing governance models; L82 (Heshmati 2017) is a global
@@ -288,34 +310,93 @@ plurality via a 55-indicator taxonomy) — see [[circular-economy]] (Debates sec
 **emerging channels** — L87 (Nademi & Sedaghat Kalmarzi 2025, CE-unemployment in Europe), L88
 (Luengo Vera et al. 2025, innovation-CE-SDG bibliometrics).</span>
 
+### K. AI & Digitalization
+
+Cụm mới từ LN9 (6/62 paper), 2 trục độc lập cùng lecture: (i) **AI cho rủi ro môi trường VN** —
+L91 (Pham et al. 2020, hybrid AI+MCDA, flood risk Quảng Nam) + L92 (Rakholia et al. 2022, PM2.5
+forecasting TP.HCM — SGD tuyến tính đơn giản thắng CNN-LSTM/Prophet, xem
+[[ai-for-environmental-risk-vietnam]]); (ii) **chuyển đổi số & năng suất** — L93 (Pham, Nong,
+Simshauser et al. 2024, VN đầu tư AI tụt hậu khu vực, review chính sách) + L94 (Dang, Tran, Dang &
+Bui 2024, kinh tế số VN tăng quy mô nhưng lan tỏa không đổi) + L95 (Nguyen Van Tam et al. 2024, rào
+cản digitalization xây dựng VN — con người > công nghệ) + L96 (Kuosmanen, Pajarinen & Heshmati
+2025, digital intensity ↔ hiệu suất Phần Lan, "digital divide" — cùng tác giả GS Heshmati với
+L61/L71/L86, xem [[digital-transformation-and-productivity]]).<br><span class="en">A new cluster
+from LN9 (6/62 papers), 2 independent axes within the same lecture: (i) **AI for environmental
+risk in Vietnam** — L91 (Pham et al. 2020, hybrid AI+MCDA, flood risk in Quang Nam) + L92
+(Rakholia et al. 2022, PM2.5 forecasting in HCMC — the simple linear SGD beats CNN-LSTM/Prophet,
+see [[ai-for-environmental-risk-vietnam]]); (ii) **digital transformation & productivity** — L93
+(Pham, Nong, Simshauser et al. 2024, Vietnam's AI investment lags the region, a policy review) +
+L94 (Dang, Tran, Dang & Bui 2024, Vietnam's digital economy grows in scale but spillover stays
+flat) + L95 (Nguyen Van Tam et al. 2024, construction-digitalization barriers in Vietnam — people
+> technology) + L96 (Kuosmanen, Pajarinen & Heshmati 2025, digital intensity ↔ firm performance in
+Finland, a "digital divide" — sharing an author, Prof. Heshmati, with L61/L71/L86, see
+[[digital-transformation-and-productivity]]).</span>
+
+### L. Trade War & Protectionism
+
+Cụm mới từ LN10 (7/62 paper), cấu trúc KHÔNG có 1 trunk duy nhất, 2 trục: (i) **cơ chế toàn cầu/lý
+thuyết** — L101 (Robinson & Thierfelder 2024, CGE, thế giới thích ứng qua trade diversion vòng
+quanh Mỹ), L102 (Alessandria et al. 2025, bất định chính sách chuyển từ tạm thời sang cơ cấu dài
+hạn), L103 (Che, Lin & Zhang 2025, né thuế giải thích 69,70% khoảng vênh thống kê Mỹ-Trung), L104
+(Sheng, Song & Zheng 2025, Trung Quốc chuyển hướng THEO CHIỀU DỌC — VTD — không theo chiều ngang
+như dự đoán), L105 (Almazán-Gómez et al. 2025, tác động cấp vùng NUTS-2 châu Âu, mọi vùng đều chịu
+ảnh hưởng); (ii) **bằng chứng Việt Nam** — L106 (Dang, Yawei & Abdullah 2024, DiD, xuất khẩu VN
+sang Mỹ +14%, tập trung hàng trung gian) + L107 (Toai 2025, review, VN hưởng lợi trade diversion
+nhưng phụ thuộc sâu đầu vào TQ + rủi ro transshipment) — xem [[trade-war-and-protectionism]]. Lưu ý
+đặc biệt: L104 xác nhận Việt Nam KHÔNG phải điểm đến chính của luồng VTD Trung Quốc — cơ chế VN
+hưởng lợi ở L106/L107 (né thuế Mỹ-Trung trực tiếp) khác hẳn cơ chế VTD của L104.<br><span
+class="en">A new cluster from LN10 (7/62 papers), with NO single trunk paper, 2 axes: (i)
+**global/theoretical mechanisms** — L101 (Robinson & Thierfelder 2024, CGE, the world adjusts via
+trade diversion around the US), L102 (Alessandria et al. 2025, policy uncertainty shifting from
+temporary to structural), L103 (Che, Lin & Zhang 2025, evasion explains 69.70% of the US-China
+statistical gap), L104 (Sheng, Song & Zheng 2025, China diverts VERTICALLY — VTD — not
+horizontally as predicted), L105 (Almazán-Gómez et al. 2025, regional NUTS-2 European impact,
+every region affected); (ii) **Vietnam evidence** — L106 (Dang, Yawei & Abdullah 2024, DiD,
+Vietnamese exports to the US +14%, concentrated in intermediate goods) + L107 (Toai 2025, a
+review, Vietnam benefits from trade diversion but deepens dependence on Chinese inputs +
+transshipment risk) — see [[trade-war-and-protectionism]]. Notable nuance: L104 confirms Vietnam
+is NOT a primary destination of China's VTD flow — the mechanism by which Vietnam benefits in
+L106/L107 (direct US-China tariff evasion) differs entirely from L104's VTD mechanism.</span>
+
 ## So sánh với mindmap theo lecture - <span class="en">Comparison with the Per-Lecture Mindmaps</span>
 
 - Mindmap trong [[ln1-economic-development]],
   [[ln2-governance-institutions-policy-making]], [[ln3-financial-crisis-and-pandemics]],
   [[ln4-agriculture-climate-change-natural-disasters]],
   [[ln5-entrepreneurship-economic-development]], [[ln6-technology-growth-inequality-poverty]],
-  [[ln7-investment-infrastructure-health-education]] và
-  [[ln8-circular-economy-inclusive-sustainable-development]]: theo đúng **thứ tự slide giáo sư
-  giảng**, hữu ích để ôn theo buổi học.<br><span class="en">The mindmaps in
-  [[ln1-economic-development]], [[ln2-governance-institutions-policy-making]],
-  [[ln3-financial-crisis-and-pandemics]], [[ln4-agriculture-climate-change-natural-disasters]],
+  [[ln7-investment-infrastructure-health-education]],
+  [[ln8-circular-economy-inclusive-sustainable-development]],
+  [[ln9-ai-digitalization-economic-development-growth]] và
+  [[ln10-impacts-trade-war-vietnamese-economy]]: theo đúng **thứ tự slide giáo sư giảng**, hữu ích
+  để ôn theo buổi học.<br><span class="en">The mindmaps in [[ln1-economic-development]],
+  [[ln2-governance-institutions-policy-making]], [[ln3-financial-crisis-and-pandemics]],
+  [[ln4-agriculture-climate-change-natural-disasters]],
   [[ln5-entrepreneurship-economic-development]], [[ln6-technology-growth-inequality-poverty]],
-  [[ln7-investment-infrastructure-health-education]] and
-  [[ln8-circular-economy-inclusive-sustainable-development]]: follow the professor's exact
-  **slide order**, useful for reviewing session by session.</span>
+  [[ln7-investment-infrastructure-health-education]],
+  [[ln8-circular-economy-inclusive-sustainable-development]],
+  [[ln9-ai-digitalization-economic-development-growth]] and
+  [[ln10-impacts-trade-war-vietnamese-economy]]: follow the professor's exact **slide order**,
+  useful for reviewing session by session.</span>
 - Mindmap trang này: theo **chủ đề xuyên lecture**, hữu ích để thấy paper nào cùng trả lời một
   câu hỏi lý thuyết dù nằm ở lecture khác nhau — ví dụ khi ôn thi theo dạng câu hỏi so sánh
   ("so sánh cách 2 paper X, Y giải thích Z"). Cụm F và G đặc biệt đáng chú ý vì cả hai đều bắc
   cầu ngược lại tới [[institutions]] (LN2) — L41/L42/L54 đều xây dựng trực tiếp trên khung
   Acemoglu; cụm I mới cũng bắc cầu tương tự qua L77 (corruption control), và cụm J qua mô hình
-  quản trị top-down/phân quyền đối chiếu trực tiếp [[institutions]].<br><span class="en">This
-  page's mindmap: organized by **cross-lecture theme**, useful for seeing which papers answer
-  the same theoretical question even though they sit in different lectures — e.g., when
-  reviewing comparison-style exam questions ("compare how papers X and Y explain Z"). Clusters F
-  and G are especially notable since both bridge back to [[institutions]] (LN2) — L41/L42/L54 all
-  build directly on the Acemoglu framework; the new cluster I bridges similarly via L77
-  (corruption control), and cluster J via its top-down/decentralized governance models directly
-  contrasting [[institutions]].</span>
+  quản trị top-down/phân quyền đối chiếu trực tiếp [[institutions]]. Cụm K (LN9) lặp lại motif
+  "tăng quy mô không đồng nghĩa cải thiện chất lượng" đã thấy ở cụm H (L61, cùng tác giả GS
+  Heshmati) — xem 3.26 trong [[exam-prep]]; cụm L (LN10) là cụm đầu tiên KHÔNG bắc cầu trực tiếp
+  tới [[institutions]] mà thay vào đó nối với cụm C qua motif "hành vi né tránh chính sách chính
+  thức" (L103 vs L26 — xem 3.29).<br><span class="en">This page's mindmap: organized by
+  **cross-lecture theme**, useful for seeing which papers answer the same theoretical question
+  even though they sit in different lectures — e.g., when reviewing comparison-style exam
+  questions ("compare how papers X and Y explain Z"). Clusters F and G are especially notable
+  since both bridge back to [[institutions]] (LN2) — L41/L42/L54 all build directly on the
+  Acemoglu framework; the new cluster I bridges similarly via L77 (corruption control), and
+  cluster J via its top-down/decentralized governance models directly contrasting
+  [[institutions]]. Cluster K (LN9) repeats the "scale growth ≠ quality improvement" motif already
+  seen in cluster H (L61, the same author, Prof. Heshmati) — see 3.26 in [[exam-prep]]; cluster L
+  (LN10) is the first cluster that does NOT bridge directly to [[institutions]], instead
+  connecting to cluster C via the "evading formal policy" motif (L103 vs. L26 — see 3.29).</span>
 
 ## Liên kết
 
@@ -323,10 +404,14 @@ plurality via a 55-indicator taxonomy) — see [[circular-economy]] (Debates sec
   [[ln3-financial-crisis-and-pandemics]] · [[ln4-agriculture-climate-change-natural-disasters]] ·
   [[ln5-entrepreneurship-economic-development]] · [[ln6-technology-growth-inequality-poverty]] ·
   [[ln7-investment-infrastructure-health-education]] ·
-  [[ln8-circular-economy-inclusive-sustainable-development]]
+  [[ln8-circular-economy-inclusive-sustainable-development]] ·
+  [[ln9-ai-digitalization-economic-development-growth]] ·
+  [[ln10-impacts-trade-war-vietnamese-economy]] · [[exam-prep]]
 - Concepts: [[deep-roots-of-development]], [[unconditional-convergence]],
   [[high-quality-development]], [[institutions]], [[middle-income-trap]], [[banking-crisis]],
   [[livelihood-vulnerability-index]], [[entrepreneurship-and-development]],
   [[technology-change-and-tfp-growth]], [[growth-inequality-poverty-nexus]],
   [[infrastructure-investment-and-growth]], [[human-capital-returns-to-education]],
-  [[health-and-growth]], [[public-investment-allocation-efficiency]], [[circular-economy]]
+  [[health-and-growth]], [[public-investment-allocation-efficiency]], [[circular-economy]],
+  [[ai-for-environmental-risk-vietnam]], [[digital-transformation-and-productivity]],
+  [[trade-war-and-protectionism]]

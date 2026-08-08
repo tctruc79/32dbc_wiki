@@ -4,7 +4,7 @@
 # moi khi wiki duoc cap nhat va muon publish ban moi.
 set -euo pipefail
 
-SRC="/Volumes/DATA/.CloudStorage/Data/OneDrive-Personal/MAE/STUDY/MODULE2/8. [32_DBC] - DEVELOPMENT ECONOMICS & BUSINESS CYCLE/wiki"
+SRC="/Volumes/DATA/.CloudStorage/Data/OneDrive2-Personal/MAE/STUDY/MODULE2/8. [32_DBC] - DEVELOPMENT ECONOMICS & BUSINESS CYCLE/wiki"
 DEST="$(cd "$(dirname "$0")" && pwd)/content"
 
 rm -rf "$DEST"

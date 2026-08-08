@@ -4,7 +4,7 @@ type: overview
 title: "Course Overview — Development Issues and Business Cycle (Class 32, 2026)"
 tags: [course-map, syllabus]
 created: 2026-07-20
-updated: 2026-08-01
+updated: 2026-08-07
 status: complete
 
 ---
@@ -99,11 +99,21 @@ course map. Sources: [[syllabus-2026]], [[essays-instructions]].</span>
    2025 ([[l87-nademi-kalmarzi-2025-circular-economy-unemployment]]), Luengo Vera et al. 2025
    ([[l88-vera-2025-innovation-circular-economy-sdgs]]) — 8 readings, 2 nhiều hơn dự kiến ban đầu
    trong syllabus (L87, L88 giáo sư bổ sung thêm).
-9. **AI, Digitalization, Economic Growth and Development** — Pham et al. 2020/2024, Rakholia
-   et al. 2022, VietDuc et al. 2024, Tam et al. 2024, Kuosmanen-Pajarinen-Heshmati 2026.
-10. **Impacts of Trade War on Vietnamese Economy + Sum up** — Robinson & Thierfelder 2024,
-    Alessandria et al. 2025, Che-Lin-Zhang 2025, Sheng-Song-Zheng 2025, Almazan-Gomez et al.
-    2025, Dang et al. 2024, Toai 2025.
+9. **AI, Digitalization, Economic Growth and Development** — [[ln9-ai-digitalization-economic-development-growth]]
+   — readings: Pham et al. 2020 ([[l91-pham-2020-flood-risk-ai-vietnam]], flood risk AI VN),
+   Rakholia et al. 2022 ([[l92-rakholia-2022-air-quality-ai-hcmc]], PM2.5 AI TP.HCM), Pham et al.
+   2024 ([[l93-pham-2024-ai-development-vietnam-review]]), VietDuc et al. 2024
+   ([[l94-vietduc-2024-digital-economy-vietnam]]), Tam et al. 2024
+   ([[l95-tam-2024-construction-digitalization-barriers-vietnam]]), Kuosmanen, Pajarinen &
+   Heshmati ([[l96-kuosmanen-2026-digital-adoption-firm-performance-finland]]).
+10. **Impacts of Trade War on Vietnamese Economy + Sum up** — [[ln10-impacts-trade-war-vietnamese-economy]]
+    — readings: Robinson & Thierfelder 2024 ([[l101-robinson-thierfelder-2024-us-trade-policy-cge]]),
+    Alessandria et al. 2025 ([[l102-alessandria-2025-trade-war-tariff-risk]]), Che, Lin & Zhang
+    2025 ([[l103-che-2025-tariff-evasion-trade-war]]), Sheng, Song & Zheng 2025
+    ([[l104-sheng-2025-chinese-exporters-trade-diversion]]), Almazan-Gomez et al. 2025
+    ([[l105-almazan-gomez-2025-regional-exposure-trade-wars-eu]]), Dang, Yawei & Abdullah 2024
+    ([[l106-dang-2024-vietnam-exports-us-trade-war-did]]), Toai 2025
+    ([[l107-toai-2025-vietnam-import-export-trade-war]]).
 
 ## Ôn thi - <span class="en">Exam preparation</span>
 
@@ -123,13 +133,15 @@ it to someone else):</span>
 - Toàn tiếng Anh (để gửi GS Heshmati/bạn quốc tế): https://claude.ai/code/artifact/720594d7-477d-4936-9c9f-f81bf4314f2a
 
 Cả 3 bản: mindmap bấm mở/đóng từng paper, đa cấp chi tiết (Research Question & Methodology →
-Key Findings → Economic Significance → Vietnam Relevance → Cross-Paper Debate), gồm LN0-LN8 +
-tab "Tự test · 61 câu" dạng flashcard. **Khi cập nhật lại (vd sau khi ingest thêm reading), phải
+Key Findings → Economic Significance → Vietnam Relevance → Cross-Paper Debate), gồm LN0-LN10 +
+tab "Tự test" dạng flashcard + tab "Tất cả LN" có sidebar cây điều hướng (Quick Jump) bấm nhảy
+nhanh tới từng cụm/bài đọc. **Khi cập nhật lại (vd sau khi ingest thêm reading), phải
 republish đúng 3 URL này (dùng tham số `url` của Artifact tool) — không tạo artifact mới**, vì
 link đã có thể đã gửi cho người khác.<br><span class="en">All 3 versions: an expandable mindmap
 per paper, multi-level detail (Research Question & Methodology → Key Findings → Economic
-Significance → Vietnam Relevance → Cross-Paper Debate), covering LN0-LN8 plus a "Self-test · 61
-questions" flashcard tab. **When updating (e.g., after ingesting a new reading), always
+Significance → Vietnam Relevance → Cross-Paper Debate), covering LN0-LN10 plus a "Self-test"
+flashcard tab + an "All LNs" tab with a sidebar tree-nav (Quick Jump) for jumping directly to
+any cluster/paper. **When updating (e.g., after ingesting a new reading), always
 republish to these exact 3 URLs (using the Artifact tool's `url` parameter) — never create a
 new artifact**, since the link may already have been shared with others.</span>
 
@@ -152,4 +164,5 @@ Xoay quanh: [[technology-upgrading]], [[middle-income-trap]], [[middle-innovatio
 | 6. Innovation, Technology, Growth, Inequality and Poverty | Đầy đủ — lecture note ([[ln6-technology-growth-inequality-poverty]]) + 5 readings đều đã deep-ingest |
 | 7. Investment in Development Infrastructure, Health, Education | Đầy đủ — lecture note ([[ln7-investment-infrastructure-health-education]]) + 7 readings đều đã deep-ingest |
 | 8. Circular Economy, Inclusive and Sustainable Development | Đầy đủ — lecture note ([[ln8-circular-economy-inclusive-sustainable-development]]) + 8 readings đều đã deep-ingest (L87, L88 giới hạn bởi paywall — chỉ có abstract) |
-| 9–10 | Chưa có tài liệu trong raw sources |
+| 9. AI, Digitalization, Economic Growth and Development | Đầy đủ — lecture note ([[ln9-ai-digitalization-economic-development-growth]]) + 6 readings đều đã deep-ingest |
+| 10. Impacts of Trade War on Vietnamese Economy | Đầy đủ — lecture note ([[ln10-impacts-trade-war-vietnamese-economy]]) + 7 readings đều đã deep-ingest (⚠️ L104: slide gốc dán nhầm nội dung, trang wiki dựa trên PDF thật) |

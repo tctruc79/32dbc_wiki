@@ -4,7 +4,7 @@ type: overview
 title: "Course Overview — Development Issues and Business Cycle (Class 32, 2026)"
 tags: [course-map, syllabus]
 created: 2026-07-20
-updated: 2026-08-01
+updated: 2026-08-07
 status: complete
 
 ---
@@ -92,11 +92,21 @@ The course map. Sources: [[syllabus-2026]], [[essays-instructions]].
    2025 ([[l87-nademi-kalmarzi-2025-circular-economy-unemployment]]), Luengo Vera et al. 2025
    ([[l88-vera-2025-innovation-circular-economy-sdgs]]) — 8 readings, 2 more than originally
    planned in the syllabus (L87, L88 were added by the professor).
-9. **AI, Digitalization, Economic Growth and Development** — Pham et al. 2020/2024, Rakholia
-   et al. 2022, VietDuc et al. 2024, Tam et al. 2024, Kuosmanen-Pajarinen-Heshmati 2026.
-10. **Impacts of Trade War on Vietnamese Economy + Sum up** — Robinson & Thierfelder 2024,
-    Alessandria et al. 2025, Che-Lin-Zhang 2025, Sheng-Song-Zheng 2025, Almazan-Gomez et al.
-    2025, Dang et al. 2024, Toai 2025.
+9. **AI, Digitalization, Economic Growth and Development** — [[ln9-ai-digitalization-economic-development-growth]]
+   — readings: Pham et al. 2020 ([[l91-pham-2020-flood-risk-ai-vietnam]], flood risk AI VN),
+   Rakholia et al. 2022 ([[l92-rakholia-2022-air-quality-ai-hcmc]], PM2.5 AI HCMC), Pham et al.
+   2024 ([[l93-pham-2024-ai-development-vietnam-review]]), VietDuc et al. 2024
+   ([[l94-vietduc-2024-digital-economy-vietnam]]), Tam et al. 2024
+   ([[l95-tam-2024-construction-digitalization-barriers-vietnam]]), Kuosmanen, Pajarinen &
+   Heshmati ([[l96-kuosmanen-2026-digital-adoption-firm-performance-finland]]).
+10. **Impacts of Trade War on Vietnamese Economy + Sum up** — [[ln10-impacts-trade-war-vietnamese-economy]]
+    — readings: Robinson & Thierfelder 2024 ([[l101-robinson-thierfelder-2024-us-trade-policy-cge]]),
+    Alessandria et al. 2025 ([[l102-alessandria-2025-trade-war-tariff-risk]]), Che, Lin & Zhang
+    2025 ([[l103-che-2025-tariff-evasion-trade-war]]), Sheng, Song & Zheng 2025
+    ([[l104-sheng-2025-chinese-exporters-trade-diversion]]), Almazan-Gomez et al. 2025
+    ([[l105-almazan-gomez-2025-regional-exposure-trade-wars-eu]]), Dang, Yawei & Abdullah 2024
+    ([[l106-dang-2024-vietnam-exports-us-trade-war-did]]), Toai 2025
+    ([[l107-toai-2025-vietnam-import-export-trade-war]]).
 
 ## Exam preparation
 
@@ -113,10 +123,11 @@ someone else):
 
 All 3 versions: an expandable mindmap per paper, multi-level detail (Research Question &
 Methodology → Key Findings → Economic Significance → Vietnam Relevance → Cross-Paper Debate),
-covering LN0-LN8 plus a "Self-test · 61 questions" flashcard tab. **When updating (e.g., after
-ingesting a new reading), always republish to these exact 3 URLs (using the Artifact tool's
-`url` parameter) — never create a new artifact**, since the link may already have been shared
-with others.
+covering LN0-LN10 plus a "Self-test" flashcard tab + an "All LNs" tab with a sidebar tree-nav
+(Quick Jump) for jumping directly to any cluster/paper. **When updating (e.g., after ingesting
+a new reading), always republish to these exact 3 URLs (using the Artifact tool's `url`
+parameter) — never create a new artifact**, since the link may already have been shared with
+others.
 
 ## Essay topics suggested by the professor
 
@@ -135,4 +146,5 @@ Centered on: [[technology-upgrading]], [[middle-income-trap]], [[middle-innovati
 | 6. Innovation, Technology, Growth, Inequality and Poverty | Complete — lecture note ([[ln6-technology-growth-inequality-poverty]]) + all 5 readings deep-ingested |
 | 7. Investment in Development Infrastructure, Health, Education | Complete — lecture note ([[ln7-investment-infrastructure-health-education]]) + all 7 readings deep-ingested |
 | 8. Circular Economy, Inclusive and Sustainable Development | Complete — lecture note ([[ln8-circular-economy-inclusive-sustainable-development]]) + all 8 readings deep-ingested (L87, L88 limited by paywall — abstract only) |
-| 9–10 | No material yet in raw sources |
+| 9. AI, Digitalization, Economic Growth and Development | Complete — lecture note ([[ln9-ai-digitalization-economic-development-growth]]) + all 6 readings deep-ingested |
+| 10. Impacts of Trade War on Vietnamese Economy | Complete — lecture note ([[ln10-impacts-trade-war-vietnamese-economy]]) + all 7 readings deep-ingested (⚠️ L104: the original slide pasted the wrong content — the wiki page is based on the actual PDF) |

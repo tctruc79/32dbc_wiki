@@ -1,18 +1,18 @@
 ---
 type: synthesis
-title: "Ôn thi cuối kỳ — Master Synthesis (LN1–LN8)"
-tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis, agriculture, climate-vulnerability, entrepreneurship, total-factor-productivity, human-capital, circular-economy, poverty, infrastructure, health]
+title: "Ôn thi cuối kỳ — Master Synthesis (LN1–LN10)"
+tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis, agriculture, climate-vulnerability, entrepreneurship, total-factor-productivity, human-capital, circular-economy, poverty, infrastructure, health, artificial-intelligence, digitalization, trade-war]
 created: 2026-07-24
-updated: 2026-08-01
+updated: 2026-08-07
 status: complete
 ---
 
 # Ôn thi cuối kỳ — Master Synthesis
 
-Điểm tra cứu trung tâm để ôn thi, gom toàn bộ 49 papers đã deep-ingest (LN1–LN8) thành: bảng tra
-nhanh, 10 cụm chủ đề, **tranh luận/căng thẳng giữa các paper** (trọng tâm câu hỏi thi dạng so
+Điểm tra cứu trung tâm để ôn thi, gom toàn bộ 62 papers đã deep-ingest (LN1–LN10) thành: bảng tra
+nhanh, 12 cụm chủ đề, **tranh luận/căng thẳng giữa các paper** (trọng tâm câu hỏi thi dạng so
 sánh), concept map, và ngân hàng câu hỏi.<br><span class="en">The central reference point for
-exam review, gathering all 49 deep-ingested papers (LN1–LN8) into: a quick-lookup table, 10
+exam review, gathering all 62 deep-ingested papers (LN1–LN10) into: a quick-lookup table, 12
 thematic clusters, **debates/tensions between papers** (the focus of comparison-style exam
 questions), a concept map, and a question bank.</span> Trang này cập nhật liên tục — mỗi khi có
 lecture/reading mới được ingest, bổ sung ngay vào đây theo quy tắc trong CLAUDE.md.<br><span
@@ -25,7 +25,7 @@ text).</span>
 
 ## Quy trình ôn thi 5 bước - <span class="en">5-Step Exam Review Process</span>
 
-1. **Nắm bản đồ tổng trước** (~10 phút) — đọc mục 1 (bảng tra nhanh) + mục 2 (10 cụm chủ đề)
+1. **Nắm bản đồ tổng trước** (~10 phút) — đọc mục 1 (bảng tra nhanh) + mục 2 (12 cụm chủ đề)
    dưới đây, hoặc trang [[all-papers-mindmap]].<br><span class="en">**First grasp the overall
    map** (~10 minutes) — read section 1 (quick-lookup table) + section 2 (10 thematic clusters)
    below, or the [[all-papers-mindmap]] page.</span>
@@ -36,7 +36,9 @@ text).</span>
    Technology, Productivity & Poverty Measurement VN (L61/62 cặp phương pháp + L63/64/65 tam giác
    nghèo VN) → Human Capital, Infrastructure & Public Investment (L71/72 hạ tầng + L73/74/75 giáo
    dục + L76 y tế + L77 hiệu quả phân bổ) → Circular Economy (L81-88, 2 case thực nghiệm + 3 bài
-   định nghĩa/đo lường + 2 kênh mới). Đề thi hay hỏi so sánh *trong* cụm.<br><span class="en">
+   định nghĩa/đo lường + 2 kênh mới) → AI & Digitalization (L91/92 AI-rủi ro môi trường VN +
+   L93/94/95/96 chuyển đổi số & năng suất) → Trade War & Protectionism (L101-105 cơ chế toàn cầu +
+   L106/107 bằng chứng Việt Nam). Đề thi hay hỏi so sánh *trong* cụm.<br><span class="en">
    **Study by cluster, not slide order** — Deep Roots (L13) → Convergence (L11, L14, L15) →
    Institutions (L21 trunk + L22/23/24/26) → Policy Critique (L12, L25) → Banking Crisis (L31
    trunk + L32/33/34/35/36) → Agriculture & Land Institutions/Climate Vulnerability (L41/42 trunk
@@ -44,8 +46,10 @@ text).</span>
    Technology, Productivity & Vietnam Poverty Measurement (L61/62 methodological pair + L63/64/65
    Vietnam poverty triangle) → Human Capital, Infrastructure & Public Investment (L71/72
    infrastructure + L73/74/75 education + L76 health + L77 allocative efficiency) → Circular
-   Economy (L81-88, 2 empirical cases + 3 definition/measurement papers + 2 emerging channels).
-   Exams often ask comparisons *within* a cluster.</span>
+   Economy (L81-88, 2 empirical cases + 3 definition/measurement papers + 2 emerging channels) →
+   AI & Digitalization (L91/92 AI for environmental risk in Vietnam + L93/94/95/96 digital
+   transformation & productivity) → Trade War & Protectionism (L101-105 global mechanisms +
+   L106/107 Vietnam evidence). Exams often ask comparisons *within* a cluster.</span>
 3. **Học phần "tranh luận" (mục 3) — quan trọng nhất.** Đúng dạng câu hỏi so sánh hay ra thi;
    học luận điểm **cả 2 phía**, không chỉ 1 phía.<br><span class="en">**Study the "debates"
    section (section 3) — the most important part.** It's exactly the comparison-style question
@@ -68,9 +72,9 @@ class="en">If time is short: prioritize steps 3 + 4, skip re-reading each paper 
 |---|---|
 | Shortlist 20 bài cho written exam | ⏳ Giáo sư gửi **30/8** (cập nhật — trước đó syllabus ghi 23/8) — **CHƯA có**, đây mới là phạm vi thi thật sự. Dự đoán sớm (chưa chính thức): [[shortlist-prediction]] |
 | Ngày Written Exam | ✅ **06/9** — đã xác nhận qua slide "Planning Schedule" cập nhật trong lớp (giải quyết mâu thuẫn syllabus 30/8 vs LN0 06/9 trước đây) — xem [[ln0-course-intro]] |
-| Phạm vi wiki hiện tại | LN1 (5) + LN2 (6) + LN3 (6) + LN4 (6) + LN5 (6) + LN6 (5) + LN7 (7) + LN8 (8) = 49 papers. Lecture 9–10 **chưa có** tài liệu trong `raw/` |
+| Phạm vi wiki hiện tại | LN1 (5) + LN2 (6) + LN3 (6) + LN4 (6) + LN5 (6) + LN6 (5) + LN7 (7) + LN8 (8) + LN9 (6) + LN10 (7) = 62 papers, **toàn bộ 10 lecture đã deep-ingest** |
 
-## 1. Bảng tra cứu nhanh — 49 papers - <span class="en">Quick-Lookup Table — 49 Papers</span>
+## 1. Bảng tra cứu nhanh — 62 papers - <span class="en">Quick-Lookup Table — 62 Papers</span>
 
 | Mã  | Paper                              | Lecture | Phương pháp                                       | Finding chính (1 dòng)                                                      |
 | --- | ---------------------------------- | ------- | ------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -123,8 +127,21 @@ class="en">If time is short: prioritize steps 3 + 4, skip re-reading each paper 
 | L86 | Heshmati & Rashidghalam 2021, JCP   | LN8     | PCA (8 thành phần/40 chỉ báo), panel 273 đô thị Thụy Điển 2012-2018 | Gotland #1 (88.35); Stockholm CUỐI (29.50) dù là thủ đô; phí thu gom rác (WCOL) là đòn bẩy mạnh nhất |
 | L87 | Nademi & Sedaghat Kalmarzi 2025, JCP | LN8    | Spectral clustering + 8 mô hình Panel GMM, châu Âu 2010-2019 | Cả 8/8 chỉ số CE đều giảm thất nghiệp có ý nghĩa; đầu tư tư nhân CE + thương mại nguyên liệu tái chế mạnh nhất |
 | L88 | Luengo Vera et al. 2025, GER        | LN8     | Bibliometric (co-occurrence + text mining + bibliographic coupling), 1630 bài Scopus 2020-2024 | Innovation là nút trung tâm/"systemic enabler"; Trung Quốc/Anh/Ấn Độ là 3 cực khoa học đa cực |
+| L91 | Pham, Luu, Phong et al. 2020, J. Hydrology | LN9     | Hybrid AI (AdaBoost-DT, Bagging-DT) + MCDA, 847 flood points Quảng Nam | AI lai ghép + MCDA cho trọng số yếu tố khách quan hơn MCDA thuần |
+| L92 | Rakholia, Le, Vu, Ho & Carbajo 2022, Urban Climate | LN9 | ML forecasting (SGD, 1D CNN-LSTM, XGBoost, Prophet), 6 trạm quan trắc TP.HCM | SGD tuyến tính đơn giản vượt trội CNN-LSTM/Prophet — mẫu nhỏ khiến model phức tạp overfit |
+| L93 | Pham, Nong, Simshauser, Nguyen & Duong 2024, J. Cleaner Production | LN9 | Critical review, tổng hợp OECD.AI + văn bản chính sách | VN đầu tư AI chỉ 31 triệu USD (2021), tụt hậu khu vực; nghịch lý số lượng thấp/chất lượng cao (top-5% journal hạng 2 khu vực) |
+| L94 | Dang, Tran, Dang & Bui 2024, Telecommunications Policy | LN9 | Digital-spillover panel model, VN 2007-2019 | Kinh tế số cốt lõi tăng 1,45%→7,08% GDP nhưng lan tỏa sang phần còn lại nền kinh tế gần như không đổi |
+| L95 | Nguyen Van Tam, Nguyen Quoc Toan & Vu Van Phong 2024, IJIMDI | LN9 | Survey 248 chuyên gia + EFA + ANOVA, 31 rào cản | Kháng cự xã hội/thói quen là rào cản #1 (không phải công nghệ); khác biệt rõ giữa 3 nhóm bên liên quan |
+| L96 | Kuosmanen, Pajarinen & Heshmati 2025, Telecommunications Policy | LN9 | Digital Intensity Index + quantile regression, linked employer-employee panel Phần Lan 2015-2021 | Cường độ số ↔ hiệu suất dương nhưng KHÔNG đồng đều — mạnh nhất ở doanh nghiệp top; gợi ý "digital divide" |
+| L101 | Robinson & Thierfelder 2024, J. Policy Modeling | LN10 | CGE model (kịch bản chính sách thương mại Mỹ) | Chiến tranh thương mại làm thương mại Mỹ-Trung sụt mạnh nhưng thế giới thích ứng qua trade diversion vòng quanh Mỹ |
+| L102 | Alessandria, Yar Khan, Khederlarian, Ruhl & Steinberg 2025, J. International Economics | LN10 | Dynamic export model + indirect inference (Markov policy process), Mỹ-Trung 2015-2050 | Bất định chính sách chỉ xuất hiện SAU 2018; bản chất rủi ro chuyển từ tạm thời sang cơ cấu dài hạn |
+| L103 | Che, Lin & Zhang 2025, J. International Economics | LN10 | DiD + input-output, dữ liệu hải quan Mỹ-Trung | 69,70% khoảng vênh thống kê thương mại Mỹ-Trung (2021) là do né thuế, không phải giảm thương mại thực |
+| L104 | Sheng, Song & Zheng 2025, J. International Money and Finance | LN10 | Structural quality-ladder gravity model, dữ liệu xuất khẩu vi mô TQ | Trung Quốc chuyển hướng thương mại THEO CHIỀU DỌC (VTD) sang Nam bán cầu, không theo chiều ngang (HTD) như dự đoán |
+| L105 | Almazán-Gómez, El Khatabi, Llano & Pérez 2025, J. Policy Modeling | LN10 | SMART partial equilibrium + multiregional IO (EUREGIO-2017), 297 vùng NUTS-2 EU | Mọi vùng EU đều chịu tác động, kể cả vùng không sản xuất hàng bị đánh thuế; vùng chuyên môn hóa cao/hội nhập sâu chịu nặng nhất |
+| L106 | Dang, Yawei & Abdullah 2024, J. Trade Science | LN10 | DiD, xuất khẩu VN sang Mỹ (UN Comtrade, 6-digit) | Chiến tranh thương mại làm xuất khẩu VN sang Mỹ TĂNG 14%, tập trung ở hàng trung gian (nhựa, sắt thép) |
+| L107 | Toai 2025, J. Information Systems Engineering and Management | LN10 | Literature review + phân tích dữ liệu thứ cấp | VN hưởng lợi trade diversion nhưng phụ thuộc sâu đầu vào TQ + rủi ro giám sát/điều tra transshipment từ Mỹ |
 
-## 2. Mười cụm chủ đề - <span class="en">Ten Thematic Clusters</span>
+## 2. Mười hai cụm chủ đề - <span class="en">Twelve Thematic Clusters</span>
 
 Chi tiết đầy đủ: [[all-papers-mindmap]]. Tóm tắt:<br><span class="en">Full detail:
 [[all-papers-mindmap]]. Summary:</span>
@@ -201,6 +218,46 @@ Chi tiết đầy đủ: [[all-papers-mindmap]]. Tóm tắt:<br><span class="en"
   opposing governance models) + L82 (a global review bridging the 2 cases) + 3 definition/
   measurement papers (L83/L84/L85 — 3 different responses to "114 CE definitions") + 2 emerging
   channels (L87 employment, L88 innovation-SDG bibliometrics).</span>
+- **K. AI & Digitalization (LN9)** — 2 trục độc lập: (i) [[ai-for-environmental-risk-vietnam]] —
+  L91 (flood risk, hybrid AI+MCDA) + L92 (PM2.5 air quality forecasting) — cùng dùng AI/ML để dự
+  báo rủi ro môi trường tại Việt Nam, khác lĩnh vực áp dụng; (ii)
+  [[digital-transformation-and-productivity]] — L93 (VN đầu tư AI tụt hậu khu vực, review chính
+  sách) + L94 (kinh tế số VN tăng quy mô nhưng lan tỏa không đổi) + L95 (rào cản digitalization
+  ngành xây dựng VN — con người > công nghệ) + L96 (Heshmati, digital intensity ↔ hiệu suất doanh
+  nghiệp Phần Lan, không đồng đều — "digital divide"). L96 cùng tác giả GS Heshmati với L61/L71/
+  L86, tạo đối trọng nước phát triển (Phần Lan) cho 3 bài VN L93-95.<br><span class="en">**K. AI &
+  Digitalization (LN9)** — 2 independent axes: (i) [[ai-for-environmental-risk-vietnam]] — L91
+  (flood risk, hybrid AI+MCDA) + L92 (PM2.5 air quality forecasting) — both use AI/ML to forecast
+  environmental risk in Vietnam, differing in application domain; (ii)
+  [[digital-transformation-and-productivity]] — L93 (Vietnam's AI investment lags the region, a
+  policy review) + L94 (Vietnam's digital economy grows in scale but spillover stays flat) + L95
+  (construction-sector digitalization barriers in Vietnam — human factors > technology) + L96
+  (Heshmati, digital intensity ↔ firm performance in Finland, uneven — a "digital divide"). L96
+  shares an author (Prof. Heshmati) with L61/L71/L86, providing a developed-country (Finland)
+  counterweight to the 3 Vietnam-focused papers L93-95.</span>
+- **L. Trade War & Protectionism (LN10)** — không có 1 trunk duy nhất, cấu trúc:
+  [[trade-war-and-protectionism]] gồm 2 trục — (i) cơ chế toàn cầu/lý thuyết — L101 (CGE, thế giới
+  thích ứng qua trade diversion vòng quanh Mỹ), L102 (bất định chính sách chuyển từ tạm thời sang
+  cơ cấu dài hạn), L103 (né thuế giải thích 69,70% khoảng vênh thống kê Mỹ-Trung), L104 (Trung Quốc
+  chuyển hướng THEO CHIỀU DỌC — VTD — không theo chiều ngang như dự đoán), L105 (tác động cấp vùng
+  NUTS-2 châu Âu, mọi vùng đều chịu ảnh hưởng); (ii) bằng chứng Việt Nam — L106 (DiD: xuất khẩu VN
+  sang Mỹ +14%, tập trung hàng trung gian) + L107 (review: VN hưởng lợi trade diversion nhưng phụ
+  thuộc sâu đầu vào TQ + rủi ro transshipment). L104 lưu ý đặc biệt: bài xác nhận trực tiếp Việt
+  Nam KHÔNG phải điểm đến chính của luồng chuyển hướng TQ (VTD hướng về Nam bán cầu nghèo hơn, còn
+  VN đã hội nhập sâu chuỗi cung ứng TQ) — tạo cầu nối thú vị với L106/L107 (VN hưởng lợi trade
+  diversion TỪ MỸ chứ không phải nhận hàng TQ chuyển hướng tới).<br><span class="en">**L. Trade War
+  & Protectionism (LN10)** — no single trunk paper, structured via
+  [[trade-war-and-protectionism]] along 2 axes — (i) global/theoretical mechanisms — L101 (CGE, the
+  world adjusts via trade diversion around the US), L102 (policy uncertainty shifting from
+  temporary to structural), L103 (evasion explains 69.70% of the US-China statistical gap), L104
+  (China diverts VERTICALLY — VTD — not horizontally as predicted), L105 (regional NUTS-2 European
+  impact, every region affected); (ii) Vietnam-specific evidence — L106 (DiD: Vietnamese exports to
+  the US +14%, concentrated in intermediate goods) + L107 (review: Vietnam benefits from trade
+  diversion but deepens dependence on Chinese inputs + faces transshipment-investigation risk). A
+  notable L104 nuance: the paper directly confirms Vietnam is NOT a primary destination of China's
+  diversion flow (VTD points toward the poorer South, while Vietnam is already deeply integrated
+  into Chinese supply chains) — an interesting bridge to L106/L107 (Vietnam benefits from trade
+  diversion FROM the US, not from receiving China's diverted goods).</span>
 
 ## 3. Tranh luận & căng thẳng giữa các paper - <span class="en">Debates & Tensions Between Papers</span>
 
@@ -852,6 +909,300 @@ worth remembering for the exam.</span>
   different tools (3SLS+Mills ratio vs. System GMM). Explain why each tool fits that paper's data
   structure."</span>
 
+### 3.24 Mô hình AI phức tạp hơn không luôn thắng: L91 (ensemble tree thắng) vs L92 (SGD tuyến tính thắng) - <span class="en">A more complex AI model doesn't always win: L91 (ensemble tree wins) vs. L92 (linear SGD wins)</span>
+
+- **Pham et al. (L91, LN9)**: cho dự báo khả năng xảy ra lũ, mô hình AI lai ghép cây quyết định
+  (BDT — Bagging Decision Tree) vượt trội các biến thể khác — độ phức tạp cao hơn (ensemble, kết
+  hợp nhiều cây) mang lại hiệu suất tốt hơn.<br><span class="en">**Pham et al. (L91, LN9)**: for
+  flood-susceptibility forecasting, the hybrid decision-tree ensemble (BDT — Bagging Decision Tree)
+  outperforms other variants — higher complexity (an ensemble of many trees) yields better
+  performance.</span>
+- **Rakholia et al. (L92, LN9)**: cho dự báo PM2.5, mô hình TUYẾN TÍNH đơn giản nhất (SGD
+  Regressor) vượt trội cả deep learning (1D CNN-LSTM) lẫn Prophet — độ phức tạp cao hơn ở đây lại
+  PHẢN TÁC DỤNG do tập huấn luyện nhỏ (~3 tháng, do xử lý tính không dừng) khiến mô hình phức tạp
+  dễ overfitting.<br><span class="en">**Rakholia et al. (L92, LN9)**: for PM2.5 forecasting, the
+  simplest LINEAR model (the SGD Regressor) outperforms both deep learning (1D CNN-LSTM) and
+  Prophet — here higher complexity BACKFIRES because the small training sets (~3 months, due to
+  the non-stationarity protocol) make the complex model prone to overfitting.</span>
+- **Cân bằng**: không có "mô hình AI tốt nhất" phổ quát — hiệu suất phụ thuộc cấu trúc dữ liệu
+  (kích thước mẫu, tính mùa vụ, số chiều) chứ không phải độ phức tạp thuật toán tự thân; 2 bài
+  cùng lecture, cùng ứng dụng môi trường Việt Nam, nhưng đưa ra bài học trái ngược nhau về việc
+  chọn mô hình.<br><span class="en">**Balance**: there is no universally "best AI model" —
+  performance depends on data structure (sample size, seasonality, dimensionality), not on
+  algorithmic complexity per se; the 2 papers, same lecture, same Vietnamese environmental
+  application, yield opposite lessons about model choice.</span>
+- **Câu hỏi thi tiềm năng**: "L91 cho thấy mô hình ensemble phức tạp thắng, L92 cho thấy mô hình
+  tuyến tính đơn giản thắng. Từ 2 bài này, rút ra nguyên tắc chọn mô hình AI cho bài toán dự báo
+  rủi ro môi trường ở nước đang phát triển."<br><span class="en">**Potential exam question**: "L91
+  shows a complex ensemble model winning, L92 shows a simple linear model winning. From these 2
+  papers, derive a principle for choosing an AI model for environmental-risk forecasting in a
+  developing country."</span>
+
+### 3.25 Khoảng cách số không biến mất khi nước giàu lên, chỉ đổi dạng: L93 (VN thiếu đầu tư AI) vs L96 (Phần Lan digital divide dù đã tiên tiến) - <span class="en">The digital gap doesn't disappear as a country gets richer, it just changes shape: L93 (Vietnam's AI-investment shortfall) vs. L96 (Finland's digital divide despite advanced status)</span>
+
+- **Pham et al. (L93, LN9)**: ở Việt Nam — nước ĐANG PHÁT TRIỂN — khoảng cách số biểu hiện ở CẤP
+  QUỐC GIA: đầu tư AI chỉ 31 triệu USD (2021), tụt hậu xa so với Singapore/Indonesia/Thái
+  Lan/Malaysia.<br><span class="en">**Pham et al. (L93, LN9)**: in Vietnam — a DEVELOPING country —
+  the digital gap shows up at the NATIONAL level: AI investment of just USD 31 million (2021), far
+  behind Singapore/Indonesia/Thailand/Malaysia.</span>
+- **Kuosmanen, Pajarinen & Heshmati (L96, LN9)**: ở Phần Lan — nước ĐÃ số hóa tiên tiến — khoảng
+  cách số vẫn tồn tại nhưng chuyển xuống CẤP DOANH NGHIỆP: liên kết số hóa-hiệu suất mạnh nhất ở
+  doanh nghiệp TOP, yếu/không có ý nghĩa ở doanh nghiệp hiệu suất thấp.<br><span class="en">
+  **Kuosmanen, Pajarinen & Heshmati (L96, LN9)**: in Finland — an already digitally advanced
+  country — the digital gap still exists but shifts down to the FIRM level: the digitalization-
+  performance link is strongest among TOP-performing firms, weak or insignificant among
+  low-performers.</span>
+- **Cân bằng**: "khoảng cách số" (digital divide) là một hiện tượng đa cấp — không biến mất khi
+  một nước phát triển hơn, mà chỉ DI CHUYỂN từ cấp quốc gia (VN: nước nào đầu tư đủ) xuống cấp
+  doanh nghiệp (Phần Lan: doanh nghiệp nào tận dụng được) — hàm ý chính sách số hóa cần theo dõi cả
+  2 cấp, không chỉ tổng đầu tư quốc gia.<br><span class="en">**Balance**: the "digital divide" is a
+  multi-level phenomenon — it doesn't vanish as a country develops, it just MOVES from the national
+  level (Vietnam: which countries invest enough) down to the firm level (Finland: which firms
+  actually capture the benefit) — implying digitalization policy must track both levels, not just
+  aggregate national investment.</span>
+- **Câu hỏi thi tiềm năng**: "So sánh cách 'khoảng cách số' biểu hiện ở Việt Nam (L93) và Phần Lan
+  (L96). Từ đó, bàn luận liệu số hóa có tự động thu hẹp bất bình đẳng phát triển hay không."<br><span
+  class="en">**Potential exam question**: "Compare how the 'digital divide' manifests in Vietnam
+  (L93) and Finland (L96). From this, discuss whether digitalization automatically narrows
+  development inequality."</span>
+
+### 3.26 Tăng trưởng quy mô không đồng nghĩa cải thiện chất lượng: L94 (kinh tế số VN) vs L61 (TFP toàn cầu, cùng lecture GS Heshmati) - <span class="en">Scale growth doesn't mean quality improvement: L94 (Vietnam's digital economy) vs. L61 (global TFP, another Prof. Heshmati paper)</span>
+
+- **Dang, Tran, Dang & Bui (L94, LN9)**: kinh tế số cốt lõi VN tăng QUY MÔ nhanh (1,45%→7,08% GDP,
+  2007-2019) nhưng hiệu ứng LAN TỎA sang phần còn lại nền kinh tế gần như không đổi — tăng trưởng
+  ngành không kéo theo cải thiện năng lực công nghệ nội địa rộng hơn.<br><span class="en">**Dang,
+  Tran, Dang & Bui (L94, LN9)**: Vietnam's core digital economy grows rapidly in SCALE (1.45%→
+  7.08% of GDP, 2007-2019) but the SPILLOVER effect to the rest of the economy stays nearly flat —
+  sector growth does not translate into broader domestic technological capability.</span>
+- **Heshmati & Rashidghalam (L61, LN6)**: tăng trưởng GDP tích lũy được ở mọi nhóm thu nhập nhưng
+  TC/TFP growth — thước đo cải thiện năng suất THỰC — lại ÂM ở tất cả các nhóm; tăng trưởng có thể
+  đến từ tích lũy input hơn là năng suất thực.<br><span class="en">**Heshmati & Rashidghalam (L61,
+  LN6)**: GDP growth accumulates across every income group, but TC/TFP growth — the measure of
+  REAL productivity improvement — is NEGATIVE across all of them; growth may stem from input
+  accumulation rather than real productivity.</span>
+- **Cân bằng**: cùng một motif xuất hiện ở 2 lecture khác nhau — chỉ số TỔNG QUAN (GDP, tỷ trọng
+  kinh tế số) có thể tăng đều đặn trong khi chỉ số CHẤT LƯỢNG bên dưới (TFP, lan tỏa công nghệ)
+  trì trệ hoặc xấu đi — cảnh báo không nên đọc thành công phát triển chỉ qua các chỉ số tổng quan
+  bề mặt.<br><span class="en">**Balance**: the same motif recurs across 2 different lectures —
+  HEADLINE indicators (GDP, digital-economy share) can rise steadily while the underlying QUALITY
+  indicator (TFP, technology spillover) stagnates or worsens — a caution against reading
+  development success purely from surface-level aggregate indicators.</span>
+- **Câu hỏi thi tiềm năng**: "L94 và L61 đều cho thấy tăng trưởng quy mô/đầu vào không đảm bảo cải
+  thiện chất lượng/năng suất thực. So sánh cơ chế đằng sau ở mỗi bài."<br><span class="en">
+  **Potential exam question**: "Both L94 and L61 show that scale/input growth does not guarantee
+  real quality/productivity improvement. Compare the mechanism behind each paper's finding."</span>
+
+### 3.27 Rào cản văn hóa/con người, không phải công nghệ, đứng đầu: L95 (xây dựng VN) vs L83 (kinh tế tuần hoàn EU, LN8) - <span class="en">Cultural/human barriers, not technology, rank first: L95 (Vietnamese construction) vs. L83 (EU circular economy, LN8)</span>
+
+- **Nguyen Van Tam et al. (L95, LN9)**: rào cản #1 cho digitalization ngành xây dựng VN là "kháng
+  cự xã hội và thói quen đối với thay đổi" (mean=4.31); rào cản công nghệ xếp thấp hơn nhiều nhóm
+  tài chính/pháp lý.<br><span class="en">**Nguyen Van Tam et al. (L95, LN9)**: barrier #1 for
+  construction digitalization in Vietnam is "social and habitual resistance to change"
+  (mean=4.31); technological barriers rank well below the financial/legal group.</span>
+- **Kirchherr et al. (L83, LN8)**: rào cản #1 cho circular economy ở EU là rào cản VĂN HÓA (thiếu
+  nhận thức người tiêu dùng, thiếu văn hóa tuần hoàn — 47%); rào cản CÔNG NGHỆ xếp CUỐI cùng
+  (15/15).<br><span class="en">**Kirchherr et al. (L83, LN8)**: barrier #1 for circular economy in
+  the EU is a CULTURAL barrier (lack of consumer awareness, lack of a circular culture — 47%);
+  TECHNOLOGICAL barriers rank LAST (15/15).</span>
+- **Cân bằng**: dù 2 bối cảnh khác biệt hoàn toàn (ngành xây dựng VN đang phát triển vs kinh tế
+  tuần hoàn EU phát triển), cùng một mẫu hình lặp lại — chuyển đổi công nghệ/mô hình kinh doanh mới
+  bị cản trở chủ yếu bởi CON NGƯỜI/THÓI QUEN/VĂN HÓA chứ không phải công nghệ có sẵn hay chưa —
+  literature "rào cản công nghệ là chính" của thập niên trước có thể đã lỗi thời ở cả 2 bối
+  cảnh.<br><span class="en">**Balance**: despite 2 completely different contexts (Vietnam's
+  developing construction sector vs. the EU's developed circular economy), the same pattern
+  recurs — technology/business-model transitions are hindered mainly by PEOPLE/HABITS/CULTURE, not
+  by whether the technology exists — the older "technology is the main barrier" literature may be
+  outdated in both contexts.</span>
+- **Câu hỏi thi tiềm năng**: "L95 (VN, digitalization xây dựng) và L83 (EU, kinh tế tuần hoàn) đều
+  tìm thấy rào cản văn hóa/con người đứng đầu, rào cản công nghệ đứng cuối. Đây là trùng hợp hay
+  một quy luật chung của mọi quá trình chuyển đổi lớn? Lập luận."<br><span class="en">**Potential
+  exam question**: "L95 (Vietnam, construction digitalization) and L83 (EU, circular economy) both
+  find cultural/human barriers ranking first and technological barriers ranking last. Is this a
+  coincidence or a general pattern of major transitions? Argue your case."</span>
+
+### 3.28 Đo "thế giới thích ứng ra sao" bằng 2 lăng kính khác nhau: CGE tĩnh (L101) vs mô hình động (L102) - <span class="en">Measuring "how the world adjusts" through 2 different lenses: static CGE (L101) vs. a dynamic model (L102)</span>
+
+- **Robinson & Thierfelder (L101, LN10)**: dùng mô hình CGE (cân bằng tổng thể tĩnh, kịch bản
+  chính sách) — kết luận thế giới thích ứng bằng trade diversion vòng quanh Mỹ, một bức tranh
+  TĨNH tại một thời điểm cân bằng mới.<br><span class="en">**Robinson & Thierfelder (L101, LN10)**:
+  uses a CGE model (a static general-equilibrium scenario) — concluding the world adjusts via
+  trade diversion around the US, a STATIC picture at a new equilibrium point.</span>
+- **Alessandria et al. (L102, LN10)**: dùng mô hình xuất khẩu ĐỘNG + indirect inference — cho thấy
+  bản thân sự bất định chính sách THAY ĐỔI QUA THỜI GIAN (từ kỳ vọng tạm thời sang kỳ vọng cơ cấu
+  dài hạn), một quá trình động chứ không phải một cú sốc rồi cân bằng lại.<br><span class="en">
+  **Alessandria et al. (L102, LN10)**: uses a DYNAMIC export model + indirect inference — showing
+  the policy uncertainty itself CHANGES OVER TIME (from temporary to structural, long-run
+  expectations), a dynamic process rather than a single shock followed by re-equilibration.</span>
+- **Cân bằng**: 2 cách tiếp cận bổ sung chứ không mâu thuẫn — CGE tĩnh (L101) tốt cho ước lượng
+  QUY MÔ tác động sau khi thích ứng hoàn tất; mô hình động (L102) tốt cho hiểu QUÁ TRÌNH kỳ vọng
+  hình thành/thay đổi trong lúc thích ứng đang diễn ra — một bài học phương pháp về việc chọn công
+  cụ theo câu hỏi nghiên cứu (kết quả cuối cùng vs động lực dọc đường).<br><span class="en">
+  **Balance**: the 2 approaches are complementary, not contradictory — the static CGE (L101) suits
+  estimating the MAGNITUDE of impact once adjustment is complete; the dynamic model (L102) suits
+  understanding the PROCESS by which expectations form/change while adjustment is underway — a
+  methodological lesson about choosing tools to fit the research question (end-state outcome vs.
+  path dynamics).</span>
+- **Câu hỏi thi tiềm năng**: "So sánh những gì mô hình CGE tĩnh (L101) và mô hình động (L102) có
+  thể và không thể trả lời về chiến tranh thương mại Mỹ-Trung."<br><span class="en">**Potential
+  exam question**: "Compare what a static CGE model (L101) and a dynamic model (L102) can and
+  cannot tell us about the US-China trade war."</span>
+
+### 3.29 Né chính sách chính thức làm méo thống kê: né thuế Mỹ-Trung (L103) vs kinh tế phi chính thức VN (L26, LN2) - <span class="en">Evading formal policy distorts official statistics: US-China tariff evasion (L103) vs. Vietnam's informal economy (L26, LN2)</span>
+
+- **Che, Lin & Zhang (L103, LN10)**: 69,70% khoảng vênh thống kê thương mại Mỹ-Trung (2021) là do
+  né thuế — ngay cả một nước quản trị mạnh như Mỹ (số vụ điều tra EAPA tăng 7→64, 2018-2020) cũng
+  chứng kiến hành vi né tránh chính sách chính thức lan rộng.<br><span class="en">**Che, Lin &
+  Zhang (L103, LN10)**: 69.70% of the US-China trade statistical gap (2021) is due to tariff
+  evasion — even a strongly governed country like the US (EAPA investigation cases rising 7→64,
+  2018-2020) sees widespread evasion of formal policy.</span>
+- **Huynh & Tran (L26, LN2)**: FDI làm giảm quy mô kinh tế phi chính thức VN qua kênh growth +
+  governance/PAPI — hàm ý ngược lại: khi thể chế/quản trị YẾU, hành vi né tránh khu vực chính thức
+  (informal economy) càng phổ biến.<br><span class="en">**Huynh & Tran (L26, LN2)**: FDI reduces
+  the size of Vietnam's informal economy via a growth + governance/PAPI channel — implying the
+  converse: when institutions/governance are WEAK, evasion of the formal sector (the informal
+  economy) is more widespread.</span>
+- **Cân bằng**: cùng một motif "hành vi né tránh làm sai lệch số liệu chính thức" xuất hiện ở cả 2
+  cực — nước quản trị mạnh (Mỹ, né THUẾ QUAN mới áp) và nước quản trị đang phát triển (VN, né KHU
+  VỰC CHÍNH THỨC nói chung) — thách thức giả định phổ biến rằng né tránh chính sách chỉ là vấn đề
+  của nước quản trị yếu.<br><span class="en">**Balance**: the same "evasion behavior distorts
+  official statistics" motif appears at both extremes — a strongly governed country (the US,
+  evading newly imposed tariffs) and a developing-governance country (Vietnam, evading the formal
+  sector broadly) — challenging the common assumption that policy evasion is only a weak-
+  governance problem.</span>
+- **Câu hỏi thi tiềm năng**: "L103 cho thấy né thuế lan rộng ngay ở Mỹ — một nước quản trị mạnh.
+  Liên hệ với L26 (kinh tế phi chính thức VN) để bàn về giới hạn của giả định 'quản trị mạnh =
+  tuân thủ chính sách cao'."<br><span class="en">**Potential exam question**: "L103 shows evasion
+  spreading even within the US — a strongly governed country. Connect this to L26 (Vietnam's
+  informal economy) to discuss the limits of the assumption that 'strong governance = high policy
+  compliance.'"</span>
+
+### 3.30 Việt Nam không phải điểm đến của VTD Trung Quốc (L104) nhưng vẫn hưởng lợi trade diversion trực tiếp từ Mỹ (L106/L107) - <span class="en">Vietnam is not a destination of China's VTD (L104) but still benefits from direct US-driven trade diversion (L106/L107)</span>
+
+- **Sheng, Song & Zheng (L104, LN10)**: chiến lược chủ đạo của Trung Quốc là chuyển hướng thương
+  mại THEO CHIỀU DỌC (VTD) sang các nước NGHÈO hơn ở Nam bán cầu, nơi cạnh tranh hàng chất lượng
+  cao thấp — bài xác nhận trực tiếp Việt Nam KHÔNG phải điểm đến chính của luồng chuyển hướng
+  này.<br><span class="en">**Sheng, Song & Zheng (L104, LN10)**: China's dominant strategy is
+  Vertical Trade Diversion (VTD) toward POORER Southern countries with lower high-quality-goods
+  competition — the paper directly confirms Vietnam is NOT a primary destination of this diversion
+  flow.</span>
+- **Dang, Yawei & Abdullah (L106, LN10) và Toai (L107, LN10)**: Việt Nam vẫn hưởng lợi rõ rệt (xuất
+  khẩu sang Mỹ +14%, DiD) — nhưng qua một cơ chế KHÁC hẳn: hàng Việt Nam trở nên rẻ tương đối so
+  với hàng Trung Quốc SAU KHI Trung Quốc bị Mỹ đánh thuế trực tiếp, và một phần đầu tư/sản xuất TQ
+  có thể dịch chuyển sang VN để né thuế — đây là trade diversion GẮN VỚI THUẾ QUAN MỸ, không phải
+  hàng hóa TQ "chảy" tới VN theo cơ chế VTD của L104.<br><span class="en">**Dang, Yawei & Abdullah
+  (L106, LN10) and Toai (L107, LN10)**: Vietnam still clearly benefits (Vietnamese exports to the
+  US +14%, DiD evidence) — but through a DIFFERENT mechanism: Vietnamese goods became relatively
+  cheaper than Chinese goods AFTER China was directly tariffed by the US, and some Chinese
+  investment/production may relocate to Vietnam to evade tariffs — this is trade diversion TIED TO
+  US TARIFFS, not Chinese goods "flowing" to Vietnam via L104's VTD mechanism.</span>
+- **Cân bằng**: 3 bài LN10 này dễ bị nhầm là cùng nói "Việt Nam hưởng lợi từ chuyển hướng thương
+  mại Trung Quốc" nhưng thực ra mô tả 2 dòng chảy KHÁC NHAU — (1) TQ chủ động chuyển hướng xuất
+  khẩu CỦA MÌNH ra khỏi thị trường cạnh tranh cao (L104, không đi Việt Nam) và (2) nhà nhập khẩu
+  Mỹ + nhà đầu tư chuyển ĐƠN HÀNG/SẢN XUẤT sang Việt Nam để né thuế Mỹ-Trung (L106/107) — phân
+  biệt rõ 2 cơ chế là điểm dễ nhầm nhất khi ôn cụm Trade War.<br><span class="en">**Balance**:
+  these 3 LN10 papers are easily mistaken for all saying "Vietnam benefits from China's trade
+  diversion," but they actually describe 2 DIFFERENT flows — (1) China actively diverting ITS OWN
+  exports away from high-competition markets (L104, not toward Vietnam) and (2) US importers +
+  investors shifting ORDERS/PRODUCTION to Vietnam to evade US-China tariffs (L106/107) —
+  distinguishing these 2 mechanisms is the easiest point to confuse when reviewing the Trade War
+  cluster.</span>
+- **Câu hỏi thi tiềm năng**: "Phân biệt cơ chế 'Việt Nam hưởng lợi từ chiến tranh thương mại' trong
+  L104 so với L106/L107. Đây có phải cùng một hiện tượng không? Giải thích."<br><span class="en">
+  **Potential exam question**: "Distinguish the mechanism by which 'Vietnam benefits from the
+  trade war' in L104 versus L106/L107. Is this the same phenomenon? Explain."</span>
+
+### 3.31 Cùng một hiện tượng, 2 tông màu khác nhau: DiD lạc quan (L106) vs review thận trọng (L107) - <span class="en">The same phenomenon, 2 different tones: an optimistic DiD (L106) vs. a cautious review (L107)</span>
+
+- **Dang, Yawei & Abdullah (L106, LN10)**: bằng chứng nhân quả định lượng chặt chẽ (DiD) — xuất
+  khẩu VN sang Mỹ TĂNG 14% — một con số cụ thể, tông lạc quan, tập trung vào lợi ích đo được.
+  <br><span class="en">**Dang, Yawei & Abdullah (L106, LN10)**: rigorous quantitative causal
+  evidence (DiD) — Vietnamese exports to the US INCREASE by 14% — a concrete figure, an optimistic
+  tone, focused on measurable benefit.</span>
+- **Toai (L107, LN10)**: cùng hiện tượng chuyển hướng thương mại có lợi cho VN, nhưng review định
+  tính này nhấn mạnh RỦI RO đi kèm — phụ thuộc sâu đầu vào TQ, thặng dư thương mại phình to kéo
+  theo giám sát của Mỹ, rủi ro điều tra transshipment — tông thận trọng, đặt câu hỏi về tính bền
+  vững.<br><span class="en">**Toai (L107, LN10)**: the same beneficial trade-diversion phenomenon
+  for Vietnam, but this qualitative review emphasizes accompanying RISKS — deepening dependence on
+  Chinese inputs, a ballooning trade surplus inviting US scrutiny, transshipment-investigation
+  risk — a cautious tone, questioning sustainability.</span>
+- **Cân bằng**: không mâu thuẫn về SỐ LIỆU (cả 2 đồng ý VN hưởng lợi) mà khác nhau về KHUNG THỜI
+  GIAN và TRỌNG TÂM — L106 đo tác động NGẮN HẠN đã xảy ra (identification chặt, nhìn về quá khứ);
+  L107 suy đoán RỦI RO DÀI HẠN (định tính, nhìn về tương lai) — 2 bài bổ sung cho nhau hơn là đối
+  lập, minh họa vì sao một phát hiện thực nghiệm tích cực vẫn cần đặt trong khung rủi ro chính
+  sách rộng hơn.<br><span class="en">**Balance**: no contradiction in the DATA (both agree Vietnam
+  benefits), but they differ in TIME HORIZON and FOCUS — L106 measures a SHORT-RUN effect that has
+  already occurred (tight identification, looking backward); L107 speculates about LONG-RUN RISK
+  (qualitative, looking forward) — the 2 papers complement rather than oppose each other,
+  illustrating why a positive empirical finding still needs to be placed within a broader
+  policy-risk frame.</span>
+- **Câu hỏi thi tiềm năng**: "L106 và L107 đều kết luận Việt Nam hưởng lợi từ chiến tranh thương
+  mại Mỹ-Trung, nhưng khác nhau về tông và trọng tâm. Giải thích sự khác biệt này đến từ đâu (dữ
+  liệu, phương pháp, hay khung thời gian)?"<br><span class="en">**Potential exam question**: "L106
+  and L107 both conclude Vietnam benefits from the US-China trade war, but differ in tone and
+  focus. Explain where this difference comes from (data, method, or time horizon)?"</span>
+
+### 3.32 Cấp phân tích thay đổi kết luận chính sách? Quốc gia (L101) vs vùng NUTS-2 (L105) - <span class="en">Does the level of analysis change the policy conclusion? National (L101) vs. NUTS-2 regional (L105)</span>
+
+- **Robinson & Thierfelder (L101, LN10)**: phân tích ở CẤP QUỐC GIA (CGE, các nước/khối lớn) — kết
+  luận: thế giới (tổng hợp theo quốc gia) thích ứng khá tốt qua trade diversion, ngoại trừ đối tác
+  gắn chuỗi giá trị chặt.<br><span class="en">**Robinson & Thierfelder (L101, LN10)**: analysis at
+  the NATIONAL level (CGE, countries/large blocs) — conclusion: the world (aggregated by country)
+  adjusts fairly well via trade diversion, except for value-chain-tied partners.</span>
+- **Almazán-Gómez et al. (L105, LN10)**: hạ xuống CẤP VÙNG (297 vùng NUTS-2 châu Âu) — phát hiện
+  MỌI vùng đều chịu tác động, kể cả vùng không sản xuất hàng bị đánh thuế, qua lan tỏa liên ngành/
+  liên vùng — một bức tranh bi quan hơn nhiều so với việc chỉ nhìn ở cấp quốc gia tổng hợp.
+  <br><span class="en">**Almazán-Gómez et al. (L105, LN10)**: drilling down to the REGIONAL level
+  (297 European NUTS-2 regions) — finding EVERY region is affected, even those not producing the
+  taxed goods, via inter-sectoral/inter-regional spillovers — a considerably more pessimistic
+  picture than looking only at the aggregate national level.</span>
+- **Cân bằng**: cấp phân tích không chỉ thay đổi độ chi tiết mà có thể thay đổi cả TÔNG kết luận
+  chính sách — phân tích quốc gia tổng hợp (L101) có thể che giấu tác động bất bình đẳng nghiêm
+  trọng giữa các vùng bên trong cùng một nước mà chỉ phân tích cấp vùng (L105) mới phát hiện
+  được — cảnh báo phương pháp quan trọng khi diễn giải kết quả CGE quốc gia cho mục đích chính sách
+  vùng miền.<br><span class="en">**Balance**: the level of analysis doesn't just change the level
+  of detail — it can change the TENOR of the policy conclusion — aggregate national analysis
+  (L101) can mask severe inequality of impact across regions within the same country that only
+  region-level analysis (L105) reveals — an important methodological caution when interpreting
+  national CGE results for regional policy purposes.</span>
+- **Câu hỏi thi tiềm năng**: "L101 kết luận thế giới thích ứng khá tốt với chiến tranh thương mại.
+  L105 hạ xuống cấp vùng và tìm thấy MỌI vùng đều bị ảnh hưởng. Đây có phải 2 kết luận mâu thuẫn
+  không? Giải thích bằng khái niệm cấp độ phân tích (level of analysis)."<br><span class="en">
+  **Potential exam question**: "L101 concludes the world adjusts fairly well to the trade war.
+  L105 drills to the regional level and finds EVERY region affected. Are these 2 contradictory
+  conclusions? Explain using the concept of the level of analysis."</span>
+
+### 3.33 AI ứng dụng ở nước đang phát triển: rủi ro môi trường (LN9) như một hình mẫu công nghệ phù hợp bối cảnh - <span class="en">Applied AI in a developing country: environmental risk (LN9) as a model of context-appropriate technology</span>
+
+- **Pham et al. (L91) và Rakholia et al. (L92), LN9**: cả 2 bài đều là ứng dụng AI CỤ THỂ, HẸP
+  (dự báo lũ, dự báo PM2.5) cho Việt Nam — không phải AI tổng quát hay chiến lược quốc gia, mà là
+  công cụ giải quyết vấn đề phát triển thực tế (thiên tai, ô nhiễm) với dữ liệu địa phương hạn
+  chế.<br><span class="en">**Pham et al. (L91) and Rakholia et al. (L92), LN9**: both papers are
+  NARROW, CONCRETE AI applications (flood forecasting, PM2.5 forecasting) for Vietnam — not
+  general-purpose AI or national strategy, but tools solving real development problems (natural
+  disasters, pollution) with limited local data.</span>
+- **Pham et al. (L93, LN9)**: ở cấp CHÍNH SÁCH VĨ MÔ, chỉ ra Việt Nam tụt hậu về đầu tư AI và
+  nghiên cứu AI trong nước tập trung mạnh vào đúng các lĩnh vực "hẹp, ứng dụng" như nông nghiệp/
+  môi trường (khớp với L91/L92) — trong khi lĩnh vực chiến lược như năng lượng lại gần như vắng
+  bóng.<br><span class="en">**Pham et al. (L93, LN9)**: at the MACRO POLICY level, shows Vietnam
+  lags in AI investment, and that domestic AI research concentrates heavily on exactly these
+  "narrow, applied" fields like agriculture/environment (matching L91/L92) — while strategic
+  fields like energy remain nearly absent.</span>
+- **Cân bằng**: L91/L92 không phải ngẫu nhiên mà minh họa ĐÚNG mẫu hình vĩ mô mà L93 mô tả — Việt
+  Nam làm AI tốt ở quy mô hẹp/ứng dụng (nơi có dữ liệu, nhu cầu cấp thiết, chi phí thấp) nhưng
+  chưa xây được năng lực AI chiến lược quy mô lớn — 3 bài này đọc cùng nhau cho một bức tranh nhất
+  quán về "AI ở nước đang phát triển: mạnh về ứng dụng hẹp, yếu về chiến lược".<br><span
+  class="en">**Balance**: L91/L92 are not a coincidence but exactly illustrate the macro pattern
+  L93 describes — Vietnam does AI well at a narrow/applied scale (where data exists, need is
+  urgent, cost is low) but has not yet built large-scale strategic AI capacity — reading these 3
+  papers together gives a consistent picture of "AI in a developing country: strong on narrow
+  application, weak on strategy."</span>
+- **Câu hỏi thi tiềm năng**: "Dùng L91, L92 làm bằng chứng cụ thể cho nhận định vĩ mô của L93 rằng
+  nghiên cứu AI Việt Nam lệch về nông nghiệp/môi trường. Từ đó đề xuất 1 khuyến nghị chính sách
+  không trùng với 5 khuyến nghị đã có trong L93."<br><span class="en">**Potential exam question**:
+  "Use L91 and L92 as concrete evidence for L93's macro claim that Vietnamese AI research skews
+  toward agriculture/environment. From this, propose 1 policy recommendation not already among
+  L93's 5 recommendations."</span>
+
 ## 4. Concept → Paper map - <span class="en">Concept → Paper Map</span>
 
 - [[unconditional-convergence]] — L11 (trung tâm), liên hệ L15 (convergence nội bộ Trung Quốc)<br><span
@@ -942,8 +1293,27 @@ worth remembering for the exam.</span>
   review, bridging), L83/L84/L85 (3 responses to "114 CE definitions" — accepting/eliminating/
   organizing), L87 (the employment channel, see 3.21), L88 (the innovation-SDG channel,
   bibliometric)</span>
+- [[ai-for-environmental-risk-vietnam]] — L91 (flood risk, hybrid AI+MCDA), L92 (PM2.5 forecasting)
+  — 2 ứng dụng AI hẹp/cụ thể cho rủi ro môi trường Việt Nam, cùng minh họa cho mẫu hình vĩ mô ở L93
+  (xem 3.24, 3.33)<br><span class="en">[[ai-for-environmental-risk-vietnam]] — L91 (flood risk,
+  hybrid AI+MCDA), L92 (PM2.5 forecasting) — 2 narrow, concrete AI applications for environmental
+  risk in Vietnam, both illustrating the macro pattern in L93 (see 3.24, 3.33)</span>
+- [[digital-transformation-and-productivity]] — L93 (VN AI-investment gap, chính sách), L94 (kinh
+  tế số VN, quy mô vs lan tỏa), L95 (rào cản digitalization xây dựng VN, con người > công nghệ),
+  L96 (Heshmati, digital intensity ↔ hiệu suất Phần Lan, digital divide) — xem 3.25, 3.26,
+  3.27<br><span class="en">[[digital-transformation-and-productivity]] — L93 (Vietnam's AI-
+  investment gap, policy), L94 (Vietnam's digital economy, scale vs. spillover), L95 (construction
+  digitalization barriers in Vietnam, people > technology), L96 (Heshmati, digital intensity ↔
+  performance in Finland, digital divide) — see 3.25, 3.26, 3.27</span>
+- [[trade-war-and-protectionism]] — L101 (CGE, cơ chế toàn cầu), L102 (bất định chính sách động),
+  L103 (né thuế), L104 (VTD Trung Quốc, xem 3.30), L105 (tác động cấp vùng EU, xem 3.32), L106
+  (DiD xuất khẩu VN +14%), L107 (review VN, rủi ro transshipment) — xem 3.28, 3.29, 3.30, 3.31,
+  3.32<br><span class="en">[[trade-war-and-protectionism]] — L101 (CGE, global mechanism), L102
+  (dynamic policy uncertainty), L103 (tariff evasion), L104 (China's VTD, see 3.30), L105
+  (regional EU impact, see 3.32), L106 (DiD, Vietnamese exports +14%), L107 (Vietnam review,
+  transshipment risk) — see 3.28, 3.29, 3.30, 3.31, 3.32</span>
 
-## 5. Ngân hàng câu hỏi ôn thi (61 câu, kèm đáp án gợi ý) - <span class="en">Exam Review Question Bank (61 questions, with suggested answers)</span>
+## 5. Ngân hàng câu hỏi ôn thi (76 câu, kèm đáp án gợi ý) - <span class="en">Exam Review Question Bank (76 questions, with suggested answers)</span>
 
 Đáp án dưới là **khung ý chính để tự kiểm tra**, không phải văn mẫu để học thuộc — khi làm bài
 thi/essay cần diễn đạt lại bằng lời của mình và trích dẫn số liệu chính xác từ trang source
@@ -1911,6 +2281,192 @@ lectures (L22, L26, L77) — present each paper's evidence (3.18)**</span>
   học.<br><span class="en">3 lectures, 3 different outcomes, all converging: institutional
   quality is a foundational variable running through the entire course.</span>
 
+### Từ LN9 (6 câu) - <span class="en">From LN9 (6 questions)</span>
+
+**62. Vì sao mô hình BDT thắng ở dự báo lũ (L91) nhưng SGD tuyến tính lại thắng ở dự báo PM2.5
+(L92)? (3.24)**<br><span class="en">**62. Why does BDT win at flood forecasting (L91) but linear
+SGD wins at PM2.5 forecasting (L92)? (3.24)**</span>
+- L91: ensemble cây quyết định (BDT) hoạt động tốt nhờ dữ liệu đủ lớn (847 điểm lũ) và bài toán
+  phân loại nhị phân (có/không lũ).<br><span class="en">L91: the decision-tree ensemble (BDT)
+  works well thanks to a sufficiently large dataset (847 flood points) and a binary classification
+  task (flood/no flood).</span>
+- L92: tập huấn luyện nhỏ (~3 tháng/tập, do xử lý tính không dừng) khiến mô hình phức tạp (CNN-
+  LSTM) overfitting; SGD tuyến tính đơn giản khái quát hóa tốt hơn.<br><span class="en">L92: small
+  training sets (~3 months each, due to the non-stationarity protocol) cause the complex model
+  (CNN-LSTM) to overfit; the simple linear SGD generalizes better.</span>
+
+**63. Việt Nam đầu tư AI bao nhiêu năm 2021 so với khu vực, và Pham et al. (2024) chỉ ra nghịch lý
+gì trong nghiên cứu AI Việt Nam? (L93)**<br><span class="en">**63. How much did Vietnam invest in
+AI in 2021 relative to the region, and what paradox do Pham et al. (2024) identify in Vietnamese
+AI research? (L93)**</span>
+- Chỉ 31 triệu USD — thấp hơn nhiều Singapore (2.293tr), Indonesia (344tr), Thái Lan (162tr),
+  Malaysia (114tr).<br><span class="en">Only USD 31 million — far below Singapore (2,293m),
+  Indonesia (344m), Thailand (162m), Malaysia (114m).</span>
+- Nghịch lý số lượng-chất lượng: VN cuối bảng về TỔNG công bố AI nhưng hạng 2 khu vực/thế giới ở
+  tạp chí TOP-5% (152 công bố 1980–2021, chỉ sau Mỹ).<br><span class="en">Quantity-quality
+  paradox: Vietnam ranks last in TOTAL AI publications but 2nd regionally/globally in TOP-5%
+  journals (152 publications 1980–2021, behind only the US).</span>
+
+**64. Kinh tế số Việt Nam tăng trưởng ra sao 2007–2019, và vì sao hiệu ứng lan tỏa gần như không
+đổi? (L94)**<br><span class="en">**64. How did Vietnam's digital economy grow 2007–2019, and why
+did the spillover effect stay nearly flat? (L94)**</span>
+- Kinh tế số cốt lõi: 1,45%→7,08% GDP; kinh tế số hóa: 4,90%→11,56% GDP.<br><span class="en">Core
+  digital economy: 1.45%→7.08% of GDP; digitalized economy: 4.90%→11.56% of GDP.</span>
+- Ngành ICT phần cứng chủ yếu GIA CÔNG/LẮP RÁP xuất khẩu (95% DN FDI) phục vụ cầu XUẤT KHẨU chứ
+  không phải nội địa — ít lan tỏa công nghệ sang ngành khác (xem 3.26).<br><span class="en">The
+  ICT hardware sector is mainly export-oriented OUTSOURCING/ASSEMBLY (95% FDI firms) serving
+  EXPORT rather than domestic demand — little technology spillover to other sectors (see 3.26).</span>
+
+**65. Rào cản digitalization hàng đầu của ngành xây dựng Việt Nam là gì, và so sánh quốc tế
+(Bảng 6) cho thấy điều gì? (L95)**<br><span class="en">**65. What is the top digitalization barrier
+in Vietnam's construction sector, and what does the international comparison (Table 6) show?
+(L95)**</span>
+- Kháng cự xã hội/thói quen với thay đổi (B1, mean=4.31) — vượt xa rào cản #2 (3.94); Management
+  barriers là nhóm mean THẤP nhất.<br><span class="en">Social/habitual resistance to change (B1,
+  mean=4.31) — well above barrier #2 (3.94); Management barriers is the LOWEST-mean group.</span>
+- VN có "hồ sơ rào cản" khác biệt: rào cản #1 của VN gần như vắng bóng/xếp thấp ở đa số nước đối
+  chiếu — không thể suy diễn tự động từ literature nước phát triển (xem 3.27).<br><span
+  class="en">Vietnam has a distinctly different "barrier profile": Vietnam's top barrier is nearly
+  absent/low-ranked in most comparator countries — cannot simply be inferred from developed-
+  country literature (see 3.27).</span>
+
+**66. Kuosmanen, Pajarinen & Heshmati (2025) đo cường độ số bằng công cụ gì, và phát hiện gì về
+"digital divide"? (L96)**<br><span class="en">**66. What tool do Kuosmanen, Pajarinen & Heshmati
+(2025) use to measure digital intensity, and what do they find about the "digital divide"?
+(L96)**</span>
+- Digital Intensity Index (Eurostat, 12 công nghệ) + dữ liệu linked employer-employee Phần Lan
+  2015–2021.<br><span class="en">The Digital Intensity Index (Eurostat, 12 technologies) + linked
+  employer-employee data for Finland, 2015–2021.</span>
+- Liên kết số hóa-hiệu suất dương nhưng KHÔNG đồng đều — mạnh nhất ở doanh nghiệp top-performing,
+  yếu/không ý nghĩa ở doanh nghiệp hiệu suất thấp — digital divide vẫn tồn tại ở nước đã tiên tiến
+  (xem 3.25).<br><span class="en">Digitalization-performance links positive but UNEVEN —
+  strongest among top-performing firms, weak/insignificant among low-performers — a digital
+  divide persists even in an advanced country (see 3.25).</span>
+
+### Từ LN10 (7 câu) - <span class="en">From LN10 (7 questions)</span>
+
+**67. Theo mô hình CGE của Robinson & Thierfelder (2024), thế giới thích ứng với chiến tranh
+thương mại Mỹ-Trung bằng cách nào, và nước nào KHÔNG thể? (L101)**<br><span class="en">**67. Per
+Robinson & Thierfelder's (2024) CGE model, how does the world adjust to the US-China trade war,
+and which countries CANNOT? (L101)**</span>
+- Trade diversion vòng quanh Mỹ — hầu hết nước khác mở rộng thương mại với cả TQ lẫn Mỹ.<br><span
+  class="en">Trade diversion around the US — most other countries expand trade with both China
+  and the US.</span>
+- Ngoại lệ: Canada/Mexico (gắn Mỹ qua USMCA) và toàn bộ Đông/Đông Nam Á (gắn TQ qua chuỗi cung ứng
+  khu vực) — bản thân Mỹ vẫn gánh chi phí ròng.<br><span class="en">Exceptions: Canada/Mexico
+  (tied to the US via USMCA) and all of East/Southeast Asia (tied to China via regional supply
+  chains) — the US itself still bears a net cost.</span>
+
+**68. Bản chất bất định chính sách thương mại Mỹ-Trung đã thay đổi ra sao từ 2015 đến 2050 (dự
+phóng), theo Alessandria et al. (2025)? (L102)**<br><span class="en">**68. How has the nature of
+US-China trade-policy uncertainty changed from 2015 to 2050 (projected), per Alessandria et al.
+(2025)? (L102)**</span>
+- Trước 2018: thị trường KHÔNG đón đầu chiến tranh thương mại. Sau 2018: bất định xuất hiện, ban
+  đầu kỳ vọng tạm thời (>70% xác suất quay lại NTR).<br><span class="en">Before 2018: the market
+  did NOT anticipate the trade war. After 2018: uncertainty emerges, initially expected to be
+  temporary (>70% probability of returning to NTR).</span>
+- Niềm tin "tạm thời" sụp đổ theo thời gian (còn 21% năm 2023) — bất định chuyển từ ngắn hạn sang
+  rủi ro CƠ CẤU dài hạn (xem 3.28).<br><span class="en">The "temporary" belief collapses over time
+  (down to 21% by 2023) — uncertainty shifts from short-run to a STRUCTURAL long-run risk (see
+  3.28).</span>
+
+**69. Né thuế giải thích bao nhiêu % khoảng vênh thống kê thương mại Mỹ-Trung, và né thuế gắn với
+yếu tố địa phương nào? (L103)**<br><span class="en">**69. What percentage of the US-China trade
+statistical gap does evasion explain, and what local factor does evasion tie to? (L103)**</span>
+- 69,70% tính đến 2021 — phần lớn mức giảm 24,9% thâm hụt thương mại mà chính quyền Trump tuyên bố
+  không phản ánh thay đổi thực.<br><span class="en">69.70% by 2021 — most of the 24.9% trade-
+  deficit decline the Trump administration touted does not reflect a genuine change.</span>
+- Nhu cầu địa phương vùng cảng (1 SD tăng → né thuế tăng 1,312 lần), tập trung ở hàng trung gian
+  (xem 3.29).<br><span class="en">Local demand at port areas (a 1-SD increase → a 1.312-fold rise
+  in evasion), concentrated in intermediate goods (see 3.29).</span>
+
+**70. Chuyển hướng thương mại theo chiều dọc (VTD) của Trung Quốc khác chuyển hướng theo chiều
+ngang (HTD) truyền thống ra sao, theo Sheng, Song & Zheng (2025)? (L104)**<br><span class="en">
+**70. How does China's Vertical Trade Diversion (VTD) differ from conventional Horizontal Trade
+Diversion (HTD), per Sheng, Song & Zheng (2025)? (L104)**</span>
+- HTD (dự đoán thông thường): TQ chuyển hàng sang nước Bắc bán cầu khác. VTD (phát hiện thực):
+  TQ hạ bậc thang chất lượng, chuyển hàng chất lượng cao xuống Nam bán cầu.<br><span class="en">
+  HTD (conventional prediction): China shifts goods to other Northern countries. VTD (actual
+  finding): China moves down the quality ladder, shifting high-quality goods to the South.</span>
+- Việt Nam KHÔNG phải điểm đến chính của VTD này — khác với cơ chế VN hưởng lợi ở L106/L107 (xem
+  3.30).<br><span class="en">Vietnam is NOT a primary destination of this VTD — different from the
+  mechanism by which Vietnam benefits in L106/L107 (see 3.30).</span>
+
+**71. Almazán-Gómez et al. (2025) dùng công cụ gì để lượng hóa tác động cấp vùng của chiến tranh
+thương mại, và vùng nào bị ảnh hưởng nặng nhất? (L105)**<br><span class="en">**71. What tool do
+Almazán-Gómez et al. (2025) use to quantify the regional impact of the trade war, and which
+regions are hit hardest? (L105)**</span>
+- Mô hình cân bằng riêng phần SMART + bảng đầu vào-đầu ra đa vùng EUREGIO-2017, cho 297 vùng
+  NUTS-2 châu Âu.<br><span class="en">The SMART partial-equilibrium model + the EUREGIO-2017
+  multiregional input-output table, for 297 European NUTS-2 regions.</span>
+- Vùng chuyên môn hóa cao vào sản phẩm bị đánh thuế (ô tô, hàng không) VÀ vùng hội nhập sâu chuỗi
+  giá trị châu Âu — kể cả vùng không trực tiếp sản xuất hàng bị đánh thuế vẫn chịu lan tỏa (xem
+  3.32).<br><span class="en">Regions highly specialized in taxed products (automotive, aerospace)
+  AND regions deeply integrated into European value chains — even regions not directly producing
+  the taxed goods still suffer spillovers (see 3.32).</span>
+
+**72. Chiến tranh thương mại Mỹ-Trung tác động thế nào đến xuất khẩu Việt Nam sang Mỹ, và tác động
+này có đồng đều giữa các ngành không? (L106)**<br><span class="en">**72. How did the US-China
+trade war affect Vietnamese exports to the US, and was this effect uniform across sectors?
+(L106)**</span>
+- Tổng xuất khẩu VN sang Mỹ TĂNG 14% (bằng chứng DiD nhân quả).<br><span class="en">Total
+  Vietnamese exports to the US INCREASED by 14% (causal DiD evidence).</span>
+- Không đồng đều: nhựa, sắt/thép, dệt may, máy móc hưởng lợi rõ; điện tử, nông lâm nghiệp, nội
+  thất KHÔNG có ý nghĩa thống kê.<br><span class="en">Uneven: plastics, iron/steel, textiles,
+  machinery clearly benefit; electronics, agriculture/forestry, furniture show NO statistically
+  significant effect.</span>
+
+**73. Toai (2025) nêu những rủi ro nào đi kèm lợi ích trade diversion mà Việt Nam đang hưởng?
+(L107)**<br><span class="en">**73. What risks does Toai (2025) identify alongside the trade-
+diversion benefits Vietnam currently enjoys? (L107)**</span>
+- Phụ thuộc ngày càng sâu vào đầu vào Trung Quốc (chuyên môn hóa theo chiều dọc); thặng dư thương
+  mại phình to với Mỹ kéo theo giám sát/nguy cơ trừng phạt.<br><span class="en">Deepening
+  dependence on Chinese inputs (vertical specialization); a ballooning trade surplus with the US
+  inviting scrutiny/retaliation risk.</span>
+- Rủi ro bị điều tra chuyển tải hàng hóa (transshipment) bởi CBP; giá trị gia tăng nội địa còn
+  thấp, chưa tận dụng CPTPP/RCEP để phân tán rủi ro (xem 3.31).<br><span class="en">Risk of
+  transshipment investigation by CBP; low domestic value-added, not yet leveraging CPTPP/RCEP to
+  spread trade risk (see 3.31).</span>
+
+### Xuyên lecture (LN9–10 và cross-lecture rộng hơn) — 3 câu - <span class="en">Cross-Lecture (LN9–10 and Broader) — 3 Questions</span>
+
+**74. So sánh cách "khoảng cách số" biểu hiện ở Việt Nam (L93, cấp quốc gia) và Phần Lan (L96, cấp
+doanh nghiệp) (3.25)**<br><span class="en">**74. Compare how the "digital divide" manifests in
+Vietnam (L93, national level) and Finland (L96, firm level) (3.25)**</span>
+- VN: khoảng cách số là khoảng cách ĐẦU TƯ giữa các quốc gia (31tr USD vs hàng trăm/nghìn triệu USD
+  của láng giềng).<br><span class="en">Vietnam: the digital gap is an INVESTMENT gap between
+  countries (USD 31m vs. hundreds/thousands of millions among neighbors).</span>
+- Phần Lan: khoảng cách số là khoảng cách HIỆU SUẤT giữa các doanh nghiệp trong cùng một nước đã
+  tiên tiến — không biến mất khi nước giàu lên, chỉ đổi cấp độ.<br><span class="en">Finland: the
+  digital gap is a PERFORMANCE gap between firms within the same already-advanced country — it
+  doesn't disappear as a country gets richer, it just changes level.</span>
+
+**75. L94 (kinh tế số VN) và L61 (TFP toàn cầu, GS Heshmati) cùng cho thấy mẫu hình gì về tăng
+trưởng quy mô vs chất lượng? (3.26)**<br><span class="en">**75. What shared pattern do L94
+(Vietnam's digital economy) and L61 (global TFP, Prof. Heshmati) reveal about scale vs. quality
+growth? (3.26)**</span>
+- L94: kinh tế số cốt lõi VN tăng quy mô nhanh nhưng lan tỏa công nghệ gần như không đổi.<br><span
+  class="en">L94: Vietnam's core digital economy grows fast in scale but technology spillover
+  stays nearly flat.</span>
+- L61: GDP tăng ở mọi nhóm thu nhập nhưng TC/TFP growth ÂM — tăng trưởng có thể đến từ tích lũy
+  input hơn năng suất thực; cùng cảnh báo không đọc thành công chỉ qua chỉ số tổng quan.<br><span
+  class="en">L61: GDP grows across every income group but TC/TFP growth is NEGATIVE — growth may
+  stem from input accumulation rather than real productivity; both caution against reading success
+  purely from headline indicators.</span>
+
+**76. Phân biệt 2 cơ chế "Việt Nam hưởng lợi từ chiến tranh thương mại": chuyển hướng thương mại
+của Trung Quốc (L104) và né thuế thông qua nhập khẩu Việt Nam (L106/L107) (3.30)**<br><span
+class="en">**76. Distinguish 2 mechanisms of "Vietnam benefiting from the trade war": China's own
+trade diversion (L104) and tariff-driven relocation to Vietnam (L106/L107) (3.30)**</span>
+- L104: TQ chủ động chuyển xuất khẩu CỦA MÌNH sang Nam bán cầu (VTD) — Việt Nam KHÔNG phải điểm
+  đến chính.<br><span class="en">L104: China actively diverts ITS OWN exports to the South (VTD)
+  — Vietnam is NOT a primary destination.</span>
+- L106/L107: nhà nhập khẩu Mỹ + nhà đầu tư chuyển ĐƠN HÀNG/SẢN XUẤT sang Việt Nam để né thuế song
+  phương Mỹ-Trung — một dòng chảy hoàn toàn khác, không phải hàng TQ "đổ" vào VN theo VTD.<br><span
+  class="en">L106/L107: US importers + investors shift ORDERS/PRODUCTION to Vietnam to evade
+  bilateral US-China tariffs — a completely different flow, not Chinese goods "flowing" into
+  Vietnam via VTD.</span>
+
 ## 6. Đề thi khóa trước (tham khảo định dạng thật) & đề mô phỏng K32 - <span class="en">Previous-Cohort Exam (Real Format Reference) & K32 Mock Exams</span>
 
 - [[k31-final-exam]] — đề thi viết cuối kỳ K31 (khóa trước, cùng môn/GS): luật thi thật (120 phút,
@@ -1955,8 +2511,10 @@ lectures (L22, L26, L77) — present each paper's evidence (3.18)**</span>
   [[ln4-agriculture-climate-change-natural-disasters]] ·
   [[ln5-entrepreneurship-economic-development]] · [[ln6-technology-growth-inequality-poverty]] ·
   [[ln7-investment-infrastructure-health-education]] ·
-  [[ln8-circular-economy-inclusive-sustainable-development]]
-- Tất cả 49 source pages: [[l11-patel-2021-unconditional-convergence]],
+  [[ln8-circular-economy-inclusive-sustainable-development]] ·
+  [[ln9-ai-digitalization-economic-development-growth]] ·
+  [[ln10-impacts-trade-war-vietnamese-economy]]
+- Tất cả 62 source pages: [[l11-patel-2021-unconditional-convergence]],
   [[l12-nunn-2019-rethinking-econ-dev]], [[l13-spolaore-2013-deep-roots]],
   [[l14-sasges-2025-vietnam-policies]], [[l15-yin-2025-china-hqed]],
   [[l21-acemoglu-2001-colonial-origins]], [[l22-mauro-1995-corruption-growth]],
@@ -1999,7 +2557,17 @@ lectures (L22, L26, L77) — present each paper's evidence (3.18)**</span>
   [[l85-saidani-2019-taxonomy-circular-economy-indicators]],
   [[l86-heshmati-rashidghalam-2021-urban-circular-economy-sweden]],
   [[l87-nademi-kalmarzi-2025-circular-economy-unemployment]],
-  [[l88-vera-2025-innovation-circular-economy-sdgs]]
+  [[l88-vera-2025-innovation-circular-economy-sdgs]],
+  [[l91-pham-2020-flood-risk-ai-vietnam]], [[l92-rakholia-2022-air-quality-ai-hcmc]],
+  [[l93-pham-2024-ai-development-vietnam-review]], [[l94-vietduc-2024-digital-economy-vietnam]],
+  [[l95-tam-2024-construction-digitalization-barriers-vietnam]],
+  [[l96-kuosmanen-2026-digital-adoption-firm-performance-finland]],
+  [[l101-robinson-thierfelder-2024-us-trade-policy-cge]],
+  [[l102-alessandria-2025-trade-war-tariff-risk]], [[l103-che-2025-tariff-evasion-trade-war]],
+  [[l104-sheng-2025-chinese-exporters-trade-diversion]],
+  [[l105-almazan-gomez-2025-regional-exposure-trade-wars-eu]],
+  [[l106-dang-2024-vietnam-exports-us-trade-war-did]],
+  [[l107-toai-2025-vietnam-import-export-trade-war]]
 - **Bản tương tác (Artifact)**: mindmap có thể bấm mở/đóng từng paper + tab "Tự test" dạng
   flashcard (đều private, cần bấm Share trên trang đó nếu muốn gửi cho người khác):<br><span
   class="en">**Interactive Version (Artifact)**: an expandable/collapsible mindmap per paper +
