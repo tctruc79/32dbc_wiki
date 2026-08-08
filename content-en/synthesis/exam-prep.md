@@ -1376,7 +1376,7 @@ each paper's evidence (3.18)**
 - 3 lectures, 3 different outcomes, all converging: institutional quality is a foundational
   variable running through the entire course.
 
-### From LN9 (6 questions)
+### From LN9 (5 questions)
 
 **62. Why does BDT win at flood forecasting (L91) but linear SGD wins at PM2.5 forecasting (L92)?
 (3.24)**

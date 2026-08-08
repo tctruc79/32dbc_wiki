@@ -2281,7 +2281,7 @@ lectures (L22, L26, L77) — present each paper's evidence (3.18)**</span>
   học.<br><span class="en">3 lectures, 3 different outcomes, all converging: institutional
   quality is a foundational variable running through the entire course.</span>
 
-### Từ LN9 (6 câu) - <span class="en">From LN9 (6 questions)</span>
+### Từ LN9 (5 câu) - <span class="en">From LN9 (5 questions)</span>
 
 **62. Vì sao mô hình BDT thắng ở dự báo lũ (L91) nhưng SGD tuyến tính lại thắng ở dự báo PM2.5
 (L92)? (3.24)**<br><span class="en">**62. Why does BDT win at flood forecasting (L91) but linear
