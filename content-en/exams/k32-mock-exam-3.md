@@ -21,7 +21,8 @@ the actual exam. The answers below closely follow content already deep-ingested 
 list).
 
 See also: [[k32-mock-exam-1]] (Set 1, LN1–LN2) · [[k32-mock-exam-2]] (Set 2, LN3–LN5) ·
-[[exam-prep]] (consolidated exam review).
+[[k32-mock-exam-4]] (Set 4, LN9–LN10) · [[k32-mock-exam-5]] (Set 5, aligned with the real K31
+shortlist) · [[exam-prep]] (consolidated exam review).
 
 ## 0. Exam Rules & Grading Structure (modeled on K31)
 

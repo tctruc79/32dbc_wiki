@@ -27,9 +27,11 @@ deep-ingest trong wiki.<br><span class="en">The answers below closely follow con
 deep-ingested in the wiki.</span>
 
 Xem thêm: [[k32-mock-exam-1]] (Set 1, LN1–LN2) · [[k32-mock-exam-2]] (Set 2, LN3–LN5) ·
-[[k32-mock-exam-3]] (Set 3, LN6–LN8) · [[exam-prep]] (ôn thi tổng hợp).<br><span class="en">See
+[[k32-mock-exam-3]] (Set 3, LN6–LN8) · [[k32-mock-exam-5]] (Set 5, bám shortlist K31 thật) ·
+[[exam-prep]] (ôn thi tổng hợp).<br><span class="en">See
 also: [[k32-mock-exam-1]] (Set 1, LN1–LN2) · [[k32-mock-exam-2]] (Set 2, LN3–LN5) ·
-[[k32-mock-exam-3]] (Set 3, LN6–LN8) · [[exam-prep]] (consolidated exam review).</span>
+[[k32-mock-exam-3]] (Set 3, LN6–LN8) · [[k32-mock-exam-5]] (Set 5, aligned with the real K31
+shortlist) · [[exam-prep]] (consolidated exam review).</span>
 
 ## 0. Luật thi & cơ cấu điểm (mô phỏng theo K31) - <span class="en">Exam Rules & Grading Structure (modeled on K31)</span>
 

@@ -1502,12 +1502,15 @@ diversion (L104) and tariff-driven relocation to Vietnam (L106/L107) (3.30)**
   by this course's own professor. Main value: getting used to the **question format** ("present
   the findings + drivers/impacts/mechanism of a specific paper") — likely to reappear on the
   K32 exam.
-- [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8) and
-  [[k32-mock-exam-4]] (LN9–LN10) — **mock exams for K32** (Claude-authored, NOT a real exam — the
-  professor has not yet released the K32 shortlist or exam), following the exact format/rules of
-  [[k31-final-exam]] but using 24/62 of K32's already deep-ingested papers (12 in Sets 1-2, 6
-  LN6-8 papers in Set 3, 6 new LN9-10 papers in Set 4), spanning all 12 thematic clusters. Use
-  these to practice the question format and to practice writing answers within the real exam's
+- [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8),
+  [[k32-mock-exam-4]] (LN9–LN10, open theme) and [[k32-mock-exam-5]] (the 6 papers still missing
+  from the Top-20 prediction, see [[shortlist-prediction]]) — **mock exams for K32**
+  (Claude-authored, NOT a real exam — the professor has not yet released the K32 shortlist or
+  exam), following the exact format/rules of [[k31-final-exam]] but using 30/62 of K32's already
+  deep-ingested papers, spanning all 12 thematic clusters. Since discovering
+  [[k31-shortlist-2025]] (K31's REAL shortlist document), Set 5 was chosen DIRECTLY from
+  shortlist evidence rather than cluster-reasoning inference as in Sets 1-4. Use these to
+  practice the question format and to practice writing answers within the real exam's
   constraints. Will be extended with more sets/questions as new readings are deep-ingested (see
   CLAUDE.md).
 

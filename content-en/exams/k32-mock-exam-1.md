@@ -20,7 +20,9 @@ exam's rules — NOT to predict the actual exam questions. The answers below are
 content already deep-ingested (unlike [[k31-final-exam]], which required web research for papers
 outside the reading list).
 
-See also: [[k32-mock-exam-2]] (Set 2, LN3–LN5) · [[exam-prep]] (master exam-prep synthesis).
+See also: [[k32-mock-exam-2]] (Set 2, LN3–LN5) · [[k32-mock-exam-3]] (Set 3, LN6–LN8) ·
+[[k32-mock-exam-4]] (Set 4, LN9–LN10) · [[k32-mock-exam-5]] (Set 5, aligned with the real K31
+shortlist) · [[exam-prep]] (master exam-prep synthesis).
 
 ## 0. Exam rules & grading (mirroring K31)
 

@@ -2489,16 +2489,20 @@ trade diversion (L104) and tariff-driven relocation to Vietnam (L106/L107) (3.30
   K32.<br><span class="en">Main value: getting familiar with the **question type** ("present the
   findings + drivers/impacts/mechanism of one specific paper") — likely to reappear on the K32
   exam.</span>
-- [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8) và
-  [[k32-mock-exam-4]] (LN9–LN10) — đề thi **mô phỏng cho K32** (Claude tự soạn, KHÔNG phải đề thật
-  — giáo sư chưa công bố shortlist/đề K32), bám đúng format/luật thi của [[k31-final-exam]] nhưng
-  thay bằng 24/62 paper đã deep-ingest của K32 (12 ở Set 1-2, 6 paper LN6-8 ở Set 3, 6 paper
-  LN9-10 mới ở Set 4), trải đều cả 12 cụm chủ đề.<br><span class="en">[[k32-mock-exam-1]]
-  (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8) and [[k32-mock-exam-4]]
-  (LN9–LN10) — **mock exams for K32** (authored by Claude, NOT the real exam — the professor
-  hasn't published K32's shortlist/exam), closely following [[k31-final-exam]]'s format/rules but
-  substituting 24/62 of K32's deep-ingested papers (12 in Sets 1-2, 6 LN6-8 papers in Set 3, 6 new
-  LN9-10 papers in Set 4), spread across all 12 thematic clusters.</span>
+- [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8),
+  [[k32-mock-exam-4]] (LN9–LN10, chủ đề tự do) và [[k32-mock-exam-5]] (6 bài còn thiếu trong Top
+  20 dự đoán, xem [[shortlist-prediction]]) — đề thi **mô phỏng cho K32** (Claude tự soạn, KHÔNG
+  phải đề thật), bám đúng format/luật thi của [[k31-final-exam]] nhưng thay bằng 30/62 paper đã
+  deep-ingest của K32, trải đều cả 12 cụm chủ đề. Từ khi phát hiện [[k31-shortlist-2025]] (văn bản
+  shortlist THẬT của K31), Set 5 được chọn TRỰC TIẾP theo bằng chứng shortlist thay vì suy luận
+  cụm chủ đề như Set 1-4.<br><span class="en">[[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]]
+  (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8), [[k32-mock-exam-4]] (LN9–LN10, open theme) and
+  [[k32-mock-exam-5]] (the 6 papers still missing from the Top-20 prediction, see
+  [[shortlist-prediction]]) — **mock exams for K32** (authored by Claude, NOT the real exam),
+  closely following [[k31-final-exam]]'s format/rules but substituting 30/62 of K32's
+  deep-ingested papers, spread across all 12 thematic clusters. Since discovering
+  [[k31-shortlist-2025]] (K31's REAL shortlist document), Set 5 was chosen DIRECTLY from shortlist
+  evidence rather than cluster-reasoning inference as in Sets 1-4.</span>
   Dùng để luyện dạng câu hỏi + luyện viết đáp án đúng khuôn khổ thi thật. Sẽ mở rộng thêm set/câu
   hỏi mỗi khi có reading mới được deep-ingest (xem CLAUDE.md).<br><span class="en">Used to
   practice the question type + practice writing answers within the real exam's constraints. Will

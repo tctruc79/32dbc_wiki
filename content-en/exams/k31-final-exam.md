@@ -3,7 +3,7 @@ type: exam
 title: "K31 Final Written Exam — Development Issues and Business Cycle"
 tags: [exam, past-exam, k31, land-consolidation, poverty-inequality, construction-digitalization, banking-crisis, trade-policy, urban-infrastructure]
 created: 2026-07-28
-updated: 2026-08-07
+updated: 2026-08-08
 status: complete
 source_file: "raw/4. PAST EXAMS/K31 final written exam/k31-exam-page1-questions.jpeg"
 also_covers:
@@ -274,68 +274,68 @@ the 3 groups, meaning most barriers are perceived similarly across project roles
 
 ### Question 5 — US trade policy, protectionism, trade war, China (Robinson & Thierfelder, JPM 2024)
 
-✅ **Updated 2026-08-07**: this paper has now been deep-ingested as reading L101 of
-[[ln10-impacts-trade-war-vietnamese-economy]] — see the full page:
-[[l101-robinson-thierfelder-2024-us-trade-policy-cge]]. ⚠️ The PDF in `raw/` is only a printed
-ScienceDirect landing page (not the paywalled full text — missing detailed sector/country tables),
-so the answer below still relies on the readable Abstract/Introduction/Conclusion plus
-cross-checking the professor's LN10 slide (paraphrasing nearly the same passage) — no longer
-relying on web search as before.
+✅ **Updated 2026-08-08**: this paper has now been FULLY deep-ingested (the complete 17-page text,
+after the user replaced the earlier landing-page PDF with the full-text version) as reading L101
+of [[ln10-impacts-trade-war-vietnamese-economy]] — see the full page:
+[[l101-robinson-thierfelder-2024-us-trade-policy-cge]]. The answer below now draws on the paper's
+complete Tables 1–10, no longer limited to the Abstract/Introduction/Conclusion as in the earlier
+version.
 
 **Confirmed source**: Robinson, Sherman; Thierfelder, Karen (2024), *"US international trade
 policy: Scenarios of protectionism and trade wars"*, **Journal of Policy Modeling**, 46(4),
 723–739 (DOI: 10.1016/j.jpolmod.2024.02.010).
 
-**Methodology**: A multi-country **computable general equilibrium (CGE)** model of the world
-economy. Two policy scenarios "under active discussion" during the Trump and Biden
-administrations: (1) an across-the-board 10-percentage-point increase in all US tariffs; (2) a
-severe escalation of the US–China trade war.
+**Methodology**: A multi-country **CGE model called "Globe"** — 18 countries/regions, 24 sectors,
+2 labor types, a nested trade structure along 3 ICRE blocs (North America/Europe/E&SE Asia). 5
+simulations (Table 4) along 2 policy-scenario axes: (1) an across-the-board 10-percentage-point
+increase in all US tariffs (a "limited trade war"); (2) a serious escalation of the US-China
+trade war (+60pp on China alone); (3) a combination of both — each run with/without retaliation ×
+short/long run.
 
-**Key findings (quoted directly from the abstract)**:
-- **Across-the-board tariffs do NOT protect manufacturing jobs** — because the cost of imported
-  intermediate goods rises, raising production costs **within US manufacturing itself** (an
-  upstream/intermediate-input cost channel, not merely a demand effect) — this directly answers
-  the "protection of manufacturing jobs" part of the question: tariff protection can backfire on
-  the very industry it is meant to protect.
-- **Trade diversion**: the world economy adapts by **rerouting trade around** US barriers, even as
-  bilateral US–China trade contracts sharply under the severe trade-war scenario.
-- Because the US accounts for only ~10% of world trade, protectionist measures generate complex,
-  partly **self-defeating** effects rather than simply shielding US industry.
+**Key findings (real quantitative figures from the paper, no longer needing a substitute
+source)**:
+- **Across-the-board tariffs do NOT protect manufacturing jobs**: long run, with retaliation,
+  output falls in MOST US industrial sectors despite being "protected" (e.g. Autos −5.04%
+  combined scenario, Aluminum −4.70%) — a "fallacy of composition": widespread tariffs hit both
+  intermediate inputs and final goods, raising production costs WITHIN manufacturing itself.
+- **Trade diversion (quantified)**: in the US-China trade-war scenario, China's exports to the US
+  fall 44% long run but China's exports to EVERY OTHER region RISE (+15.4% Rest of NAFTA, +14.6%
+  Europe) — the world economy adapts by rerouting trade around US barriers. Exception: Canada/
+  Mexico (NAFTA-tied to the US) cut exports to China by 28.3%/33.2%.
+- **Protection creates a net cost for the US itself, ROBUST across every scenario**: US GDP falls
+  in every combination (−1.2% to −3.3% short run depending on scenario); a welfare loss of
+  $0.46–$1.76 per $1 of tariff revenue collected — tariffs are a very inefficient revenue-raising
+  tool.
 
-**Supplementary figures from related work by the SAME authors** (PIIE Policy Brief PB19-17, 2019,
-using a similar model — **not the exact 2024 paper being asked about**, used here purely to
-illustrate the scale of the effects, sourced separately): US GDP falls 0.02%/0.13% ($5bn/$26bn)
-and Chinese welfare falls 0.35%/0.90% across the two scenarios; China's exports rise 1.3% while US
-exports fall 1.3% under the severe scenario (China reroutes trade around US tariffs); "all other
-countries gain welfare" from trade diversion.
-
-**⚠️ On "potential impacts on the Vietnamese economy" — NOT part of the original paper's
-findings**: neither the 2024 paper's abstract nor the 2019 PIIE brief names Vietnam specifically —
-both refer only in aggregate to "world markets adjusting"/"other countries gaining." The Vietnam
-part of the exam question most likely requires students to **draw their own connection** to a
-separate body of literature on trade diversion toward Vietnam (a well-studied topic — Vietnam is
-frequently cited as one of the largest beneficiaries of US–China trade diversion due to its role
-as an alternative supply-chain location), **NOT** a direct quote from Robinson & Thierfelder
-(2024). When answering, one should: (a) present the three core findings above from the actual
-paper being asked about; (b) then clearly flag the Vietnam discussion as the student's own
-extension/connection — Vietnam is a textbook trade-diversion candidate (FDI/exports shifting to
-Vietnam as goods reroute around US–China tariffs) — citing a different source for any specific
-Vietnam figures, rather than misattributing such numbers to Robinson & Thierfelder.
+**⚠️ Regarding "potential impacts on the Vietnamese economy" — still NOT in the original paper,
+but now citable with more specific quantitative figures**: the paper does not name Vietnam
+individually (the CGE model has only 18 aggregate regions; Vietnam sits within "Other Southeast
+Asia"). The Vietnam portion of the exam question still requires students to **infer/connect on
+their own** based on other literature — but L101's own Table 8B now gives an interesting
+quantitative starting point: "Other Southeast Asia" (the regional bloc containing Vietnam)
+actually sees exports to the US FALL 3.7% long run in the US-China trade-war scenario — when
+answering: (a) present the 3 key findings above from the actual paper asked about; (b) note that
+Table 8B shows the "Other Southeast Asia" bloc does NOT clearly benefit at the aggregate level;
+(c) then flag this as opening a comparison question against Vietnam-specific country-level
+evidence (see the reconciliation point below), without misattributing specific Vietnamese figures
+to Robinson & Thierfelder.
 - Connects to [[l26-huynh-tran-2025-fdi-informal-economy]] (LN2): if trade diversion does push FDI
   into Vietnam, this is exactly the FDI channel L26 analyzes for its effect on governance/the
   informal economy — a natural bridge between the two questions if an essay/exam asks for
   synthesis.
-- **An interesting evidence-reconciliation point (2026-08-07)**: L101's abstract lists East/
-  Southeast Asian countries as NOT expanding trade much under the trade-war scenario — seemingly
-  contradicting the Vietnamese empirical evidence in
-  [[l106-dang-2024-vietnam-exports-us-trade-war-did]] (Vietnamese exports to the US +14%) and
-  [[l107-toai-2025-vietnam-import-export-trade-war]] (+40%). A plausible reconciliation: (a)
-  L101's CGE model aggregates regions/countries at a high level, potentially masking variation
-  within a specific country; (b) the Vertical Trade Diversion mechanism in
-  [[l104-sheng-2025-chinese-exporters-trade-diversion]] shows China evading tariffs by redirecting
-  exports — not ruling out Vietnam benefiting via a direct substitution channel in the US market
-  (exactly the mechanism L106 measures) without contradicting L101's region-level conclusion. This
-  is an excellent cross-paper comparison question for exam review.
+- **An interesting evidence-reconciliation point, now with concrete figures on both sides
+  (2026-08-08)**: L101's Table 8B shows the "Other Southeast Asia" bloc FALLS 3.7% in exports to
+  the US long run under the US-China trade-war scenario — seemingly CONTRADICTING the Vietnamese
+  empirical evidence in [[l106-dang-2024-vietnam-exports-us-trade-war-did]] (VN exports to the US
+  +14%) and [[l107-toai-2025-vietnam-import-export-trade-war]] (+40%). A plausible reconciliation:
+  (a) L101's CGE model aggregates regions/countries at a high level (18 regions), so the bloc
+  AVERAGE can mask large variation within ONE specific country in that bloc; (b) the Vertical
+  Trade Diversion mechanism in [[l104-sheng-2025-chinese-exporters-trade-diversion]] shows China
+  actively rerouting ITS OWN exports toward countries like Vietnam — not ruling out Vietnam
+  benefiting via a DIRECT SUBSTITUTION channel in the US market (exactly the mechanism L106
+  measures) without contradicting L101's region-level conclusion. This is an excellent 3-paper
+  comparison question (L101 vs. L104 vs. L106/L107) for exam review, now citable with concrete
+  figures on both sides instead of only qualitative reasoning.
 
 ### Question 6 — Urban infrastructure & urbanization, China (Heshmati & Rashidghalam, JCP 2020)
 

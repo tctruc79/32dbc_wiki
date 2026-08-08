@@ -18,7 +18,9 @@ papers). Purpose: to practice the **question format** ("present the findings +
 drivers/mechanism/impacts of a specific paper") and to practice writing answers within the real
 exam's rules — NOT to predict the actual exam questions.
 
-See also: [[k32-mock-exam-1]] (Set 1, LN1–LN2) · [[exam-prep]] (master exam-prep synthesis).
+See also: [[k32-mock-exam-1]] (Set 1, LN1–LN2) · [[k32-mock-exam-3]] (Set 3, LN6–LN8) ·
+[[k32-mock-exam-4]] (Set 4, LN9–LN10) · [[k32-mock-exam-5]] (Set 5, aligned with the real K31
+shortlist) · [[exam-prep]] (master exam-prep synthesis).
 
 ## 0. Exam rules & grading (mirroring K31)
 

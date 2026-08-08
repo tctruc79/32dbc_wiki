@@ -3,7 +3,7 @@ type: exam
 title: "K31 Final Written Exam — Development Issues and Business Cycle"
 tags: [exam, past-exam, k31, land-consolidation, poverty-inequality, construction-digitalization, banking-crisis, trade-policy, urban-infrastructure]
 created: 2026-07-28
-updated: 2026-08-07
+updated: 2026-08-08
 status: complete
 source_file: "raw/4. PAST EXAMS/K31 final written exam/k31-exam-page1-questions.jpeg"
 also_covers:
@@ -434,19 +434,17 @@ paper overlaps 100% with K32's own reading L31** — see the full page:
 
 ### Question 5 — US trade policy, protectionism, trade war, China (Robinson & Thierfelder, JPM 2024)
 
-✅ **Cập nhật 2026-08-07**: paper này nay đã được deep-ingest làm reading L101 của
+✅ **Cập nhật 2026-08-08**: paper này nay đã được deep-ingest ĐẦY ĐỦ (toàn văn 17 trang, sau khi
+người dùng thay bản PDF landing-page trước đó bằng bản toàn văn) làm reading L101 của
 [[ln10-impacts-trade-war-vietnamese-economy]] — xem trang đầy đủ:
-[[l101-robinson-thierfelder-2024-us-trade-policy-cge]]. ⚠️ File PDF trong `raw/` chỉ là bản in
-trang ScienceDirect (không phải toàn văn có khóa — thiếu bảng số liệu chi tiết theo ngành/nước),
-nên đáp án dưới vẫn dựa trên Abstract/Introduction/Conclusion đọc được + đối chiếu slide LN10 của
-GS (diễn giải gần nguyên văn cùng đoạn) — KHÔNG còn dựa trên web search như trước.<br><span
-class="en">✅ **Update 2026-08-07**: this paper has now been deep-ingested as reading L101 of
-[[ln10-impacts-trade-war-vietnamese-economy]] — see the full page:
-[[l101-robinson-thierfelder-2024-us-trade-policy-cge]]. ⚠️ The PDF in `raw/` is only a printed
-ScienceDirect landing page (not the paywalled full text — missing detailed sector/country tables),
-so the answer below still relies on the readable Abstract/Introduction/Conclusion + cross-checking
-the professor's LN10 slide (paraphrasing nearly the same passage) — no longer relying on web
-search as before.</span>
+[[l101-robinson-thierfelder-2024-us-trade-policy-cge]]. Đáp án dưới nay dựa trên toàn bộ Bảng
+1–10 của bài, không còn giới hạn ở Abstract/Introduction/Conclusion như bản trước.<br><span
+class="en">✅ **Update 2026-08-08**: this paper has now been FULLY deep-ingested (the complete
+17-page text, after the user replaced the earlier landing-page PDF with the full-text version)
+as reading L101 of [[ln10-impacts-trade-war-vietnamese-economy]] — see the full page:
+[[l101-robinson-thierfelder-2024-us-trade-policy-cge]]. The answer below now draws on the paper's
+complete Tables 1–10, no longer limited to the Abstract/Introduction/Conclusion as in the earlier
+version.</span>
 
 **Nguồn xác nhận**: Robinson, Sherman; Thierfelder, Karen (2024), *"US international trade policy:
 Scenarios of protectionism and trade wars"*, **Journal of Policy Modeling**, 46(4), 723–739 (DOI:
@@ -454,71 +452,66 @@ Scenarios of protectionism and trade wars"*, **Journal of Policy Modeling**, 46(
 Thierfelder, Karen (2024), *"US international trade policy: Scenarios of protectionism and trade
 wars"*, **Journal of Policy Modeling**, 46(4), 723–739 (DOI: 10.1016/j.jpolmod.2024.02.010).</span>
 
-**Phương pháp**: Mô hình **CGE (computable general equilibrium) đa quốc gia** cho kinh tế thế
-giới. 2 kịch bản chính sách "đang được thảo luận tích cực" dưới thời chính quyền Trump và Biden:
-(1) tăng đồng loạt tất cả thuế quan Mỹ thêm 10 điểm %; (2) leo thang nghiêm trọng trade war
-Mỹ-Trung.<br><span class="en">**Method**: a multi-country **CGE (computable general
-equilibrium)** model of the world economy. 2 policy scenarios "actively being discussed" under
-the Trump and Biden administrations: (1) an across-the-board 10-percentage-point increase in
-all US tariffs; (2) a serious escalation of the US-China trade war.</span>
+**Phương pháp**: Mô hình **CGE (computable general equilibrium) đa quốc gia "Globe"** — 18 nước/
+vùng, 24 ngành, 2 loại lao động, cấu trúc thương mại lồng nhau theo 3 khối ICRE (Bắc Mỹ/châu Âu/
+Đông-ĐNA). 5 mô phỏng (Bảng 4) dọc theo 2 trục kịch bản chính sách: (1) tăng đồng loạt tất cả thuế
+quan Mỹ thêm 10 điểm % ("limited trade war"); (2) leo thang nghiêm trọng trade war Mỹ-Trung (+60
+điểm % riêng TQ); (3) kết hợp cả hai — mỗi kịch bản chạy có/không trả đũa × ngắn/dài hạn.<br><span
+class="en">**Method**: a multi-country **CGE (computable general equilibrium) model called
+"Globe"** — 18 countries/regions, 24 sectors, 2 labor types, a nested trade structure along 3
+ICRE blocs (North America/Europe/E&SE Asia). 5 simulations (Table 4) along 2 policy-scenario
+axes: (1) an across-the-board 10-percentage-point increase in all US tariffs (a "limited trade
+war"); (2) a serious escalation of the US-China trade war (+60pp on China alone); (3) a
+combination of both — each run with/without retaliation × short/long run.</span>
 
-**Findings chính (trích trực tiếp abstract)**:<br><span class="en">**Key findings (directly
-from the abstract)**:</span>
-- **Thuế quan đồng loạt KHÔNG bảo vệ được việc làm sản xuất (manufacturing jobs)** — vì chi phí
-  hàng hóa trung gian nhập khẩu tăng lên, làm tăng chi phí sản xuất **NGAY TRONG NỘI BỘ** ngành
-  sản xuất Mỹ (kênh chi phí đầu vào trung gian/upstream, không chỉ hiệu ứng cầu đơn thuần) — đây
-  là câu trả lời trực tiếp cho phần "protection of manufacturing jobs" của câu hỏi: bảo hộ thuế
-  quan có thể phản tác dụng với chính ngành nó định bảo vệ.<br><span class="en">**Across-the-
-  board tariffs do NOT protect manufacturing jobs** — because the cost of imported intermediate
-  goods rises, raising production costs **WITHIN** US manufacturing itself (an
-  intermediate-input/upstream cost channel, not merely a demand effect) — this directly answers
-  the "protection of manufacturing jobs" part of the question: tariff protection can backfire
-  on the very industry it aims to protect.</span>
-- **Trade diversion**: kinh tế thế giới thích ứng bằng cách **tái định tuyến thương mại** vòng qua
-  các rào cản của Mỹ, ngay cả khi thương mại song phương Mỹ-Trung co lại mạnh dưới kịch bản trade
-  war nghiêm trọng.<br><span class="en">**Trade diversion**: the world economy adapts by
-  **rerouting trade** around US barriers, even as US-China bilateral trade contracts sharply
-  under the severe trade-war scenario.</span>
-- Vì Mỹ chỉ chiếm ~10% thương mại thế giới, các biện pháp bảo hộ tạo ra hiệu ứng phức tạp, một
-  phần **tự phản tác dụng** (self-defeating) thay vì đơn thuần bảo vệ ngành công nghiệp Mỹ.<br><span
-  class="en">Since the US accounts for only ~10% of world trade, protectionist measures create
-  complex effects, partly **self-defeating** rather than simply protecting US industry.</span>
+**Findings chính (số liệu định lượng thật từ bài, không còn cần nguồn thay thế)**:<br><span
+class="en">**Key findings (real quantitative figures from the paper, no longer needing a
+substitute source)**:</span>
+- **Thuế quan đồng loạt KHÔNG bảo vệ được việc làm sản xuất**: dài hạn, có trả đũa, sản lượng
+  giảm ở HẦU HẾT ngành công nghiệp Mỹ dù được "bảo hộ" (vd Autos −5,04% kịch bản kết hợp,
+  Aluminum −4,70%) — "ngụy biện tổng hợp" (fallacy of composition): thuế quan diện rộng đánh cả
+  đầu vào trung gian lẫn hàng cuối, đẩy chi phí sản xuất tăng NGAY TRONG NỘI BỘ ngành sản
+  xuất.<br><span class="en">**Across-the-board tariffs do NOT protect manufacturing jobs**: long
+  run, with retaliation, output falls in MOST US industrial sectors despite being "protected"
+  (e.g. Autos −5.04% combined scenario, Aluminum −4.70%) — a "fallacy of composition": widespread
+  tariffs hit both intermediate inputs and final goods, raising production costs WITHIN
+  manufacturing itself.</span>
+- **Trade diversion (định lượng)**: trong kịch bản trade war Mỹ-Trung, xuất khẩu TQ sang Mỹ giảm
+  44% dài hạn nhưng xuất khẩu TQ TĂNG sang mọi vùng khác (+15,4% Rest of NAFTA, +14,6% châu Âu) —
+  kinh tế thế giới thích ứng bằng cách tái định tuyến thương mại vòng qua rào cản Mỹ. Ngoại lệ:
+  Canada/Mexico (gắn NAFTA với Mỹ) giảm xuất khẩu sang TQ 28,3%/33,2%.<br><span class="en">
+  **Trade diversion (quantified)**: in the US-China trade-war scenario, China's exports to the US
+  fall 44% long run but China's exports to EVERY OTHER region RISE (+15.4% Rest of NAFTA, +14.6%
+  Europe) — the world economy adapts by rerouting trade around US barriers. Exception: Canada/
+  Mexico (NAFTA-tied to the US) cut exports to China by 28.3%/33.2%.</span>
+- **Bảo hộ tạo chi phí ròng cho chính Mỹ, VỮNG xuyên mọi kịch bản**: GDP Mỹ giảm ở mọi tổ hợp
+  (−1,2% đến −3,3% ngắn hạn tùy kịch bản); mất phúc lợi $0,46–$1,76 cho mỗi $1 doanh thu thuế thu
+  được — thuế quan là công cụ thu ngân sách rất kém hiệu quả.<br><span class="en">**Protection
+  creates a net cost for the US itself, ROBUST across every scenario**: US GDP falls in every
+  combination (−1.2% to −3.3% short run depending on scenario); a welfare loss of $0.46–$1.76 per
+  $1 of tariff revenue collected — tariffs are a very inefficient revenue-raising tool.</span>
 
-**Số liệu bổ sung từ nghiên cứu liên quan CÙNG tác giả** (PIIE Policy Brief PB19-17, 2019, mô hình
-tương tự — **không phải chính bài 2024 được hỏi**, chỉ dùng minh họa độ lớn hiệu ứng, ghi rõ nguồn
-riêng): GDP Mỹ giảm 0.02%/0.13% ($5 tỷ/$26 tỷ) và welfare Trung Quốc giảm 0.35%/0.90% ở 2 kịch bản;
-xuất khẩu Trung Quốc tăng 1.3% trong khi xuất khẩu Mỹ giảm 1.3% ở kịch bản nghiêm trọng nhất (Trung
-Quốc tái định tuyến vòng qua thuế quan Mỹ); "tất cả các nước khác đều được lợi welfare" từ trade
-diversion.<br><span class="en">**Supplementary figures from a related study by the SAME
-authors** (PIIE Policy Brief PB19-17, 2019, a similar model — **not the actual 2024 paper
-asked about**, used only to illustrate the magnitude of effects, cited separately): US GDP
-falls 0.02%/0.13% ($5bn/$26bn) and Chinese welfare falls 0.35%/0.90% across the 2 scenarios;
-Chinese exports rise 1.3% while US exports fall 1.3% in the most severe scenario (China
-rerouting around US tariffs); "all other countries gain welfare" from trade diversion.</span>
-
-**⚠️ Về "potential impacts on the Vietnamese economy" — phần câu hỏi KHÔNG có trong bài báo gốc**:
-cả abstract bài 2024 lẫn PIIE brief 2019 đều KHÔNG nêu tên Việt Nam cụ thể — chỉ nói chung "world
-markets adjust"/"other countries gain". Phần Việt Nam trong câu hỏi thi nhiều khả năng đòi hỏi
-sinh viên **tự suy luận/liên hệ** dựa trên literature khác về trade diversion sang Việt Nam (đây
-là chủ đề được nghiên cứu khá nhiều — VN thường được nêu là một trong các nước hưởng lợi lớn nhất
-từ trade diversion Mỹ-Trung do vị trí thay thế chuỗi cung ứng), KHÔNG PHẢI trích trực tiếp từ
-Robinson & Thierfelder (2024). Khi trả lời câu này, nên: (a) trình bày đúng 3 finding chính ở trên
-từ chính bài được hỏi; (b) sau đó nêu rõ đây là phần mở rộng/liên hệ của sinh viên — Việt Nam là
-ứng viên trade diversion điển hình (dịch chuyển FDI/export sang VN khi hàng hóa né thuế quan
-Mỹ-Trung) — và trích một nguồn khác nếu cần số liệu VN cụ thể, không gán nhầm số liệu này cho
-Robinson & Thierfelder.<br><span class="en">**⚠️ Regarding "potential impacts on the Vietnamese
-economy" — this part is NOT in the original paper**: neither the 2024 abstract nor the 2019
-PIIE brief names Vietnam specifically — they only speak generally of "world markets
-adjust"/"other countries gain." The Vietnam portion of the exam question likely requires
-students to **infer/connect on their own** based on other literature on trade diversion toward
-Vietnam (a fairly well-studied topic — Vietnam is often cited as one of the biggest
-beneficiaries of US-China trade diversion given its position as a supply-chain substitute),
-NOT a direct quote from Robinson & Thierfelder (2024). When answering this question: (a)
-present the 3 key findings above accurately from the actual paper asked about; (b) then
-clearly flag this as the student's own extension/connection — Vietnam is a typical trade-
-diversion candidate (FDI/export shifts to Vietnam as goods avoid US-China tariffs) — and cite
-another source if specific Vietnamese figures are needed, without misattributing them to
-Robinson & Thierfelder.</span>
+**⚠️ Về "potential impacts on the Vietnamese economy" — vẫn KHÔNG có trong bài báo gốc, nhưng nay
+có thể trích số liệu định lượng cụ thể hơn**: bài không nêu tên Việt Nam riêng lẻ (mô hình CGE chỉ
+có 18 vùng tổng hợp, VN nằm trong "Other Southeast Asia"). Phần Việt Nam trong câu hỏi thi vẫn đòi
+hỏi sinh viên **tự suy luận/liên hệ** dựa trên literature khác — nhưng nay Bảng 8B của chính L101
+cho một điểm khởi đầu định lượng thú vị: "Other Southeast Asia" (khối vùng gồm VN) xuất khẩu sang
+MỸ thực ra GIẢM 3,7% dài hạn trong kịch bản trade war Mỹ-Trung — khi trả lời nên: (a) trình bày 3
+finding chính ở trên từ chính bài được hỏi; (b) nêu rõ Bảng 8B cho thấy khối vùng "Other Southeast
+Asia" KHÔNG hưởng lợi rõ ràng ở cấp tổng hợp; (c) sau đó nêu đây là điểm mở ra câu hỏi so sánh với
+bằng chứng cấp quốc gia Việt Nam cụ thể (xem điểm hòa giải bên dưới), không gán nhầm số liệu VN cụ
+thể cho Robinson & Thierfelder.<br><span class="en">**⚠️ Regarding "potential impacts on the
+Vietnamese economy" — still NOT in the original paper, but now citable with more specific
+quantitative figures**: the paper does not name Vietnam individually (the CGE model has only 18
+aggregate regions; Vietnam sits within "Other Southeast Asia"). The Vietnam portion of the exam
+question still requires students to **infer/connect on their own** based on other literature —
+but L101's own Table 8B now gives an interesting quantitative starting point: "Other Southeast
+Asia" (the regional bloc containing Vietnam) actually sees exports to the US FALL 3.7% long run
+in the US-China trade-war scenario — when answering: (a) present the 3 key findings above from
+the actual paper asked about; (b) note that Table 8B shows the "Other Southeast Asia" bloc does
+NOT clearly benefit at the aggregate level; (c) then flag this as opening a comparison question
+against Vietnam-specific country-level evidence (see the reconciliation point below), without
+misattributing specific Vietnamese figures to Robinson & Thierfelder.</span>
 - Liên hệ [[l26-huynh-tran-2025-fdi-informal-economy]] (LN2): nếu trade diversion thực sự đẩy FDI
   vào VN, đây chính là kênh FDI mà L26 phân tích tác động lên governance/informal economy — một
   cầu nối tự nhiên giữa 2 câu hỏi nếu essay/exam yêu cầu tổng hợp.<br><span class="en">Connects
@@ -526,26 +519,32 @@ Robinson & Thierfelder.</span>
   into Vietnam, this is exactly the FDI channel L26 analyzes for its impact on
   governance/informal economy — a natural bridge between the two questions if an essay/exam
   requires synthesis.</span>
-- **Điểm hòa giải bằng chứng thú vị (2026-08-07)**: Abstract L101 liệt kê các nước Đông/Đông Nam Á
-  vào nhóm KHÔNG mở rộng thương mại nhiều dưới kịch bản trade war — có vẻ MÂU THUẪN bề mặt với
-  bằng chứng thực nghiệm Việt Nam ở [[l106-dang-2024-vietnam-exports-us-trade-war-did]] (xuất khẩu
-  VN sang Mỹ +14%) và [[l107-toai-2025-vietnam-import-export-trade-war]] (+40%). Cách hòa giải khả
-  dĩ: (a) mô hình CGE của L101 gộp vùng/quốc gia ở cấp độ tổng hợp cao, có thể che khuất biến động
-  ở một nước cụ thể; (b) cơ chế Vertical Trade Diversion ở
-  [[l104-sheng-2025-chinese-exporters-trade-diversion]] cho thấy TQ né thuế bằng cách chuyển hướng
-  xuất khẩu — không loại trừ khả năng VN hưởng lợi qua kênh THAY THẾ TRỰC TIẾP tại thị trường Mỹ
-  (đúng cơ chế L106 đo được) mà không mâu thuẫn với kết luận cấp vùng của L101. Đây là một câu hỏi
-  so sánh xuyên bài rất hay cho ôn thi.<br><span class="en">**An interesting evidence-reconciliation
-  point (2026-08-07)**: L101's abstract lists East/Southeast Asian countries as NOT expanding
-  trade much under the trade-war scenario — seemingly CONTRADICTING the Vietnamese empirical
-  evidence in [[l106-dang-2024-vietnam-exports-us-trade-war-did]] (VN exports to the US +14%) and
-  [[l107-toai-2025-vietnam-import-export-trade-war]] (+40%). A plausible reconciliation: (a) L101's
-  CGE model aggregates regions/countries at a high level, potentially masking variation within a
-  specific country; (b) the Vertical Trade Diversion mechanism in
-  [[l104-sheng-2025-chinese-exporters-trade-diversion]] shows China evading tariffs by redirecting
-  exports — not ruling out Vietnam benefiting via a DIRECT SUBSTITUTION channel in the US market
-  (exactly the mechanism L106 measures) without contradicting L101's region-level conclusion. This
-  is an excellent cross-paper comparison question for exam review.</span>
+- **Điểm hòa giải bằng chứng thú vị, nay có số liệu cụ thể cả 2 phía (2026-08-08)**: Bảng 8B của
+  L101 cho thấy khối "Other Southeast Asia" GIẢM 3,7% xuất khẩu sang Mỹ dài hạn trong kịch bản
+  trade war Mỹ-Trung — có vẻ MÂU THUẪN bề mặt với bằng chứng thực nghiệm Việt Nam ở
+  [[l106-dang-2024-vietnam-exports-us-trade-war-did]] (xuất khẩu VN sang Mỹ +14%) và
+  [[l107-toai-2025-vietnam-import-export-trade-war]] (+40%). Cách hòa giải khả dĩ: (a) mô hình CGE
+  của L101 gộp vùng/quốc gia ở cấp độ tổng hợp cao (18 vùng), TRUNG BÌNH của khối có thể che khuất
+  biến động lớn ở MỘT nước cụ thể trong khối; (b) cơ chế Vertical Trade Diversion ở
+  [[l104-sheng-2025-chinese-exporters-trade-diversion]] cho thấy TQ chủ động chuyển hướng xuất
+  khẩu CỦA MÌNH sang các nước như Việt Nam — không loại trừ khả năng VN hưởng lợi qua kênh THAY
+  THẾ TRỰC TIẾP tại thị trường Mỹ (đúng cơ chế L106 đo được) mà không mâu thuẫn với kết luận cấp
+  vùng của L101. Đây là một câu hỏi so sánh xuyên 3 bài (L101 vs L104 vs L106/L107) rất hay cho ôn
+  thi, nay trích dẫn được số liệu cụ thể ở cả 2 phía thay vì chỉ suy luận định
+  tính.<br><span class="en">**An interesting evidence-reconciliation point, now with concrete
+  figures on both sides (2026-08-08)**: L101's Table 8B shows the "Other Southeast Asia" bloc
+  FALLS 3.7% in exports to the US long run under the US-China trade-war scenario — seemingly
+  CONTRADICTING the Vietnamese empirical evidence in
+  [[l106-dang-2024-vietnam-exports-us-trade-war-did]] (VN exports to the US +14%) and
+  [[l107-toai-2025-vietnam-import-export-trade-war]] (+40%). A plausible reconciliation: (a)
+  L101's CGE model aggregates regions/countries at a high level (18 regions), so the bloc AVERAGE
+  can mask large variation within ONE specific country in that bloc; (b) the Vertical Trade
+  Diversion mechanism in [[l104-sheng-2025-chinese-exporters-trade-diversion]] shows China
+  actively rerouting ITS OWN exports toward countries like Vietnam — not ruling out Vietnam
+  benefiting via a DIRECT SUBSTITUTION channel in the US market (exactly the mechanism L106
+  measures) without contradicting L101's region-level conclusion. This is an excellent 3-paper
+  comparison question (L101 vs. L104 vs. L106/L107) for exam review, now citable with concrete
+  figures on both sides instead of only qualitative reasoning.</span>
 
 ### Question 6 — Urban infrastructure & urbanization, China (Heshmati & Rashidghalam, JCP 2020)
 
