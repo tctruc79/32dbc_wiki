@@ -3,7 +3,7 @@ type: source
 title: "L104 — Sheng, Song & Zheng (2025) — How did Chinese Exporters Manage the Trade War?"
 tags: [trade-war, trade-diversion, quality-ladders, tariffs, china, vietnam]
 created: 2026-08-07
-updated: 2026-08-07
+updated: 2026-08-11
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN10 Impacts of Trade War on Vietnamese Economy/L104 JIMF-2025 Sheng et al How did Chinese exposures manage the trade war.pdf"
 ---
@@ -26,12 +26,14 @@ Finance 153 (2025) 103300. Open access under the CC BY-NC license.
 > prices but raises qualities and gross prices of Chinese diverted exports, particularly in poor
 > countries and for products with high quality scopes, implying that it may benefit the South more.
 
-**Summary (paraphrase)**: ⚠️ Note an error in the professor's original LN10 slide: the slide header
-correctly reads "Sheng, Song and Zheng (2025). How did Chinese Exporters Manage the trade War?",
-but the bullet content underneath that header instead describes a completely different topic —
-climate change exposure and green innovation at Chinese listed firms. This is clearly a copy-paste
-error made while preparing the slide, entirely unrelated to the actual L104 paper. This wiki page
-is written entirely from the original PDF (cross-checked and confirmed correct paper title,
+**Summary (paraphrase)**: ✅ An error in the professor's original LN10 slide (the 6/8/2026
+version) — FIXED in the 8/9/2026 update (see [[ln10-impacts-trade-war-vietnamese-economy]]); the
+note below is kept as a historical record: the original slide header correctly read "Sheng, Song
+and Zheng (2025). How did Chinese Exporters Manage the trade War?", but the bullet content
+underneath that header instead described a completely different topic — climate change exposure
+and green innovation at Chinese listed firms. This was clearly a copy-paste error made while
+preparing the slide, entirely unrelated to the actual L104 paper. This wiki page is written
+entirely from the original PDF (cross-checked and confirmed correct paper title,
 authors, and journal), NOT from the incorrect slide content. The paper's real content distinguishes
 two trade-diversion strategies: Horizontal Trade Diversion (HTD — redirecting goods to countries
 resembling the US, i.e. the Global North) and Vertical Trade Diversion (VTD — redirecting

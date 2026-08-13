@@ -3,7 +3,7 @@ type: lecture
 title: "LN3 — Financial Crisis and Pandemics (Lecture 3)"
 tags: [banking-crisis, financial-crisis, covid-19, pandemics, vietnam]
 created: 2026-07-26
-updated: 2026-08-01
+updated: 2026-08-13
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN3 Financial crisis and pandemics/LN3 Financial crisis and pandemics.pdf"
 also_covers:
@@ -154,4 +154,6 @@ warning of over-tightening risk.</span>
 ## Liên kết
 
 - [[overview]] · [[ln0-course-intro]] · [[almas-heshmati]]
+- Bản dịch đầy đủ từng slide: [[ln3-slides]]<br><span class="en">Full slide-by-slide
+  translation: [[ln3-slides]]</span>
 - Concepts: [[banking-crisis]]

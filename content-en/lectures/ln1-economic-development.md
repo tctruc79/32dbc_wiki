@@ -3,7 +3,7 @@ type: lecture
 title: "LN1 — Economic Development (Lecture 1)"
 tags: [economic-development, convergence, deep-roots, vietnam, china]
 created: 2026-07-20
-updated: 2026-07-24
+updated: 2026-08-13
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN1 Economic development/LN1 Economic development.pdf"
 also_covers:
@@ -147,5 +147,6 @@ development is "uneven, uncoordinated, insufficient."
 ## Links
 
 - [[overview]] · [[ln0-course-intro]] · [[almas-heshmati]]
+- Full slide-by-slide translation: [[ln1-slides]]
 - Concepts: [[unconditional-convergence]], [[deep-roots-of-development]],
   [[middle-income-trap]], [[high-quality-development]]

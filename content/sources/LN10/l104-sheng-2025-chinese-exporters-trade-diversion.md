@@ -3,7 +3,7 @@ type: source
 title: "L104 — Sheng, Song & Zheng (2025) — How did Chinese Exporters Manage the Trade War?"
 tags: [trade-war, trade-diversion, quality-ladders, tariffs, china, vietnam]
 created: 2026-08-07
-updated: 2026-08-07
+updated: 2026-08-11
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN10 Impacts of Trade War on Vietnamese Economy/L104 JIMF-2025 Sheng et al How did Chinese exposures manage the trade war.pdf"
 ---
@@ -44,12 +44,14 @@ Quality ladders. Published online 13 February 2025 in Journal of International M
 > exports, particularly in poor countries and for products with high quality scopes, implying
 > that it may benefit the South more.
 
-**Tóm tắt (diễn giải)**: ⚠️ Cần lưu ý một lỗi ở slide gốc của giáo sư trong LN10: phần header
-của slide ghi đúng tên bài "Sheng, Song and Zheng (2025). How did Chinese Exporters Manage the
-trade War?", nhưng toàn bộ nội dung bullet bên dưới header đó lại mô tả một chủ đề hoàn toàn
-khác — rủi ro do biến đổi khí hậu (climate change exposure) và đổi mới xanh (green innovation)
-ở các doanh nghiệp niêm yết Trung Quốc. Đây rõ ràng là lỗi dán nhầm nội dung khi soạn slide, hoàn
-toàn không liên quan đến bài L104 thật. Trang wiki này được viết dựa hoàn toàn trên bản PDF gốc
+**Tóm tắt (diễn giải)**: ✅ Lỗi ở slide gốc của giáo sư trong LN10 (bản 6/8/2026) — ĐÃ ĐƯỢC SỬA
+trong bản cập nhật 9/8/2026 (xem [[ln10-impacts-trade-war-vietnamese-economy]]), giữ lại ghi chú
+dưới đây làm lịch sử đối chiếu: phần header của slide gốc ghi đúng tên bài "Sheng, Song and Zheng
+(2025). How did Chinese Exporters Manage the trade War?", nhưng toàn bộ nội dung bullet bên dưới
+header đó lại mô tả một chủ đề hoàn toàn khác — rủi ro do biến đổi khí hậu (climate change
+exposure) và đổi mới xanh (green innovation) ở các doanh nghiệp niêm yết Trung Quốc. Đây rõ ràng
+là lỗi dán nhầm nội dung khi soạn slide, hoàn toàn không liên quan đến bài L104 thật. Trang wiki
+này được viết dựa hoàn toàn trên bản PDF gốc
 (đã đối chiếu và xác nhận đúng tên bài, tác giả, và tên tạp chí), KHÔNG dựa vào nội dung sai
 trong slide. Nội dung thật của bài phân biệt hai chiến lược chuyển hướng thương mại: chuyển
 hướng theo chiều ngang (Horizontal Trade Diversion — viết tắt HTD — chuyển hàng sang các nước
@@ -57,12 +59,15 @@ có đặc điểm giống Mỹ, tức nhóm Bắc bán cầu) và chuyển hư�
 Diversion — viết tắt VTD — chuyển hàng chất lượng cao xuống các nước thu nhập thấp hơn theo bậc
 thang chất lượng, tức nhóm Nam bán cầu). Phát hiện trung tâm của bài: Trung Quốc chủ yếu dùng
 chiến lược VTD chứ không phải HTD như các nghiên cứu trước đó thường dự đoán.<br><span
-class="en">**Summary (paraphrase)**: ⚠️ Note an error in the professor's original LN10 slide:
-the slide header correctly reads "Sheng, Song and Zheng (2025). How did Chinese Exporters Manage
-the trade War?", but the bullet content underneath that header instead describes a completely
-different topic — climate change exposure and green innovation at Chinese listed firms. This is
-clearly a copy-paste error made while preparing the slide, entirely unrelated to the actual L104
-paper. This wiki page is written entirely from the original PDF (cross-checked and confirmed
+class="en">**Summary (paraphrase)**: ✅ An error in the professor's original LN10 slide (the
+6/8/2026 version) — FIXED in the 8/9/2026 update (see
+[[ln10-impacts-trade-war-vietnamese-economy]]); the note below is kept as a historical record: the
+original slide header correctly read "Sheng, Song and Zheng (2025). How did Chinese Exporters
+Manage the trade War?", but the bullet content underneath that header instead described a
+completely different topic — climate change exposure and green innovation at Chinese listed
+firms. This was clearly a copy-paste error made while preparing the slide, entirely unrelated to
+the actual L104 paper. This wiki page is written entirely from the original PDF (cross-checked and
+confirmed
 correct paper title, authors, and journal), NOT from the incorrect slide content. The paper's
 real content distinguishes two trade-diversion strategies: Horizontal Trade Diversion (HTD —
 redirecting goods to countries resembling the US, i.e. the Global North) and Vertical Trade

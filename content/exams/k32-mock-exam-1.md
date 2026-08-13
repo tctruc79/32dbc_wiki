@@ -3,7 +3,7 @@ type: exam
 title: "K32 Mock Exam — Set 1 (LN1 & LN2)"
 tags: [exam, mock-exam, k32, convergence, deep-roots, institutions, corruption, fdi-informal-economy]
 created: 2026-07-30
-updated: 2026-08-01
+updated: 2026-08-11
 status: complete
 also_covers: []
 ---
@@ -35,21 +35,47 @@ LN3–LN5) · [[k32-mock-exam-3]] (Set 3, LN6–LN8) · [[k32-mock-exam-4]] (Set
 [[k32-mock-exam-5]] (Set 5, aligned with the real K31 shortlist) · [[exam-prep]] (consolidated
 exam review).</span>
 
-## 0. Luật thi & cơ cấu điểm (mô phỏng theo K31) - <span class="en">Exam Rules & Grading Structure (modeled on K31)</span>
+## 0. Luật thi & cơ cấu điểm (mô phỏng theo K31, ⚠️ cấu trúc câu hỏi ĐÃ ĐỔI cho K32 — xem cập nhật 2026-08-11 bên dưới) - <span class="en">Exam Rules & Grading Structure (modeled on K31, ⚠️ K32's question structure has CHANGED — see the 2026-08-11 update below)</span>
 
 - **Hình thức**: Written exam (50 điểm) + Essay (50 điểm) — 50/50, PASS ≥50% mỗi phần theo
   [[syllabus-2026]] (K31 áp dụng ngưỡng 55%/27.5 điểm — chưa rõ K32 theo ngưỡng nào, xem
   [[k31-final-exam]] mục 0).<br><span class="en">**Format**: Written exam (50 points) + Essay
   (50 points) — 50/50, PASS ≥50% per part per [[syllabus-2026]] (K31 applied a 55%/27.5-point
   threshold — unclear which threshold K32 follows, see [[k31-final-exam]] section 0).</span>
-- **Thời gian**: 120 phút, closed-book, có giám thị.<br><span class="en">**Duration**: 120
-  minutes, closed-book, invigilated.</span>
-- **Cơ cấu câu hỏi**: A. Compulsory — Câu 1, 2 (mỗi câu 12.5đ, PHẢI làm cả hai). B. Elective —
-  Câu 3–6 (mỗi câu 12.5đ, chọn tối thiểu 2 câu; làm nhiều hơn thì chỉ 2 câu điểm cao nhất tính
-  vào tổng). Tổng: 2 compulsory + 2 elective tốt nhất × 12.5 = 50 điểm.<br><span class="en">
-  **Question structure**: A. Compulsory — Questions 1, 2 (12.5 points each, BOTH required). B.
-  Elective — Questions 3–6 (12.5 points each, choose at least 2; if more are answered, only the
-  top 2 scores count). Total: 2 compulsory + 2 best elective × 12.5 = 50 points.</span>
+- **Thời gian**: K31 dùng 120 phút; GS thông báo K32 **tạm tính (tentative) 2 giờ** (xem
+  [[ln0-course-intro]]) — coi như không đổi, vẫn dùng 120 phút cho các đề mô phỏng.<br><span
+  class="en">**Duration**: K31 used 120 minutes; the professor announced K32 is **tentatively 2
+  hours** (see [[ln0-course-intro]]) — effectively unchanged, still using 120 minutes for these
+  mock exams.</span>
+- **Closed-book**: xác nhận cho cả K31 lẫn K32.<br><span class="en">**Closed-book**: confirmed
+  for both K31 and K32.</span>
+- ⚠️ **Cơ cấu câu hỏi (ĐÃ ĐỔI, cập nhật 2026-08-11)**: GS thông báo trong lớp cấu trúc K32 là
+  **Phần 1 bắt buộc 2 câu + Phần 2 tự chọn, trả lời 4 câu** (xem [[ln0-course-intro]]) — KHÁC cấu
+  trúc K31 thật ở dưới đây (elective chỉ cần TỐI THIỂU 2/4). Số câu elective GS thực sự đưa ra
+  cho K32 (pool size) CHƯA RÕ, chỉ biết cần trả lời đúng 4 câu; thang điểm cho cấu trúc mới cũng
+  CHƯA XÁC NHẬN (tổng số câu phải làm tăng từ 4 lên 6, nên khó giữ nguyên 12.5đ/câu = 50đ như K31
+  nếu không đổi thang). Các đề mô phỏng Set 1–5 hiện chỉ có đúng 4 câu elective (Câu 3–6, theo cấu
+  trúc K31 cũ) — với bộ đề NÀY, "tự chọn trả lời 4 câu" nghĩa là làm CẢ 4, không còn yếu tố "chọn"
+  thật cho tới khi có thêm câu elective mới. Cấu trúc K31 thật (tham khảo, KHÔNG còn áp dụng cho
+  K32): A. Compulsory — Câu 1, 2 (mỗi câu 12.5đ, PHẢI làm cả hai). B. Elective — Câu 3–6 (mỗi câu
+  12.5đ, chọn tối thiểu 2 câu; làm nhiều hơn thì chỉ 2 câu điểm cao nhất tính vào tổng). Tổng: 2
+  compulsory + 2 elective tốt nhất × 12.5 = 50 điểm. Luyện đủ cả 4 câu elective ở mỗi set vẫn có
+  giá trị luyện KỸ NĂNG viết đáp án, dù thang điểm/số câu elective thật của K32 có thể
+  khác.<br><span class="en">⚠️ **Question structure (CHANGED, updated 2026-08-11)**: the
+  professor announced in class that K32's structure is **Part 1: 2 compulsory questions + Part 2:
+  elective, answer 4 questions** (see [[ln0-course-intro]]) — DIFFERENT from K31's real structure
+  below (elective required only a MINIMUM of 2/4). The actual elective pool size the professor
+  will offer for K32 is NOT YET KNOWN, only that exactly 4 must be answered; the point allocation
+  for the new structure is also UNCONFIRMED (total questions answered rises from 4 to 6, so
+  keeping 12.5 pts/question = 50 total is unlikely without a rescale). Mock Sets 1–5 currently
+  have exactly 4 elective questions each (Questions 3–6, per the old K31 structure) — for THESE
+  sets, "elective, answer 4" means answering ALL 4, with no real "choice" element until new
+  elective questions are added. K31's real structure (for reference, NO LONGER applicable to
+  K32): A. Compulsory — Questions 1, 2 (12.5 points each, BOTH required). B. Elective — Questions
+  3–6 (12.5 points each, choose at least 2; if more are answered, only the top 2 scores count).
+  Total: 2 compulsory + 2 best elective × 12.5 = 50 points. Practicing all 4 elective questions in
+  each set still has value for the SKILL of writing answers, even though K32's real point
+  allocation/elective count may differ.</span>
 
 ## 1. Đề bài - <span class="en">Questions</span>
 

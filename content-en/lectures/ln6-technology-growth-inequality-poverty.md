@@ -3,7 +3,7 @@ type: lecture
 title: "LN6 — Innovation, Technology, Growth, Inequality and Poverty (Lecture 6)"
 tags: [technology, innovation, total-factor-productivity, growth, inequality, poverty, energy-poverty, vietnam]
 created: 2026-08-01
-updated: 2026-08-04
+updated: 2026-08-13
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN6 Technology growth inequality and poverty/LN6 Technology growth inequality and poverty.pdf"
 also_covers:
@@ -149,5 +149,6 @@ mindmap
 
 - [[overview]] · [[ln0-course-intro]] · [[almas-heshmati]] (author of L61 and L62 — note this
   person page needs a link added)
+- Full slide-by-slide translation: [[ln6-slides]]
 - Concepts: [[technology-change-and-tfp-growth]], [[growth-inequality-poverty-nexus]],
   [[technology-upgrading]], [[middle-innovation-trap]], [[creative-accumulation]]

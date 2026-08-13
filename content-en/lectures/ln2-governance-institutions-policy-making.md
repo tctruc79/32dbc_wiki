@@ -3,7 +3,7 @@ type: lecture
 title: "LN2 — Governance, Institutions and Policy Making (Lecture 2)"
 tags: [institutions, governance, corruption, property-rights, culture, vietnam]
 created: 2026-07-23
-updated: 2026-07-24
+updated: 2026-08-13
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN2 Governance institutions and policy making/LN2 Governance institutions and policy making.pdf"
 also_covers:
@@ -171,4 +171,5 @@ for the essay:
 ## Links
 
 - [[overview]] · [[ln0-course-intro]] · [[almas-heshmati]]
+- Full slide-by-slide translation: [[ln2-slides]]
 - Concepts: [[institutions]]

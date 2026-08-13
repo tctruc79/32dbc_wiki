@@ -3,7 +3,7 @@ type: exam
 title: "K32 Mock Exam — Set 2 (LN3, LN4 & LN5)"
 tags: [exam, mock-exam, k32, banking-crisis, land-institutions, climate-vulnerability, entrepreneurship, microfinance]
 created: 2026-07-30
-updated: 2026-08-01
+updated: 2026-08-11
 status: complete
 also_covers: []
 ---
@@ -31,12 +31,14 @@ LN1–LN2) · [[k32-mock-exam-3]] (Set 3, LN6–LN8) · [[k32-mock-exam-4]] (Set
 [[k32-mock-exam-5]] (Set 5, aligned with the real K31 shortlist) · [[exam-prep]] (consolidated
 exam review).</span>
 
-## 0. Luật thi & cơ cấu điểm (mô phỏng theo K31) - <span class="en">Exam Rules & Grading Structure (modeled on K31)</span>
+## 0. Luật thi & cơ cấu điểm - <span class="en">Exam Rules & Grading Structure</span>
 
-Giống hệt [[k32-mock-exam-1]] mục 0 — 120 phút, closed-book, 2 compulsory (Câu 1–2) + chọn tối
-thiểu 2/4 elective (Câu 3–6), mỗi câu 12.5đ, tổng 50đ.<br><span class="en">Identical to
-[[k32-mock-exam-1]] section 0 — 120 minutes, closed-book, 2 compulsory (Questions 1–2) + choose
-at least 2/4 elective (Questions 3–6), 12.5 points each, 50 points total.</span>
+⚠️ Xem [[k32-mock-exam-1]] mục 0 (cập nhật 2026-08-11) — cấu trúc câu hỏi K32 thật đã đổi (2 bắt
+buộc + tự chọn trả lời 4 câu, xem [[ln0-course-intro]]), khác cấu trúc K31 "tối thiểu 2/4" mà set
+này vẫn tạm dùng do chỉ có đúng 4 câu elective.<br><span class="en">⚠️ See [[k32-mock-exam-1]]
+section 0 (updated 2026-08-11) — K32's real question structure has changed (2 compulsory +
+elective answer-4, see [[ln0-course-intro]]), different from the K31 "minimum 2/4" structure this
+set still uses for now since it has exactly 4 elective questions.</span>
 
 ## 1. Đề bài - <span class="en">Questions</span>
 

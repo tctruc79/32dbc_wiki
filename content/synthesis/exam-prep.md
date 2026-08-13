@@ -3,7 +3,7 @@ type: synthesis
 title: "Ôn thi cuối kỳ — Master Synthesis (LN1–LN10)"
 tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis, agriculture, climate-vulnerability, entrepreneurship, total-factor-productivity, human-capital, circular-economy, poverty, infrastructure, health, artificial-intelligence, digitalization, trade-war]
 created: 2026-07-24
-updated: 2026-08-07
+updated: 2026-08-11
 status: complete
 ---
 
@@ -2495,14 +2495,20 @@ trade diversion (L104) and tariff-driven relocation to Vietnam (L106/L107) (3.30
   phải đề thật), bám đúng format/luật thi của [[k31-final-exam]] nhưng thay bằng 30/62 paper đã
   deep-ingest của K32, trải đều cả 12 cụm chủ đề. Từ khi phát hiện [[k31-shortlist-2025]] (văn bản
   shortlist THẬT của K31), Set 5 được chọn TRỰC TIẾP theo bằng chứng shortlist thay vì suy luận
-  cụm chủ đề như Set 1-4.<br><span class="en">[[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]]
+  cụm chủ đề như Set 1-4 — ⚠️ nay lỗi thời về ưu tiên nội dung: GS xác nhận 2026-08-11 KHÔNG lặp
+  lại shortlist K31, 6 bài Set 5 đã bị loại khỏi Top 20 mới ở [[shortlist-prediction]] (xem
+  [[k32-mock-exam-5]], chỉ còn giá trị luyện kỹ năng).<br><span class="en">[[k32-mock-exam-1]]
+  (LN1–LN2), [[k32-mock-exam-2]]
   (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8), [[k32-mock-exam-4]] (LN9–LN10, open theme) and
   [[k32-mock-exam-5]] (the 6 papers still missing from the Top-20 prediction, see
   [[shortlist-prediction]]) — **mock exams for K32** (authored by Claude, NOT the real exam),
   closely following [[k31-final-exam]]'s format/rules but substituting 30/62 of K32's
   deep-ingested papers, spread across all 12 thematic clusters. Since discovering
   [[k31-shortlist-2025]] (K31's REAL shortlist document), Set 5 was chosen DIRECTLY from shortlist
-  evidence rather than cluster-reasoning inference as in Sets 1-4.</span>
+  evidence rather than cluster-reasoning inference as in Sets 1-4 — ⚠️ now outdated in content
+  priority: the professor confirmed on 2026-08-11 he will NOT repeat the K31 shortlist, so Set 5's
+  6 papers have been excluded from the new Top 20 in [[shortlist-prediction]] (see
+  [[k32-mock-exam-5]] — skill-practice value only now).</span>
   Dùng để luyện dạng câu hỏi + luyện viết đáp án đúng khuôn khổ thi thật. Sẽ mở rộng thêm set/câu
   hỏi mỗi khi có reading mới được deep-ingest (xem CLAUDE.md).<br><span class="en">Used to
   practice the question type + practice writing answers within the real exam's constraints. Will

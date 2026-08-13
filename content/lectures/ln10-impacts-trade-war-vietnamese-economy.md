@@ -3,52 +3,68 @@ type: lecture
 title: "LN10 — Impacts of Trade War on Vietnamese Economy (Lecture 10)"
 tags: [trade-war, protectionism, tariffs, us-china, vietnam, trade-diversion]
 created: 2026-08-07
-updated: 2026-08-07
+updated: 2026-08-13
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN10 Impacts of Trade War on Vietnamese Economy/LN10 Impacts of Trade War on Vietnamese Economy.pdf"
 ---
 
 # LN10 — Impacts of Trade War on Vietnamese Economy
 
-Lecture 10 (buổi cuối) trong [[overview]] (lịch chi tiết: [[ln0-course-intro]]). Slide deck 30
-trang, ngày 6/8/2026, cover 7 required readings (L101–L107) — 5 bài đầu phân tích chiến tranh
-thương mại Mỹ–Trung ở tầm toàn cầu/lý thuyết (mô hình CGE, kỳ vọng thuế quan, tariff evasion,
-trade diversion, tác động khu vực EU), 2 bài cuối là bằng chứng thực nghiệm trực tiếp về Việt
+Lecture 10 (buổi cuối) trong [[overview]] (lịch chi tiết: [[ln0-course-intro]]). Slide deck 32
+trang — bản giáo sư cập nhật ngày 9/8/2026 (thay bản gốc 6/8/2026, xem chi tiết thay đổi ở ghi
+chú bên dưới) — cover 7 required readings (L101–L107) — 5 bài đầu phân tích chiến tranh thương
+mại Mỹ–Trung ở tầm toàn cầu/lý thuyết (mô hình CGE, kỳ vọng thuế quan, tariff evasion, trade
+diversion, tác động khu vực EU), 2 bài cuối là bằng chứng thực nghiệm trực tiếp về Việt
 Nam.<br><span class="en">Lecture 10 (the final session) in [[overview]] (detailed schedule:
-[[ln0-course-intro]]). A 30-page slide deck, dated 6/8/2026, covering 7 required readings
-(L101–L107) — the first 5 papers analyze the US–China trade war at the global/theoretical level
-(CGE modeling, tariff expectations, tariff evasion, trade diversion, EU regional impacts), the
-final 2 provide direct Vietnam-specific empirical evidence.</span>
+[[ln0-course-intro]]). A 32-page slide deck — the professor's revised version dated 9/8/2026
+(replacing the original 6/8/2026 version, see the change note below) — covering 7 required
+readings (L101–L107) — the first 5 papers analyze the US–China trade war at the global/theoretical
+level (CGE modeling, tariff expectations, tariff evasion, trade diversion, EU regional impacts),
+the final 2 provide direct Vietnam-specific empirical evidence.</span>
 
 ## Cấu trúc bài giảng - <span class="en">Lecture structure</span>
 
 Cấu trúc đơn giản như LN9: **danh sách 7 reading** (slide 3, kèm trích dẫn đầy đủ) → **7 bài đọc
 tóm tắt riêng theo thứ tự** (slide 4–24, mỗi bài 1–3 slide) → **Planning Schedule** (slide 25,
 trùng nội dung đã có ở [[ln0-course-intro]] — không lặp lại chi tiết ở đây) → **"Recent useful
-research and reading"** (slide 26–29, 2 bài bổ sung KHÔNG có PDF trong `raw/` — Lartey-Law 2025 về
-AI trong quản trị đô thị, Ngo-Lee 2025 về bất bình đẳng thu nhập/hiệp định thương mại Việt–Mỹ BTA —
-chỉ có tóm tắt slide, không deep-ingest thành trang riêng) → **Kết** (slide 30).<br><span
-class="en">A simple structure like LN9: **the list of 7 readings** (slide 3, with full citations)
-→ **7 individually summarized readings in order** (slides 4–24, each paper 1–3 slides) →
-**Planning Schedule** (slide 25, duplicating content already in [[ln0-course-intro]] — not
-repeated here in detail) → **"Recent useful research and reading"** (slides 26–29, 2 supplementary
+research and reading — NOT for exam"** (nhãn "NOT for exam" do chính giáo sư ghi thẳng trên slide
+trong bản cập nhật 9/8/2026, xác nhận tường minh điều wiki vốn chỉ suy luận gián tiếp từ việc 2
+bài này không có PDF riêng trong `raw/`) — slide 26–31 (dịch từ 26-29 do slide L104 dài thêm), 2
+bài bổ sung KHÔNG có PDF trong `raw/` — Lartey-Law 2025 về AI trong quản trị đô thị, Ngo-Lee 2025
+về bất bình đẳng thu nhập/hiệp định thương mại Việt–Mỹ BTA — chỉ có tóm tắt slide, không
+deep-ingest thành trang riêng, và giờ giáo sư xác nhận rõ KHÔNG nằm trong phạm vi thi) → **Kết**
+(slide 32).<br><span class="en">A simple structure like LN9: **the list of 7 readings** (slide 3,
+with full citations) → **7 individually summarized readings in order** (slides 4–24, each paper
+1–3 slides) → **Planning Schedule** (slide 25, duplicating content already in [[ln0-course-intro]]
+— not repeated here in detail) → **"Recent useful research and reading — NOT for exam"** (the "NOT
+for exam" label was added directly by the professor in the 8/9/2026 revision, explicitly
+confirming what the wiki had only inferred from these 2 papers lacking a standalone PDF in
+`raw/`) — slides 26–31 (shifted from 26-29 since the L104 slide grew longer), 2 supplementary
 papers with NO PDF in `raw/` — Lartey-Law 2025 on AI in urban governance, Ngo-Lee 2025 on income
-inequality/the Vietnam–US BTA — only a slide summary exists, not deep-ingested separately) →
-**Closing** (slide 30).</span>
+inequality/the Vietnam–US BTA — only a slide summary exists, not deep-ingested separately, and now
+explicitly confirmed by the professor to be OUT of exam scope) → **Closing** (slide 32).</span>
 
-⚠️ **Phát hiện lỗi trong slide gốc — L104**: header slide ghi "Sheng, Song and Zheng (2025). How
-did Chinese Exporters Manage the trade War?" nhưng nội dung bullet bên dưới trong slide lại mô tả
-SAI một bài khác về "climate change exposure và green innovation ở doanh nghiệp Trung Quốc" — rõ
-ràng lỗi dán nhầm nội dung khi giáo sư soạn slide. Trang [[l104-sheng-2025-chinese-exporters-trade-diversion]]
-đã được viết dựa TRỰC TIẾP trên PDF gốc (xác nhận đúng tên bài/tác giả/journal, nội dung thật về
-Vertical Trade Diversion), KHÔNG dựa vào nội dung sai trong slide.<br><span class="en">⚠️ **Error
-found in the source slide — L104**: the slide header reads "Sheng, Song and Zheng (2025). How did
-Chinese Exporters Manage the trade War?" but the bullet content underneath incorrectly describes a
-different paper about "climate change exposure and green innovation at Chinese firms" — clearly a
-copy-paste error when the professor prepared the slide. The page
-[[l104-sheng-2025-chinese-exporters-trade-diversion]] was written DIRECTLY from the original PDF
-(confirmed correct paper title/authors/journal, real content about Vertical Trade Diversion), NOT
-from the incorrect slide content.</span>
+✅ **Lỗi slide gốc — L104 — ĐÃ ĐƯỢC GIÁO SƯ SỬA (9/8/2026)**: bản slide gốc 6/8/2026 ghi header
+"Sheng, Song and Zheng (2025). How did Chinese Exporters Manage the trade War?" nhưng nội dung
+bullet bên dưới lại mô tả SAI một bài khác về "climate change exposure và green innovation ở
+doanh nghiệp Trung Quốc" — lỗi dán nhầm nội dung khi giáo sư soạn slide. Trang
+[[l104-sheng-2025-chinese-exporters-trade-diversion]] khi đó đã được viết dựa TRỰC TIẾP trên PDF
+gốc (xác nhận đúng tên bài/tác giả/journal, nội dung thật về Vertical Trade Diversion), KHÔNG dựa
+vào nội dung sai trong slide — nên không cần sửa lại trang đó. Bản slide cập nhật 9/8/2026 giáo
+sư gửi đã thay đúng nội dung slide (Hypothesis 1/2 HTD/VTD, mô hình kinh tế lượng, dự đoán VTD,
+kết luận) khớp hoàn toàn với trang wiki đã viết trước đó — xác nhận việc bám PDF gốc thay vì slide
+lỗi là đúng.<br><span class="en">✅ **Source-slide error — L104 — FIXED BY THE PROFESSOR
+(8/9/2026)**: the original 6/8/2026 slide deck had a header reading "Sheng, Song and Zheng (2025).
+How did Chinese Exporters Manage the trade War?" but the bullet content underneath incorrectly
+described a different paper about "climate change exposure and green innovation at Chinese firms"
+— a copy-paste error when the professor prepared the slide. At the time, the page
+[[l104-sheng-2025-chinese-exporters-trade-diversion]] had already been written DIRECTLY from the
+original PDF (confirmed correct paper title/authors/journal, real content about Vertical Trade
+Diversion), NOT from the incorrect slide content — so that page needed no correction. The revised
+slide deck the professor sent on 8/9/2026 now has the correct slide content (Hypothesis 1/2
+HTD/VTD, the econometric model, VTD predictions, conclusion), which fully matches the wiki page
+written earlier — confirming that relying on the original PDF instead of the flawed slide was the
+right call.</span>
 
 ## Mindmap
 
@@ -231,4 +247,6 @@ mindmap
 ## Liên kết
 
 - [[overview]] · [[ln0-course-intro]] · [[almas-heshmati]]
+- Bản dịch đầy đủ từng slide: [[ln10-slides]]<br><span class="en">Full slide-by-slide
+  translation: [[ln10-slides]]</span>
 - Concept: [[trade-war-and-protectionism]]

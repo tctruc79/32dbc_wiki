@@ -1,38 +1,40 @@
 ---
 type: exam
-title: "K32 Mock Exam — Set 5 (Aligned with the Real K31 Shortlist)"
+title: "K32 Mock Exam — Set 5 (Based on the Real K31 Shortlist — Now Considered Unlikely to Reappear)"
 tags: [exam, mock-exam, k32, culture, institutions, bank-liquidity-creation, climate-vulnerability, entrepreneurial-orientation, circular-economy, artificial-intelligence]
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-11
 status: complete
 also_covers: []
 ---
 
-# K32 Mock Exam — Set 5 (Aligned with the Real K31 Shortlist)
+# K32 Mock Exam — Set 5 (Based on the Real K31 Shortlist — ⚠️ Now Considered UNLIKELY to Reappear)
 
 ⚠️ **This is NOT a real exam** — the professor has not yet published the 20-paper K32 shortlist
-(expected 30/8) or the K32 exam. This set differs from the previous 4 in one important way: the 6
-papers below were chosen NOT via thematic-cluster reasoning, but directly from
-[[k31-shortlist-2025]] — the REAL 20-paper shortlist document Prof. Heshmati sent to the K31
-cohort in 2025 — cross-checked against [[shortlist-prediction]] section 2: these are the 6/20
-papers in the K32 prediction list not yet covered by a question in Sets 1–4 (the other 2 new
-Top-20 papers, L71 and L101, already have full answers in [[k31-final-exam]] Q6/Q5, so they are
-not repeated here). Purpose: to practice the correct **question type** and practice writing
-answers within the real exam rules, prioritizing the papers with the STRONGEST shortlist evidence
-currently available.
+(expected 30/8) or the K32 exam.
+
+🔄 **PRIORITY REVERSED 2026-08-11**: this set's 6 papers were chosen (2026-08-08) directly from
+[[k31-shortlist-2025]] — the REAL 20-paper shortlist document the professor sent to the K31
+cohort — on the assumption the professor was likely to repeat these papers for K32. The professor
+has since confirmed in class he will **NOT repeat the exact K31 shortlist** (see
+[[ln0-course-intro]]), reversing this set's founding assumption: the 6 papers below are now among
+the LEAST likely to appear in the real K32 shortlist (already "used" in K31), not the most likely
+as the original title implied. This set is kept (not deleted) since the answer content remains
+accurate and still has value for practicing the SKILL of "present findings + derive policy
+implications" answers — its role has simply shifted from "highest priority" to "supplementary
+practice, not the focus". For today's actual priority, see the NEW Top 20 in
+[[shortlist-prediction]] section 2.
 
 See also: [[k32-mock-exam-1]] (Set 1, LN1–LN2) · [[k32-mock-exam-2]] (Set 2, LN3–LN5) ·
 [[k32-mock-exam-3]] (Set 3, LN6–LN8) · [[k32-mock-exam-4]] (Set 4, LN9–LN10) ·
 [[shortlist-prediction]] (the full prediction) · [[exam-prep]] (consolidated exam review).
 
-## 0. Exam Rules & Grading Structure (modeled on K31)
+## 0. Exam Rules & Grading Structure
 
-Identical to Sets 1–4 section 0 — **Format**: Written exam (50 points) + Essay (50 points) —
-50/50, PASS ≥50% per part per [[syllabus-2026]] (K31 applied a 55%/27.5-point threshold, see
-[[k31-shortlist-2025]]/[[k31-final-exam]] section 0). **Duration**: 120 minutes, closed-book,
-invigilated. **Question structure**: A. Compulsory — Questions 1, 2 (12.5 points each, BOTH
-required). B. Elective — Questions 3–6 (12.5 points each, choose at least 2; if more are
-answered, only the top 2 scores count). Total: 2 compulsory + 2 best elective × 12.5 = 50 points.
+⚠️ See [[k32-mock-exam-1]] section 0 (updated 2026-08-11) — K32's real question
+structure has changed (2 compulsory + elective answer-4, see [[ln0-course-intro]]), different
+from the K31 "minimum 2/4" structure this set still uses for now since it has exactly 4 elective
+questions.
 
 ## 1. Questions
 

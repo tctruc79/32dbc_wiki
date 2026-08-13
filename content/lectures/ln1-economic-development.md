@@ -3,7 +3,7 @@ type: lecture
 title: "LN1 — Economic Development (Lecture 1)"
 tags: [economic-development, convergence, deep-roots, vietnam, china]
 created: 2026-07-20
-updated: 2026-08-01
+updated: 2026-08-13
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN1 Economic development/LN1 Economic development.pdf"
 also_covers:
@@ -203,6 +203,8 @@ insufficient."</span>
 ## Liên kết
 
 - [[overview]] · [[ln0-course-intro]] · [[almas-heshmati]]
+- Bản dịch đầy đủ từng slide: [[ln1-slides]]<br><span class="en">Full slide-by-slide
+  translation: [[ln1-slides]]</span>
 - Concepts: [[unconditional-convergence]], [[deep-roots-of-development]],
   [[middle-income-trap]], [[high-quality-development]]<br><span class="en">Concepts:
   [[unconditional-convergence]], [[deep-roots-of-development]], [[middle-income-trap]],

@@ -3,7 +3,7 @@ type: lecture
 title: "LN8 — Circular Economy, Inclusive and Sustainable Development (Lecture 8)"
 tags: [circular-economy, sustainable-development, china, sweden, european-union, entrepreneurship, unemployment, sdgs]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-13
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN8 Circular economy inclusive and sustainable development/LN8 Circular economy inclusive and sustainable development.pdf"
 also_covers:
@@ -180,4 +180,5 @@ mindmap
 ## Links
 
 - [[overview]] · [[ln0-course-intro]] · [[almas-heshmati]]
+- Full slide-by-slide translation: [[ln8-slides]]
 - Concept: [[circular-economy]]

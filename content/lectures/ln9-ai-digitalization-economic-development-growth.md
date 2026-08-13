@@ -3,7 +3,7 @@ type: lecture
 title: "LN9 — Artificial Intelligence, Digitalization and Economic Growth and Development (Lecture 9)"
 tags: [artificial-intelligence, digitalization, digital-economy, vietnam, firm-performance, machine-learning]
 created: 2026-08-07
-updated: 2026-08-07
+updated: 2026-08-13
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN9 AI digitalization economic development and growth/LN9 AI digitalization economic development and growth.pdf"
 ---
@@ -200,4 +200,6 @@ mindmap
 ## Liên kết
 
 - [[overview]] · [[ln0-course-intro]] · [[almas-heshmati]]
+- Bản dịch đầy đủ từng slide: [[ln9-slides]]<br><span class="en">Full slide-by-slide
+  translation: [[ln9-slides]]</span>
 - Concept: [[ai-for-environmental-risk-vietnam]], [[digital-transformation-and-productivity]]

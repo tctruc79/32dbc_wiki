@@ -3,7 +3,7 @@ type: lecture
 title: "LN10 — Impacts of Trade War on Vietnamese Economy (Lecture 10)"
 tags: [trade-war, protectionism, tariffs, us-china, vietnam, trade-diversion]
 created: 2026-08-07
-updated: 2026-08-07
+updated: 2026-08-13
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN10 Impacts of Trade War on Vietnamese Economy/LN10 Impacts of Trade War on Vietnamese Economy.pdf"
 ---
@@ -102,4 +102,5 @@ mindmap
 ## Links
 
 - [[overview]] · [[ln0-course-intro]] · [[almas-heshmati]]
+- Full slide-by-slide translation: [[ln10-slides]]
 - Concept: [[trade-war-and-protectionism]]

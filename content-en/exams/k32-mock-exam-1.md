@@ -3,7 +3,7 @@ type: exam
 title: "K32 Mock Exam — Set 1 (LN1 & LN2)"
 tags: [exam, mock-exam, k32, convergence, deep-roots, institutions, corruption, fdi-informal-economy]
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-08-11
 status: complete
 also_covers: []
 ---
@@ -24,15 +24,30 @@ See also: [[k32-mock-exam-2]] (Set 2, LN3–LN5) · [[k32-mock-exam-3]] (Set 3, 
 [[k32-mock-exam-4]] (Set 4, LN9–LN10) · [[k32-mock-exam-5]] (Set 5, aligned with the real K31
 shortlist) · [[exam-prep]] (master exam-prep synthesis).
 
-## 0. Exam rules & grading (mirroring K31)
+## 0. Exam rules & grading (mirroring K31, ⚠️ K32's question structure has CHANGED — see the 2026-08-11 update below)
 
 - **Format**: Written exam (50 points) + Essay (50 points) — 50/50, PASS ≥50% on each part per
   [[syllabus-2026]] (K31 applied a 55%/27.5-point threshold — it is not yet known which threshold
   K32 will use, see [[k31-final-exam]] section 0).
-- **Time**: 120 minutes, closed-book, invigilated.
-- **Question structure**: A. Compulsory — Q1, Q2 (12.5 pts each, both required). B. Elective —
-  Q3–6 (12.5 pts each, choose a minimum of 2; if more are attempted, only the 2 highest-scoring
-  count). Total: 2 compulsory + 2 best elective × 12.5 = 50 points.
+- **Duration**: K31 used 120 minutes; the professor announced K32 is **tentatively 2 hours**
+  (see [[ln0-course-intro]]) — effectively unchanged, still using 120 minutes for these mock
+  exams.
+- **Closed-book**: confirmed for both K31 and K32.
+- ⚠️ **Question structure (CHANGED, updated 2026-08-11)**: the professor announced in class that
+  K32's structure is **Part 1: 2 compulsory questions + Part 2: elective, answer 4 questions**
+  (see [[ln0-course-intro]]) — DIFFERENT from K31's real structure below (elective required only
+  a MINIMUM of 2/4). The actual elective pool size the professor will offer for K32 is NOT YET
+  KNOWN, only that exactly 4 must be answered; the point allocation for the new structure is also
+  UNCONFIRMED (total questions answered rises from 4 to 6, so keeping 12.5 pts/question = 50
+  total is unlikely without a rescale). Mock Sets 1–5 currently have exactly 4 elective questions
+  each (Questions 3–6, per the old K31 structure) — for THESE sets, "elective, answer 4" means
+  answering ALL 4, with no real "choice" element until new elective questions are added. K31's
+  real structure (for reference, NO LONGER applicable to K32): A. Compulsory — Questions 1, 2
+  (12.5 points each, BOTH required). B. Elective — Questions 3–6 (12.5 points each, choose at
+  least 2; if more are answered, only the top 2 scores count). Total: 2 compulsory + 2 best
+  elective × 12.5 = 50 points. Practicing all 4 elective questions in each set still has value
+  for the SKILL of writing answers, even though K32's real point allocation/elective count may
+  differ.
 
 ## 1. Questions
 

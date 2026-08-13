@@ -3,7 +3,7 @@ type: lecture
 title: "LN4 — Agriculture, Climate Change and Natural Disasters (Lecture 4)"
 tags: [agriculture, climate-change, natural-disasters, land-tenure, livelihood-vulnerability, vietnam, indonesia]
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-13
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN4 Agriculture climate changes and natural disasters/LN4 Agriculture climate changes and natural disasters.pdf"
 also_covers:
@@ -180,4 +180,5 @@ mindmap
 ## Links
 
 - [[overview]] · [[ln0-course-intro]] · [[almas-heshmati]]
+- Full slide-by-slide translation: [[ln4-slides]]
 - Concepts: [[livelihood-vulnerability-index]] · [[institutions]] (cross-lecture, LN2)

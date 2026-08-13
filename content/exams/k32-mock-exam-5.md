@@ -3,31 +3,37 @@ type: exam
 title: "K32 Mock Exam — Set 5 (bám sát shortlist K31 thật)"
 tags: [exam, mock-exam, k32, culture, institutions, bank-liquidity-creation, climate-vulnerability, entrepreneurial-orientation, circular-economy, artificial-intelligence]
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-11
 status: complete
 also_covers: []
 ---
 
-# K32 Mock Exam — Set 5 (bám sát shortlist K31 thật) - <span class="en">K32 Mock Exam — Set 5 (Aligned with the Real K31 Shortlist)</span>
+# K32 Mock Exam — Set 5 (dựa trên shortlist K31 thật — ⚠️ nay coi là ÍT khả năng lặp lại) - <span class="en">K32 Mock Exam — Set 5 (Based on the Real K31 Shortlist — ⚠️ Now Considered UNLIKELY to Reappear)</span>
 
 ⚠️ **Đây KHÔNG phải đề thi thật** — giáo sư chưa công bố shortlist 20 bài K32 (dự kiến 30/8) hay
 đề thi K32.<br><span class="en">⚠️ **This is NOT a real exam** — the professor has not yet
-published the 20-paper K32 shortlist (expected 30/8) or the K32 exam.</span> Set này KHÁC 4 set
-trước ở một điểm quan trọng: 6 paper dưới đây được chọn KHÔNG phải theo suy luận cụm chủ đề, mà
-trực tiếp từ [[k31-shortlist-2025]] — văn bản shortlist THẬT 20 bài GS Heshmati gửi khóa K31 năm
-2025 — đối chiếu với [[shortlist-prediction]] mục 2, đây là 6/20 bài trong danh sách dự đoán K32
-CHƯA có câu hỏi ở Set 1–4 (2 bài còn lại trong Top 20 mới, L71 và L101, đã có đáp án đầy đủ trong
-[[k31-final-exam]] Q6/Q5 nên không lặp lại ở đây).<br><span class="en">This set differs from the
-previous 4 in one important way: the 6 papers below were chosen NOT via thematic-cluster
-reasoning, but directly from [[k31-shortlist-2025]] — the REAL 20-paper shortlist document Prof.
-Heshmati sent to the K31 cohort in 2025 — cross-checked against [[shortlist-prediction]] section
-2: these are the 6/20 papers in the K32 prediction list not yet covered by a question in Sets
-1–4 (the other 2 new Top-20 papers, L71 and L101, already have full answers in
-[[k31-final-exam]] Q6/Q5, so they are not repeated here).</span> Mục đích: luyện đúng **dạng câu
-hỏi** và luyện viết đáp án trong khuôn khổ luật thi thật, ưu tiên các bài có bằng chứng shortlist
-MẠNH NHẤT hiện có.<br><span class="en">Purpose: to practice the correct **question type** and
-practice writing answers within the real exam rules, prioritizing the papers with the STRONGEST
-shortlist evidence currently available.</span>
+published the 20-paper K32 shortlist (expected 30/8) or the K32 exam.</span>
+
+🔄 **ĐẢO NGƯỢC ĐỘ ƯU TIÊN 2026-08-11**: 6 paper trong set này được chọn (2026-08-08) trực tiếp từ
+[[k31-shortlist-2025]] — văn bản shortlist THẬT 20 bài GS gửi khóa K31 — với giả định GS nhiều khả
+năng lặp lại các bài này cho K32. Giáo sư sau đó xác nhận trong lớp **sẽ KHÔNG lặp lại đúng
+shortlist K31** (xem [[ln0-course-intro]]), nên GIẢ ĐỊNH NỀN TẢNG của set này bị đảo ngược: 6 bài
+dưới đây nay thuộc nhóm ÍT khả năng xuất hiện nhất trong shortlist K32 thật (đã "dùng" ở K31), chứ
+không phải nhiều khả năng nhất như tiêu đề gốc ngụ ý. Vẫn giữ lại set này (không xóa) vì nội dung
+đáp án vẫn đúng và vẫn có giá trị LUYỆN KỸ NĂNG viết đáp án dạng "trình bày findings + suy ra chính
+sách" — chỉ đổi vai trò từ "ưu tiên cao nhất" thành "luyện thêm, không phải trọng tâm". Muốn ôn
+đúng trọng tâm dự đoán hiện tại, xem Top 20 MỚI ở [[shortlist-prediction]] mục 2.<br><span
+class="en">🔄 **PRIORITY REVERSED 2026-08-11**: this set's 6 papers were chosen (2026-08-08)
+directly from [[k31-shortlist-2025]] — the REAL 20-paper shortlist document the professor sent to
+the K31 cohort — on the assumption the professor was likely to repeat these papers for K32. The
+professor has since confirmed in class he will **NOT repeat the exact K31 shortlist** (see
+[[ln0-course-intro]]), reversing this set's founding assumption: the 6 papers below are now among
+the LEAST likely to appear in the real K32 shortlist (already "used" in K31), not the most likely
+as the original title implied. This set is kept (not deleted) since the answer content remains
+accurate and still has value for practicing the SKILL of "present findings + derive policy
+implications" answers — its role has simply shifted from "highest priority" to "supplementary
+practice, not the focus". For today's actual priority, see the NEW Top 20 in
+[[shortlist-prediction]] section 2.</span>
 
 Xem thêm: [[k32-mock-exam-1]] (Set 1, LN1–LN2) · [[k32-mock-exam-2]] (Set 2, LN3–LN5) ·
 [[k32-mock-exam-3]] (Set 3, LN6–LN8) · [[k32-mock-exam-4]] (Set 4, LN9–LN10) ·
@@ -36,21 +42,14 @@ class="en">See also: [[k32-mock-exam-1]] (Set 1, LN1–LN2) · [[k32-mock-exam-2
 · [[k32-mock-exam-3]] (Set 3, LN6–LN8) · [[k32-mock-exam-4]] (Set 4, LN9–LN10) ·
 [[shortlist-prediction]] (the full prediction) · [[exam-prep]] (consolidated exam review).</span>
 
-## 0. Luật thi & cơ cấu điểm (mô phỏng theo K31) - <span class="en">Exam Rules & Grading Structure (modeled on K31)</span>
+## 0. Luật thi & cơ cấu điểm - <span class="en">Exam Rules & Grading Structure</span>
 
-Giống hệt Set 1–4 mục 0 — **Hình thức**: Written exam (50 điểm) + Essay (50 điểm) — 50/50, PASS
-≥50% mỗi phần theo [[syllabus-2026]] (K31 áp dụng ngưỡng 55%/27.5 điểm, xem
-[[k31-shortlist-2025]]/[[k31-final-exam]] mục 0). **Thời gian**: 120 phút, closed-book, có giám
-thị. **Cơ cấu câu hỏi**: A. Compulsory — Câu 1, 2 (mỗi câu 12.5đ, PHẢI làm cả hai). B. Elective —
-Câu 3–6 (mỗi câu 12.5đ, chọn tối thiểu 2 câu; làm nhiều hơn thì chỉ 2 câu điểm cao nhất tính vào
-tổng). Tổng: 2 compulsory + 2 elective tốt nhất × 12.5 = 50 điểm.<br><span class="en">Identical to
-Sets 1–4 section 0 — **Format**: Written exam (50 points) + Essay (50 points) — 50/50, PASS ≥50%
-per part per [[syllabus-2026]] (K31 applied a 55%/27.5-point threshold, see
-[[k31-shortlist-2025]]/[[k31-final-exam]] section 0). **Duration**: 120 minutes, closed-book,
-invigilated. **Question structure**: A. Compulsory — Questions 1, 2 (12.5 points each, BOTH
-required). B. Elective — Questions 3–6 (12.5 points each, choose at least 2; if more are
-answered, only the top 2 scores count). Total: 2 compulsory + 2 best elective × 12.5 = 50
-points.</span>
+⚠️ Xem [[k32-mock-exam-1]] mục 0 (cập nhật 2026-08-11) — cấu trúc câu hỏi K32 thật đã đổi (2 bắt
+buộc + tự chọn trả lời 4 câu, xem [[ln0-course-intro]]), khác cấu trúc K31 "tối thiểu 2/4" mà set
+này vẫn tạm dùng do chỉ có đúng 4 câu elective.<br><span class="en">⚠️ See [[k32-mock-exam-1]]
+section 0 (updated 2026-08-11) — K32's real question structure has changed (2 compulsory +
+elective answer-4, see [[ln0-course-intro]]), different from the K31 "minimum 2/4" structure this
+set still uses for now since it has exactly 4 elective questions.</span>
 
 ## 1. Đề bài - <span class="en">Questions</span>
 

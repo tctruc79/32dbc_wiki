@@ -3,7 +3,7 @@ type: synthesis
 title: "Dự đoán Shortlist 20 bài thi cuối kỳ K32"
 tags: [exam-prep, shortlist-prediction, k32, k31-final-exam, k31-shortlist-2025]
 created: 2026-08-04
-updated: 2026-08-08
+updated: 2026-08-11
 status: complete
 ---
 
@@ -27,20 +27,39 @@ class="en">⚠️ **This is a prediction, not the real shortlist.** The professo
 official K32 shortlist. This page is meant to guide early exam prep, and MUST be revisited once
 the real shortlist is announced on 30/8.</span>
 
-✅✅ **Cập nhật LỚN 2026-08-08**: phát hiện văn bản `raw/3. LECTURE NOTES/Short Reading list-2025
-UEH Dev issues and business cycle Class 31.pdf` — CHÍNH VĂN BẢN shortlist 20 bài mà GS gửi cho
-khóa K31 năm 2025 (không phải suy luận qua đề thi như trước). Toàn bộ phương pháp dự đoán ở trang
-này đã được LÀM LẠI TỪ ĐẦU dựa trên bằng chứng trực tiếp này — xem [[k31-shortlist-2025]] để đọc
-nguyên văn + bảng đối chiếu mã K31→K32. Đây là nâng cấp bằng chứng LỚN NHẤT của trang này kể từ khi
-tạo (2026-08-04): trước đây suy luận gián tiếp qua 6 câu đề thi thật; nay có TOÀN BỘ 20 bài GS thực
-sự chọn cho một khóa trước.<br><span class="en">✅✅ **MAJOR update 2026-08-08**: discovered the
-document `raw/3. LECTURE NOTES/Short Reading list-2025 UEH Dev issues and business cycle Class
-31.pdf` — the ACTUAL 20-paper shortlist document the professor sent to the K31 cohort in 2025
-(not an inference via exam questions as before). This page's entire prediction methodology has
-been REBUILT FROM SCRATCH on this direct evidence — see [[k31-shortlist-2025]] for the full text +
-the K31→K32 code cross-reference table. This is the LARGEST evidence upgrade this page has had
-since its creation (2026-08-04): previously an indirect inference via 6 real exam questions; now
-the COMPLETE 20 papers the professor actually chose for a prior cohort.</span>
+🔄 **ĐẢO NGƯỢC PHƯƠNG PHÁP 2026-08-11**: giáo sư xác nhận trong lớp **sẽ KHÔNG lặp lại đúng 20 bài
+đã chọn cho K31** — năm nay chắc chắn có bài khác (xem [[ln0-course-intro]], mục cấu trúc đề thi).
+Điều này VÔ HIỆU HÓA hoàn toàn tiền đề cốt lõi của bản 2026-08-08 (dự đoán = ánh xạ trực tiếp
+shortlist K31 thật). Toàn bộ mục 2 bên dưới đã được XÂY LẠI theo phương pháp mới: LOẠI TRỪ 20 bài
+K31 khỏi danh sách ứng viên, suy luận Top 20 mới từ 42 bài còn lại (mỗi lecture còn 3–6 ứng viên,
+KHÔNG còn lecture nào bị ép buộc duy nhất) — xem mục 1b để biết chi tiết tiêu chí suy luận. Độ tin
+cậy tổng thể của trang này GIẢM ĐÁNG KỂ so với bản 2026-08-08 (khi đó có tiền lệ trực tiếp; nay là
+suy luận thuần túy) — xem mục 5.<br><span class="en">🔄 **METHOD REVERSAL 2026-08-11**: the
+professor confirmed in class he will **NOT repeat the exact 20 papers chosen for K31** — this
+year will definitely include different papers (see [[ln0-course-intro]], the exam-structure
+section). This completely INVALIDATES the core premise of the 2026-08-08 version (prediction =
+direct mapping from the real K31 shortlist). Section 2 below has been REBUILT under a new method:
+EXCLUDE the 20 K31 papers from the candidate pool, then infer a new Top 20 from the remaining 42
+(every lecture now has 3–6 candidates left — no lecture is uniquely forced anymore) — see section
+1b for the inference criteria. This page's overall confidence has DROPPED SUBSTANTIALLY compared
+to the 2026-08-08 version (which had a direct precedent; this is now pure inference) — see section
+5.</span>
+
+✅✅ **Cập nhật LỚN 2026-08-08 (bối cảnh lịch sử, xem mục 3)**: phát hiện văn bản `raw/3. LECTURE
+NOTES/Short Reading list-2025 UEH Dev issues and business cycle Class 31.pdf` — CHÍNH VĂN BẢN
+shortlist 20 bài mà GS gửi cho khóa K31 năm 2025. Bản này khi đó đã LÀM LẠI TỪ ĐẦU phương pháp dự
+đoán dựa trên bằng chứng trực tiếp này (xem [[k31-shortlist-2025]] để đọc nguyên văn + bảng đối
+chiếu mã K31→K32) — nhưng nay đã bị đảo ngược bởi thông tin 2026-08-11 ở trên. Vẫn giữ lại làm nền
+tảng bằng chứng cho mục 1 (cấu trúc "2 bài/lecture" và các pattern lựa chọn của GS vẫn hữu ích, chỉ
+riêng việc NGOẠI SUY TRỰC TIẾP nguyên 20 bài là không còn đúng).<br><span class="en">✅✅ **MAJOR
+update 2026-08-08 (historical context, see section 3)**: discovered the document `raw/3. LECTURE
+NOTES/Short Reading list-2025 UEH Dev issues and business cycle Class 31.pdf` — the ACTUAL
+20-paper shortlist document the professor sent to the K31 cohort in 2025. At the time, this
+rebuilt the prediction method from scratch on this direct evidence (see [[k31-shortlist-2025]] for
+the full text + the K31→K32 code cross-reference table) — but it has now been reversed by the
+2026-08-11 information above. Still retained as the evidence base for section 1 (the "2
+papers/lecture" structure and the professor's selection patterns remain useful — only the DIRECT
+EXTRAPOLATION of the exact same 20 papers no longer holds).</span>
 
 ## 1. Bằng chứng nền tảng: shortlist K31 (2025) thật, không phải suy luận - <span class="en">Foundational evidence: K31's (2025) real shortlist, not inference</span>
 
@@ -58,62 +77,116 @@ cross-reference table in [[k31-shortlist-2025]]). Cross-checked against [[k31-fi
 6/6 K31 real-exam questions were drawn precisely from this 20-paper shortlist** (Q1=L42, Q2=L64,
 Q3=L95, Q4=L31, Q5=L101, Q6=L71 — K32 codes).</span>
 
-**Cơ sở dự đoán K32**: vì (a) cấu trúc "2 bài/lecture" là quy tắc rõ ràng GS áp dụng, (b) nội dung
-reading list gần như không đổi giữa 2 khóa (toàn bộ 20 bài K31 đều có mặt ở K32), và (c) timeline
-K31/K32 gần như y hệt (shortlist 30/8, thi viết đầu tháng 9) — dự đoán MẠNH NHẤT có thể có là GS
-**lặp lại đúng 20 bài đã chọn cho K31**, ánh xạ sang mã K32. Đây không còn là suy luận "trunk/hội
-tụ chủ đề" như bản trước, mà là NGOẠI SUY TRỰC TIẾP từ 1 tiền lệ thật.<br><span class="en">**Basis
-for the K32 prediction**: because (a) the "2 papers/lecture" structure is an explicit rule the
-professor applies, (b) the reading-list content has barely changed between cohorts (all 20 K31
-papers are present in K32), and (c) the K31/K32 timelines are nearly identical (shortlist 30/8,
-written exam early September) — the STRONGEST possible prediction is that the professor **repeats
-the exact same 20 papers chosen for K31**, mapped to K32 codes. This is no longer a "trunk/
-cross-lecture convergence" inference as in the previous version, but a DIRECT EXTRAPOLATION from
-one real precedent.</span>
+**Điều vẫn còn dùng được từ tiền lệ K31**: (a) cấu trúc "2 bài/lecture × 10 lecture = 20" — GS xác
+nhận không đổi (chỉ đổi BÀI, không đổi CẤU TRÚC); (b) pattern lựa chọn trong cùng 1 lecture (chỉ 1
+bài/tác giả dù có nhiều bài cùng tác giả; một số lecture ưu tiên bài ứng dụng Việt Nam, số khác ưu
+tiên bài lý thuyết gốc — xem mục 3). **Điều KHÔNG còn dùng được**: việc NGOẠI SUY TRỰC TIẾP nguyên
+20 mã bài — toàn bộ 20 bài này giờ coi như "đã dùng", xác suất được chọn lại gần như bằng
+0.<br><span class="en">**What's still usable from the K31 precedent**: (a) the "2 papers/lecture ×
+10 lectures = 20" structure — the professor confirmed this stays fixed (only the PAPERS change,
+not the STRUCTURE); (b) the within-lecture selection pattern (only 1 paper per author even when
+multiple exist; some lectures favor the Vietnam-application paper, others favor the original
+theory paper — see section 3). **What's NO LONGER usable**: directly extrapolating the exact same
+20 paper codes — all 20 are now considered "used", with near-zero probability of being picked
+again.</span>
 
-## 2. Dự đoán Top 20 (ánh xạ trực tiếp từ shortlist K31 thật) - <span class="en">Top-20 Prediction (Directly Mapped from the Real K31 Shortlist)</span>
+## 1b. Phương pháp dự đoán mới: loại trừ 20 bài K31, suy luận từ 42 bài còn lại - <span class="en">New Prediction Method: Excluding the 20 K31 Papers, Inferring From the Remaining 42</span>
 
-| Lecture | Mã K32 | Paper | Bằng chứng |
-|---|---|---|---|
-| LN1 | L11 | Patel, Sandefur & Subramanian 2021 | = K31 shortlist |
-| LN1 | L13 | Spolaore & Wacziarg 2013 | = K31 shortlist |
-| LN2 | L21 | Acemoglu, Johnson & Robinson 2001 | = K31 shortlist |
-| LN2 | L24 | Alesina & Giuliano 2015 | = K31 shortlist |
-| LN3 | L31 | Baron, Verner & Xiong 2021 | = K31 shortlist + K31 exam Q4 |
-| LN3 | L32 | Jiang, Levine & Lin 2019 | = K31 shortlist |
-| LN4 | L42 | Do, Nguyen & Grote 2023 | = K31 shortlist + K31 exam Q1 |
-| LN4 | L45 | Tran et al. 2022 | = K31 shortlist |
-| LN5 | L51 | Nguyen 2023 | = K31 shortlist |
-| LN5 | L52 | Huis et al. 2019 | = K31 shortlist |
-| LN6 | L61 | Heshmati & Rashidghalam 2020 (TFP) | = K31 shortlist (+ bài của GS) |
-| LN6 | L64 | Nguyen & Pham 2018 | = K31 shortlist + K31 exam Q2 |
-| LN7 | L71 | Heshmati & Rashidghalam 2020 (hạ tầng) | = K31 shortlist + K31 exam Q6 (+ bài của GS) |
-| LN7 | L73 | McGuinness et al. 2021 | = K31 shortlist |
-| LN8 | L84 | García-Barragán et al. 2019 | = K31 shortlist |
-| LN8 | L86 | Heshmati & Rashidghalam 2021 | = K31 shortlist (+ bài của GS) |
-| LN9 | L93 | Pham et al. 2024 | = K31 shortlist |
-| LN9 | L95 | Tam et al. 2024 | = K31 shortlist + K31 exam Q3 |
-| LN10 | L101 | Robinson & Thierfelder 2024 | = K31 shortlist + K31 exam Q5 |
-| LN10 | L107 | Toai 2025 | = K31 shortlist |
+Với 20 bài K31 bị loại, mỗi lecture còn lại **3–6 ứng viên** cho 2 suất (LN1: 3, LN2: 4, LN3: 4,
+LN4: 4, LN5: 4, LN6: 3, LN7: 5, LN8: 6, LN9: 4, LN10: 5 — tổng 42). **Không lecture nào bị ép buộc
+duy nhất** — khác hẳn tình huống "biết chắc" trước đây. Tiêu chí suy luận cho mục 2 (xếp theo mức
+ưu tiên, áp dụng linh hoạt theo từng lecture, không có công thức cứng):<br><span class="en">With
+the 20 K31 papers excluded, each lecture has **3–6 remaining candidates** for 2 slots (LN1: 3,
+LN2: 4, LN3: 4, LN4: 4, LN5: 4, LN6: 3, LN7: 5, LN8: 6, LN9: 4, LN10: 5 — 42 total). **No lecture
+is uniquely forced** — a real departure from the previous "known-for-certain" situation. Inference
+criteria for section 2 (in rough priority order, applied flexibly per lecture, no rigid
+formula):</span>
 
-**Mọi dòng đều có mức tin cậy NHƯ NHAU** (không còn phân tầng Tier S/A/B như bản trước) — vì cả 20
-bài đều dựa trên CÙNG MỘT loại bằng chứng (xuất hiện trong shortlist K31 thật), chỉ khác việc 6
-bài trong số đó CÒN được xác nhận thêm lần 2 qua đề thi thật (cột cuối). Phân bố: đúng 2 bài/
-lecture × 10 lecture = 20, khớp cấu trúc GS áp dụng.<br><span class="en">**Every row carries the
-SAME confidence level** (no more Tier S/A/B stratification as in the previous version) — because
-all 20 papers rest on the SAME type of evidence (appearing in the real K31 shortlist), differing
-only in that 6 of them are ALSO confirmed a second time via the real exam questions (last column).
-Distribution: exactly 2 papers/lecture × 10 lectures = 20, matching the structure the professor
-applies.</span>
+1. **Bài của chính GS được ưu tiên cao hơn**: K31 cho thấy GS đưa bài của mình vào 3/4 lecture nơi
+   ông có bài (LN6, LN7, LN8 — chỉ bỏ qua ở LN9). Trong số 42 ứng viên còn lại, có 3 bài GS đồng
+   tác giả: L62 (LN6, Lööf & Heshmati), L82 (LN8, Heshmati), L96 (LN9, Kuosmanen, Pajarinen &
+   Heshmati) — LN8 đặc biệt có tới 3 bài liên quan GS (L81/L82/L86), K31 chỉ chọn 1 (L86, nay loại)
+   nên khả năng cao ông chọn 1 trong 2 bài GS còn lại (L81 hoặc L82) năm nay.<br><span
+   class="en">**The professor's own papers get elevated priority**: K31 shows he included his own
+   paper in 3/4 lectures where one exists (LN6, LN7, LN8 — skipped only for LN9). Among the 42
+   remaining candidates, 3 are Heshmati-co-authored: L62 (LN6, Lööf & Heshmati), L82 (LN8,
+   Heshmati), L96 (LN9, Kuosmanen, Pajarinen & Heshmati) — LN8 notably has 3 Heshmati-linked
+   papers total (L81/L82/L86), K31 picked only 1 (L86, now excluded), so he likely picks one of
+   the remaining two (L81 or L82) this year.</span>
+2. **Giữ nguyên pattern VN-ứng dụng vs lý thuyết đã quan sát theo từng lecture**: LN4/LN5/LN9 K31
+   ưu tiên bài ứng dụng Việt Nam (LN5 không còn ứng viên VN nên phải phá lệ); LN1/LN2/LN3 K31 ưu
+   tiên bài lý thuyết/toàn cầu.<br><span class="en">**Preserve the VN-application-vs-theory
+   pattern already observed per lecture**: K31 favored Vietnam-application papers for LN4/LN5/LN9
+   (LN5 has no VN candidate left, forcing a break from this pattern); K31 favored
+   theoretical/global papers for LN1/LN2/LN3.</span>
+3. **Ưu tiên bài có phương pháp + phát hiện định lượng rõ ràng, dễ suy ra hàm ý chính sách** — khớp
+   trực tiếp với hướng dẫn đọc bài của GS (mục "Cấu trúc đề thi" ở [[ln0-course-intro]]: chú ý
+   Abstract/Methodology/Discussion/Conclusion để suy ra chính sách) — vì GS cần bài phù hợp cho
+   dạng câu hỏi này.<br><span class="en">**Favor papers with clear methodology and quantitative
+   findings that make policy implications easy to derive** — directly matching the professor's own
+   paper-reading guidance (the "Exam structure" section in [[ln0-course-intro]]: focus on
+   Abstract/Methodology/Discussion/Conclusion to derive policy implications) — since he needs
+   papers that suit this question style.</span>
+4. **Bài từng bị "chọn sai" ở bản dự đoán 2026-08-04 (tức GS đã KHÔNG chọn ở K31 dù có vẻ hợp lý)
+   bị hạ ưu tiên** — vd L22 (Mauro, kinh điển nhưng bị bỏ qua), L53 (Naudé, bị bỏ qua vì GS ưu tiên
+   2 bài VN), L83 (Kirchherr, bị bỏ qua) — xem mục 3.<br><span class="en">**Papers already "wrongly
+   predicted" in the 2026-08-04 version (i.e. the professor did NOT pick them for K31 despite
+   seeming plausible) get downweighted** — e.g. L22 (Mauro, a classic but skipped), L53 (Naudé,
+   skipped since the professor favored 2 VN papers), L83 (Kirchherr, skipped) — see section
+   3.</span>
 
-## 3. Những gì đã thay đổi so với bản dự đoán trước (2026-08-04/07) - <span class="en">What Changed From the Previous Prediction (2026-08-04/07)</span>
+## 2. Dự đoán Top 20 mới (loại 20 bài K31, suy luận từ 42 bài còn lại) - <span class="en">New Top-20 Prediction (Excluding the 20 K31 Papers, Inferred From the Remaining 42)</span>
 
-Bản trước (suy luận qua trunk/hội tụ chủ đề, không có shortlist thật) dự đoán ĐÚNG 12/20, SAI 8/20
-so với bằng chứng mới này — một minh chứng rõ ràng vì sao suy luận gián tiếp kém tin cậy hơn nhiều
-so với tiền lệ trực tiếp:<br><span class="en">The previous version (inferring via cluster-trunk/
-convergence reasoning, without a real shortlist) predicted 12/20 CORRECTLY and 8/20 INCORRECTLY
-relative to this new evidence — a clear demonstration of why indirect inference is far less
-reliable than a direct precedent:</span>
+| Lecture | Mã K32 | Paper | Tin cậy | Lý do |
+|---|---|---|---|---|
+| LN1 | L12 | Nunn 2019 (review, foreign aid) | Trung bình | Giữ pattern lý thuyết/toàn cầu của LN1 (như L11/L13 cũ) |
+| LN1 | L14 | Sasges & Takahashi 2025 | Trung bình | Bài mới nhất (2025), định lượng, VN-specific, hợp tiêu chí đọc-suy-chính sách |
+| LN2 | L22 | Mauro 1995 (corruption-growth) | Thấp–TB | Kinh điển, nằm trong cụm tranh luận corruption 3.18 cùng L26/L77 |
+| LN2 | L26 | Huynh & Tran 2025 (FDI, informal economy VN) | Trung bình | Bài mới nhất, VN-specific, cùng cụm tranh luận corruption |
+| LN3 | L33 | Lastunen & Richiardi 2023 (COVID VN) | Trung bình | VN-specific, dữ liệu tài chính — khớp chủ đề LN3 |
+| LN3 | L34 | Cai & Le 2023 (tài nguyên/CSR VN) | Trung bình | VN-specific, hàm ý chính sách rõ (rủi ro nợ công) |
+| LN4 | L41 | Ho 2021 (land tenure VN) | Trung bình | VN-specific, giữ pattern LN4 (như L42/L45 cũ) |
+| LN4 | L44 | Vo & Tran 2022 (LVI, VN) | Trung bình | VN-specific, số liệu định lượng rõ (thiệt hại GDP) |
+| LN5 | L54 | Méndez-Picazo et al. 2012 | Thấp–TB | Không còn ứng viên VN — phá pattern LN4/LN5; định lượng xuyên quốc gia + hàm ý chính sách rõ (đánh đổi bất bình đẳng) |
+| LN5 | L56 | Sharma & Subba 2025 | Thấp–TB | Bài mới nhất, chủ đề SDG/green-startup thời sự |
+| LN6 | L62 | Lööf & Heshmati 2006 | Trung bình–Cao | Bài của GS — LN6 luôn có 1 bài GS ở K31 |
+| LN6 | L63 | Tran, Alkire & Klasen 2015 | Trung bình | VN-specific, phát hiện nổi bật (bất khớp đo nghèo) |
+| LN7 | L74 | Dao & Trinh 2020 | Trung bình | VN-specific, đối lập trực tiếp với L73 (đã dùng ở K31) — cặp so sánh hay |
+| LN7 | L77 | Drama et al. 2025 | Trung bình | Bài mới nhất, hàm ý chính sách rõ (y tế/giáo dục hiệu quả hơn hạ tầng) |
+| LN8 | L82 | Heshmati 2017 (review CE) | Trung bình–Cao | Bài của GS — LN8 có 3 bài liên quan GS, khả năng cao chọn 1 |
+| LN8 | L87 | Nademi & Kalmarzi 2025 | Trung bình | Bài mới nhất, góc nhìn CE-thất nghiệp thời sự/chính sách |
+| LN9 | L91 | Pham et al. 2020 | Trung bình | VN-specific, giữ pattern LN9 (như L93/L95 cũ) |
+| LN9 | L94 | Dang et al. 2024 | Trung bình | VN-specific, mới, phát hiện phản trực giác (quy mô ≠ lan tỏa) |
+| LN10 | L104 | Sheng, Song & Zheng 2025 | Trung bình | Phát hiện nổi bật (VTD), vừa được GS sửa lỗi slide 9/8 — có vẻ được chú trọng |
+| LN10 | L106 | Dang, Yawei & Abdullah 2024 | Trung bình | VN-specific, bằng chứng nhân quả trực tiếp (+14% xuất khẩu), khớp tiêu chí đọc-suy-chính sách |
+
+**KHÔNG còn hàng nào "chắc chắn"** — khác hẳn bản 2026-08-08. Mọi dòng đều là suy luận, mức tin cậy
+cao nhất chỉ đạt "Trung bình–Cao" (2 bài GS-authored L62/L82, dựa trên pattern 3/4 mạnh từ K31).
+Đây LÀ VẤN ĐỀ CỐT LÕI của bản dự đoán này — không phải thiếu sót khi viết trang, mà là thực tế:
+không còn tiền lệ trực tiếp để dựa vào.<br><span class="en">**NO row is "certain" anymore** — a
+sharp contrast with the 2026-08-08 version. Every row is inference; the highest confidence reached
+is only "Medium–High" (the 2 GS-authored papers L62/L82, based on a strong 3/4 pattern from K31).
+This IS the core limitation of this prediction — not a gap in how the page was written, but a
+fact: there is no longer a direct precedent to rely on.</span>
+
+## 3. Lịch sử phương pháp: bản 2026-08-04 vs bằng chứng shortlist K31 thật (2026-08-08) - <span class="en">Method History: the 2026-08-04 Version vs. the Real K31 Shortlist Evidence (2026-08-08)</span>
+
+📌 **Mục này giờ mang giá trị LỊCH SỬ/bài học phương pháp, không còn dùng để dự đoán K32 trực tiếp**
+(cả 20 bài K31 thật nhắc tới ở đây đều đã bị loại khỏi Top 20 mới ở mục 2, theo xác nhận "không lặp
+lại" của GS). Giữ lại vì "Bài học phương pháp" ở cuối mục này (pattern VN-ứng dụng/lý thuyết, chỉ 1
+bài/tác giả) VẪN được dùng làm tiêu chí suy luận cho Top 20 mới.<br><span class="en">📌 **This
+section now carries HISTORICAL/methodological-lesson value only, no longer used to predict K32
+directly** (all 20 real K31 papers referenced here have been excluded from the new Top 20 in
+section 2, per the professor's "no repeat" confirmation). Kept because the "methodological lesson"
+at the end of this section STILL informs the inference criteria for the new Top 20.</span>
+
+Bản 2026-08-04 (suy luận qua trunk/hội tụ chủ đề, không có shortlist thật) dự đoán ĐÚNG 12/20, SAI
+8/20 so với văn bản shortlist K31 thật phát hiện ngày 2026-08-08 — một minh chứng rõ ràng vì sao
+suy luận gián tiếp kém tin cậy hơn nhiều so với tiền lệ trực tiếp:<br><span class="en">The
+2026-08-04 version (inferring via cluster-trunk/convergence reasoning, without a real shortlist)
+predicted 12/20 CORRECTLY and 8/20 INCORRECTLY relative to the real K31 shortlist document
+discovered on 2026-08-08 — a clear demonstration of why indirect inference is far less reliable
+than a direct precedent:</span>
 
 - **Đúng cả 2 lần (12 bài)**: L11, L13, L21, L31, L42, L52, L61, L64, L71, L86, L95,
   L101.<br><span class="en">**Correct both times (12 papers)**: L11, L13, L21, L31, L42, L52,
@@ -152,55 +225,78 @@ reliable than a direct precedent:</span>
   VN application. No single rule applies to every lecture — this is exactly why direct observation
   (the real K31 shortlist) is far more reliable than a general inference rule.</span>
 
-## 4. Ứng viên KHÔNG có trong shortlist K31 (rủi ro nếu GS đổi bài năm nay) - <span class="en">Candidates NOT in the K31 Shortlist (Risk if the Professor Changes Picks This Year)</span>
+## 4. Ứng viên dự phòng cho mỗi lecture (nếu Top 20 mục 2 sai) - <span class="en">Runner-Up Candidates per Lecture (in Case Section 2's Top 20 Is Wrong)</span>
 
-K32 có nhiều bài "Other Reading" (tùy chọn, không thi) mới hoàn toàn không tồn tại ở K31 — đặc
-biệt TOÀN BỘ 6 bài LN9 và 5/7 bài LN10 còn lại (ngoài L93/L95/L101/L107 đã ở Top 20). Nếu GS muốn
-cập nhật shortlist năm nay để phản ánh các bài mới/thời sự hơn, các ứng viên đáng chú ý nhất
-là:<br><span class="en">K32 has many brand-new "Other Reading" papers that did not exist at all
-in K31 — notably ALL 6 LN9 papers and the remaining 5/7 LN10 papers (aside from L93/L95/L101/L107
-already in the Top 20). If the professor wants to refresh the shortlist this year to reflect
-newer/more topical papers, the most notable candidates are:</span>
+Vì mục 2 không còn "chắc chắn" (mục 1b), bảng dưới đây liệt kê ứng viên Á quân — nếu 1 dòng ở mục 2
+sai, đây là lựa chọn thay thế hợp lý nhất trong cùng lecture:<br><span class="en">Since section 2
+is no longer "certain" (section 1b), the table below lists runner-up candidates — if a row in
+section 2 turns out wrong, these are the next most plausible picks within the same
+lecture:</span>
 
-- L104 (Sheng, Song & Zheng 2025, Vertical Trade Diversion) — bài mới nhất/thời sự nhất của LN10,
-  phát hiện nổi bật (VTD thay vì HTD).<br><span class="en">L104 (Sheng, Song & Zheng 2025,
-  Vertical Trade Diversion) — LN10's newest/most topical paper, with a striking finding (VTD
-  instead of HTD).</span>
-- L106 (Dang, Yawei & Abdullah 2024, DiD xuất khẩu VN +14%) — bằng chứng nhân quả Việt Nam trực
-  tiếp, dù bản K31 đã cho thấy GS thiên về bài review (L107) hơn.<br><span class="en">L106 (Dang,
-  Yawei & Abdullah 2024, DiD Vietnamese exports +14%) — direct Vietnamese causal evidence, though
-  K31's precedent shows the professor leans toward the review paper (L107) instead.</span>
-- L96 (Kuosmanen, Pajarinen & Heshmati 2025, bài của chính GS) — dù K31 không có bài LN9 nào của
-  GS trong shortlist (chỉ có 2 bài từ tác giả khác), khả năng GS thêm bài của mình vào không thể
-  loại trừ.<br><span class="en">L96 (Kuosmanen, Pajarinen & Heshmati 2025, the professor's own
-  paper) — although K31's shortlist had no LN9 paper by the professor (only 2 papers by other
-  authors), the possibility of him adding his own cannot be ruled out.</span>
-- L22 (Mauro 1995, kinh điển corruption-growth) và L83 (Kirchherr et al. 2018, định nghĩa CE trích
-  dẫn nhiều nhất) — cả 2 đều là paper kinh điển ngành, dù không có trong shortlist K31.<br><span
-  class="en">L22 (Mauro 1995, a corruption-growth classic) and L83 (Kirchherr et al. 2018, the
-  most-cited CE definitional paper) — both are field classics despite not being in the K31
-  shortlist.</span>
+| Lecture | Đã chọn (mục 2) | Á quân (dự phòng) |
+|---|---|---|
+| LN1 | L12, L14 | L15 (Yin et al., China spatial dynamics) |
+| LN2 | L22, L26 | L23 (Besley & Ghatak — nối tiếp AJR/L21), L25 (Bizikova, WEF nexus) |
+| LN3 | L33, L34 | L35 (Kakhkharov, banking geopolitical), L36 (Minford, monetary policy) |
+| LN4 | L41, L44 | L43 (Le 2020, floods SEA — không VN-specific) |
+| LN5 | L54, L56 | L55 (Stein et al., Denmark fintech case study), L53 (Naudé, trunk — đã bị loại năm K31) |
+| LN6 | L62, L63 | L65 (Nguyen et al., energy transition VN) |
+| LN7 | L74, L77 | L75 (Hanushek, higher-ed theory), L76 (Bloom, health-growth review), L72 (Kadyraliev, Kyrgyzstan) |
+| LN8 | L82, L87 | L81 (Su & Heshmati — GS cũng đồng tác giả, có thể GS chọn bài này thay vì L82), L85 (Saidani, taxonomy), L88 (Vera, bibliometric SDG) |
+| LN9 | L91, L94 | L92 (Rakholia, air quality AI HCMC — cùng hồ sơ VN+AI như L91), L96 (Kuosmanen/Heshmati — bài GS, dark-horse) |
+| LN10 | L104, L106 | L103 (Che, tariff evasion — phát hiện thống kê sắc), L102 (Alessandria, kỳ vọng thuế quan), L105 (Almazan-Gomez, EU — ít liên quan VN nhất) |
 
-## 5. Giới hạn còn lại - <span class="en">Remaining Limitations</span>
+Đáng chú ý nhất trong cột Á quân: **L81** (LN8 — GS cũng là đồng tác giả, cửa ngang ngửa với L82
+đã chọn) và **L96** (LN9 — bài của GS, K31 từng bỏ qua nhưng không loại trừ năm nay đổi
+ý).<br><span class="en">The most notable runner-ups: **L81** (LN8 — the professor is also a
+co-author, roughly even odds with the chosen L82) and **L96** (LN9 — the professor's own paper,
+skipped for K31 but he could well change his mind this year).</span>
 
-Giới hạn DUY NHẤT còn lại: đây vẫn là NGOẠI SUY từ 1 tiền lệ (K31, 2025), không phải xác nhận
-chính thức K32. GS hoàn toàn có thể thay đổi lựa chọn năm nay — đặc biệt với 2 lecture hoàn toàn
-mới với K32 (LN9, LN10) nơi GS có nhiều bài "Other Reading" mới để chọn thay thế. Mức độ tin cậy
-cao nhất nằm ở 6 bài ĐƯỢC XÁC NHẬN GẤP ĐÔI (vừa trong shortlist K31, vừa là câu hỏi đề thi thật):
-L31, L42, L64, L71, L95, L101. Cần đối chiếu lại TOÀN BỘ trang này ngay khi shortlist K32 thật
-được công bố 30/8.<br><span class="en">The ONE remaining limitation: this is still an
-EXTRAPOLATION from a single precedent (K31, 2025), not an official K32 confirmation. The
-professor could fully change this year's picks — especially for the 2 lectures entirely new to
-K32 (LN9, LN10) where he has many new "Other Reading" papers to choose from instead. The highest
-confidence level belongs to the 6 papers CONFIRMED TWICE (both in the K31 shortlist and as a real
-exam question): L31, L42, L64, L71, L95, L101. This entire page must be cross-checked once the
-real K32 shortlist is announced on 30/8.</span>
+## 5. Giới hạn — độ tin cậy đã giảm đáng kể so với bản trước - <span class="en">Limitations — Confidence Has Dropped Substantially From the Previous Version</span>
+
+**Khác biệt cốt lõi so với bản 2026-08-08**: khi đó có 1 tiền lệ TRỰC TIẾP (shortlist K31 thật) để
+ngoại suy — độ chắc chắn cao. Nay tiền lệ đó bị chính GS vô hiệu hóa ("sẽ không trùng năm ngoái"),
+nên mục 2 là suy luận THUẦN TÚY từ 42 ứng viên còn lại, không có lecture nào bị ép buộc duy nhất
+(mục 1b). Cụ thể:<br><span class="en">**Core difference from the 2026-08-08 version**: back then
+there was a DIRECT precedent (the real K31 shortlist) to extrapolate from — high certainty. Now
+that precedent has been invalidated by the professor himself ("won't repeat last year"), so
+section 2 is PURE inference from the remaining 42 candidates, with no lecture uniquely forced
+(section 1b). Specifically:</span>
+
+- Không có bài nào trong Top 20 mới được "xác nhận gấp đôi" như 6 bài của bản trước (L31, L42,
+  L64, L71, L95, L101 — cả 6 đều đã bị loại vì thuộc shortlist K31).<br><span class="en">No paper
+  in the new Top 20 is "double-confirmed" the way the previous version's 6 papers were (L31, L42,
+  L64, L71, L95, L101 — all 6 are now excluded as K31-shortlist papers).</span>
+- Tiêu chí suy luận (mục 1b) dựa trên PATTERN quan sát từ 1 khóa duy nhất (K31) — mẫu quá nhỏ để
+  khái quát hóa chắc chắn; GS có thể đổi hẳn cách chọn năm nay chứ không chỉ đổi PAPER.<br><span
+  class="en">The inference criteria (section 1b) rest on a PATTERN observed from a single cohort
+  (K31) — too small a sample to generalize with confidence; the professor could change his
+  selection approach entirely this year, not just the papers.</span>
+- Thông tin "sẽ không trùng năm ngoái" đến từ lời nói trong lớp, không có văn bản/slide xác nhận
+  (xem ⚠️ ở [[ln0-course-intro]]) — bản thân tiền đề của phương pháp mới cũng có rủi ro truyền đạt
+  sai lệch, dù thấp.<br><span class="en">The "won't repeat last year" information came from a
+  verbal classroom statement, with no document/slide confirmation (see the ⚠️ note in
+  [[ln0-course-intro]]) — the new method's own premise carries some (low) risk of
+  miscommunication.</span>
+- **Bắt buộc đối chiếu lại TOÀN BỘ trang này ngay khi shortlist K32 thật được công bố 30/8** — mức
+  độ cần thiết của việc đối chiếu này CAO HƠN bản trước, vì bản trước ít nhất có 6/20 bài gần như
+  chắc chắn, còn bản này thì không có bài nào chắc chắn cả.<br><span class="en">**This entire page
+  MUST be cross-checked the moment the real K32 shortlist is announced on 30/8** — the need for
+  this cross-check is HIGHER than for the previous version, since that version had at least 6/20
+  near-certain papers, while this one has none.</span>
 
 ## Liên kết - <span class="en">Links</span>
 
-- [[k31-shortlist-2025]] — văn bản shortlist K31 thật, nguồn bằng chứng chính của toàn bộ trang
-  này.<br><span class="en">[[k31-shortlist-2025]] — the real K31 shortlist document, this page's
-  primary evidence source.</span>
+- [[ln0-course-intro]] — nguồn thông tin "GS sẽ không lặp lại shortlist K31" + cấu trúc đề thi mới
+  (2 bắt buộc + 4 tự chọn, 2h, đề đóng) làm tiền đề cho phương pháp dự đoán mới ở trang
+  này.<br><span class="en">[[ln0-course-intro]] — source of the "professor won't repeat the K31
+  shortlist" information + the new exam structure (2 compulsory + 4 elective, 2h, closed-book)
+  underpinning this page's new prediction method.</span>
+- [[k31-shortlist-2025]] — văn bản shortlist K31 thật, nguồn bằng chứng nền tảng cho mục 1/1b/3
+  (cấu trúc + pattern lựa chọn), dù 20 mã bài cụ thể không còn dùng trực tiếp được cho mục
+  2.<br><span class="en">[[k31-shortlist-2025]] — the real K31 shortlist document, the
+  foundational evidence for sections 1/1b/3 (structure + selection pattern), though the 20
+  specific paper codes can no longer be used directly for section 2.</span>
 - [[k31-final-exam]] — đề thi thật K31, xác nhận chéo 6/6 câu.<br><span class="en">
   [[k31-final-exam]] — K31's real exam, cross-confirming all 6/6 questions.</span>
 - [[exam-prep]] — bảng tra cứu 62 paper + 12 cụm chủ đề.<br><span class="en">[[exam-prep]] —

@@ -4,7 +4,7 @@ type: overview
 title: "Course Overview — Development Issues and Business Cycle (Class 32, 2026)"
 tags: [course-map, syllabus]
 created: 2026-07-20
-updated: 2026-08-07
+updated: 2026-08-13
 status: complete
 
 ---
@@ -115,6 +115,21 @@ course map. Sources: [[syllabus-2026]], [[essays-instructions]].</span>
     ([[l106-dang-2024-vietnam-exports-us-trade-war-did]]), Toai 2025
     ([[l107-toai-2025-vietnam-import-export-trade-war]]).
 
+## LNs Slides — Bản dịch đầy đủ từng slide - <span class="en">LNs Slides — Full Slide-by-Slide Translation</span>
+
+Ngoài 10 trang tóm tắt ở mục trên (Claude tổng hợp theo luận điểm), mỗi lecture còn có 1 trang
+bản dịch song ngữ bám sát gần như nguyên văn TỪNG SLIDE gốc của giáo sư (nguồn:
+`raw/3. LECTURE NOTES/LNs_VN/` + `LNs_EN/`, người dùng tự dịch riêng từng bản) — hữu ích khi cần
+đối chiếu chính xác cách giáo sư trình bày trên lớp thay vì bản tóm tắt.<br><span class="en">
+Besides the 10 summary pages above (synthesized by Claude by argument), each lecture also has a
+bilingual translation page staying close to the original wording of EVERY slide from the
+professor's deck (source: `raw/3. LECTURE NOTES/LNs_VN/` + `LNs_EN/`, each translated
+independently by the user) — useful when you need to check exactly how the professor presented
+the material in class rather than a summary.</span>
+
+- [[ln1-slides]] · [[ln2-slides]] · [[ln3-slides]] · [[ln4-slides]] · [[ln5-slides]] ·
+  [[ln6-slides]] · [[ln7-slides]] · [[ln8-slides]] · [[ln9-slides]] · [[ln10-slides]]
+
 ## Ôn thi - <span class="en">Exam preparation</span>
 
 [[exam-prep]] — trang trung tâm để ôn thi cuối kỳ: quy trình 5 bước, bảng tra nhanh, tranh
@@ -165,4 +180,4 @@ Xoay quanh: [[technology-upgrading]], [[middle-income-trap]], [[middle-innovatio
 | 7. Investment in Development Infrastructure, Health, Education | Đầy đủ — lecture note ([[ln7-investment-infrastructure-health-education]]) + 7 readings đều đã deep-ingest |
 | 8. Circular Economy, Inclusive and Sustainable Development | Đầy đủ — lecture note ([[ln8-circular-economy-inclusive-sustainable-development]]) + 8 readings đều đã deep-ingest (L87, L88 giới hạn bởi paywall — chỉ có abstract) |
 | 9. AI, Digitalization, Economic Growth and Development | Đầy đủ — lecture note ([[ln9-ai-digitalization-economic-development-growth]]) + 6 readings đều đã deep-ingest |
-| 10. Impacts of Trade War on Vietnamese Economy | Đầy đủ — lecture note ([[ln10-impacts-trade-war-vietnamese-economy]]) + 7 readings đều đã deep-ingest (⚠️ L104: slide gốc dán nhầm nội dung, trang wiki dựa trên PDF thật) |
+| 10. Impacts of Trade War on Vietnamese Economy | Đầy đủ — lecture note ([[ln10-impacts-trade-war-vietnamese-economy]]) + 7 readings đều đã deep-ingest (✅ L104: slide gốc từng dán nhầm nội dung, giáo sư đã sửa trong bản 9/8/2026 — khớp với trang wiki vốn đã dựa trên PDF thật) |

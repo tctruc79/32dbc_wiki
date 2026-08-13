@@ -4,7 +4,7 @@ type: overview
 title: "Course Overview — Development Issues and Business Cycle (Class 32, 2026)"
 tags: [course-map, syllabus]
 created: 2026-07-20
-updated: 2026-08-07
+updated: 2026-08-13
 status: complete
 
 ---
@@ -108,6 +108,17 @@ The course map. Sources: [[syllabus-2026]], [[essays-instructions]].
     ([[l106-dang-2024-vietnam-exports-us-trade-war-did]]), Toai 2025
     ([[l107-toai-2025-vietnam-import-export-trade-war]]).
 
+## LNs Slides — Full Slide-by-Slide Translation
+
+Besides the 10 summary pages above (synthesized by Claude by argument), each lecture also has a
+translation page staying close to the original wording of EVERY slide from the professor's deck
+(source: `raw/3. LECTURE NOTES/LNs_VN/` + `LNs_EN/`, each translated independently by the user)
+— useful when you need to check exactly how the professor presented the material in class
+rather than a summary.
+
+- [[ln1-slides]] · [[ln2-slides]] · [[ln3-slides]] · [[ln4-slides]] · [[ln5-slides]] ·
+  [[ln6-slides]] · [[ln7-slides]] · [[ln8-slides]] · [[ln9-slides]] · [[ln10-slides]]
+
 ## Exam preparation
 
 [[exam-prep]] — the central page for final-exam review: a 5-step process, a quick-reference
@@ -123,11 +134,11 @@ someone else):
 
 All 3 versions: an expandable mindmap per paper, multi-level detail (Research Question &
 Methodology → Key Findings → Economic Significance → Vietnam Relevance → Cross-Paper Debate),
-covering LN0-LN10 plus a "Self-test" flashcard tab + an "All LNs" tab with a sidebar tree-nav
-(Quick Jump) for jumping directly to any cluster/paper. **When updating (e.g., after ingesting
-a new reading), always republish to these exact 3 URLs (using the Artifact tool's `url`
-parameter) — never create a new artifact**, since the link may already have been shared with
-others.
+covering LN0-LN10 plus a "Self-test" flashcard tab, an "All LNs" tab with a sidebar tree-nav
+(Quick Jump) for jumping directly to any cluster/paper, and a "📑 LNs Slides" tab with the same
+full slide-by-slide translation as above. **When updating (e.g., after ingesting a new reading),
+always republish to these exact 3 URLs (using the Artifact tool's `url` parameter) — never
+create a new artifact**, since the link may already have been shared with others.
 
 ## Essay topics suggested by the professor
 
@@ -147,4 +158,4 @@ Centered on: [[technology-upgrading]], [[middle-income-trap]], [[middle-innovati
 | 7. Investment in Development Infrastructure, Health, Education | Complete — lecture note ([[ln7-investment-infrastructure-health-education]]) + all 7 readings deep-ingested |
 | 8. Circular Economy, Inclusive and Sustainable Development | Complete — lecture note ([[ln8-circular-economy-inclusive-sustainable-development]]) + all 8 readings deep-ingested (L87, L88 limited by paywall — abstract only) |
 | 9. AI, Digitalization, Economic Growth and Development | Complete — lecture note ([[ln9-ai-digitalization-economic-development-growth]]) + all 6 readings deep-ingested |
-| 10. Impacts of Trade War on Vietnamese Economy | Complete — lecture note ([[ln10-impacts-trade-war-vietnamese-economy]]) + all 7 readings deep-ingested (⚠️ L104: the original slide pasted the wrong content — the wiki page is based on the actual PDF) |
+| 10. Impacts of Trade War on Vietnamese Economy | Complete — lecture note ([[ln10-impacts-trade-war-vietnamese-economy]]) + all 7 readings deep-ingested (✅ L104: the original slide had pasted the wrong content — the professor fixed it in the 9/8/2026 revision, matching the wiki page which was already based on the actual PDF) |

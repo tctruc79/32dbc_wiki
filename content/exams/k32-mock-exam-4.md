@@ -3,7 +3,7 @@ type: exam
 title: "K32 Mock Exam — Set 4 (LN9 & LN10)"
 tags: [exam, mock-exam, k32, artificial-intelligence, digitalization, trade-war, tariff-evasion, trade-diversion]
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-11
 status: complete
 also_covers: []
 ---
@@ -33,22 +33,14 @@ also: [[k32-mock-exam-1]] (Set 1, LN1–LN2) · [[k32-mock-exam-2]] (Set 2, LN3�
 [[k32-mock-exam-3]] (Set 3, LN6–LN8) · [[k32-mock-exam-5]] (Set 5, aligned with the real K31
 shortlist) · [[exam-prep]] (consolidated exam review).</span>
 
-## 0. Luật thi & cơ cấu điểm (mô phỏng theo K31) - <span class="en">Exam Rules & Grading Structure (modeled on K31)</span>
+## 0. Luật thi & cơ cấu điểm - <span class="en">Exam Rules & Grading Structure</span>
 
-Giống hệt [[k32-mock-exam-1]]/[[k32-mock-exam-2]]/[[k32-mock-exam-3]] mục 0 — **Hình thức**:
-Written exam (50 điểm) + Essay (50 điểm) — 50/50, PASS ≥50% mỗi phần theo [[syllabus-2026]] (K31
-áp dụng ngưỡng 55%/27.5 điểm — chưa rõ K32 theo ngưỡng nào, xem [[k31-final-exam]] mục 0).
-**Thời gian**: 120 phút, closed-book, có giám thị. **Cơ cấu câu hỏi**: A. Compulsory — Câu 1, 2
-(mỗi câu 12.5đ, PHẢI làm cả hai). B. Elective — Câu 3–6 (mỗi câu 12.5đ, chọn tối thiểu 2 câu; làm
-nhiều hơn thì chỉ 2 câu điểm cao nhất tính vào tổng). Tổng: 2 compulsory + 2 elective tốt nhất ×
-12.5 = 50 điểm.<br><span class="en">Identical to
-[[k32-mock-exam-1]]/[[k32-mock-exam-2]]/[[k32-mock-exam-3]] section 0 — **Format**: Written exam
-(50 points) + Essay (50 points) — 50/50, PASS ≥50% per part per [[syllabus-2026]] (K31 applied a
-55%/27.5-point threshold — unclear which threshold K32 follows, see [[k31-final-exam]] section
-0). **Duration**: 120 minutes, closed-book, invigilated. **Question structure**: A. Compulsory —
-Questions 1, 2 (12.5 points each, BOTH required). B. Elective — Questions 3–6 (12.5 points each,
-choose at least 2; if more are answered, only the top 2 scores count). Total: 2 compulsory + 2
-best elective × 12.5 = 50 points.</span>
+⚠️ Xem [[k32-mock-exam-1]] mục 0 (cập nhật 2026-08-11) — cấu trúc câu hỏi K32 thật đã đổi (2 bắt
+buộc + tự chọn trả lời 4 câu, xem [[ln0-course-intro]]), khác cấu trúc K31 "tối thiểu 2/4" mà set
+này vẫn tạm dùng do chỉ có đúng 4 câu elective.<br><span class="en">⚠️ See [[k32-mock-exam-1]]
+section 0 (updated 2026-08-11) — K32's real question structure has changed (2 compulsory +
+elective answer-4, see [[ln0-course-intro]]), different from the K31 "minimum 2/4" structure this
+set still uses for now since it has exactly 4 elective questions.</span>
 
 ## 1. Đề bài - <span class="en">Questions</span>
 
@@ -149,13 +141,15 @@ already seen in L61 (negative TC/TFP despite rising inputs) — see
 Xem đầy đủ: [[l104-sheng-2025-chinese-exporters-trade-diversion]].<br><span class="en">See in
 full: [[l104-sheng-2025-chinese-exporters-trade-diversion]].</span>
 
-⚠️ **Lưu ý nguồn**: slide gốc của giáo sư cho paper này bị dán nhầm nội dung của một bài khác
-(biến đổi khí hậu/green innovation, không liên quan) — đáp án dưới đây dựa hoàn toàn vào PDF gốc
-của Sheng, Song & Zheng (2025), đã đối chiếu khớp tiêu đề/tác giả/tạp chí, xem chi tiết ở trang
-source.<br><span class="en">⚠️ **Source note**: the professor's original slide for this paper has
-mispasted content from an unrelated paper (climate change/green innovation) — the answer below is
-based entirely on the actual PDF by Sheng, Song & Zheng (2025), verified to match the
-title/authors/journal exactly; see the source page for detail.</span>
+✅ **Lưu ý nguồn**: slide gốc 6/8/2026 của giáo sư cho paper này từng bị dán nhầm nội dung của một
+bài khác (biến đổi khí hậu/green innovation, không liên quan) — giáo sư đã sửa đúng trong bản
+cập nhật 9/8/2026. Đáp án dưới đây dựa hoàn toàn vào PDF gốc của Sheng, Song & Zheng (2025), đã
+đối chiếu khớp tiêu đề/tác giả/tạp chí, xem chi tiết ở trang source.<br><span class="en">✅
+**Source note**: the professor's original 6/8/2026 slide for this paper had mispasted content
+from an unrelated paper (climate change/green innovation) — the professor corrected it in the
+8/9/2026 update. The answer below is based entirely on the actual PDF by Sheng, Song & Zheng
+(2025), verified to match the title/authors/journal exactly; see the source page for
+detail.</span>
 
 **Dữ liệu & phương pháp**: dữ liệu xuất khẩu vi mô cấp doanh nghiệp-sản phẩm-điểm đến của Trung
 Quốc, mô hình cấu trúc bậc thang chất lượng (structural quality-ladder gravity model) ước lượng

@@ -3,7 +3,7 @@ type: lecture
 title: "LN5 — Entrepreneurship and Economic Development (Lecture 5)"
 tags: [entrepreneurship, institutions, governance, women-entrepreneurship, vietnam, fintech, green-startups]
 created: 2026-07-29
-updated: 2026-08-01
+updated: 2026-08-13
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN5 Entrepreneurship and economic development/LN5 Entrepreneurship and economic development.pdf"
 also_covers:
@@ -215,4 +215,6 @@ the whole lecture:</span>
 ## Liên kết
 
 - [[overview]] · [[ln0-course-intro]] · [[almas-heshmati]]
+- Bản dịch đầy đủ từng slide: [[ln5-slides]]<br><span class="en">Full slide-by-slide
+  translation: [[ln5-slides]]</span>
 - Concepts: [[entrepreneurship-and-development]], [[institutions]]

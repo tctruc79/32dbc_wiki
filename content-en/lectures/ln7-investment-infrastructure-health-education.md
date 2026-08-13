@@ -3,7 +3,7 @@ type: lecture
 title: "LN7 — Investment in Development Infrastructure, Health and Education (Lecture 7)"
 tags: [infrastructure, education, health, human-capital, public-investment, china, vietnam, kyrgyzstan]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-13
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN7 Investment in development infrastructure health and education/LN7 Investment in development infrastructure health and education.pdf"
 also_covers:
@@ -190,5 +190,6 @@ mindmap
 
 - [[overview]] · [[ln0-course-intro]] · [[almas-heshmati]] (author of
   [[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]])
+- Full slide-by-slide translation: [[ln7-slides]]
 - Concepts: [[infrastructure-investment-and-growth]], [[human-capital-returns-to-education]],
   [[health-and-growth]], [[public-investment-allocation-efficiency]]

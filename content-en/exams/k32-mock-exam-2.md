@@ -3,7 +3,7 @@ type: exam
 title: "K32 Mock Exam — Set 2 (LN3, LN4 & LN5)"
 tags: [exam, mock-exam, k32, banking-crisis, land-institutions, climate-vulnerability, entrepreneurship, microfinance]
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-08-11
 status: complete
 also_covers: []
 ---
@@ -22,10 +22,12 @@ See also: [[k32-mock-exam-1]] (Set 1, LN1–LN2) · [[k32-mock-exam-3]] (Set 3, 
 [[k32-mock-exam-4]] (Set 4, LN9–LN10) · [[k32-mock-exam-5]] (Set 5, aligned with the real K31
 shortlist) · [[exam-prep]] (master exam-prep synthesis).
 
-## 0. Exam rules & grading (mirroring K31)
+## 0. Exam Rules & Grading Structure
 
-Identical to [[k32-mock-exam-1]] section 0 — 120 minutes, closed-book, 2 compulsory (Q1–2) +
-choose a minimum of 2 of 4 elective (Q3–6), 12.5 points each, 50 points total.
+⚠️ See [[k32-mock-exam-1]] section 0 (updated 2026-08-11) — K32's real question
+structure has changed (2 compulsory + elective answer-4, see [[ln0-course-intro]]), different
+from the K31 "minimum 2/4" structure this set still uses for now since it has exactly 4 elective
+questions.
 
 ## 1. Questions
 

@@ -3,7 +3,7 @@ type: synthesis
 title: "Final Exam Prep — Master Synthesis (LN1–LN10)"
 tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis, agriculture, climate-vulnerability, entrepreneurship, total-factor-productivity, human-capital, circular-economy, poverty, infrastructure, health, artificial-intelligence, digitalization, trade-war]
 created: 2026-07-24
-updated: 2026-08-07
+updated: 2026-08-11
 status: complete
 ---
 
@@ -1509,7 +1509,10 @@ diversion (L104) and tariff-driven relocation to Vietnam (L106/L107) (3.30)**
   exam), following the exact format/rules of [[k31-final-exam]] but using 30/62 of K32's already
   deep-ingested papers, spanning all 12 thematic clusters. Since discovering
   [[k31-shortlist-2025]] (K31's REAL shortlist document), Set 5 was chosen DIRECTLY from
-  shortlist evidence rather than cluster-reasoning inference as in Sets 1-4. Use these to
+  shortlist evidence rather than cluster-reasoning inference as in Sets 1-4 — ⚠️ now outdated in
+  content priority: the professor confirmed on 2026-08-11 he will NOT repeat the K31 shortlist, so
+  Set 5's 6 papers have been excluded from the new Top 20 in [[shortlist-prediction]] (see
+  [[k32-mock-exam-5]] — skill-practice value only now). Use these to
   practice the question format and to practice writing answers within the real exam's
   constraints. Will be extended with more sets/questions as new readings are deep-ingested (see
   CLAUDE.md).
