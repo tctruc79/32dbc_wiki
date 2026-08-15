@@ -3,7 +3,7 @@ type: synthesis
 title: "Dự đoán Shortlist 20 bài thi cuối kỳ K32"
 tags: [exam-prep, shortlist-prediction, k32, k31-final-exam, k31-shortlist-2025]
 created: 2026-08-04
-updated: 2026-08-11
+updated: 2026-08-15
 status: complete
 ---
 
@@ -134,6 +134,55 @@ formula):</span>
    seeming plausible) get downweighted** — e.g. L22 (Mauro, a classic but skipped), L53 (Naudé,
    skipped since the professor favored 2 VN papers), L83 (Kirchherr, skipped) — see section
    3.</span>
+
+## 1c. Bằng chứng bổ sung từ đề thi K30 (2026-08-15): reading list ổn định hơn tiền đề "sẽ không lặp lại" gợi ý - <span class="en">Additional Evidence From the K30 Exam (2026-08-15): the Reading List Is More Stable Than the "Won't Repeat" Premise Suggests</span>
+
+Phát hiện [[k30-final-exam]] (đề thi thật của một khóa còn TRƯỚC cả K31) bổ sung góc nhìn quan
+trọng mà toàn bộ phương pháp mục 1b chưa tính đến: 6 paper được hỏi ở đề K30 là L24, L85, L31,
+L42, L52, L64 — đối chiếu với [[k31-shortlist-2025]] (20 bài Main Reading thật GS gửi K31), **5/6
+bài này (trừ L85) vẫn còn trong shortlist K31 một năm+ sau đó**, và riêng **3/6 (L31, L42, L64)
+còn được hỏi lại NGUYÊN VĂN** làm câu hỏi thi thật K31 (K30·Q3=K31·Q4, K30·Q4=K31·Q1,
+K30·Q6=K31·Q2).<br><span class="en">The discovery of [[k30-final-exam]] (the real exam of a
+cohort even earlier than K31) adds an important angle the entire method in section 1b had not
+accounted for: the 6 papers asked in the K30 exam are L24, L85, L31, L42, L52, L64 — cross-checked
+against [[k31-shortlist-2025]] (the real 20-paper Main Reading list sent to K31), **5/6 of these
+(all but L85) were still on the K31 shortlist a year+ later**, and 3/6 of those (L31, L42, L64)
+were even **asked again VERBATIM** as real K31 exam questions
+(K30·Q3=K31·Q4, K30·Q4=K31·Q1, K30·Q6=K31·Q2).</span>
+
+**Điều này có ý nghĩa gì cho phương pháp mục 1b–2**: tiền đề cốt lõi của phương pháp hiện tại (loại
+bỏ HOÀN TOÀN 20 bài K31 khỏi ứng viên K32, dựa trên lời GS "sẽ không lặp lại đúng 20 bài đó") vẫn
+ĐÚNG về mặt logic (GS chưa từng nói ông không lặp lại paper cụ thể — chỉ nói không lặp lại NGUYÊN
+BỘ 20 bài). Nhưng bằng chứng K30→K31 cho thấy tỷ lệ "sống sót" của paper qua các khóa CAO hơn
+nhiều so với giả định ngầm của phương pháp loại trừ (vốn coi 20 bài K31 là "đã dùng hết, xác suất
+chọn lại gần 0" — mục 1, dòng cuối). Nếu pattern K30→K31 (5/6 sống sót, 3/6 hỏi lại nguyên văn)
+lặp lại cho K31→K32, thì MỘT SỐ trong 20 bài K31 (đặc biệt các bài "trụ cột" như L31, L42, L64 —
+đã được hỏi ở CẢ HAI khóa liên tiếp) vẫn có xác suất khác 0 xuất hiện lại ở K32, cao hơn mức "gần
+0" hiện đang giả định.<br><span class="en">**What this means for the section 1b–2 method**: the
+current method's core premise (FULLY excluding the 20 K31 papers from the K32 candidate pool,
+based on the professor's statement he "won't repeat the exact same 20") remains LOGICALLY correct
+(he never said he won't repeat a specific paper — only that he won't repeat the ENTIRE 20-paper
+set). But the K30→K31 evidence shows the paper "survival rate" across cohorts is much HIGHER than
+the exclusion method's implicit assumption (which treats the 20 K31 papers as "already used, near-
+zero probability of being picked again" — section 1, last line). If the K30→K31 pattern (5/6
+survive, 3/6 re-asked verbatim) repeats for K31→K32, then SOME of the 20 K31 papers (especially
+"trunk" papers like L31, L42, L64 — asked in BOTH consecutive cohorts) still carry a non-zero
+probability of reappearing at K32, higher than the "near zero" currently assumed.</span>
+
+**Quyết định giữ nguyên phương pháp mục 2 (KHÔNG đảo ngược loại trừ)**: dù có bằng chứng này, mục 2
+vẫn giữ nguyên loại 20 bài K31 khỏi Top 20 mới — vì (a) mẫu vẫn quá nhỏ (1 cặp khóa K30→K31, không
+đủ để khẳng định pattern lặp lại cho K31→K32); (b) GS đã xác nhận TƯỜNG MINH trong lớp năm nay sẽ
+không lặp lại K31 — dù chỉ là lời nói, đây vẫn là tín hiệu TRỰC TIẾP hơn 1 pattern suy luận từ 1
+cặp khóa cũ. Tuy nhiên, nếu phải ôn tủ hẹp, **L31/L42/L64 xứng đáng được ôn kỹ dù đã bị loại khỏi
+Top 20** — rủi ro chúng tái xuất hiện KHÔNG bằng 0 như giả định.<br><span class="en">**Decision:
+keep the section-2 method unchanged (do NOT reverse the exclusion)**: despite this evidence,
+section 2 still excludes the 20 K31 papers from the new Top 20 — because (a) the sample is still
+too small (1 cohort-pair, K30→K31, not enough to confirm the pattern repeats for K31→K32); (b) the
+professor explicitly confirmed in class this year that he won't repeat K31 — while only a verbal
+statement, it is still a more DIRECT signal than a pattern inferred from a single old cohort pair.
+That said, if forced to narrow-focus review, **L31/L42/L64 still deserve careful review despite
+being excluded from the Top 20** — the risk of their reappearance is NOT zero as currently
+assumed.</span>
 
 ## 2. Dự đoán Top 20 mới (loại 20 bài K31, suy luận từ 42 bài còn lại) - <span class="en">New Top-20 Prediction (Excluding the 20 K31 Papers, Inferred From the Remaining 42)</span>
 
@@ -284,6 +333,17 @@ section 2 is PURE inference from the remaining 42 candidates, with no lecture un
   MUST be cross-checked the moment the real K32 shortlist is announced on 30/8** — the need for
   this cross-check is HIGHER than for the previous version, since that version had at least 6/20
   near-certain papers, while this one has none.</span>
+- **Rủi ro mới phát hiện 2026-08-15 (xem mục 1c)**: [[k30-final-exam]] cho thấy 5/6 paper của một
+  khóa CÒN CŨ HƠN K31 vẫn sống sót sang shortlist K31 một năm+ sau, 3/6 còn được hỏi lại nguyên
+  văn — nghĩa là xác suất "bài trụ cột" K31 (đặc biệt L31/L42/L64) tái xuất hiện ở K32 CAO HƠN mức
+  gần-0 mà phương pháp loại trừ mục 1b/2 giả định, dù trang vẫn giữ nguyên quyết định loại trừ (lý
+  do: mẫu 1 cặp khóa còn quá nhỏ, và lời GS "sẽ không lặp lại" là tín hiệu trực tiếp hơn).<br><span
+  class="en">**Newly discovered risk, 2026-08-15 (see section 1c)**: [[k30-final-exam]] shows 5/6
+  papers from a cohort even OLDER than K31 survived onto the K31 shortlist a year+ later, with 3/6
+  re-asked verbatim — meaning the probability of K31 "trunk" papers (especially L31/L42/L64)
+  reappearing at K32 is HIGHER than the near-zero assumed by the section 1b/2 exclusion method,
+  even though this page still keeps that exclusion decision (reason: the 1-cohort-pair sample is
+  still too small, and the professor's "won't repeat" statement is a more direct signal).</span>
 
 ## Liên kết - <span class="en">Links</span>
 
@@ -299,6 +359,10 @@ section 2 is PURE inference from the remaining 42 candidates, with no lecture un
   specific paper codes can no longer be used directly for section 2.</span>
 - [[k31-final-exam]] — đề thi thật K31, xác nhận chéo 6/6 câu.<br><span class="en">
   [[k31-final-exam]] — K31's real exam, cross-confirming all 6/6 questions.</span>
+- [[k30-final-exam]] — đề thi thật của khóa còn trước cả K31 — nguồn bằng chứng cho mục 1c (5/6
+  bài sống sót sang shortlist K31, 3/6 hỏi lại nguyên văn).<br><span class="en">
+  [[k30-final-exam]] — the real exam of a cohort even earlier than K31 — the evidence source for
+  section 1c (5/6 papers survived onto the K31 shortlist, 3/6 re-asked verbatim).</span>
 - [[exam-prep]] — bảng tra cứu 62 paper + 12 cụm chủ đề.<br><span class="en">[[exam-prep]] —
   the 62-paper lookup table + 12 thematic clusters.</span>
 - [[k32-mock-exam-1]] · [[k32-mock-exam-2]] · [[k32-mock-exam-3]] · [[k32-mock-exam-4]] ·
