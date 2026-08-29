@@ -1,13 +1,24 @@
 ---
 type: synthesis
 title: "Mindmap toàn bộ Required Readings — LN1–LN10"
-tags: [mindmap, overview, convergence, institutions, deep-roots, banking-crisis, agriculture, entrepreneurship, technology, human-capital, circular-economy, artificial-intelligence, digitalization, trade-war]
+tags: [mindmap, overview, convergence, institutions, deep-roots, banking-crisis, agriculture, entrepreneurship, technology, human-capital, circular-economy, artificial-intelligence, digitalization, trade-war, k32-shortlist]
 created: 2026-07-24
-updated: 2026-08-07
+updated: 2026-08-28
 status: complete
 ---
 
 # Mindmap toàn bộ Required Readings — LN1–LN10
+
+> ⭐ **20 bài có dấu ⭐ = shortlist CHÍNH THỨC K32** (GS Heshmati chốt 2026-08-28, thi 06/9):
+> `L14 L15 · L25 L26 · L32 L34 · L45 L46 · L52 L55 · L61 L64 · L71 L73 · L85 L86 · L93 L95
+> · L104 L107`. Toàn bộ cấu trúc 12 cụm bên dưới GIỮ NGUYÊN — các bài không có ⭐ vẫn là bối
+> cảnh cần thiết để trả lời câu so sánh, nhưng sẽ không bị hỏi trực tiếp. Chi tiết:
+> [[k32-shortlist-2026]].<br><span class="en">⭐ **The 20 papers marked ⭐ are the OFFICIAL K32
+> shortlist** (fixed by Prof. Heshmati on 2026-08-28, exam 06/9): `L14 L15 · L25 L26 · L32 L34
+> · L45 L46 · L52 L55 · L61 L64 · L71 L73 · L85 L86 · L93 L95 · L104 L107`. The full 12-cluster
+> structure below is UNCHANGED — papers without ⭐ remain necessary context for answering
+> comparison questions, but will not be asked directly. Details: [[k32-shortlist-2026]].</span>
+
 
 Tổng hợp từ [[ln1-economic-development]], [[ln2-governance-institutions-policy-making]],
 [[ln3-financial-crisis-and-pandemics]], [[ln4-agriculture-climate-change-natural-disasters]],
@@ -56,22 +67,22 @@ mindmap
       ("L13 Spolaore &amp; Wacziarg 2013<br/>Geography 44% + ancestry → persistence")
     ("B. Convergence &amp;<br/>Growth Trajectories")
       ("L11 Patel et al. 2021<br/>Unconditional convergence, middle-income trap bị phản bác")
-      ("L14 Sasges &amp; Takahashi 2025<br/>VN 3 chính sách, breakpoint 1997")
-      ("L15 Yin, Bai &amp; Sun 2025<br/>China: high-speed → high-quality development")
+      ("⭐ L14 Sasges &amp; Takahashi 2025<br/>VN 3 chính sách, breakpoint 1997")
+      ("⭐ L15 Yin, Bai &amp; Sun 2025<br/>China: high-speed → high-quality development")
     ("C. Institutions<br/>trunk: Acemoglu 2001")
       ("L21 Acemoglu, Johnson &amp; Robinson 2001<br/>Settler mortality IV → institutions hiện tại")
         ("L22 Mauro 1995 — kênh corruption")
         ("L23 Besley &amp; Ghatak 2010 — kênh property rights")
         ("L24 Alesina &amp; Giuliano 2015 — kênh culture ↔ institutions")
-        ("L26 Huynh &amp; Tran 2025 — áp dụng: FDI ↓ informal economy VN qua governance")
+        ("⭐ L26 Huynh &amp; Tran 2025 — áp dụng: FDI ↓ informal economy VN qua governance")
     ("D. Policy Critique &amp;<br/>Applied Governance Gaps")
       ("L12 Nunn 2019<br/>Aid/RCT phê phán, chính sách phương Tây gây hại (case cá tra VN)")
-      ("L25 Bizikova et al. 2025<br/>WEF nexus: chỉ 17.5% bàn governance/policy")
+      ("⭐ L25 Bizikova et al. 2025<br/>WEF nexus: chỉ 17.5% bàn governance/policy")
     ("E. Banking Crisis &amp;<br/>Financial Signals")
       ("L31 Baron, Verner &amp; Xiong 2021<br/>Bank equity crash ≥30% → suy thoái, panic là hệ quả")
-        ("L32 Jiang, Levine &amp; Lin 2019 — kênh liquidity creation")
+        ("⭐ L32 Jiang, Levine &amp; Lin 2019 — kênh liquidity creation")
         ("L33 Lastunen &amp; Richiardi 2023 — áp dụng: nowcast COVID-19 VN")
-        ("L34 Cai &amp; Le 2023 — tài nguyên/tài chính/CSR, green growth VN")
+        ("⭐ L34 Cai &amp; Le 2023 — tài nguyên/tài chính/CSR, green growth VN")
         ("L35 Kakhkharov &amp; Yarashov 2025 — review geopolitics/ngân hàng")
         ("L36 Minford 2025 — bài học chính sách tiền tệ")
     ("F. Agriculture, Land Institutions<br/>&amp; Climate Vulnerability")
@@ -79,53 +90,53 @@ mindmap
         ("L42 Do, Nguyen &amp; Grote 2023 — kênh land fragmentation/consolidation")
       ("L43 Le 2020<br/>Floods, outcome-based (thu nhập/chi tiêu/SWB), MODIS satellite")
       ("L44 Vo &amp; Tran 2022<br/>LVI/LVI-IPCC liên vùng VN — Bắc/DH Nam Trung Bộ dễ tổn thương nhất")
-        ("L45 Tran et al. 2022 — cùng LVI + beta regression, driver cấp hộ Nghệ An")
-      ("L46 Hastuti et al. 2025<br/>Indonesia — climate → labor mobility (exit), duy nhất ngoài VN")
+        ("⭐ L45 Tran et al. 2022 — cùng LVI + beta regression, driver cấp hộ Nghệ An")
+      ("⭐ L46 Hastuti et al. 2025<br/>Indonesia — climate → labor mobility (exit), duy nhất ngoài VN")
     ("G. Entrepreneurship<br/>trunk: Naudé 2010")
       ("L53 Naudé 2010<br/>'Black box' institutions + entrepreneurship = binding constraint")
         ("L51 Nguyen 2023 — kênh vi mô: EO↔performance women-owned SME VN")
-        ("L52 Huis et al. 2019 — kênh RCT: empowerment qua microfinance VN")
+        ("⭐ L52 Huis et al. 2019 — kênh RCT: empowerment qua microfinance VN")
         ("L54 Méndez-Picazo et al. 2012 — kênh vĩ mô: governance→entrepreneurship→growth")
-        ("L55 Stein et al. 2026 — kênh mở 'black box': institutional entrepreneurs FinTech Đan Mạch")
+        ("⭐ L55 Stein et al. 2026 — kênh mở 'black box': institutional entrepreneurs FinTech Đan Mạch")
         ("L56 Sharma &amp; Subba 2025 — kênh sustainability: green startups")
     ("H. Technology, Productivity<br/>&amp; VN Poverty Measurement")
-      ("L61 Heshmati &amp; Rashidghalam 2020<br/>TFP 190 nước — TC/TFP growth ÂM ở mọi nhóm thu nhập")
+      ("⭐ L61 Heshmati &amp; Rashidghalam 2020<br/>TFP 190 nước — TC/TFP growth ÂM ở mọi nhóm thu nhập")
         ("L62 Lööf &amp; Heshmati 2006 — kênh firm-level: innovation-performance Thụy Điển, CDM model")
       ("L63 Tran, Alkire &amp; Klasen 2015<br/>Monetary vs Multidimensional poverty VN, overlap &lt;50%")
-      ("L64 Nguyen &amp; Pham 2018<br/>Growth-inequality-poverty VN, pro-poor index 0.90→1.80")
+      ("⭐ L64 Nguyen &amp; Pham 2018<br/>Growth-inequality-poverty VN, pro-poor index 0.90→1.80")
       ("L65 Nguyen et al. 2019<br/>Energy transition VN — energy-cost poverty TĂNG dù electricity poverty giảm")
     ("I. Human Capital, Infrastructure<br/>&amp; Public Investment")
-      ("L71 Heshmati &amp; Rashidghalam 2020<br/>Hạ tầng đô thị TQ — PCA panel N=310, 8/15 thành phần dương")
+      ("⭐ L71 Heshmati &amp; Rashidghalam 2020<br/>Hạ tầng đô thị TQ — PCA panel N=310, 8/15 thành phần dương")
         ("L72 Kadyraliev et al. 2022 — kênh giao thông/ODA Kyrgyzstan, n=7 lỏng lẻo")
-      ("L73 McGuinness et al. 2021<br/>Returns to education VN — premium ĐH đảo chiều 2010-2012")
+      ("⭐ L73 McGuinness et al. 2021<br/>Returns to education VN — premium ĐH đảo chiều 2010-2012")
       ("L74 Dao &amp; Trinh 2020<br/>Education-growth VN — chỉ tiểu/trung học có ý nghĩa, đảo ngược Hua 2005 TQ")
       ("L75 Hanushek 2016<br/>Knowledge capital giải thích 73% growth; school attainment mất ý nghĩa")
       ("L76 Bloom, Kuhn &amp; Prettner 2018<br/>Health-growth review, Preston curve, AJ 2007 tranh cãi")
       ("L77 Drama et al. 2025<br/>Hiệu quả đầu tư công — y tế/giáo dục &gt; hạ tầng; corruption control mạnh nhất")
     ("J. Circular Economy")
       ("L81 Su, Heshmati, Geng &amp; Yu 2013<br/>CE Trung Quốc — case Đại Liên, quản trị top-down 2 cơ quan")
-        ("L86 Heshmati &amp; Rashidghalam 2021 — case Thụy Điển, PCA 273 đô thị, quản trị phân quyền/giá cả")
+        ("⭐ L86 Heshmati &amp; Rashidghalam 2021 — case Thụy Điển, PCA 273 đô thị, quản trị phân quyền/giá cả")
       ("L82 Heshmati 2017 — review CE toàn cầu + entrepreneurship, 'panacea hypothesis'")
       ("L83 Kirchherr et al. 2018<br/>Rào cản CE EU, large-N — văn hóa đứng đầu, công nghệ đứng CUỐI")
       ("L84 García-Barragán et al. 2019 — định nghĩa toán học Cₜ*=Rₜ*−Lₜ*, thuần lý thuyết")
-      ("L85 Saidani et al. 2019 — taxonomy 10 danh mục cho 55 bộ C-indicators hiện có")
+      ("⭐ L85 Saidani et al. 2019 — taxonomy 10 danh mục cho 55 bộ C-indicators hiện có")
       ("L87 Nademi &amp; Sedaghat Kalmarzi 2025 — CE giảm thất nghiệp châu Âu, panel GMM")
       ("L88 Luengo Vera et al. 2025 — bibliometric innovation-CE-SDG, 1630 bài Scopus")
     ("K. AI &amp; Digitalization")
       ("L91 Pham, Luu, Phong et al. 2020<br/>Hybrid AI+MCDA — flood risk Quảng Nam")
         ("L92 Rakholia et al. 2022 — kênh PM2.5 forecasting TP.HCM, SGD thắng CNN-LSTM")
-      ("L93 Pham, Nong, Simshauser et al. 2024<br/>VN đầu tư AI tụt hậu khu vực, review chính sách")
+      ("⭐ L93 Pham, Nong, Simshauser et al. 2024<br/>VN đầu tư AI tụt hậu khu vực, review chính sách")
         ("L94 Dang, Tran, Dang &amp; Bui 2024 — kinh tế số VN tăng quy mô, lan tỏa không đổi")
-        ("L95 Nguyen Van Tam et al. 2024 — rào cản digitalization xây dựng VN, con người &gt; công nghệ")
+        ("⭐ L95 Nguyen Van Tam et al. 2024 — rào cản digitalization xây dựng VN, con người &gt; công nghệ")
         ("L96 Kuosmanen, Pajarinen &amp; Heshmati 2025 — digital intensity ↔ hiệu suất Phần Lan, digital divide")
     ("L. Trade War &amp; Protectionism")
       ("L101 Robinson &amp; Thierfelder 2024<br/>CGE — thế giới thích ứng qua trade diversion vòng quanh Mỹ")
       ("L102 Alessandria et al. 2025 — bất định chính sách chuyển từ tạm thời sang cơ cấu dài hạn")
       ("L103 Che, Lin &amp; Zhang 2025 — né thuế giải thích 69,70% khoảng vênh thống kê Mỹ-Trung")
-      ("L104 Sheng, Song &amp; Zheng 2025 — Trung Quốc chuyển hướng THEO CHIỀU DỌC (VTD), không theo HTD")
+      ("⭐ L104 Sheng, Song &amp; Zheng 2025 — Trung Quốc chuyển hướng THEO CHIỀU DỌC (VTD), không theo HTD")
       ("L105 Almazán-Gómez et al. 2025 — tác động cấp vùng NUTS-2 EU, mọi vùng đều chịu ảnh hưởng")
       ("L106 Dang, Yawei &amp; Abdullah 2024<br/>DiD — xuất khẩu VN sang Mỹ +14%, hàng trung gian")
-      ("L107 Toai 2025 — VN hưởng lợi trade diversion nhưng phụ thuộc sâu đầu vào TQ")
+      ("⭐ L107 Toai 2025 — VN hưởng lợi trade diversion nhưng phụ thuộc sâu đầu vào TQ")
 ```
 
 ## Giải thích 12 cụm - <span class="en">Explanation of the 12 Clusters</span>

@@ -4,12 +4,17 @@ type: overview
 title: "Course Overview — Development Issues and Business Cycle (Class 32, 2026)"
 tags: [course-map, syllabus]
 created: 2026-07-20
-updated: 2026-08-13
+updated: 2026-08-28
 status: complete
 
 ---
 
 # Course Overview — Development Issues and Business Cycle
+> ⭐ **The official K32 shortlist is out (28/8/2026)** — the scope of the 06/9 written exam
+> is fixed at **20 papers**: `L14 L15 · L25 L26 · L32 L34 · L45 L46 · L52 L55 · L61 L64 · L71
+> L73 · L85 L86 · L93 L95 · L104 L107`. Full page: [[k32-shortlist-2026]]. The
+> [[shortlist-prediction]] page is now closed (8/20 correct including the runner-up column).
+
 
 The course map. Sources: [[syllabus-2026]], [[essays-instructions]].
 
@@ -28,7 +33,7 @@ The course map. Sources: [[syllabus-2026]], [[essays-instructions]].
 |---|---|
 | Essay title + abstract submission | 28/6 |
 | Teaching period (10 sessions, 18:00–20:30, H104 — detailed schedule: [[ln0-course-intro]]) | 22/7 – 12/8 |
-| Shortlist of 20 readings for the written exam | **30/8** (updated in class — original syllabus said 23/8) |
+| Shortlist of 20 readings for the written exam | ✅ **28/8** — RECEIVED, see [[k32-shortlist-2026]] (earlier than the 30/8 date announced in class) |
 | Written exam | ✅ **06/9** — confirmed (resolves the earlier syllabus 30/8 vs LN0 06/9 conflict), see [[ln0-course-intro]] |
 | Final essay submission | 13/9 |
 | Grades released | 20/9 |

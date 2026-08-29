@@ -1,9 +1,9 @@
 ---
 type: exam
 title: "K31 Final Written Exam — Development Issues and Business Cycle"
-tags: [exam, past-exam, k31, land-consolidation, poverty-inequality, construction-digitalization, banking-crisis, trade-policy, urban-infrastructure]
+tags: [exam, past-exam, k31, land-consolidation, poverty-inequality, construction-digitalization, banking-crisis, trade-policy, urban-infrastructure, k32-shortlist]
 created: 2026-07-28
-updated: 2026-08-08
+updated: 2026-08-28
 status: complete
 source_file: "raw/4. PAST EXAMS/K31 final written exam/k31-exam-page1-questions.jpeg"
 also_covers:
@@ -11,6 +11,11 @@ also_covers:
 ---
 
 # K31 Final Written Exam — Development Issues and Business Cycle
+> ⭐ **Cross-check against the official K32 shortlist (2026-08-28)**: 3/6 of this exam's papers
+> remain among K32's 20 — L64 (K31·Q2), L95 (K31·Q3), L71 (K31·Q6); L42 (Q1), L31 (Q4) and L101
+> (Q5) were dropped. Questions Q2/Q3/Q6 are therefore the real-exam samples CLOSEST to what may
+> appear on 06/9. See [[k32-shortlist-2026]].
+
 
 The final written exam of **cohort K31** (a previous cohort of the same course, **Development
 Issues and Business Cycle**, Prof. Almas Heshmati) — photographed in class by the wiki's curator

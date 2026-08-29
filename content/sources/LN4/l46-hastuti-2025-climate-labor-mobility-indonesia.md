@@ -1,14 +1,17 @@
 ---
 type: source
 title: "L46 — Hastuti et al. (2025) — Climate Change and Labor Mobility: Agricultural Households in Indonesia"
-tags: [labor-mobility, climate-change, indonesia, instrumental-variable, mediation-analysis, structural-transformation]
+tags: [labor-mobility, climate-change, indonesia, instrumental-variable, mediation-analysis, structural-transformation, k32-shortlist]
 created: 2026-07-29
-updated: 2026-08-04
+updated: 2026-08-28
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN4 Agriculture climate changes and natural disasters/L46 WDP-2025 Hastuti et al Climate change and labor mobility.pdf"
 ---
 
 # L46 — Hastuti, Dartanto, Halimatussadiah & Rifin (2025), World Development Perspectives 40: 100750
+
+> ⭐ **NẰM TRONG SHORTLIST CHÍNH THỨC K32** — bài này là 1 trong 20 bài GS Heshmati chốt ngày 28/8/2026 làm phạm vi ra đề cho kỳ thi viết 06/9. Bài này **mới so với shortlist K31**. Xem [[k32-shortlist-2026]].<br><span class="en">⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper is **new relative to the K31 shortlist**. See [[k32-shortlist-2026]].</span>
+
 
 **Tác giả**: Hastuti, Teguh Dartanto, Alin Halimatussadiah (Universitas Indonesia), Amzul Rifin
 (Bogor Agricultural University). Keywords: Agricultural Households, Climate Change, Labor

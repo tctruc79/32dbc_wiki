@@ -1,14 +1,17 @@
 ---
 type: source
 title: "L71 — Heshmati & Rashidghalam (2020) — Measurement and Analysis of Urban Infrastructure and Its Effects on Urbanization in China"
-tags: [infrastructure, urbanization, china, principal-component-analysis, panel-data]
+tags: [infrastructure, urbanization, china, principal-component-analysis, panel-data, k32-shortlist]
 created: 2026-08-01
-updated: 2026-08-04
+updated: 2026-08-28
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN7 Investment in development infrastructure health and education/L71 ISENG-2020 Heshmati-Rashidghalam Measurement and analysis of urban infrastructure in China.pdf"
 ---
 
 # L71 — Heshmati, A. & Rashidghalam, M. (2020), Journal of Infrastructure Systems 26(1): 04019030
+
+> ⭐ **NẰM TRONG SHORTLIST CHÍNH THỨC K32** — bài này là 1 trong 20 bài GS Heshmati chốt ngày 28/8/2026 làm phạm vi ra đề cho kỳ thi viết 06/9. Bài này còn **lặp lại từ shortlist K31**, và đã từng được hỏi ở đề thi thật (K31·Q6). Xem [[k32-shortlist-2026]].<br><span class="en">⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper also **repeats from the K31 shortlist**, and has already been asked on a real exam (K31·Q6). See [[k32-shortlist-2026]].</span>
+
 
 **Tác giả**: Almas Heshmati (Dept. of Economics, Sogang University, Seoul — GS phụ trách môn học
 này, xem [[almas-heshmati]]), Masoomeh Rashidghalam (Dept. of Agricultural Economics, University

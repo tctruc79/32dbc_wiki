@@ -1,7 +1,7 @@
 ---
 type: source
 title: "L14 — Sasges & Takahashi (2025) — Assessing the Influence of Three Policies on Vietnam's Economic Development"
-tags: [vietnam, var, policy, electricity, globalization, privatization]
+tags: [vietnam, var, policy, electricity, globalization, privatization, k32-shortlist]
 created: 2026-07-20
 updated: 2026-07-31
 status: complete
@@ -9,6 +9,8 @@ source_file: "raw/3. LECTURE NOTES/LN1 Economic development/L14 IE-2025 Sasges-T
 ---
 
 # L14 — Sasges & Takahashi (2025), International Economics 184: 100632
+> ⭐ ⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper is **new relative to the K31 shortlist**. See [[k32-shortlist-2026]].
+
 
 **Authors**: Gerard Sasges (Dept. of Southeast Asian Studies, National University of
 Singapore), Harutaka Takahashi (Graduate School of Economics, Kobe University; Meiji Gakuin

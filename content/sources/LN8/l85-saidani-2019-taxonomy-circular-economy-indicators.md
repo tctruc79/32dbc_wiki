@@ -1,14 +1,17 @@
 ---
 type: source
 title: "L85 — Saidani, Yannou, Leroy, Cluzel & Kendall (2019) — A Taxonomy of Circular Economy Indicators"
-tags: [circular-economy, indicators, taxonomy, systematic-review, measurement]
+tags: [circular-economy, indicators, taxonomy, systematic-review, measurement, k32-shortlist]
 created: 2026-08-01
-updated: 2026-08-04
+updated: 2026-08-28
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN8 Circular economy inclusive and sustainable development/L85 JCP-2019 Saidani A taxonomy of circular economy indicators.pdf"
 ---
 
 # L85 — Saidani, M., Yannou, B., Leroy, Y., Cluzel, F. & Kendall, A. (2019), Journal of Cleaner Production 207: 542–559
+
+> ⭐ **NẰM TRONG SHORTLIST CHÍNH THỨC K32** — bài này là 1 trong 20 bài GS Heshmati chốt ngày 28/8/2026 làm phạm vi ra đề cho kỳ thi viết 06/9. Bài này **mới so với shortlist K31**, và đã từng được hỏi ở đề thi thật (K30·Q2). Xem [[k32-shortlist-2026]].<br><span class="en">⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper is **new relative to the K31 shortlist**, and has already been asked on a real exam (K30·Q2). See [[k32-shortlist-2026]].</span>
+
 
 **Tác giả**: Michael Saidani (tác giả liên hệ), Bernard Yannou, Yann Leroy, François Cluzel (Laboratoire
 Génie Industriel, CentraleSupélec, Université Paris-Saclay, Pháp), Alissa Kendall (Dept. of Civil

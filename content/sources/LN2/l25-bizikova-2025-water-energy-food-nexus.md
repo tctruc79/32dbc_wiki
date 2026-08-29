@@ -1,14 +1,17 @@
 ---
 type: source
 title: "L25 — Bizikova (2025) — Water-Energy-Food Nexus Research: What Can It Tell Us About Governance and Policy?"
-tags: [governance, systematic-review, wef-nexus, sustainability]
+tags: [governance, systematic-review, wef-nexus, sustainability, k32-shortlist]
 created: 2026-07-23
-updated: 2026-08-04
+updated: 2026-08-28
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN2 Governance institutions and policy making/L25 ESI-2025 Bizikova Water-energy-food nexus research-What can it tell us about governance and policy.pdf"
 ---
 
 # L25 — Bizikova (2025), Environmental and Sustainability Indicators 28: 100970
+
+> ⭐ **NẰM TRONG SHORTLIST CHÍNH THỨC K32** — bài này là 1 trong 20 bài GS Heshmati chốt ngày 28/8/2026 làm phạm vi ra đề cho kỳ thi viết 06/9. Bài này **mới so với shortlist K31**. Xem [[k32-shortlist-2026]].<br><span class="en">⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper is **new relative to the K31 shortlist**. See [[k32-shortlist-2026]].</span>
+
 
 **Tác giả**: Livia Bizikova (International Institute for Sustainable Development, IISD,
 Ottawa, Canada). Nhận 29/4/2025, chấp nhận 8/10/2025, online 10/10/2025. Open access CC BY-NC.

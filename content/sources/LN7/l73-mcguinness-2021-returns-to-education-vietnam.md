@@ -1,14 +1,17 @@
 ---
 type: source
 title: "L73 — McGuinness et al. (2021) — Returns to Education in Vietnam: A Changing Landscape"
-tags: [education, human-capital, returns-to-education, vietnam, mincer-equation, labor-market]
+tags: [education, human-capital, returns-to-education, vietnam, mincer-equation, labor-market, k32-shortlist]
 created: 2026-08-01
-updated: 2026-08-04
+updated: 2026-08-28
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN7 Investment in development infrastructure health and education/L73 WD-2021 McGuinness Returns to education in Vietnam.pdf"
 ---
 
 # L73 — McGuinness, S., Kelly, E., Pham, T.T.P., Ha, T.T.T. & Whelan, A. (2021), World
+
+> ⭐ **NẰM TRONG SHORTLIST CHÍNH THỨC K32** — bài này là 1 trong 20 bài GS Heshmati chốt ngày 28/8/2026 làm phạm vi ra đề cho kỳ thi viết 06/9. Bài này còn **lặp lại từ shortlist K31**. Xem [[k32-shortlist-2026]].<br><span class="en">⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper also **repeats from the K31 shortlist**. See [[k32-shortlist-2026]].</span>
+
 # Development 138: 105205
 
 **Tác giả**: Seamus McGuinness, Elish Kelly, Adele Whelan (Economic and Social Research

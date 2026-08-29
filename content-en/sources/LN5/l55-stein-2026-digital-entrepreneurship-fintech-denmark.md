@@ -1,7 +1,7 @@
 ---
 type: source
 title: "L55 — Stein, Evers & O'Gorman (2026) — Fostering Conditions for Digital Entrepreneurship: The Role of Institutional Entrepreneurs in Driving FinTech Ecosystem Development"
-tags: [institutional-entrepreneurship, digital-entrepreneurship, fintech, institutions, case-study, denmark]
+tags: [institutional-entrepreneurship, digital-entrepreneurship, fintech, institutions, case-study, denmark, k32-shortlist]
 created: 2026-07-29
 updated: 2026-07-31
 status: complete
@@ -9,6 +9,8 @@ source_file: "raw/3. LECTURE NOTES/LN5 Entrepreneurship and economic development
 ---
 
 # L55 — Stein, Evers & O'Gorman (2026), Technovation 150: 103386
+> ⭐ ⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper is **new relative to the K31 shortlist**. See [[k32-shortlist-2026]].
+
 
 **Authors**: Luiza Stein (School of Business, Innovation and Sustainability, Halmstad
 University, Sweden), Natasha Evers (Trinity Business School, Dublin), Colm O'Gorman (DCU

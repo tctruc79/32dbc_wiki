@@ -1,14 +1,17 @@
 ---
 type: source
 title: "L93 — Pham et al. (2024) — Artificial Intelligence (AI) Development in Vietnam's Energy and Economic Systems: A Critical Review"
-tags: [artificial-intelligence, ai-policy, ai-investment, digitalization, energy-systems, southeast-asia, vietnam, critical-review]
+tags: [artificial-intelligence, ai-policy, ai-investment, digitalization, energy-systems, southeast-asia, vietnam, critical-review, k32-shortlist]
 created: 2026-08-07
-updated: 2026-08-07
+updated: 2026-08-28
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN9 AI digitalization economic development and growth/L93 JCP-2024 Pham AI development in Vietnam energy and economic system.pdf"
 ---
 
 # L93 — Pham, H.T., Nong, D., Simshauser, P., Nguyen, G.H. & Duong, K.T. (2024), Journal of Cleaner Production 438: 140692
+
+> ⭐ **NẰM TRONG SHORTLIST CHÍNH THỨC K32** — bài này là 1 trong 20 bài GS Heshmati chốt ngày 28/8/2026 làm phạm vi ra đề cho kỳ thi viết 06/9. Bài này còn **lặp lại từ shortlist K31**. Xem [[k32-shortlist-2026]].<br><span class="en">⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper also **repeats from the K31 shortlist**. See [[k32-shortlist-2026]].</span>
+
 
 **Tác giả**: Hien Thu Pham (Data61, Commonwealth Scientific and Industrial Research Organisation
 — CSIRO, Úc), Duy Nong (Agriculture and Food, CSIRO, Úc; Centre for Applied Energy Economics and

@@ -1,14 +1,17 @@
 ---
 type: source
 title: "L64 — Nguyen & Pham (2018) — Economic Growth, Inequality, and Poverty in Vietnam"
-tags: [economic-growth, inequality, poverty, pro-poor-growth, vietnam, fgt-index, decomposition]
+tags: [economic-growth, inequality, poverty, pro-poor-growth, vietnam, fgt-index, decomposition, k32-shortlist]
 created: 2026-08-01
-updated: 2026-08-04
+updated: 2026-08-28
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN6 Technology growth inequality and poverty/L64 APEL-2018 Nguyen  Economic growth  inequality  and poverty in Vietnam.pdf"
 ---
 
 # L64 — Nguyen, C.V. & Pham, N.M. (2018), Asian-Pacific Economic Literature 32(1): 45–58
+
+> ⭐ **NẰM TRONG SHORTLIST CHÍNH THỨC K32** — bài này là 1 trong 20 bài GS Heshmati chốt ngày 28/8/2026 làm phạm vi ra đề cho kỳ thi viết 06/9. Bài này còn **lặp lại từ shortlist K31**, và đã từng được hỏi ở đề thi thật (K30·Q6 và K31·Q2). Xem [[k32-shortlist-2026]].<br><span class="en">⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper also **repeats from the K31 shortlist**, and has already been asked on a real exam (K30·Q6 and K31·Q2). See [[k32-shortlist-2026]].</span>
+
 
 **Tác giả**: Cuong V. Nguyen (National Economics University và Mekong Development Research
 Institute, Hà Nội), Nguyet M. Pham (Truetech Research, Hà Nội). DOI: 10.1111/apel.12219.<br><span

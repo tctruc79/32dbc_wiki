@@ -1,14 +1,17 @@
 ---
 type: source
 title: "L26 — Huynh & Tran (2025) — FDI, Economic Growth, Governance Quality and the Informal Economy"
-tags: [fdi, governance, informal-economy, vietnam, panel-data, gmm]
+tags: [fdi, governance, informal-economy, vietnam, panel-data, gmm, k32-shortlist]
 created: 2026-07-23
-updated: 2026-08-04
+updated: 2026-08-28
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN2 Governance institutions and policy making/L26 IE-2025 Huynh-Tran FDI economic growth governance quality and the informal economy.pdf"
 ---
 
 # L26 — Huynh, C.M. & Tran, N.H. (2025), International Economics 183: 100619
+
+> ⭐ **NẰM TRONG SHORTLIST CHÍNH THỨC K32** — bài này là 1 trong 20 bài GS Heshmati chốt ngày 28/8/2026 làm phạm vi ra đề cho kỳ thi viết 06/9. Bài này **mới so với shortlist K31**. Xem [[k32-shortlist-2026]].<br><span class="en">⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper is **new relative to the K31 shortlist**. See [[k32-shortlist-2026]].</span>
+
 
 **Tác giả**: Cong Minh Huynh (Becamex Business School, Eastern International University, Bình
 Dương), Nam Hoai Tran (School of Finance, Đại học Kinh tế TP.HCM — UEH). JEL: F21, E26, H11,

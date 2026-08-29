@@ -1,9 +1,9 @@
 ---
 type: exam
 title: "K31 Final Written Exam — Development Issues and Business Cycle"
-tags: [exam, past-exam, k31, land-consolidation, poverty-inequality, construction-digitalization, banking-crisis, trade-policy, urban-infrastructure]
+tags: [exam, past-exam, k31, land-consolidation, poverty-inequality, construction-digitalization, banking-crisis, trade-policy, urban-infrastructure, k32-shortlist]
 created: 2026-07-28
-updated: 2026-08-08
+updated: 2026-08-28
 status: complete
 source_file: "raw/4. PAST EXAMS/K31 final written exam/k31-exam-page1-questions.jpeg"
 also_covers:
@@ -11,6 +11,15 @@ also_covers:
 ---
 
 # K31 Final Written Exam — Development Issues and Business Cycle
+
+> ⭐ **Đối chiếu với shortlist chính thức K32 (2026-08-28)**: 3/6 bài của đề K31 vẫn nằm trong 20
+> bài thi K32 — L64 (K31·Q2), L95 (K31·Q3), L71 (K31·Q6); còn L42 (Q1), L31 (Q4), L101 (Q5) đã bị
+> loại. Ba câu Q2/Q3/Q6 vì thế là mẫu câu hỏi thật SÁT NHẤT với những gì có thể ra ngày 06/9. Xem
+> [[k32-shortlist-2026]].<br><span class="en">⭐ **Cross-check against the official K32 shortlist
+> (2026-08-28)**: 3/6 of this exam's papers remain among K32's 20 — L64 (K31·Q2), L95 (K31·Q3),
+> L71 (K31·Q6); L42 (Q1), L31 (Q4) and L101 (Q5) were dropped. Questions Q2/Q3/Q6 are therefore
+> the real-exam samples CLOSEST to what may appear on 06/9. See [[k32-shortlist-2026]].</span>
+
 
 Đề thi viết cuối kỳ của **lớp K31** (khóa trước, cùng môn **Development Issues and Business
 Cycle**, GS. Almas Heshmati) — người dùng chụp ảnh trong lớp 2026-07-28 làm tài liệu tham khảo

@@ -1,7 +1,7 @@
 ---
 type: source
 title: "L107 — Toai (2025) — Impact of the US-China Trade War on Vietnam's Import and Export"
-tags: [trade-war, protectionism, vietnam, us-china, exports, imports, trade-diversion, global-value-chains, transshipment]
+tags: [trade-war, protectionism, vietnam, us-china, exports, imports, trade-diversion, global-value-chains, transshipment, k32-shortlist]
 created: 2026-08-07
 updated: 2026-08-07
 status: complete
@@ -9,6 +9,8 @@ source_file: "raw/3. LECTURE NOTES/LN10 Impacts of Trade War on Vietnamese Econo
 ---
 
 # L107 — Toai, D.B. (2025), Journal of Information Systems Engineering and Management 10(46s): 907–914
+> ⭐ ⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper also **repeats from the K31 shortlist**. See [[k32-shortlist-2026]].
+
 
 **Authors**: Doan Ba Toai (Faculty of Foreign Languages, Thanh Dong University, Hai Duong, Vietnam). No JEL code is listed in the paper. Received 28 Dec 2024, revised 18 Feb 2025, accepted 26 Feb 2025. Open access under a Creative Commons Attribution license.
 

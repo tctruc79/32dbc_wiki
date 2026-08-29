@@ -1,14 +1,17 @@
 ---
 type: source
 title: "L61 — Heshmati & Rashidghalam (2020) — Estimation of Technical Change and TFP Growth Based on Observable Technology Shifters"
-tags: [total-factor-productivity, technical-change, translog-production-function, panel-data, cross-country]
+tags: [total-factor-productivity, technical-change, translog-production-function, panel-data, cross-country, k32-shortlist]
 created: 2026-08-01
-updated: 2026-08-04
+updated: 2026-08-28
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN6 Technology growth inequality and poverty/L61 JPA-2020 Heshmati-Rashidghalam Estimation of TC and TFP growth based on observable technology shifters.pdf"
 ---
 
 # L61 — Heshmati, A. & Rashidghalam, M. (2020), Journal of Productivity Analysis 53: 21–36
+
+> ⭐ **NẰM TRONG SHORTLIST CHÍNH THỨC K32** — bài này là 1 trong 20 bài GS Heshmati chốt ngày 28/8/2026 làm phạm vi ra đề cho kỳ thi viết 06/9. Bài này còn **lặp lại từ shortlist K31**. Xem [[k32-shortlist-2026]].<br><span class="en">⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper also **repeats from the K31 shortlist**. See [[k32-shortlist-2026]].</span>
+
 
 **Tác giả**: Almas Heshmati (Department of Economics, Sogang University, Seoul; Jönköping
 International Business School, Sweden — GS phụ trách môn này), Masoomeh Rashidghalam

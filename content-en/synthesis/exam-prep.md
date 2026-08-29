@@ -1,13 +1,21 @@
 ---
 type: synthesis
 title: "Final Exam Prep — Master Synthesis (LN1–LN10)"
-tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis, agriculture, climate-vulnerability, entrepreneurship, total-factor-productivity, human-capital, circular-economy, poverty, infrastructure, health, artificial-intelligence, digitalization, trade-war]
+tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis, agriculture, climate-vulnerability, entrepreneurship, total-factor-productivity, human-capital, circular-economy, poverty, infrastructure, health, artificial-intelligence, digitalization, trade-war, k32-shortlist]
 created: 2026-07-24
-updated: 2026-08-11
+updated: 2026-08-28
 status: complete
 ---
 
 # Final Exam Prep — Master Synthesis
+> ⭐ **THE OFFICIAL SHORTLIST IS OUT (2026-08-28) — the exam scope narrows from 62
+> papers to 20.** Prof. Heshmati has sent the document fixing the 20 readings for the **06/9**
+> written exam: `L14 L15 · L25 L26 · L32 L34 · L45 L46 · L52 L55 · L61 L64 · L71 L73 · L85 L86
+> · L93 L95 · L104 L107`. In the quick-lookup table in section 1 below, these 20 are marked
+> **⭐**. Read [[k32-shortlist-2026]] first. The other 42 papers remain on this page because
+> they are the context/counterpoint for the debates section (section 3), but **they will not
+> be asked directly**.
+
 
 The central reference point for exam review, gathering all 62 deep-ingested papers (LN1–LN10)
 into: a quick-lookup table, 12 thematic clusters, **debates/tensions between papers** (the focus
@@ -52,45 +60,45 @@ If time is short: prioritize steps 3 + 4, skip re-reading each paper in detail.
 
 ## 1. Quick-Lookup Table — 62 Papers
 
-| Code | Paper                              | Lecture | Method                                            | Key finding (1 line)                                                        |
+| Code (⭐ = K32 shortlist) | Paper                    | Lecture | Method                                            | Key finding (1 line)                                                        |
 | --- | ---------------------------------- | ------- | ------------------------------------------------- | --------------------------------------------------------------------------- |
 | L11 | Patel, Sandefur & Subramanian 2021 | LN1     | NLS, 3 datasets (Maddison/PWT/WDI)                | Unconditional convergence has returned since ~1995; middle-income trap is refuted |
 | L12 | Nunn 2019                          | LN1     | Policy reflection, no separate empirical model    | Aid + Western policy often harms more than it helps; critiques RCTs         |
 | L13 | Spolaore & Wacziarg 2013           | LN1     | Survey, geography/ancestry regressions            | Fundamental factors (geography, ancestry) explain persistence in development |
-| L14 | Sasges & Takahashi 2025            | LN1     | VAR/IRF, Vietnam 1980–2019                        | Period I 97%/Period II 25-40% of GDPG variance explained by 3 policies; optimal growth theory |
-| L15 | Yin, Bai & Sun 2025                | LN1     | Entropy method, clustering, kernel density        | China: high-speed → high-quality shift, regional polarization               |
+| ⭐ L14 | Sasges & Takahashi 2025            | LN1     | VAR/IRF, Vietnam 1980–2019                        | Period I 97%/Period II 25-40% of GDPG variance explained by 3 policies; optimal growth theory |
+| ⭐ L15 | Yin, Bai & Sun 2025                | LN1     | Entropy method, clustering, kernel density        | China: high-speed → high-quality shift, regional polarization               |
 | L21 | Acemoglu, Johnson & Robinson 2001  | LN2     | 2SLS (settler mortality IV)                       | Institutions are the fundamental cause of income differences                |
 | L22 | Mauro 1995                         | LN2     | OLS + IV (ELF)                                    | Corruption reduces investment & growth                                      |
 | L23 | Besley & Ghatak 2010               | LN2     | Theoretical survey (Handbook chapter)             | Property rights matter but there is no "one size fits all"                  |
 | L24 | Alesina & Giuliano 2015            | LN2     | Theoretical + empirical survey                    | Culture ↔ institutions are bidirectionally causal, neither is superior      |
-| L25 | Bizikova et al. 2025               | LN2     | Systematic review 683→40 papers                   | WEF nexus: only 17.5% of studies address governance/policy                  |
-| L26 | Huynh & Tran 2025                  | LN2     | Panel of 63 VN provinces 2006-2021, System GMM     | FDI reduces the informal economy via growth + governance (PAPI); formal/informal are substitutes |
+| ⭐ L25 | Bizikova et al. 2025               | LN2     | Systematic review 683→40 papers                   | WEF nexus: only 17.5% of studies address governance/policy                  |
+| ⭐ L26 | Huynh & Tran 2025                  | LN2     | Panel of 63 VN provinces 2006-2021, System GMM     | FDI reduces the informal economy via growth + governance (PAPI); formal/informal are substitutes |
 | L31 | Baron, Verner & Xiong 2021         | LN3     | Bank equity data, 46 countries 1870–2016          | Bank equity crash ≥30% predicts a downturn even without panic               |
-| L32 | Jiang, Levine & Lin 2019            | LN3     | Diff-in-diff, US federal deregulation 1984–2006 | Bank competition from deregulation REDUCES liquidity creation               |
+| ⭐ L32 | Jiang, Levine & Lin 2019            | LN3     | Diff-in-diff, US federal deregulation 1984–2006 | Bank competition from deregulation REDUCES liquidity creation               |
 | L33 | Lastunen & Richiardi 2023          | LN3     | Nowcasting using sector financial indices         | Forecasts Vietnam's COVID-19 downturn more accurately than IMF/ADB thanks to financial data |
-| L34 | Cai & Le 2023                      | LN3     | PMG-ARDL, Vietnam 1999–2018                       | Resources/finance/CSR: positive long-run, negative short-run relationship with green growth |
+| ⭐ L34 | Cai & Le 2023                      | LN3     | PMG-ARDL, Vietnam 1999–2018                       | Resources/finance/CSR: positive long-run, negative short-run relationship with green growth |
 | L35 | Kakhkharov & Yarashov 2025         | LN3     | Review (Encyclopedia entry)                       | Emerging-market banks are especially vulnerable to geopolitical fragmentation |
 | L36 | Minford 2025                       | LN3     | Policy essay (Encyclopedia entry)                 | 3 lessons for monetary stability after the crisis/pandemic                  |
 | L41 | Ho 2021, World Development          | LN4     | Panel FE/RE + Oster (2019) bias-adjustment, nighttime-lights proxy | A 1% increase in land-use certificates → +1.7% nighttime light (bivariate), falling to +0.6% (full controls); modest, possibly zero |
 | L42 | Do, Nguyen & Grote 2023, EAP        | LN4     | True RE stochastic frontier + 3SLS/Lewbel (2012) IV + PSM-DD | Farming efficiency → participation in land consolidation (significant), not the reverse; reduces costs, reduces poverty |
 | L43 | Le 2020, EDCC                       | LN4     | Reduced-form (Dell et al. 2014) + MODIS satellite flood data | Floods reduce farm income, raise health spending +48.5%/education spending +42.0%; only remittances are an effective coping mechanism |
 | L44 | Vo & Tran 2022, HERA                | LN4     | LVI + LVI-IPCC, VARHS 2018, 1,852 households across 12 provinces | North Central & South Central Coast most vulnerable (high exposure); Mekong Delta threatened by drought/salinity intrusion |
-| L45 | Tran et al. 2022, EC                | LN4     | Same LVI + correlation matrix + beta regression, Nghe An | 76% of households "slightly vulnerable"; formal credit/irrigation INCREASE vulnerability (counterintuitive) |
-| L46 | Hastuti et al. 2025, WDP            | LN4     | IV (altitude/latitude), IFLS panel Indonesia      | Rainfall CV +1%→mobility +0.47pp, temperature CV +1%→+1.38pp; farm-production-cost channel; the ONLY paper outside Vietnam |
+| ⭐ L45 | Tran et al. 2022, EC                | LN4     | Same LVI + correlation matrix + beta regression, Nghe An | 76% of households "slightly vulnerable"; formal credit/irrigation INCREASE vulnerability (counterintuitive) |
+| ⭐ L46 | Hastuti et al. 2025, WDP            | LN4     | IV (altitude/latitude), IFLS panel Indonesia      | Rainfall CV +1%→mobility +0.47pp, temperature CV +1%→+1.38pp; farm-production-cost channel; the ONLY paper outside Vietnam |
 | L51 | Nguyen 2023, JAFEB                  | LN5     | OLS regression, survey of 258 women-owned SMEs in VN | 4/5 EO dimensions positive; risk-taking NEGATIVE and significant (contrary to standard EO theory), R²=77% |
-| L52 | Huis et al. 2019, World Development | LN5     | RCT, TYM microfinance in northern VN, 4,041 borrowers, ITT+DID | Training raises control beliefs + decision-making power, reduces relational friction — clear only at endline (12 months) |
+| ⭐ L52 | Huis et al. 2019, World Development | LN5     | RCT, TYM microfinance in northern VN, 4,041 borrowers, ITT+DID | Training raises control beliefs + decision-making power, reduces relational friction — clear only at endline (12 months) |
 | L53 | Naudé 2010, SBE                     | LN5     | Programmatic/agenda-setting essay (SBE special-issue introduction) | Entrepreneurship = a potential binding constraint; institutions = a "black box"; the problem is misallocation, not scarcity |
 | L54 | Méndez-Picazo et al. 2012, ERD      | LN5     | Two-equation panel, 11 developed countries 2002–2007 | Governance (Acemoglu 2003 framework) → positive → entrepreneurship → growth; Gini positively linked to entrepreneurship |
-| L55 | Stein et al. 2026, Technovation     | LN5     | Longitudinal qualitative case study, Danish FinTech DEE | Institutional entrepreneurs open Naudé's "black box" through collective effort + neutral leadership |
+| ⭐ L55 | Stein et al. 2026, Technovation     | LN5     | Longitudinal qualitative case study, Danish FinTech DEE | Institutional entrepreneurs open Naudé's "black box" through collective effort + neutral leadership |
 | L56 | Sharma & Subba 2025, IGD            | LN5     | Scoping review of >100 sources, TBL+EMT framework | Green startups: jobs/eco-innovation/circular economy but funding/regulatory barriers; no unified ESG standard |
-| L61 | Heshmati & Rashidghalam 2020, JPA   | LN6     | Translog production function, panel of 190 countries 1996-2013 | TC/TFP growth NEGATIVE across ALL income groups; human capital index elasticity highest (0.234), technology index NEGATIVE (−0.043) |
+| ⭐ L61 | Heshmati & Rashidghalam 2020, JPA   | LN6     | Translog production function, panel of 190 countries 1996-2013 | TC/TFP growth NEGATIVE across ALL income groups; human capital index elasticity highest (0.234), technology index NEGATIVE (−0.043) |
 | L62 | Lööf & Heshmati 2006, EINT          | LN6     | CDM-style knowledge production function, Swedish CIS 1996-1998, 3,190 firms | Simple OLS is biased DOWNWARD (0.054 vs. 0.121); manufacturing/service firms strikingly similar |
 | L63 | Tran, Alkire & Klasen 2015, REI     | LN6     | Alkire-Foster method, panel of VN households 2007/2008/2010 | Monetary/multidimensional-poor overlap <50%; monetary poverty falls markedly faster; nutrition/health functioning is the main driver |
-| L64 | Nguyen & Pham 2018, APEL            | LN6     | FGT + Datt-Ravallion decomposition + Kakwani-Pernia, VLSS/VHLSS 1993-2008 | 1993-98 inequality rises (pro-poor 0.90); 2004-08 falls (pro-poor 1.80, highly pro-poor); poverty is now more sensitive to inequality than growth |
+| ⭐ L64 | Nguyen & Pham 2018, APEL            | LN6     | FGT + Datt-Ravallion decomposition + Kakwani-Pernia, VLSS/VHLSS 1993-2008 | 1993-98 inequality rises (pro-poor 0.90); 2004-08 falls (pro-poor 1.80, highly pro-poor); poverty is now more sensitive to inequality than growth |
 | L65 | Nguyen et al. 2019, Energy Policy   | LN6     | SUREG + Probit, VHLSS 2004-2016, >9,000 households/wave | Energy-cost poverty RISES even as income/electricity poverty falls; coal/biomass Gini surges 0.52→0.79 |
-| L71 | Heshmati & Rashidghalam 2020, JIS   | LN7     | PCA (74→15→1 index), panel N=310, 31 Chinese provinces 2005-2014 | 8/15 infrastructure components significantly positive for urbanization; a clear East-West gap (Guangdong highest/Tibet lowest) |
+| ⭐ L71 | Heshmati & Rashidghalam 2020, JIS   | LN7     | PCA (74→15→1 index), panel N=310, 31 Chinese provinces 2005-2014 | 8/15 infrastructure components significantly positive for urbanization; a clear East-West gap (Guangdong highest/Tibet lowest) |
 | L72 | Kadyraliev et al. 2022, TRP         | LN7     | Literature review + OLS n=7, Kyrgyzstan ODA case 1992-2018 | No statistical significance reported anywhere; ODA road quality fell 82%→34% "good" (2009-2019) |
-| L73 | McGuinness et al. 2021, WD          | LN7     | Mincer + Heckman selection, 5 VHLSS waves 2002-2016  | University premium rises sharply 2002-2010, reverses ~25pp 2010-2012; warns of a "low skills trap" |
+| ⭐ L73 | McGuinness et al. 2021, WD          | LN7     | Mincer + Heckman selection, 5 VHLSS waves 2002-2016  | University premium rises sharply 2002-2010, reverses ~25pp 2010-2012; warns of a "low skills trap" |
 | L74 | Dao & Trinh 2020, JEP               | LN7     | DEA/Malmquist TFP + GMM, VN 2000-2015, benchmarked against Hua 2005 | ONLY primary/secondary significant for GDP growth; higher education NOT significant — reversing China's result |
 | L75 | Hanushek 2016, OREP                 | LN7     | OLS cross-country, 50 countries 1960-2000            | Cognitive skills explain 73% of growth variation (vs. 25% for school attainment); controlling for cognitive skills makes schooling lose significance |
 | L76 | Bloom, Kuhn & Prettner 2018, IZA DP | LN7     | Theoretical + empirical literature review           | The Preston curve; AJ's (2007) controversial negative health→growth finding; Cervellati & Sunde reconcile it via demographic transition (inverted-U) |
@@ -99,23 +107,23 @@ If time is short: prioritize steps 3 + 4, skip re-reading each paper in detail.
 | L82 | Heshmati 2017, IJGE                 | LN8     | Global review (China/Germany/Japan/EU/Sweden) + entrepreneurship | "Panacea hypothesis" — a lack of evidence for the belief that green entrepreneurs automatically drive sustainability |
 | L83 | Kirchherr et al. 2018, EE           | LN8     | First large-N study: 208 surveys + 47 interviews, EU  | Cultural barriers rank top (47%, 46%); technological barriers rank LAST (15/15) — contrary to prior literature |
 | L84 | García-Barragán et al. 2019, EE     | LN8     | A dynamic material-flow optimization model (purely mathematical) | Metric Cₜ*=Rₜ*−Lₜ*; circular economy if Cₜ*>0 — a definition "imperfect but not ambiguous" |
-| L85 | Saidani et al. 2019, JCP            | LN8     | Systematic review, taxonomy of 10 categories for 55 C-indicator sets | 90% of micro indicators include recycling but only 45% cover all 3 loops; 60% rely on a single number |
-| L86 | Heshmati & Rashidghalam 2021, JCP   | LN8     | PCA (8 components/40 indicators), panel of 273 Swedish municipalities 2012-2018 | Gotland #1 (88.35); Stockholm LAST (29.50) despite being the capital; the waste-collection charge (WCOL) is the strongest lever |
+| ⭐ L85 | Saidani et al. 2019, JCP            | LN8     | Systematic review, taxonomy of 10 categories for 55 C-indicator sets | 90% of micro indicators include recycling but only 45% cover all 3 loops; 60% rely on a single number |
+| ⭐ L86 | Heshmati & Rashidghalam 2021, JCP   | LN8     | PCA (8 components/40 indicators), panel of 273 Swedish municipalities 2012-2018 | Gotland #1 (88.35); Stockholm LAST (29.50) despite being the capital; the waste-collection charge (WCOL) is the strongest lever |
 | L87 | Nademi & Sedaghat Kalmarzi 2025, JCP | LN8    | Spectral clustering + 8 panel GMM models, Europe 2010-2019 | All 8/8 CE indexes significantly reduce unemployment; private CE investment + recyclable-material trade are strongest |
 | L88 | Luengo Vera et al. 2025, GER        | LN8     | Bibliometrics (co-occurrence + text mining + bibliographic coupling), 1,630 Scopus articles 2020-2024 | Innovation is the central node/"systemic enabler"; China/UK/India are 3 scientific poles in a multipolar landscape |
 | L91 | Pham, Luu, Phong et al. 2020, J. Hydrology | LN9 | Hybrid AI (AdaBoost-DT, Bagging-DT) + MCDA, 847 flood points in Quảng Nam | Hybrid AI + MCDA produces more objective factor weights than MCDA alone |
 | L92 | Rakholia, Le, Vu, Ho & Carbajo 2022, Urban Climate | LN9 | ML forecasting (SGD, 1D CNN-LSTM, XGBoost, Prophet), 6 monitoring stations in Ho Chi Minh City | Simple linear SGD outperforms CNN-LSTM/Prophet — small samples cause complex models to overfit |
-| L93 | Pham, Nong, Simshauser, Nguyen & Duong 2024, J. Cleaner Production | LN9 | Critical review, synthesizing OECD.AI + policy documents | Vietnam's AI investment is only $31 million (2021), lagging the region; a low-quantity/high-quality paradox (top-5% journal output ranks 2nd regionally) |
+| ⭐ L93 | Pham, Nong, Simshauser, Nguyen & Duong 2024, J. Cleaner Production | LN9 | Critical review, synthesizing OECD.AI + policy documents | Vietnam's AI investment is only $31 million (2021), lagging the region; a low-quantity/high-quality paradox (top-5% journal output ranks 2nd regionally) |
 | L94 | Dang, Tran, Dang & Bui 2024, Telecommunications Policy | LN9 | Digital-spillover panel model, Vietnam 2007-2019 | Core digital economy grows from 1.45%→7.08% of GDP, but spillover to the rest of the economy stays nearly flat |
-| L95 | Nguyen Van Tam, Nguyen Quoc Toan & Vu Van Phong 2024, IJIMDI | LN9 | Survey of 248 experts + EFA + ANOVA, 31 barriers | Social/habitual resistance is barrier #1 (not technology); clear differences across the 3 stakeholder groups |
+| ⭐ L95 | Nguyen Van Tam, Nguyen Quoc Toan & Vu Van Phong 2024, IJIMDI | LN9 | Survey of 248 experts + EFA + ANOVA, 31 barriers | Social/habitual resistance is barrier #1 (not technology); clear differences across the 3 stakeholder groups |
 | L96 | Kuosmanen, Pajarinen & Heshmati 2025, Telecommunications Policy | LN9 | Digital Intensity Index + quantile regression, linked employer-employee panel, Finland 2015-2021 | Digital intensity ↔ performance is positive but UNEVEN — strongest at top-performing firms; suggests a "digital divide" |
 | L101 | Robinson & Thierfelder 2024, J. Policy Modeling | LN10 | CGE model (US trade-policy scenarios) | Trade war sharply cuts US-China trade, but the world adjusts via trade diversion around the US |
 | L102 | Alessandria, Yar Khan, Khederlarian, Ruhl & Steinberg 2025, J. International Economics | LN10 | Dynamic export model + indirect inference (Markov policy process), US-China 2015-2050 | Policy uncertainty only emerges AFTER 2018; the nature of the risk shifts from temporary to long-run structural |
 | L103 | Che, Lin & Zhang 2025, J. International Economics | LN10 | DiD + input-output analysis, US-China customs data | 69.70% of the US-China trade statistical discrepancy (2021) is due to tariff evasion, not an actual trade decline |
-| L104 | Sheng, Song & Zheng 2025, J. International Money and Finance | LN10 | Structural quality-ladder gravity model, Chinese micro export data | China diverts trade VERTICALLY (VTD) toward the Global South, not horizontally (HTD) as predicted |
+| ⭐ L104 | Sheng, Song & Zheng 2025, J. International Money and Finance | LN10 | Structural quality-ladder gravity model, Chinese micro export data | China diverts trade VERTICALLY (VTD) toward the Global South, not horizontally (HTD) as predicted |
 | L105 | Almazán-Gómez, El Khatabi, Llano & Pérez 2025, J. Policy Modeling | LN10 | SMART partial-equilibrium + multiregional IO model (EUREGIO-2017), 297 EU NUTS-2 regions | Every EU region is affected, even those not producing tariffed goods; highly specialized/deeply integrated regions are hit hardest |
 | L106 | Dang, Yawei & Abdullah 2024, J. Trade Science | LN10 | DiD, Vietnamese exports to the US (UN Comtrade, 6-digit) | Trade war INCREASES Vietnamese exports to the US by 14%, concentrated in intermediate goods (plastics, steel) |
-| L107 | Toai 2025, J. Information Systems Engineering and Management | LN10 | Literature review + secondary data analysis | Vietnam benefits from trade diversion but deepens dependence on Chinese inputs + faces US transshipment-investigation risk |
+| ⭐ L107 | Toai 2025, J. Information Systems Engineering and Management | LN10 | Literature review + secondary data analysis | Vietnam benefits from trade diversion but deepens dependence on Chinese inputs + faces US transshipment-investigation risk |
 
 ## 2. Twelve Thematic Clusters
 

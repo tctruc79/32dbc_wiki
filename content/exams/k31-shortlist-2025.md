@@ -1,14 +1,26 @@
 ---
 type: exam
 title: "K31 (2025) — Short List of Reading for the Written Exam"
-tags: [exam, past-exam, k31, shortlist, syllabus, reading-list]
+tags: [exam, past-exam, k31, shortlist, syllabus, reading-list, k32-shortlist]
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-28
 status: complete
 source_file: "raw/3. LECTURE NOTES/Short Reading list-2025 UEH Dev issues and business cycle Class 31.pdf"
 ---
 
 # K31 (2025) — Short List of Reading for the Written Exam
+
+> 🏆 **Shortlist K32 đã công bố 2026-08-28 — trang này giờ là cơ sở ĐỐI CHIẾU, không còn là bằng
+> chứng dự đoán.** Kết quả đối chiếu: **11/20 bài trong danh sách dưới đây được GS giữ lại nguyên
+> vẹn cho K32** (L32, L45, L52, L61, L64, L71, L73, L86, L93, L95, L107); 9 bài bị loại (L11, L13,
+> L21, L24, L31, L42, L51, L84, L101). Ba buổi LN6/LN7/LN9 giữ nguyên y hệt cả 2 bài qua 2 khóa.
+> Xem [[k32-shortlist-2026]].<br><span class="en">🏆 **The K32 shortlist was published
+> 2026-08-28 — this page is now a COMPARISON baseline, no longer predictive evidence.** Result:
+> **11/20 of the papers below were retained verbatim for K32** (L32, L45, L52, L61, L64, L71, L73,
+> L86, L93, L95, L107); 9 were dropped (L11, L13, L21, L24, L31, L42, L51, L84, L101). Lectures
+> LN6/LN7/LN9 kept both papers identical across the two cohorts. See
+> [[k32-shortlist-2026]].</span>
+
 
 ✅ **Nguồn mới, giá trị bằng chứng CAO nhất hiện có cho việc dự đoán shortlist K32**: đây là văn
 bản CHÍNH THỨC "Short list of reading for the written exam in 2025" mà GS Heshmati gửi cho khóa

@@ -1,7 +1,7 @@
 ---
 type: source
 title: "L15 — Yin, Bai & Sun (2025) — Measurement and Spatiotemporal Dynamic Evolution of China's High-Quality Economic Development"
-tags: [china, high-quality-development, entropy-method, regional, cluster-analysis]
+tags: [china, high-quality-development, entropy-method, regional, cluster-analysis, k32-shortlist]
 created: 2026-07-20
 updated: 2026-07-31
 status: complete
@@ -9,6 +9,8 @@ source_file: "raw/3. LECTURE NOTES/LN1 Economic development/L15 SF-2025 Yin et a
 ---
 
 # L15 — Yin, Bai & Sun (2025), Sustainable Futures 10: 101420
+> ⭐ ⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper is **new relative to the K31 shortlist**. See [[k32-shortlist-2026]].
+
 
 **Authors**: Liang Yin, Xiaodong Bai, Xuelian Sun — School of Mathematical Sciences, Dalian
 Minzu University, Liaoning, China. Received 1/5/2025, accepted 4/10/2025, online 11/10/2025.

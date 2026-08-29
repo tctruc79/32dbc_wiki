@@ -1,14 +1,17 @@
 ---
 type: source
 title: "L104 — Sheng, Song & Zheng (2025) — How did Chinese Exporters Manage the Trade War?"
-tags: [trade-war, trade-diversion, quality-ladders, tariffs, china, vietnam]
+tags: [trade-war, trade-diversion, quality-ladders, tariffs, china, vietnam, k32-shortlist]
 created: 2026-08-07
-updated: 2026-08-11
+updated: 2026-08-28
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN10 Impacts of Trade War on Vietnamese Economy/L104 JIMF-2025 Sheng et al How did Chinese exposures manage the trade war.pdf"
 ---
 
 # L104 — Sheng, L., Song, H. & Zheng, X. (2025), Journal of International Money and Finance 153: 103300
+
+> ⭐ **NẰM TRONG SHORTLIST CHÍNH THỨC K32** — bài này là 1 trong 20 bài GS Heshmati chốt ngày 28/8/2026 làm phạm vi ra đề cho kỳ thi viết 06/9. Bài này **mới so với shortlist K31**. Xem [[k32-shortlist-2026]].<br><span class="en">⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper is **new relative to the K31 shortlist**. See [[k32-shortlist-2026]].</span>
+
 
 **Tác giả**: Liugang Sheng (Khoa Kinh tế và HKIAPS, Đại học Trung văn Hồng Kông), Huasheng Song
 (CRPE và Khoa Kinh tế, Đại học Chiết Giang), Xueqian Zheng (Khoa Kinh tế, Đại học Chiết Giang).

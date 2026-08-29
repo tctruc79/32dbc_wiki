@@ -3,11 +3,24 @@ type: synthesis
 title: "Ôn thi cuối kỳ — Master Synthesis (LN1–LN10)"
 tags: [exam-prep, synthesis, convergence, institutions, deep-roots, banking-crisis, agriculture, climate-vulnerability, entrepreneurship, total-factor-productivity, human-capital, circular-economy, poverty, infrastructure, health, artificial-intelligence, digitalization, trade-war]
 created: 2026-07-24
-updated: 2026-08-11
+updated: 2026-08-28
 status: complete
 ---
 
 # Ôn thi cuối kỳ — Master Synthesis
+
+> ⭐ **SHORTLIST CHÍNH THỨC ĐÃ CÓ (2026-08-28) — phạm vi thi thu từ 62 xuống 20 bài.** GS Heshmati
+> đã gửi văn bản chốt 20 bài đọc cho kỳ thi viết **06/9**: `L14 L15 · L25 L26 · L32 L34 · L45 L46
+> · L52 L55 · L61 L64 · L71 L73 · L85 L86 · L93 L95 · L104 L107`. Trong bảng tra cứu mục 1 dưới
+> đây, 20 bài này được đánh dấu **⭐**. Đọc [[k32-shortlist-2026]] trước tiên. 42 bài còn lại vẫn
+> giữ nguyên trong trang này vì chúng là bối cảnh/đối chứng cho phần tranh luận (mục 3), nhưng
+> **sẽ không bị hỏi trực tiếp**.<br><span class="en">⭐ **THE OFFICIAL SHORTLIST IS OUT
+> (2026-08-28) — the exam scope narrows from 62 papers to 20.** Prof. Heshmati has sent the
+> document fixing the 20 readings for the **06/9** written exam: `L14 L15 · L25 L26 · L32 L34 ·
+> L45 L46 · L52 L55 · L61 L64 · L71 L73 · L85 L86 · L93 L95 · L104 L107`. In the quick-lookup
+> table in section 1 below, these 20 are marked **⭐**. Read [[k32-shortlist-2026]] first. The
+> other 42 papers remain on this page because they are the context/counterpoint for the debates
+> section (section 3), but **they will not be asked directly**.</span>
 
 Điểm tra cứu trung tâm để ôn thi, gom toàn bộ 62 papers đã deep-ingest (LN1–LN10) thành: bảng tra
 nhanh, 12 cụm chủ đề, **tranh luận/căng thẳng giữa các paper** (trọng tâm câu hỏi thi dạng so
@@ -76,45 +89,45 @@ class="en">If time is short: prioritize steps 3 + 4, skip re-reading each paper 
 
 ## 1. Bảng tra cứu nhanh — 62 papers - <span class="en">Quick-Lookup Table — 62 Papers</span>
 
-| Mã  | Paper                              | Lecture | Phương pháp                                       | Finding chính (1 dòng)                                                      |
+| Mã (⭐ = shortlist K32) | Paper                    | Lecture | Phương pháp                                       | Finding chính (1 dòng)                                                      |
 | --- | ---------------------------------- | ------- | ------------------------------------------------- | --------------------------------------------------------------------------- |
 | L11 | Patel, Sandefur & Subramanian 2021 | LN1     | NLS, 3 bộ dữ liệu (Maddison/PWT/WDI)              | Unconditional convergence quay lại từ ~1995; middle-income trap bị phản bác |
 | L12 | Nunn 2019                          | LN1     | Phản tư chính sách, không model thực nghiệm riêng | Aid + chính sách phương Tây thường gây hại hơn giúp; phê phán RCT           |
 | L13 | Spolaore & Wacziarg 2013           | LN1     | Survey, hồi quy geography/ancestry                | Fundamental factors (geography, ancestry) giải thích persistence phát triển |
-| L14 | Sasges & Takahashi 2025            | LN1     | VAR/IRF, Việt Nam 1980–2019                       | Period I 97%/Period II 25-40% biến động GDPG do 3 chính sách; optimal growth theory |
-| L15 | Yin, Bai & Sun 2025                | LN1     | Entropy method, cluster, kernel density           | Trung Quốc: high-speed → high-quality, phân hóa vùng miền                   |
+| ⭐ L14 | Sasges & Takahashi 2025            | LN1     | VAR/IRF, Việt Nam 1980–2019                       | Period I 97%/Period II 25-40% biến động GDPG do 3 chính sách; optimal growth theory |
+| ⭐ L15 | Yin, Bai & Sun 2025                | LN1     | Entropy method, cluster, kernel density           | Trung Quốc: high-speed → high-quality, phân hóa vùng miền                   |
 | L21 | Acemoglu, Johnson & Robinson 2001  | LN2     | 2SLS (settler mortality IV)                       | Institutions là nguyên nhân gốc (fundamental cause) của thu nhập            |
 | L22 | Mauro 1995                         | LN2     | OLS + IV (ELF)                                    | Corruption giảm investment & growth                                         |
 | L23 | Besley & Ghatak 2010               | LN2     | Survey lý thuyết (Handbook chapter)               | Property rights quan trọng nhưng không có "one size fits all"               |
 | L24 | Alesina & Giuliano 2015            | LN2     | Survey lý thuyết + thực nghiệm                    | Culture ↔ institutions nhân quả hai chiều, không cái nào superior           |
-| L25 | Bizikova et al. 2025               | LN2     | Systematic review 683→40 papers                   | WEF nexus: chỉ 17.5% nghiên cứu bàn governance/policy                       |
-| L26 | Huynh & Tran 2025                  | LN2     | Panel 63 tỉnh VN 2006-2021, System GMM             | FDI giảm informal economy qua growth + governance (PAPI); formal/informal substitutes |
+| ⭐ L25 | Bizikova et al. 2025               | LN2     | Systematic review 683→40 papers                   | WEF nexus: chỉ 17.5% nghiên cứu bàn governance/policy                       |
+| ⭐ L26 | Huynh & Tran 2025                  | LN2     | Panel 63 tỉnh VN 2006-2021, System GMM             | FDI giảm informal economy qua growth + governance (PAPI); formal/informal substitutes |
 | L31 | Baron, Verner & Xiong 2021         | LN3     | Bank equity data, 46 nước 1870–2016               | Bank equity crash ≥30% dự báo suy thoái dù không có panic                   |
-| L32 | Jiang, Levine & Lin 2019            | LN3     | Diff-in-diff, deregulation liên bang Mỹ 1984–2006 | Cạnh tranh ngân hàng do deregulation làm GIẢM liquidity creation            |
+| ⭐ L32 | Jiang, Levine & Lin 2019            | LN3     | Diff-in-diff, deregulation liên bang Mỹ 1984–2006 | Cạnh tranh ngân hàng do deregulation làm GIẢM liquidity creation            |
 | L33 | Lastunen & Richiardi 2023          | LN3     | Nowcasting bằng chỉ số tài chính ngành            | Dự báo COVID-19 VN chính xác hơn IMF/ADB nhờ dữ liệu tài chính              |
-| L34 | Cai & Le 2023                      | LN3     | PMG-ARDL, Việt Nam 1999–2018                      | Tài nguyên/tài chính/CSR: quan hệ dài hạn dương, ngắn hạn âm với green growth |
+| ⭐ L34 | Cai & Le 2023                      | LN3     | PMG-ARDL, Việt Nam 1999–2018                      | Tài nguyên/tài chính/CSR: quan hệ dài hạn dương, ngắn hạn âm với green growth |
 | L35 | Kakhkharov & Yarashov 2025         | LN3     | Review (Encyclopedia entry)                       | Ngân hàng thị trường mới nổi dễ tổn thương trước phân mảnh địa chính trị     |
 | L36 | Minford 2025                       | LN3     | Policy essay (Encyclopedia entry)                 | 3 bài học ổn định tiền tệ hậu khủng hoảng/pandemic                          |
 | L41 | Ho 2021, World Development          | LN4     | Panel FE/RE + Oster (2019) bias-adjustment, nighttime lights proxy | 1% land-use certs → light +1.7% (bivariate) còn +0.6% (full controls); modest, có thể về 0 |
 | L42 | Do, Nguyen & Grote 2023, EAP        | LN4     | True RE stochastic frontier + 3SLS/Lewbel (2012) IV + PSM-DD | Farming efficiency → participation land consolidation (có ý nghĩa), ngược lại không; giảm chi phí, giảm nghèo |
 | L43 | Le 2020, EDCC                       | LN4     | Reduced-form (Dell et al. 2014) + MODIS satellite flood data | Lũ giảm thu nhập NN, tăng chi y tế +48.5%/giáo dục +42.0%; chỉ remittance coping hiệu quả |
 | L44 | Vo & Tran 2022, HERA                | LN4     | LVI + LVI-IPCC, VARHS 2018, 1852 hộ 12 tỉnh       | Bắc Trung Bộ & DH Nam Trung Bộ dễ tổn thương nhất (exposure cao); ĐBSCL đe dọa hạn hán/xâm nhập mặn |
-| L45 | Tran et al. 2022, EC                | LN4     | Cùng LVI + correlation matrix + beta regression, Nghệ An | 76% hộ "slightly vulnerable"; tín dụng chính thức/tưới tiêu TĂNG vulnerability (phản trực giác) |
-| L46 | Hastuti et al. 2025, WDP            | LN4     | IV (altitude/latitude), IFLS panel Indonesia      | CV mưa +1%→mobility +0.47pp, CV nhiệt độ +1%→+1.38pp; kênh farm production cost; DUY NHẤT ngoài VN |
+| ⭐ L45 | Tran et al. 2022, EC                | LN4     | Cùng LVI + correlation matrix + beta regression, Nghệ An | 76% hộ "slightly vulnerable"; tín dụng chính thức/tưới tiêu TĂNG vulnerability (phản trực giác) |
+| ⭐ L46 | Hastuti et al. 2025, WDP            | LN4     | IV (altitude/latitude), IFLS panel Indonesia      | CV mưa +1%→mobility +0.47pp, CV nhiệt độ +1%→+1.38pp; kênh farm production cost; DUY NHẤT ngoài VN |
 | L51 | Nguyen 2023, JAFEB                  | LN5     | OLS regression, survey 258 women-owned SME VN     | 4/5 khía cạnh EO dương; risk-taking ÂM có ý nghĩa (ngược lý thuyết EO chuẩn), R²=77% |
-| L52 | Huis et al. 2019, World Development | LN5     | RCT, TYM microfinance Bắc VN, 4041 borrowers, ITT+DID | Training tăng control beliefs + quyền quyết định, giảm relational friction — rõ ở endline (12 tháng) |
+| ⭐ L52 | Huis et al. 2019, World Development | LN5     | RCT, TYM microfinance Bắc VN, 4041 borrowers, ITT+DID | Training tăng control beliefs + quyền quyết định, giảm relational friction — rõ ở endline (12 tháng) |
 | L53 | Naudé 2010, SBE                     | LN5     | Programmatic/agenda-setting essay (SBE special issue intro) | Entrepreneurship = binding constraint tiềm năng; institutions = "black box"; vấn đề là phân bổ sai, không phải thiếu |
 | L54 | Méndez-Picazo et al. 2012, ERD      | LN5     | Panel 2-phương trình, 11 nước phát triển 2002-2007 | Governance (Acemoglu 2003 framework) → dương → entrepreneurship → growth; Gini dương với entrepreneurship |
-| L55 | Stein et al. 2026, Technovation     | LN5     | Longitudinal qualitative case study, Danish FinTech DEE | Institutional entrepreneurs mở "black box" Naudé qua collective effort + neutral leadership |
+| ⭐ L55 | Stein et al. 2026, Technovation     | LN5     | Longitudinal qualitative case study, Danish FinTech DEE | Institutional entrepreneurs mở "black box" Naudé qua collective effort + neutral leadership |
 | L56 | Sharma & Subba 2025, IGD            | LN5     | Scoping review >100 nguồn, khung TBL+EMT          | Green startups: jobs/eco-innovation/circular economy nhưng rào cản vốn/quy định; thiếu chuẩn ESG |
-| L61 | Heshmati & Rashidghalam 2020, JPA   | LN6     | Translog production function, panel 190 nước 1996-2013 | TC/TFP growth ÂM ở TẤT CẢ nhóm thu nhập; human capital index elasticity cao nhất (0.234), technology index ÂM (−0.043) |
+| ⭐ L61 | Heshmati & Rashidghalam 2020, JPA   | LN6     | Translog production function, panel 190 nước 1996-2013 | TC/TFP growth ÂM ở TẤT CẢ nhóm thu nhập; human capital index elasticity cao nhất (0.234), technology index ÂM (−0.043) |
 | L62 | Lööf & Heshmati 2006, EINT          | LN6     | Knowledge production function CDM-style, CIS Thụy Điển 1996-1998, 3190 firm | OLS đơn giản bias XUỐNG (0.054 vs 0.121); manufacturing/service firm giống nhau đến ngạc nhiên |
 | L63 | Tran, Alkire & Klasen 2015, REI     | LN6     | Alkire-Foster method, panel hộ VN 2007/2008/2010   | Overlap monetary/multidimensional poor <50%; nghèo tiền tệ giảm nhanh hơn rõ rệt; nutrition/health functioning là driver chính |
-| L64 | Nguyen & Pham 2018, APEL            | LN6     | FGT + Datt-Ravallion decomposition + Kakwani-Pernia, VLSS/VHLSS 1993-2008 | 1993-98 bất bình đẳng tăng (pro-poor 0.90); 2004-08 giảm (pro-poor 1.80, highly pro-poor); nghèo nay nhạy inequality hơn growth |
+| ⭐ L64 | Nguyen & Pham 2018, APEL            | LN6     | FGT + Datt-Ravallion decomposition + Kakwani-Pernia, VLSS/VHLSS 1993-2008 | 1993-98 bất bình đẳng tăng (pro-poor 0.90); 2004-08 giảm (pro-poor 1.80, highly pro-poor); nghèo nay nhạy inequality hơn growth |
 | L65 | Nguyen et al. 2019, Energy Policy   | LN6     | SUREG + Probit, VHLSS 2004-2016, >9000 hộ/wave     | Energy-cost poverty TĂNG dù income/electricity poverty giảm; Gini coal/biomass tăng mạnh 0.52→0.79 |
-| L71 | Heshmati & Rashidghalam 2020, JIS   | LN7     | PCA (74→15→1 chỉ số), panel N=310, 31 tỉnh TQ 2005-2014 | 8/15 thành phần hạ tầng dương có ý nghĩa với đô thị hóa; chênh lệch Đông-Tây rõ rệt (Guangdong cao nhất/Tibet thấp nhất) |
+| ⭐ L71 | Heshmati & Rashidghalam 2020, JIS   | LN7     | PCA (74→15→1 chỉ số), panel N=310, 31 tỉnh TQ 2005-2014 | 8/15 thành phần hạ tầng dương có ý nghĩa với đô thị hóa; chênh lệch Đông-Tây rõ rệt (Guangdong cao nhất/Tibet thấp nhất) |
 | L72 | Kadyraliev et al. 2022, TRP         | LN7     | Literature review + OLS n=7, case ODA Kyrgyzstan 1992-2018 | Không có ý nghĩa thống kê nào báo cáo; chất lượng đường ODA giảm 82%→34% "tốt" (2009-2019) |
-| L73 | McGuinness et al. 2021, WD          | LN7     | Mincer + Heckman selection, 5 đợt VHLSS 2002-2016  | Premium ĐH tăng mạnh 2002-2010, đảo chiều giảm ~25pp 2010-2012; cảnh báo "low skills trap" |
+| ⭐ L73 | McGuinness et al. 2021, WD          | LN7     | Mincer + Heckman selection, 5 đợt VHLSS 2002-2016  | Premium ĐH tăng mạnh 2002-2010, đảo chiều giảm ~25pp 2010-2012; cảnh báo "low skills trap" |
 | L74 | Dao & Trinh 2020, JEP               | LN7     | DEA/Malmquist TFP + GMM, VN 2000-2015, mô hình tham chiếu Hua 2005 | CHỈ tiểu học/trung học có ý nghĩa với GDP growth; đại học KHÔNG có ý nghĩa — đảo ngược kết quả TQ |
 | L75 | Hanushek 2016, OREP                 | LN7     | OLS cross-country, 50 nước 1960-2000                | Cognitive skills giải thích 73% biến thiên tăng trưởng (vs 25% school attainment); kiểm soát cognitive skills → schooling mất ý nghĩa |
 | L76 | Bloom, Kuhn & Prettner 2018, IZA DP | LN7     | Literature review lý thuyết + thực nghiệm           | Preston curve; AJ (2007) sức khỏe→growth ÂM gây tranh cãi; Cervellati & Sunde hòa giải bằng demographic transition (chữ U ngược) |
@@ -123,23 +136,23 @@ class="en">If time is short: prioritize steps 3 + 4, skip re-reading each paper 
 | L82 | Heshmati 2017, IJGE                 | LN8     | Review toàn cầu (TQ/Đức/Nhật/EU/Thụy Điển) + entrepreneurship | "Panacea hypothesis" — thiếu bằng chứng cho niềm tin green entrepreneur tự động dẫn dắt bền vững |
 | L83 | Kirchherr et al. 2018, EE           | LN8     | Large-N đầu tiên: 208 khảo sát + 47 phỏng vấn, EU  | Rào cản văn hóa đứng đầu (47%, 46%); rào cản công nghệ đứng CUỐI (15/15) — trái ngược literature cũ |
 | L84 | García-Barragán et al. 2019, EE     | LN8     | Mô hình tối ưu hóa động dòng vật liệu (toán học thuần) | Chỉ số Cₜ*=Rₜ*−Lₜ*; kinh tế tuần hoàn nếu Cₜ*>0 — định nghĩa "không hoàn hảo nhưng không mơ hồ" |
-| L85 | Saidani et al. 2019, JCP            | LN8     | Systematic review, taxonomy 10 danh mục cho 55 bộ C-indicators | 90% chỉ số micro có recycling nhưng chỉ 45% bao trùm đủ 3 vòng lặp; 60% chỉ dùng 1 con số duy nhất |
-| L86 | Heshmati & Rashidghalam 2021, JCP   | LN8     | PCA (8 thành phần/40 chỉ báo), panel 273 đô thị Thụy Điển 2012-2018 | Gotland #1 (88.35); Stockholm CUỐI (29.50) dù là thủ đô; phí thu gom rác (WCOL) là đòn bẩy mạnh nhất |
+| ⭐ L85 | Saidani et al. 2019, JCP            | LN8     | Systematic review, taxonomy 10 danh mục cho 55 bộ C-indicators | 90% chỉ số micro có recycling nhưng chỉ 45% bao trùm đủ 3 vòng lặp; 60% chỉ dùng 1 con số duy nhất |
+| ⭐ L86 | Heshmati & Rashidghalam 2021, JCP   | LN8     | PCA (8 thành phần/40 chỉ báo), panel 273 đô thị Thụy Điển 2012-2018 | Gotland #1 (88.35); Stockholm CUỐI (29.50) dù là thủ đô; phí thu gom rác (WCOL) là đòn bẩy mạnh nhất |
 | L87 | Nademi & Sedaghat Kalmarzi 2025, JCP | LN8    | Spectral clustering + 8 mô hình Panel GMM, châu Âu 2010-2019 | Cả 8/8 chỉ số CE đều giảm thất nghiệp có ý nghĩa; đầu tư tư nhân CE + thương mại nguyên liệu tái chế mạnh nhất |
 | L88 | Luengo Vera et al. 2025, GER        | LN8     | Bibliometric (co-occurrence + text mining + bibliographic coupling), 1630 bài Scopus 2020-2024 | Innovation là nút trung tâm/"systemic enabler"; Trung Quốc/Anh/Ấn Độ là 3 cực khoa học đa cực |
 | L91 | Pham, Luu, Phong et al. 2020, J. Hydrology | LN9     | Hybrid AI (AdaBoost-DT, Bagging-DT) + MCDA, 847 flood points Quảng Nam | AI lai ghép + MCDA cho trọng số yếu tố khách quan hơn MCDA thuần |
 | L92 | Rakholia, Le, Vu, Ho & Carbajo 2022, Urban Climate | LN9 | ML forecasting (SGD, 1D CNN-LSTM, XGBoost, Prophet), 6 trạm quan trắc TP.HCM | SGD tuyến tính đơn giản vượt trội CNN-LSTM/Prophet — mẫu nhỏ khiến model phức tạp overfit |
-| L93 | Pham, Nong, Simshauser, Nguyen & Duong 2024, J. Cleaner Production | LN9 | Critical review, tổng hợp OECD.AI + văn bản chính sách | VN đầu tư AI chỉ 31 triệu USD (2021), tụt hậu khu vực; nghịch lý số lượng thấp/chất lượng cao (top-5% journal hạng 2 khu vực) |
+| ⭐ L93 | Pham, Nong, Simshauser, Nguyen & Duong 2024, J. Cleaner Production | LN9 | Critical review, tổng hợp OECD.AI + văn bản chính sách | VN đầu tư AI chỉ 31 triệu USD (2021), tụt hậu khu vực; nghịch lý số lượng thấp/chất lượng cao (top-5% journal hạng 2 khu vực) |
 | L94 | Dang, Tran, Dang & Bui 2024, Telecommunications Policy | LN9 | Digital-spillover panel model, VN 2007-2019 | Kinh tế số cốt lõi tăng 1,45%→7,08% GDP nhưng lan tỏa sang phần còn lại nền kinh tế gần như không đổi |
-| L95 | Nguyen Van Tam, Nguyen Quoc Toan & Vu Van Phong 2024, IJIMDI | LN9 | Survey 248 chuyên gia + EFA + ANOVA, 31 rào cản | Kháng cự xã hội/thói quen là rào cản #1 (không phải công nghệ); khác biệt rõ giữa 3 nhóm bên liên quan |
+| ⭐ L95 | Nguyen Van Tam, Nguyen Quoc Toan & Vu Van Phong 2024, IJIMDI | LN9 | Survey 248 chuyên gia + EFA + ANOVA, 31 rào cản | Kháng cự xã hội/thói quen là rào cản #1 (không phải công nghệ); khác biệt rõ giữa 3 nhóm bên liên quan |
 | L96 | Kuosmanen, Pajarinen & Heshmati 2025, Telecommunications Policy | LN9 | Digital Intensity Index + quantile regression, linked employer-employee panel Phần Lan 2015-2021 | Cường độ số ↔ hiệu suất dương nhưng KHÔNG đồng đều — mạnh nhất ở doanh nghiệp top; gợi ý "digital divide" |
 | L101 | Robinson & Thierfelder 2024, J. Policy Modeling | LN10 | CGE model (kịch bản chính sách thương mại Mỹ) | Chiến tranh thương mại làm thương mại Mỹ-Trung sụt mạnh nhưng thế giới thích ứng qua trade diversion vòng quanh Mỹ |
 | L102 | Alessandria, Yar Khan, Khederlarian, Ruhl & Steinberg 2025, J. International Economics | LN10 | Dynamic export model + indirect inference (Markov policy process), Mỹ-Trung 2015-2050 | Bất định chính sách chỉ xuất hiện SAU 2018; bản chất rủi ro chuyển từ tạm thời sang cơ cấu dài hạn |
 | L103 | Che, Lin & Zhang 2025, J. International Economics | LN10 | DiD + input-output, dữ liệu hải quan Mỹ-Trung | 69,70% khoảng vênh thống kê thương mại Mỹ-Trung (2021) là do né thuế, không phải giảm thương mại thực |
-| L104 | Sheng, Song & Zheng 2025, J. International Money and Finance | LN10 | Structural quality-ladder gravity model, dữ liệu xuất khẩu vi mô TQ | Trung Quốc chuyển hướng thương mại THEO CHIỀU DỌC (VTD) sang Nam bán cầu, không theo chiều ngang (HTD) như dự đoán |
+| ⭐ L104 | Sheng, Song & Zheng 2025, J. International Money and Finance | LN10 | Structural quality-ladder gravity model, dữ liệu xuất khẩu vi mô TQ | Trung Quốc chuyển hướng thương mại THEO CHIỀU DỌC (VTD) sang Nam bán cầu, không theo chiều ngang (HTD) như dự đoán |
 | L105 | Almazán-Gómez, El Khatabi, Llano & Pérez 2025, J. Policy Modeling | LN10 | SMART partial equilibrium + multiregional IO (EUREGIO-2017), 297 vùng NUTS-2 EU | Mọi vùng EU đều chịu tác động, kể cả vùng không sản xuất hàng bị đánh thuế; vùng chuyên môn hóa cao/hội nhập sâu chịu nặng nhất |
 | L106 | Dang, Yawei & Abdullah 2024, J. Trade Science | LN10 | DiD, xuất khẩu VN sang Mỹ (UN Comtrade, 6-digit) | Chiến tranh thương mại làm xuất khẩu VN sang Mỹ TĂNG 14%, tập trung ở hàng trung gian (nhựa, sắt thép) |
-| L107 | Toai 2025, J. Information Systems Engineering and Management | LN10 | Literature review + phân tích dữ liệu thứ cấp | VN hưởng lợi trade diversion nhưng phụ thuộc sâu đầu vào TQ + rủi ro giám sát/điều tra transshipment từ Mỹ |
+| ⭐ L107 | Toai 2025, J. Information Systems Engineering and Management | LN10 | Literature review + phân tích dữ liệu thứ cấp | VN hưởng lợi trade diversion nhưng phụ thuộc sâu đầu vào TQ + rủi ro giám sát/điều tra transshipment từ Mỹ |
 
 ## 2. Mười hai cụm chủ đề - <span class="en">Twelve Thematic Clusters</span>
 

@@ -1,9 +1,9 @@
 ---
 type: exam
 title: "K30 Final Written Exam — Development Issues and Business Cycle"
-tags: [exam, past-exam, k30, culture-institutions, circular-economy, banking-crisis, land-consolidation, women-empowerment, poverty-inequality]
+tags: [exam, past-exam, k30, culture-institutions, circular-economy, banking-crisis, land-consolidation, women-empowerment, poverty-inequality, k32-shortlist]
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-28
 status: complete
 source_file: "raw/4. PAST EXAMS/K30 final written exam/k30-exam-page1-rules-and-compulsory-q1-2.png"
 also_covers:
@@ -11,6 +11,17 @@ also_covers:
 ---
 
 # K30 Final Written Exam — Development Issues and Business Cycle
+
+> ⭐ **Đối chiếu với shortlist chính thức K32 (2026-08-28)**: 3/6 bài của đề K30 vẫn nằm trong 20
+> bài thi K32 — L85 (K30·Q2), L52 (K30·Q5), L64 (K30·Q6); còn L24 (Q1), L31 (Q3), L42 (Q4) đã bị
+> loại. Đáng chú ý: **L85 từng bị loại khỏi shortlist K31 nhưng nay quay lại shortlist K32** —
+> tức câu Q2 của đề này là dạng câu hỏi vẫn còn nguyên giá trị luyện tập. Xem
+> [[k32-shortlist-2026]].<br><span class="en">⭐ **Cross-check against the official K32 shortlist
+> (2026-08-28)**: 3/6 of this exam's papers remain among K32's 20 — L85 (K30·Q2), L52 (K30·Q5),
+> L64 (K30·Q6); L24 (Q1), L31 (Q3) and L42 (Q4) were dropped. Notably, **L85 was dropped from the
+> K31 shortlist but has returned for K32** — so this exam's Q2 remains a fully relevant practice
+> question. See [[k32-shortlist-2026]].</span>
+
 
 Đề thi viết cuối kỳ của **lớp K30** — một khóa còn trước cả K31, cùng môn **Development Issues
 and Business Cycle** (GS. Almas Heshmati) — người dùng chụp ảnh màn hình máy chiếu trong lớp

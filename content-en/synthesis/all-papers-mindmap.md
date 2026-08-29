@@ -1,13 +1,19 @@
 ---
 type: synthesis
 title: "Mindmap of All Required Readings — LN1–LN10"
-tags: [mindmap, overview, convergence, institutions, deep-roots, banking-crisis, agriculture, entrepreneurship, technology, human-capital, circular-economy, artificial-intelligence, digitalization, trade-war]
+tags: [mindmap, overview, convergence, institutions, deep-roots, banking-crisis, agriculture, entrepreneurship, technology, human-capital, circular-economy, artificial-intelligence, digitalization, trade-war, k32-shortlist]
 created: 2026-07-24
-updated: 2026-08-07
+updated: 2026-08-28
 status: complete
 ---
 
 # Mindmap of All Required Readings — LN1–LN10
+> ⭐ **The 20 papers marked ⭐ are the OFFICIAL K32 shortlist** (fixed by Prof. Heshmati on
+> 2026-08-28, exam 06/9): `L14 L15 · L25 L26 · L32 L34 · L45 L46 · L52 L55 · L61 L64 · L71 L73
+> · L85 L86 · L93 L95 · L104 L107`. The full 12-cluster structure below is UNCHANGED — papers
+> without ⭐ remain necessary context for answering comparison questions, but will not be
+> asked directly. Details: [[k32-shortlist-2026]].
+
 
 Synthesized from [[ln1-economic-development]], [[ln2-governance-institutions-policy-making]],
 [[ln3-financial-crisis-and-pandemics]], [[ln4-agriculture-climate-change-natural-disasters]],
@@ -38,22 +44,22 @@ mindmap
       ("L13 Spolaore &amp; Wacziarg 2013<br/>Geography 44% + ancestry → persistence")
     ("B. Convergence &amp;<br/>Growth Trajectories")
       ("L11 Patel et al. 2021<br/>Unconditional convergence, middle-income trap refuted")
-      ("L14 Sasges &amp; Takahashi 2025<br/>Vietnam's 3 policies, 1997 breakpoint")
-      ("L15 Yin, Bai &amp; Sun 2025<br/>China: high-speed → high-quality development")
+      ("⭐ L14 Sasges &amp; Takahashi 2025<br/>Vietnam's 3 policies, 1997 breakpoint")
+      ("⭐ L15 Yin, Bai &amp; Sun 2025<br/>China: high-speed → high-quality development")
     ("C. Institutions<br/>trunk: Acemoglu 2001")
       ("L21 Acemoglu, Johnson &amp; Robinson 2001<br/>Settler mortality IV → present-day institutions")
         ("L22 Mauro 1995 — corruption channel")
         ("L23 Besley &amp; Ghatak 2010 — property rights channel")
         ("L24 Alesina &amp; Giuliano 2015 — culture ↔ institutions channel")
-        ("L26 Huynh &amp; Tran 2025 — application: FDI ↓ informal economy in VN via governance")
+        ("⭐ L26 Huynh &amp; Tran 2025 — application: FDI ↓ informal economy in VN via governance")
     ("D. Policy Critique &amp;<br/>Applied Governance Gaps")
       ("L12 Nunn 2019<br/>Critiques aid/RCTs, Western policy causes harm (VN catfish case)")
-      ("L25 Bizikova et al. 2025<br/>WEF nexus: only 17.5% address governance/policy")
+      ("⭐ L25 Bizikova et al. 2025<br/>WEF nexus: only 17.5% address governance/policy")
     ("E. Banking Crisis &amp;<br/>Financial Signals")
       ("L31 Baron, Verner &amp; Xiong 2021<br/>Bank equity crash ≥30% → downturn, panic is a consequence")
-        ("L32 Jiang, Levine &amp; Lin 2019 — liquidity creation channel")
+        ("⭐ L32 Jiang, Levine &amp; Lin 2019 — liquidity creation channel")
         ("L33 Lastunen &amp; Richiardi 2023 — application: nowcasting COVID-19 in VN")
-        ("L34 Cai &amp; Le 2023 — resources/finance/CSR, green growth in VN")
+        ("⭐ L34 Cai &amp; Le 2023 — resources/finance/CSR, green growth in VN")
         ("L35 Kakhkharov &amp; Yarashov 2025 — geopolitics/banking review")
         ("L36 Minford 2025 — monetary policy lessons")
     ("F. Agriculture, Land Institutions<br/>&amp; Climate Vulnerability")
@@ -61,53 +67,53 @@ mindmap
         ("L42 Do, Nguyen &amp; Grote 2023 — land fragmentation/consolidation channel")
       ("L43 Le 2020<br/>Floods, outcome-based (income/spending/SWB), MODIS satellite")
       ("L44 Vo &amp; Tran 2022<br/>LVI/LVI-IPCC across VN regions — North &amp; South Central Coast most vulnerable")
-        ("L45 Tran et al. 2022 — same LVI + beta regression, household-level drivers in Nghe An")
-      ("L46 Hastuti et al. 2025<br/>Indonesia — climate → labor mobility (exit), only non-VN paper")
+        ("⭐ L45 Tran et al. 2022 — same LVI + beta regression, household-level drivers in Nghe An")
+      ("⭐ L46 Hastuti et al. 2025<br/>Indonesia — climate → labor mobility (exit), only non-VN paper")
     ("G. Entrepreneurship<br/>trunk: Naudé 2010")
       ("L53 Naudé 2010<br/>'Black box' institutions + entrepreneurship = binding constraint")
         ("L51 Nguyen 2023 — micro channel: EO↔performance, women-owned SMEs VN")
-        ("L52 Huis et al. 2019 — RCT channel: empowerment via microfinance VN")
+        ("⭐ L52 Huis et al. 2019 — RCT channel: empowerment via microfinance VN")
         ("L54 Méndez-Picazo et al. 2012 — macro channel: governance→entrepreneurship→growth")
-        ("L55 Stein et al. 2026 — opening the 'black box': institutional entrepreneurs, Danish FinTech")
+        ("⭐ L55 Stein et al. 2026 — opening the 'black box': institutional entrepreneurs, Danish FinTech")
         ("L56 Sharma &amp; Subba 2025 — sustainability channel: green startups")
     ("H. Technology, Productivity<br/>&amp; VN Poverty Measurement")
-      ("L61 Heshmati &amp; Rashidghalam 2020<br/>TFP, 190 countries — TC/TFP growth NEGATIVE across every income group")
+      ("⭐ L61 Heshmati &amp; Rashidghalam 2020<br/>TFP, 190 countries — TC/TFP growth NEGATIVE across every income group")
         ("L62 Lööf &amp; Heshmati 2006 — firm-level channel: innovation-performance, Sweden, CDM model")
       ("L63 Tran, Alkire &amp; Klasen 2015<br/>Monetary vs Multidimensional poverty VN, overlap &lt;50%")
-      ("L64 Nguyen &amp; Pham 2018<br/>Growth-inequality-poverty VN, pro-poor index 0.90→1.80")
+      ("⭐ L64 Nguyen &amp; Pham 2018<br/>Growth-inequality-poverty VN, pro-poor index 0.90→1.80")
       ("L65 Nguyen et al. 2019<br/>Energy transition VN — energy-cost poverty RISES even as electricity poverty falls")
     ("I. Human Capital, Infrastructure<br/>&amp; Public Investment")
-      ("L71 Heshmati &amp; Rashidghalam 2020<br/>China urban infrastructure — PCA panel N=310, 8/15 components positive")
+      ("⭐ L71 Heshmati &amp; Rashidghalam 2020<br/>China urban infrastructure — PCA panel N=310, 8/15 components positive")
         ("L72 Kadyraliev et al. 2022 — transport/ODA channel, Kyrgyzstan, loose n=7")
-      ("L73 McGuinness et al. 2021<br/>Returns to education VN — university premium reverses 2010-2012")
+      ("⭐ L73 McGuinness et al. 2021<br/>Returns to education VN — university premium reverses 2010-2012")
       ("L74 Dao &amp; Trinh 2020<br/>Education-growth VN — only primary/secondary significant, reversing Hua 2005 China")
       ("L75 Hanushek 2016<br/>Knowledge capital explains 73% of growth; school attainment loses significance")
       ("L76 Bloom, Kuhn &amp; Prettner 2018<br/>Health-growth review, Preston curve, AJ 2007 controversy")
       ("L77 Drama et al. 2025<br/>Public investment efficiency — health/education &gt; infrastructure; corruption control strongest")
     ("J. Circular Economy")
       ("L81 Su, Heshmati, Geng &amp; Yu 2013<br/>CE China — Dalian case, top-down 2-agency governance")
-        ("L86 Heshmati &amp; Rashidghalam 2021 — Sweden case, PCA 273 municipalities, decentralized/price governance")
+        ("⭐ L86 Heshmati &amp; Rashidghalam 2021 — Sweden case, PCA 273 municipalities, decentralized/price governance")
       ("L82 Heshmati 2017 — global CE review + entrepreneurship, 'panacea hypothesis'")
       ("L83 Kirchherr et al. 2018<br/>EU CE barriers, large-N — culture ranks first, technology ranks LAST")
       ("L84 García-Barragán et al. 2019 — mathematical definition Cₜ*=Rₜ*−Lₜ*, purely theoretical")
-      ("L85 Saidani et al. 2019 — taxonomy of 10 categories for 55 existing C-indicator sets")
+      ("⭐ L85 Saidani et al. 2019 — taxonomy of 10 categories for 55 existing C-indicator sets")
       ("L87 Nademi &amp; Sedaghat Kalmarzi 2025 — CE reduces unemployment in Europe, panel GMM")
       ("L88 Luengo Vera et al. 2025 — bibliometric innovation-CE-SDG, 1630 Scopus papers")
     ("K. AI &amp; Digitalization")
       ("L91 Pham, Luu, Phong et al. 2020<br/>Hybrid AI+MCDA — flood risk, Quang Nam")
         ("L92 Rakholia et al. 2022 — PM2.5 forecasting channel, HCMC, SGD beats CNN-LSTM")
-      ("L93 Pham, Nong, Simshauser et al. 2024<br/>VN's AI investment lags the region, policy review")
+      ("⭐ L93 Pham, Nong, Simshauser et al. 2024<br/>VN's AI investment lags the region, policy review")
         ("L94 Dang, Tran, Dang &amp; Bui 2024 — VN digital economy grows in scale, spillover flat")
-        ("L95 Nguyen Van Tam et al. 2024 — VN construction digitalization barriers, people &gt; technology")
+        ("⭐ L95 Nguyen Van Tam et al. 2024 — VN construction digitalization barriers, people &gt; technology")
         ("L96 Kuosmanen, Pajarinen &amp; Heshmati 2025 — digital intensity ↔ performance, Finland, digital divide")
     ("L. Trade War &amp; Protectionism")
       ("L101 Robinson &amp; Thierfelder 2024<br/>CGE — world adjusts via trade diversion around the US")
       ("L102 Alessandria et al. 2025 — policy uncertainty shifts from temporary to structural")
       ("L103 Che, Lin &amp; Zhang 2025 — evasion explains 69.70% of the US-China statistical gap")
-      ("L104 Sheng, Song &amp; Zheng 2025 — China diverts VERTICALLY (VTD), not horizontally as predicted")
+      ("⭐ L104 Sheng, Song &amp; Zheng 2025 — China diverts VERTICALLY (VTD), not horizontally as predicted")
       ("L105 Almazán-Gómez et al. 2025 — regional NUTS-2 EU impact, every region affected")
       ("L106 Dang, Yawei &amp; Abdullah 2024<br/>DiD — VN exports to US +14%, intermediate goods")
-      ("L107 Toai 2025 — VN benefits from trade diversion but deepens dependence on Chinese inputs")
+      ("⭐ L107 Toai 2025 — VN benefits from trade diversion but deepens dependence on Chinese inputs")
 ```
 
 ## The 12 Clusters Explained

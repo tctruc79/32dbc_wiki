@@ -4,7 +4,7 @@ type: overview
 title: "Course Overview — Development Issues and Business Cycle (Class 32, 2026)"
 tags: [course-map, syllabus]
 created: 2026-07-20
-updated: 2026-08-13
+updated: 2026-08-28
 status: complete
 
 ---
@@ -13,6 +13,15 @@ status: complete
 
 Bản đồ môn học. Nguồn: [[syllabus-2026]], [[essays-instructions]].<br><span class="en">The
 course map. Sources: [[syllabus-2026]], [[essays-instructions]].</span>
+
+> ⭐ **Shortlist chính thức K32 đã có (28/8/2026)** — phạm vi thi viết 06/9 chốt ở **20 bài**:
+> `L14 L15 · L25 L26 · L32 L34 · L45 L46 · L52 L55 · L61 L64 · L71 L73 · L85 L86 · L93 L95 ·
+> L104 L107`. Trang đầy đủ: [[k32-shortlist-2026]]. Bản dự đoán [[shortlist-prediction]] đã đóng
+> lại (trúng 8/20 tính cả cột á quân).<br><span class="en">⭐ **The official K32 shortlist is out
+> (28/8/2026)** — the scope of the 06/9 written exam is fixed at **20 papers**: `L14 L15 · L25 L26
+> · L32 L34 · L45 L46 · L52 L55 · L61 L64 · L71 L73 · L85 L86 · L93 L95 · L104 L107`. Full page:
+> [[k32-shortlist-2026]]. The [[shortlist-prediction]] page is now closed (8/20 correct including
+> the runner-up column).</span>
 
 ## Thông tin chung - <span class="en">General information</span>
 
@@ -35,7 +44,7 @@ course map. Sources: [[syllabus-2026]], [[essays-instructions]].</span>
 |---|---|
 | Nộp title + abstract essay | 28/6 |
 | Teaching period (10 buổi, 18:00–20:30, H104 — lịch chi tiết: [[ln0-course-intro]]) | 22/7 – 12/8 |
-| Shortlist 20 bài đọc cho written exam | **30/8** (cập nhật trong lớp — syllabus gốc ghi 23/8) |
+| Shortlist 20 bài đọc cho written exam | ✅ **28/8** — ĐÃ NHẬN, xem [[k32-shortlist-2026]] (sớm hơn mốc 30/8 thông báo trong lớp) |
 | Written exam | ✅ **06/9** — đã xác nhận (giải quyết mâu thuẫn syllabus 30/8 vs LN0 06/9 trước đây), xem [[ln0-course-intro]] |
 | Nộp essay hoàn chỉnh | 13/9 |
 | Công bố điểm | 20/9 |

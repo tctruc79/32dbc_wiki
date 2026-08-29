@@ -1,7 +1,7 @@
 ---
 type: source
 title: "L95 — Van Tam, Quoc Toan & Van Phong (2024) — Investigating Potential Barriers to Construction Digitalization in Emerging Economies: A Study in Vietnam"
-tags: [construction, digitalization, barriers, vietnam, stakeholder-theory, efa, anova, survey]
+tags: [construction, digitalization, barriers, vietnam, stakeholder-theory, efa, anova, survey, k32-shortlist]
 created: 2026-08-07
 updated: 2026-08-07
 status: complete
@@ -9,6 +9,8 @@ source_file: "raw/3. LECTURE NOTES/LN9 AI digitalization economic development an
 ---
 
 # L95 — Nguyen Van Tam, Nguyen Quoc Toan & Vu Van Phong (2024), International Journal of Information Management Data Insights 4(1): 100226
+> ⭐ ⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper also **repeats from the K31 shortlist**, and has already been asked on a real exam (K31·Q3). See [[k32-shortlist-2026]].
+
 
 **Authors**: Nguyen Van Tam (corresponding author, tamnv2@huce.edu.vn), Nguyen Quoc Toan, Vu Van
 Phong — Faculty of Construction Economics and Management, Hanoi University of Civil Engineering,

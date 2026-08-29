@@ -1,13 +1,53 @@
 ---
 type: synthesis
 title: "Dự đoán Shortlist 20 bài thi cuối kỳ K32"
-tags: [exam-prep, shortlist-prediction, k32, k31-final-exam, k31-shortlist-2025]
+tags: [exam-prep, shortlist-prediction, k32, k31-final-exam, k31-shortlist-2025, k32-shortlist, resolved]
 created: 2026-08-04
-updated: 2026-08-15
+updated: 2026-08-28
 status: complete
 ---
 
 # Dự đoán Shortlist 20 bài thi cuối kỳ K32 - <span class="en">Predicting the K32 Final-Exam 20-Paper Shortlist</span>
+
+> 🏁 **ĐÃ KẾT THÚC 2026-08-28 — shortlist thật đã công bố, trang này KHÔNG còn dùng để ôn thi.**
+> Xem [[k32-shortlist-2026]] để lấy đúng 20 bài chính thức. Trang này từ nay chỉ giữ giá trị hồ sơ
+> phương pháp (dự đoán đã sai ở đâu và vì sao). **Điểm số cuối cùng: 4/20 ở cột chính (mục 2),
+> thêm 4/20 ở cột á quân (mục 4) — tổng 8/20 (40%).** Nguyên nhân gốc: tiền đề "GS sẽ không lặp
+> lại 20 bài K31" (mục 1b) được diễn giải quá mạnh thành quy tắc loại trừ tuyệt đối, trong khi
+> thực tế GS giữ lại 11/20 bài K31. Nếu không loại trừ mà giữ nguyên bản 2026-08-08 thì đã trúng
+> 11/20 (55%). Cảnh báo ở mục 1c (viết 2026-08-15) hóa ra đúng nhưng chưa kịp dùng để sửa mục 2.
+> Phân tích đầy đủ ở mục 4 của [[k32-shortlist-2026]].<br><span class="en">🏁 **CLOSED 2026-08-28
+> — the real shortlist has been published; this page is NO LONGER for exam prep.** See
+> [[k32-shortlist-2026]] for the official 20. From here on this page is kept only as a
+> methodological record (where the prediction went wrong and why). **Final score: 4/20 in the main
+> column (section 2), plus 4/20 in the runner-up column (section 4) — 8/20 (40%) in total.** Root
+> cause: the premise "the professor won't repeat the 20 K31 papers" (section 1b) was
+> over-interpreted into an absolute exclusion rule, whereas he in fact retained 11/20 of them.
+> Without that exclusion — i.e. had the 2026-08-08 version stood — the hit rate would have been
+> 11/20 (55%). The warning in section 1c (written 2026-08-15) turns out to have been right but was
+> never used to revise section 2. Full analysis in section 4 of [[k32-shortlist-2026]].</span>
+
+**Chấm điểm chi tiết từng dòng của mục 2** (so với 20 bài thật):<br><span class="en">**Row-by-row
+scoring of section 2** (against the real 20):</span>
+
+| Dự đoán mục 2 | Kết quả | Bài thật của lecture đó |
+|---|---|---|
+| LN1: L12, **L14** | 1/2 ✅ | L14, L15 (L15 nằm ở cột á quân) |
+| LN2: L22, **L26** | 1/2 ✅ | L25 (á quân), L26 |
+| LN3: L33, **L34** | 1/2 ✅ | L32 (bị loại vì tiền đề K31), L34 |
+| LN4: L41, L44 | 0/2 ❌ | L45 (loại vì K31), L46 (không nghĩ tới) |
+| LN5: L54, L56 | 0/2 ❌ | L52 (loại vì K31), L55 (á quân) |
+| LN6: L62, L63 | 0/2 ❌ | L61, L64 — cả 2 đều bị loại vì K31 |
+| LN7: L74, L77 | 0/2 ❌ | L71, L73 — cả 2 đều bị loại vì K31 |
+| LN8: L82, L87 | 0/2 ❌ | L85 (á quân), L86 (loại vì K31) |
+| LN9: L91, L94 | 0/2 ❌ | L93, L95 — cả 2 đều bị loại vì K31 |
+| LN10: **L104**, L106 | 1/2 ✅ | L104, L107 (loại vì K31) |
+
+Ba buổi học (LN6, LN7, LN9) trúng 0/2 **chỉ vì** cả 2 bài thật đều là bài K31 bị loại theo tiền
+đề — chứ không phải vì suy luận chủ đề sai. Đây là bằng chứng rõ nhất rằng lỗi nằm ở đúng một tiền
+đề duy nhất.<br><span class="en">Three lectures (LN6, LN7, LN9) scored 0/2 **solely because** both
+of their real papers were K31 papers excluded by the premise — not because the thematic reasoning
+was wrong. This is the clearest evidence that the error traces to exactly one premise.</span>
 
 Trang này trả lời câu hỏi: trong 62 paper đã deep-ingest (LN1–LN10, đầy đủ toàn bộ 10 lecture),
 20 bài nào có khả năng cao nhất lọt vào shortlist chính thức mà GS Heshmati sẽ gửi **30/8** cho
@@ -347,6 +387,11 @@ section 2 is PURE inference from the remaining 42 candidates, with no lecture un
 
 ## Liên kết - <span class="en">Links</span>
 
+- [[k32-shortlist-2026]] — 🏆 **shortlist THẬT, đã công bố 28/8/2026** — trang thay thế trang này
+  cho mọi mục đích ôn thi; mục 4 của trang đó phân tích đầy đủ vì sao dự đoán ở đây
+  sai.<br><span class="en">[[k32-shortlist-2026]] — 🏆 **the REAL shortlist, published
+  28/8/2026** — the page that supersedes this one for all exam-prep purposes; its section 4
+  analyses in full why the prediction here missed.</span>
 - [[ln0-course-intro]] — nguồn thông tin "GS sẽ không lặp lại shortlist K31" + cấu trúc đề thi mới
   (2 bắt buộc + 4 tự chọn, 2h, đề đóng) làm tiền đề cho phương pháp dự đoán mới ở trang
   này.<br><span class="en">[[ln0-course-intro]] — source of the "professor won't repeat the K31

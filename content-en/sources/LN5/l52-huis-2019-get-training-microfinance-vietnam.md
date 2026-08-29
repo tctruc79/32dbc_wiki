@@ -1,7 +1,7 @@
 ---
 type: source
 title: "L52 — Huis, Lensink, Vu & Hansen (2019) — Impacts of the GET Ahead Training on Empowerment of Female Microfinance Borrowers in Northern Vietnam"
-tags: [women-empowerment, microfinance, randomized-controlled-trial, vietnam, gender]
+tags: [women-empowerment, microfinance, randomized-controlled-trial, vietnam, gender, k32-shortlist]
 created: 2026-07-29
 updated: 2026-07-31
 status: complete
@@ -9,6 +9,8 @@ source_file: "raw/3. LECTURE NOTES/LN5 Entrepreneurship and economic development
 ---
 
 # L52 — Huis, Lensink, Vu & Hansen (2019), World Development 120: 46–61
+> ⭐ ⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper also **repeats from the K31 shortlist**. See [[k32-shortlist-2026]].
+
 
 **Authors**: Marloes Huis (Social Psychology, University of Groningen), Robert Lensink
 (Economics/Econometrics/Finance, University of Groningen & Wageningen University), Nhung Vu

@@ -1,13 +1,43 @@
 ---
 type: synthesis
 title: "Predicting the K32 Final-Exam 20-Paper Shortlist"
-tags: [exam-prep, shortlist-prediction, k32, k31-final-exam, k31-shortlist-2025]
+tags: [exam-prep, shortlist-prediction, k32, k31-final-exam, k31-shortlist-2025, k32-shortlist, resolved]
 created: 2026-08-04
-updated: 2026-08-15
+updated: 2026-08-28
 status: complete
 ---
 
 # Predicting the K32 Final-Exam 20-Paper Shortlist
+
+
+> 🏁 **CLOSED 2026-08-28 — the real shortlist has been published; this page is NO LONGER for exam
+> prep.** See [[k32-shortlist-2026]] for the official 20. From here on this page is kept only as a
+> methodological record (where the prediction went wrong and why). **Final score: 4/20 in the main
+> column (section 2), plus 4/20 in the runner-up column (section 4) — 8/20 (40%) in total.** Root
+> cause: the premise "the professor won't repeat the 20 K31 papers" (section 1b) was
+> over-interpreted into an absolute exclusion rule, whereas he in fact retained 11/20 of them.
+> Without that exclusion — i.e. had the 2026-08-08 version stood — the hit rate would have been
+> 11/20 (55%). The warning in section 1c (written 2026-08-15) turns out to have been right but was
+> never used to revise section 2. Full analysis in section 4 of [[k32-shortlist-2026]].
+
+**Row-by-row scoring of section 2** (against the real 20):
+
+| Predicted (section 2) | Result | Real papers for that lecture |
+|---|---|---|
+| LN1: L12, **L14** | 1/2 ✅ | L14, L15 (L15 in the runner-up column) |
+| LN2: L22, **L26** | 1/2 ✅ | L25 (runner-up), L26 |
+| LN3: L33, **L34** | 1/2 ✅ | L32 (excluded due to the K31 premise), L34 |
+| LN4: L41, L44 | 0/2 ❌ | L45 (excluded due to K31), L46 (not considered) |
+| LN5: L54, L56 | 0/2 ❌ | L52 (excluded due to K31), L55 (runner-up) |
+| LN6: L62, L63 | 0/2 ❌ | L61, L64 — both excluded due to K31 |
+| LN7: L74, L77 | 0/2 ❌ | L71, L73 — both excluded due to K31 |
+| LN8: L82, L87 | 0/2 ❌ | L85 (runner-up), L86 (excluded due to K31) |
+| LN9: L91, L94 | 0/2 ❌ | L93, L95 — both excluded due to K31 |
+| LN10: **L104**, L106 | 1/2 ✅ | L104, L107 (excluded due to K31) |
+
+Three lectures (LN6, LN7, LN9) scored 0/2 **solely because** both of their real papers were K31
+papers excluded by the premise — not because the thematic reasoning was wrong. This is the
+clearest evidence that the error traces to exactly one premise.
 
 This page answers: among the 62 deep-ingested papers (LN1–LN10, the full 10-lecture set), which 20 are most likely to land in the official shortlist Prof. Heshmati will send on **30/8** for the **06/9** written exam ([[ln0-course-intro]])? Synthesized from [[k31-shortlist-2025]] (the OFFICIAL 20-paper shortlist document the professor sent to the K31 cohort in 2025 — direct evidence, not inference), [[k31-final-exam]] (the previous cohort's real exam, used as a cross-check), and [[exam-prep]] (the 62-paper lookup table).
 
@@ -109,6 +139,7 @@ The most notable runner-ups: **L81** (LN8 — the professor is also a co-author,
 
 ## Links
 
+- [[k32-shortlist-2026]] — 🏆 **the REAL shortlist, published 2026-08-28** — the page that supersedes this one for all exam-prep purposes; its section 4 analyses in full why the prediction here missed.
 - [[ln0-course-intro]] — source of the "professor won't repeat the K31 shortlist" information + the new exam structure (2 compulsory + 4 elective, 2h, closed-book) underpinning this page's new prediction method.
 - [[k31-shortlist-2025]] — the real K31 shortlist document, the foundational evidence for sections 1/1b/3 (structure + selection pattern), though the 20 specific paper codes can no longer be used directly for section 2.
 - [[k31-final-exam]] — K31's real exam, cross-confirming all 6/6 questions.

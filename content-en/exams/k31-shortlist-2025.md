@@ -1,14 +1,20 @@
 ---
 type: exam
 title: "K31 (2025) — Short List of Reading for the Written Exam"
-tags: [exam, past-exam, k31, shortlist, syllabus, reading-list]
+tags: [exam, past-exam, k31, shortlist, syllabus, reading-list, k32-shortlist]
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-08-28
 status: complete
 source_file: "raw/3. LECTURE NOTES/Short Reading list-2025 UEH Dev issues and business cycle Class 31.pdf"
 ---
 
 # K31 (2025) — Short List of Reading for the Written Exam
+> 🏆 **The K32 shortlist was published 2026-08-28 — this page is now a COMPARISON baseline, no
+> longer predictive evidence.** Result: **11/20 of the papers below were retained verbatim for
+> K32** (L32, L45, L52, L61, L64, L71, L73, L86, L93, L95, L107); 9 were dropped (L11, L13, L21,
+> L24, L31, L42, L51, L84, L101). Lectures LN6/LN7/LN9 kept both papers identical across the two
+> cohorts. See [[k32-shortlist-2026]].
+
 
 ✅ **A new source, the HIGHEST-quality evidence currently available for predicting K32's
 shortlist**: this is the OFFICIAL "Short list of reading for the written exam in 2025" document

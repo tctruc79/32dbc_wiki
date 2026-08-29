@@ -1,14 +1,17 @@
 ---
 type: source
 title: "L86 — Heshmati & Rashidghalam (2021) — Assessment of the Urban Circular Economy in Sweden"
-tags: [circular-economy, sweden, principal-component-analysis, panel-data, municipalities]
+tags: [circular-economy, sweden, principal-component-analysis, panel-data, municipalities, k32-shortlist]
 created: 2026-08-01
-updated: 2026-08-04
+updated: 2026-08-28
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN8 Circular economy inclusive and sustainable development/L86 JCP-2021 Heshmati-Rashidghalam Assessment of the urban circular economy in Sweden.pdf"
 ---
 
 # L86 — Heshmati, A. & Rashidghalam, M. (2021), Journal of Cleaner Production 310: 127475
+
+> ⭐ **NẰM TRONG SHORTLIST CHÍNH THỨC K32** — bài này là 1 trong 20 bài GS Heshmati chốt ngày 28/8/2026 làm phạm vi ra đề cho kỳ thi viết 06/9. Bài này còn **lặp lại từ shortlist K31**. Xem [[k32-shortlist-2026]].<br><span class="en">⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper also **repeats from the K31 shortlist**. See [[k32-shortlist-2026]].</span>
+
 
 **Tác giả**: Almas Heshmati (Jönköping International Business School, Thụy Điển — GS phụ trách môn
 học này, xem [[almas-heshmati]]), Masoomeh Rashidghalam (University of Tabriz, Iran). DOI:

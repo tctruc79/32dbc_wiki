@@ -1,14 +1,17 @@
 ---
 type: source
 title: "L32 — Jiang, Levine & Lin (2019) — Competition and Bank Liquidity Creation"
-tags: [banking-crisis, liquidity-creation, competition, deregulation]
+tags: [banking-crisis, liquidity-creation, competition, deregulation, k32-shortlist]
 created: 2026-07-26
-updated: 2026-08-04
+updated: 2026-08-28
 status: complete
 source_file: "raw/3. LECTURE NOTES/LN3 Financial crisis and pandemics/L32 JFQA-2019 Jiang et al Competition and bank liquidity creation.pdf"
 ---
 
 # L32 — Jiang, Levine & Lin (2019), Journal of Financial and Quantitative Analysis 54(2): 513–538
+
+> ⭐ **NẰM TRONG SHORTLIST CHÍNH THỨC K32** — bài này là 1 trong 20 bài GS Heshmati chốt ngày 28/8/2026 làm phạm vi ra đề cho kỳ thi viết 06/9. Bài này còn **lặp lại từ shortlist K31**. Xem [[k32-shortlist-2026]].<br><span class="en">⭐ **ON THE OFFICIAL K32 SHORTLIST** — this is one of the 20 papers Prof. Heshmati fixed on 28/8/2026 as the question scope for the 06/9 written exam. This paper also **repeats from the K31 shortlist**. See [[k32-shortlist-2026]].</span>
+
 
 **Tác giả**: Liangliang Jiang (Hong Kong Polytechnic University), Ross Levine (UC Berkeley Haas
 School of Business), Chen Lin (University of Hong Kong).<br><span class="en">**Authors**:
