@@ -14,7 +14,7 @@ also_covers:
 
 Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo sư cho bài **LN5 — Tinh thần Doanh nhân và Phát triển Kinh tế** (nguồn: `LNs_VN/LN5_VN.md` + `LNs_EN/LN5_EN.md`, người dùng tự dịch riêng từng bản, Claude ghép cặp theo từng slide). Khác với trang tóm tắt [[ln5-entrepreneurship-economic-development]] (do Claude tổng hợp theo luận điểm), trang này là bản dịch đầy đủ từng slide, hữu ích khi cần đối chiếu chính xác cách giáo sư trình bày trên lớp. Ở slide nào số dòng nội dung giữa 2 bản không khớp nhau (khác cách tách câu khi dịch), trang ghép theo khối (toàn bộ tiếng Việt trước, toàn bộ tiếng Anh sau) thay vì ghép từng dòng để tránh sai lệch nội dung.<br><span class="en">A translation staying close to the original wording of each of the professor's slides for **LN5 — Entrepreneurship and Economic Development** (source: `LNs_VN/LN5_VN.md` + `LNs_EN/LN5_EN.md`, each translated independently by the user, paired slide-by-slide by Claude). Unlike the [[ln5-entrepreneurship-economic-development]] summary page (synthesized by Claude by argument), this page is the full slide-by-slide translation, useful for checking exactly how the professor presented the material in class. Where the number of content lines differs between the two versions (different sentence-splitting choices during translation), the page pairs them as whole blocks (all Vietnamese first, then all English) instead of line-by-line, to avoid misaligned content.</span>
 
-### Slide 1: Thông tin Bài giảng - <span class="en">Lecture Information</span>
+### Thông tin Bài giảng - <span class="en">Lecture Information</span>
 
 - **MSc Course:** Khóa học Thạc sĩ Khoa học
 - **Development Issues and Business Cycle:** Các vấn đề Phát triển và Chu kỳ Kinh doanh
@@ -28,7 +28,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• MSc Course: Development Issues and Business Cycle<br>• Lecture Notes 5: Entrepreneurship and Economic Development<br>• Almas Heshmati<br>• Visiting Professor of Economics<br>• University of Economics Ho Chi Minh city<br>• E-mail: almas.heshmati@gmail.com<br>• July-September 2026</span>
 
-### Slide 2: Danh sách các bài giảng (List of Lectures) - <span class="en">List of Lectures</span>
+### Danh sách các bài giảng (List of Lectures) - <span class="en">List of Lectures</span>
 
 - 1. Economic Development: Phát triển Kinh tế<br><span class="en">1. Economic Development</span>
 - 2. Governance, Institutions and Policy Making: Quản trị, Thể chế và Hoạch định Chính sách<br><span class="en">2. Governance, Institutions and Policy Making</span>
@@ -41,7 +41,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 - 9. Al, Digitalization, Economic Growth and Development: Trí tuệ Nhân tạo (AI), Số hóa, Tăng trưởng và Phát triển Kinh tế<br><span class="en">9. AI, Digitalization, Economic Growth and Development</span>
 - 10. Trade Tariffs and Discuss Exam-Essay-Grades-Publications: Thuế quan Thương mại và Thảo luận về Thi - Tiểu luận - Điểm số - Xuất bản<br><span class="en">10. Trade Tariffs and Discuss Exam-Essay-Grades-Publications</span>
 
-### Slide 3: Bài giảng 5. Tinh thần Doanh nhân và Phát triển Kinh tế - <span class="en">Lecture 5. Entrepreneurship and Economic Development</span>
+### Bài giảng 5. Tinh thần Doanh nhân và Phát triển Kinh tế - <span class="en">Lecture 5. Entrepreneurship and Economic Development</span>
 
 - Nguyen, T.L. (2023). Định hướng Khởi nghiệp ảnh hưởng đến Hiệu suất của các DNVVN do Phụ nữ làm chủ: Bằng chứng từ Việt Nam. *Tạp chí Tài chính, Kinh tế và Kinh doanh Châu Á* (Journal of Asian Finance, Economics and Business), 10(1), 0223-0232.<br><span class="en">Nguyen, T.L. (2023). Entrepreneurial Orientation Affecting the Performance of Women-Owned SMEs: Evidence from Vietnam. Journal of Asian Finance, Economics and Business, 10(1), 0223-0232.</span>
 - Huis, M., Lensink, R. and Hansen, N. (2019). Tác động của chương trình đào tạo về giới và khởi nghiệp cùng tiến (get ahead) đối với sự tiến bộ của những người vay vốn vi mô nữ ở miền Bắc Việt Nam. *Phát triển Thế giới* (World Development), 120, 61-66.<br><span class="en">Huis, M., Lensink, R. and Hansen, N. (2019). Impacts of the gender and entrepreneurship together ahead (get ahead) training on improvement of female microfinance borrowers in northern Vietnam. World Development, 120, 61-66.</span>
@@ -50,7 +50,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 - Stein et al. (2026), Bồi dưỡng các điều kiện cho tinh thần doanh nhân kỹ thuật số: Vai trò của các doanh nhân thể chế trong việc thúc đẩy hệ sinh thái FinTech. *Technovation*, 150, 103386.<br><span class="en">Stein et al. (2026), Fostering conditions for digital entrepreneurship: The role of institutional entrepreneurs in driving FinTech ecosystem. Technovation, 150, 103386.</span>
 - Sharma-Subba (2025), Tinh thần doanh nhân và tính bền vững: phân tích tác động của các công ty khởi nghiệp xanh đối với phát triển kinh tế. *Đổi mới và Phát triển Xanh* (Innovation and Green Development), 4, 100280.<br><span class="en">Sharma-Subba (2025), Entrepreneurship and sustainability: analyzing the impact of green startups on economic development. Innovation and Green Development, 4, 100280.</span>
 
-### Slide 4: Định hướng Khởi nghiệp ảnh hưởng đến Hiệu suất của các DNVVN do Phụ nữ làm chủ từ Việt Nam (Nguyen, 2023) - Phần 1/6 - <span class="en">Nguyen, T.L. (2023). Entrepreneurial Orientation Affecting the Performance of Women-Owned SMEs from Vietnam. JAFEB. 1(6)</span>
+### Định hướng Khởi nghiệp ảnh hưởng đến Hiệu suất của các DNVVN do Phụ nữ làm chủ từ Việt Nam (Nguyen, 2023) - Phần 1/6 - <span class="en">Nguyen, T.L. (2023). Entrepreneurial Orientation Affecting the Performance of Women-Owned SMEs from Vietnam. JAFEB. 1(6)</span>
 
 - Các Doanh nghiệp vừa và nhỏ (SMEs) đóng một vai trò thiết yếu trong tăng trưởng kinh tế. Họ có vai trò chiến lược trong việc hỗ trợ tăng trưởng kinh tế quốc gia. Nhiều chương trình đã được khởi xướng để hỗ trợ các SMEs. Các SMEs tại Việt Nam chiếm khoảng 98% tổng số doanh nghiệp và là động lực chính của phát triển kinh tế-xã hội, tạo việc làm, và tăng trưởng công nghệ.
 - Các SMEs do phụ nữ làm chủ chiếm 26,5% trong số các doanh nghiệp đang hoạt động và có đóng góp vào sự phát triển kinh tế cùng bình đẳng giới. Tuy nhiên, các SMEs do phụ nữ làm chủ phải đối mặt với nhiều rào cản hơn so với các doanh nghiệp do nam giới làm chủ, điều này có thể làm giảm đóng góp của họ đối với sự tăng trưởng kinh doanh và phát triển xã hội.
@@ -61,7 +61,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• SMEs play an essential role in the economic growth. They have a strategic role in supporting national economic growth. Many programs have been launched to support SMEs. SMEs in Vietnam account for about 98% of firms and main drivers of socioeconomic development, job creation, and technological growth.<br>• Women-owned SMEs account for 26.5% of the active enterprises and contribute to economic development and the gender equality. However, women-owned SMEs face many barriers compared to male-owned enterprises, which can reduce their contribution to business growth and social development.<br>• Nguyen examines the impact of five dimensions of entrepreneurial orientation (EO) (innovation, competitive aggressiveness, proactiveness, risk-taking, and autonomy) on performance of the women-owned SMEs in Vietnam.<br>• A survey research design and a theoretical framework was developed. A simple random sampling technique was applied to 300 SMEs in Vietnam through a survey questionnaire, and 258 valid responses were assessed. Cronbach's a test and factor analysis was carried out to test the reliability of data and validate the hypothesis.<br>• Results show that innovation, competitive aggressiveness, proactiveness, and autonomy positively, while risk-taking negatively affects business performance. Female business owners should know how to improve each dimension. Government agencies to consult and introduce effective business support policies.</span>
 
-### Slide 5: Giả thuyết (Nguyen, 2023) - Phần 2/6 - <span class="en">Hypothesis 2(6)</span>
+### Giả thuyết (Nguyen, 2023) - Phần 2/6 - <span class="en">Hypothesis 2(6)</span>
 
 - **Định hướng Khởi nghiệp (EO):** EO là một sự định vị có tính toán ở cấp độ doanh nghiệp, trong đó phác thảo ra các phương pháp hoạch định chiến lược, triết lý quản lý, và các hành vi doanh nghiệp có bản chất kinh doanh của công ty. EO là quá trình mà một công ty thực hiện để thâm nhập vào một thị trường mới và thường được nhìn nhận dưới góc độ chấp nhận rủi ro, đổi mới sáng tạo, và tính chủ động.<br><span class="en">Entrepreneurial Orientation: EO is a planned corporate-level positioning that outlines the company's strategic planning methods, management philosophies, and corporate behaviors of a business nature. EO is the process a firm takes to enter a new market and is often viewed in terms of risk-taking, innovation, and initiative.</span>
 - **Hiệu suất kinh doanh:** Hiệu suất được định nghĩa là khả năng tạo ra hành động và kết quả có thể chấp nhận được của một công ty. Hiệu suất kinh doanh có thể được đo lường bằng nhiều cách khác nhau; ví dụ như giá trị gia tăng, lợi nhuận trên tài sản, và tỷ suất lợi nhuận ròng trên vốn chủ sở hữu (ROE).<br><span class="en">Business performance: The performance is defined as a firm's ability to create action and acceptable results. Business performance can be measured in different ways; like value added, return on assets, and return on equity.</span>
@@ -72,7 +72,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 - **H4:** Tính hiếu thắng trong cạnh tranh (Competitive aggressiveness) có tác động tích cực và có ý nghĩa đến hiệu suất kinh doanh.<br><span class="en">H4: Competitive aggressiveness has a positive and significant effect on business performance.</span>
 - **H5:** Tính tự chủ (Autonomy) có tác động tích cực và có ý nghĩa đến Hiệu suất Kinh doanh.<br><span class="en">H5: Autonomy has a positive and significant effect on Business Performance.</span>
 
-### Slide 6: Khung Nghiên cứu (Nguyen, 2023) - Phần 3/6 - <span class="en">Research Framework 3(6)</span>
+### Khung Nghiên cứu (Nguyen, 2023) - Phần 3/6 - <span class="en">Research Framework 3(6)</span>
 
 - **Khung Nghiên cứu:**
 - Khảo sát mối quan hệ giả thuyết giữa các khía cạnh của EO đóng vai trò là các biến độc lập và hiệu suất kinh doanh (giá trị gia tăng, lợi nhuận trên tài sản, và lợi nhuận trên vốn chủ sở hữu) của các SMEs do phụ nữ làm chủ với vai trò là biến phụ thuộc. Sáu biến số được đo lường bao gồm hiệu suất kinh doanh của các doanh nghiệp, sự đổi mới sáng tạo, tính hiếu thắng trong cạnh tranh, sự chủ động, sự chấp nhận rủi ro, và tính tự chủ. Hình 1 trình bày mô hình:
@@ -81,7 +81,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Examine the hypothetical relationship between dimensions of EO as independent variables and the business performance (value added, return on assets, and return on equity) of women-owned SMEs as a dependent variable. The six measured variables include the business performance of enterprises, innovation, competitive aggressiveness, proactiveness, risk-taking, and autonomy. Figure 1 presents the model:<br>• Generalized regression analysis is used to explain the impact of EO's on firm performance. Descriptive statistics describe the data. Normality, variance, and collinearity tests are performed to test the estimation assumptions.<br>• Figure 1: Conceptual Framework of Research. Shows Proactiveness, Innovative, Risk-taking, Competitive Aggressiveness, and Autonomy pointing to Business Performance.</span>
 
-### Slide 7: Dữ liệu (Nguyen, 2023) - Phần 4/6 - <span class="en">The Data 4(6)</span>
+### Dữ liệu (Nguyen, 2023) - Phần 4/6 - <span class="en">The Data 4(6)</span>
 
 - **Bảng 1** cho thấy hầu hết các nữ doanh nhân tham gia phỏng vấn đều ở độ tuổi từ 35-50, với kinh nghiệm điều hành doanh nghiệp từ 3-8 năm.
 - **Bảng 2** cho thấy các hệ số Cronbach's alpha đều lớn hơn 0.7, ngụ ý rằng các biến số này có tính nhất quán nội tại (internally consistent), và thang đo này là phù hợp cho các phép phân tích.
@@ -94,7 +94,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Table 1 shows that most female entrepreneurs participating in the interviews are aged 35-50, with 3-8 years of operating the business.<br>• Table 2 shows that Cronbach's alpha coefficients are all greater than 0.7, implies that the variables are internally consistent, and the scale is suitable for analyses.<br>• Table 1: Information on Female CEOs and Their Business. Age, Experience, Number of employees, Type of business.<br>• Table 2: Summary of Cronbach's Alpha Coefficients of Observed Variables.</span>
 
-### Slide 8: Kết quả Hồi quy (Nguyen, 2023) - Phần 5/6 - <span class="en">Regression Results 5(6)</span>
+### Kết quả Hồi quy (Nguyen, 2023) - Phần 5/6 - <span class="en">Regression Results 5(6)</span>
 
 - **Kết quả Hồi quy:**
 - Phương trình hồi quy có dạng như sau:
@@ -105,14 +105,14 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• The regression has the following form:<br>• BP = 0.385 + 0.328 Inno + 0.301 Pro + (-0.111) Risk + 0.134 Compe + 0.220 Auto<br>• Business Performance (BP) depends on five factors: (1) Innovative (Inno), (2) Pro-activeness (Pro), (3) Risk-taking (Risk), (4) Competitive Aggressiveness (Compe) (5) Autonomy (Auto). A 5-level Likert scale measures the variables, all five hypotheses given are accepted.<br>• Note: Tolerance = 1/VIF. VIF > 7 and tolerance < 0.2 are indications of collinearity, Standardized Beta = (b - mean of b) / std dev of b.<br>• Table 5: Coefficients. Shows all independent variables are significant (Sig. < 0.05). Risk has negative coefficient, rest are positive.</span>
 
-### Slide 9: Kết luận (Nguyen, 2023) - Phần 6/6 - <span class="en">Conclusion 6(6)</span>
+### Kết luận (Nguyen, 2023) - Phần 6/6 - <span class="en">Conclusion 6(6)</span>
 
 - Các phát hiện cho thấy định hướng khởi nghiệp (EO) rất hữu ích trong vai trò một yếu tố dự báo về hiệu suất của các SMEs do phụ nữ làm chủ tại Việt Nam. Các khía cạnh của EO bao gồm sự đổi mới, sự chủ động, tính hiếu thắng trong cạnh tranh, và tính tự chủ, mang lại tác động dương (tích cực) đối với hiệu suất kinh doanh, ngoại trừ sự chấp nhận rủi ro, yếu tố có tác động âm (tiêu cực) đáng kể.<br><span class="en">Findings show that entrepreneurial orientation (EO) is helpful as a predictor of the performance of women-owned SMEs in Vietnam. EO dimensions of innovation, proactiveness, competitive aggressiveness, and autonomy, have a positive impact on business performance, except risk-taking, which has a significant negative impact.</span>
 - Nó đóng góp vào sự hiểu biết về một khuôn khổ đa chiều của định hướng kinh doanh. Sự đổi mới, sự chủ động, sự chấp nhận rủi ro, tính hiếu thắng trong cạnh tranh, và tính tự chủ có thể được đem ra kiểm tra một cách riêng biệt.<br><span class="en">It contributes to understanding of the multidimensional framework of business orientation. Innovation, proactiveness, risk-taking, competitive aggressiveness, and Autonomy can be tested separately.</span>
 - Khuôn khổ này cung cấp những hiểu biết sâu sắc cho các SMEs, các nữ doanh nhân, bằng việc giải thích sự ảnh hưởng của EO đối với hiệu suất kinh doanh. Nghiên cứu này bổ sung vào kho tàng tài liệu về tinh thần doanh nhân bằng cách áp dụng năm khía cạnh của EO. Nghiên cứu trước đây chỉ sử dụng 3 khía cạnh của EO.<br><span class="en">The framework provide insights for SMEs, women entrepreneurs, by explaining the influence of EO on business performance. This study add to the entrepreneurship literature by applying the five dimensions of EO. Previous research used 3 EO aspects.</span>
 - Các kết quả nghiên cứu sẽ hỗ trợ các nhà hoạch định chính sách trong việc thực hiện các chương trình và các hoạt động nhằm phát triển các nữ doanh nhân một cách hiệu quả hơn. Nó sẽ hỗ trợ cho các nữ doanh nhân trong việc xác định những yếu tố nào cần phải dành nhiều sự quan tâm hơn. Sự sống còn (của doanh nghiệp) đòi hỏi phải có một chiến lược kinh doanh tốt hơn.<br><span class="en">The study results will assist policymakers in implementing programs and activities for developing women entrepreneurs more effectively. It will assist female entrepreneurs in determining which factors need more attention. Survival requires a better business strategy.</span>
 
-### Slide 10: Tác động của chương trình đào tạo về giới và khởi nghiệp đối với những người vay vốn vi mô nữ ở miền Bắc Việt Nam (Huis, et al., 2019) - Phần 1/13 - <span class="en">Huis, et al. (2019). Impacts of the gender and entrepreneurship training on female microfinance in northern Vietnam. WD. 1(13)</span>
+### Tác động của chương trình đào tạo về giới và khởi nghiệp đối với những người vay vốn vi mô nữ ở miền Bắc Việt Nam (Huis, et al., 2019) - Phần 1/13 - <span class="en">Huis, et al. (2019). Impacts of the gender and entrepreneurship training on female microfinance in northern Vietnam. WD. 1(13)</span>
 
 - Chương trình đào tạo "Cùng nhau Khởi nghiệp và Phát triển Giới" (GET) do ILO (Tổ chức Lao động Quốc tế) phát triển đã được triển khai nhằm cải thiện các kết quả kinh doanh và thúc đẩy vị thế (nâng cao quyền năng) của phụ nữ. Thử nghiệm ngẫu nhiên có đối chứng này là nỗ lực đầu tiên nhằm kiểm tra tác động của chương trình đào tạo GET đối với việc nâng cao vị thế của người phụ nữ.<br><span class="en">The Gender and Entrepreneurship Together (GET) training developed by the ILO has been implemented to improve business outcomes and enhance women's empowerment. This randomized controlled trial is the first attempt to examine the impact of the GET training on women's empowerment.</span>
 - Huis et al. tập trung vào tác động của việc cung cấp khóa đào tạo này cho các nữ khách hàng vay vốn vi mô của TYM, tổ chức tài chính vi mô lớn nhất ở miền Bắc Việt Nam.<br><span class="en">Huis et al. focus on the impact of offering this training to female microfinance borrowers of TYM, the largest microfinance organization in North Vietnam.</span>
@@ -123,7 +123,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 - (iii) sự cọ xát trong các mối quan hệ giảm đi.<br><span class="en">(iii) decreased relational friction.</span>
 - Phát hiện ra không có tác động bổ sung nào từ việc mời cả các ông chồng tham gia vào khóa đào tạo. Kết quả cho thấy rằng cần phải có một khoảng thời gian nhất định thì khóa đào tạo mới bắt đầu phát huy tác dụng cải thiện vị thế của phụ nữ (từ trước khi đào tạo cho đến 12 tháng sau khi đào tạo kết thúc).<br><span class="en">Finds no additional impacts of inviting husbands to the training. The results suggest that it takes time before the training starts to improve women's empowerment (from before the training to 12 months after the training).</span>
 
-### Slide 11: Khung lý thuyết (Huis, et al., 2019) - Phần 2/13 - <span class="en">Theoretical framework 2(13)</span>
+### Khung lý thuyết (Huis, et al., 2019) - Phần 2/13 - <span class="en">Theoretical framework 2(13)</span>
 
 - Các xã hội được tổ chức như những hệ thống phân tầng xã hội dựa trên nhóm, trong đó nam giới nắm giữ nhiều quyền lực hơn phụ nữ. Theo lý thuyết về sự thống trị xã hội, tình trạng bất bình đẳng tương đối ổn định giữa nam và nữ là hậu quả của sự tiếp cận không công bằng đối với các nguồn lực diễn ra một cách dai dẳng.<br><span class="en">Societies are organized as group-based social hierarchies in which men hold more power than women. According to the social dominance theory the relatively stable inequity between men and women is a consequence of persistent unequal access to resources.</span>
 - Mô hình quyền lực giới tính (gendered power model) chỉ ra rằng sự bất bình đẳng giới bắt nguồn từ bốn cơ sở:<br><span class="en">The gendered power model suggests that gender inequity has four bases:</span>
@@ -135,14 +135,14 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 - Các dịch vụ tài chính vi mô đã và đang tiến hóa để cung cấp các khoản tín dụng vi mô cũng như là các loại dịch vụ tài chính và phi tài chính đa dạng khác. Chúng cung cấp các khóa đào tạo bổ sung về quản lý những hoạt động tạo ra thu nhập nhằm gia tăng nguồn vốn nhân lực của những người thụ hưởng.<br><span class="en">Microfinance services have evolved to offer microcredit and different financial and non-financial services. They provide additional training on management of income-generating activities to increase the recipients' human capital.</span>
 - Sự bất bình đẳng giữa nam giới và nữ giới, được định hình bởi mối quan hệ của họ. Để đạt được sự công bằng (bình đẳng) hơn, cả hai bên đều cần phải được tham gia vào quy trình đưa ra quyết định.<br><span class="en">Inequality between men and women, is shaped by their relationship. To achieve more equity, both parties need to be involved in decision making.</span>
 
-### Slide 12: Bối cảnh Việt Nam (Huis, et al., 2019) - Phần 3/13 - <span class="en">Vietnam 3(13)</span>
+### Bối cảnh Việt Nam (Huis, et al., 2019) - Phần 3/13 - <span class="en">Vietnam 3(13)</span>
 
 - Việt Nam đã đạt được những tiến bộ phát triển rõ rệt trong những năm gần đây - đạt được tốc độ tăng trưởng kinh tế, chuyển dịch hướng tới công nghiệp hóa và hiện đại hóa, và gia tăng sự công bằng xã hội - nhưng nước này vẫn đang đứng ở vị trí 121 trong số 187 quốc gia về chỉ số HDI và 58 trong số 149 quốc gia về Chỉ số Bình đẳng Giới. Việt Nam là một xã hội mang tính chất gia trưởng (tôn trọng nam quyền), với những vai trò giới tính truyền thống rất mạnh mẽ.<br><span class="en">Vietnam has made clear developmental progress in recent years-achieving economic growth, shifting toward industrialization and modernization, and increasing social equity-but it still ranks 121 out of 187 nations on the HDI and 58 out of 149 on the Gender Equality Index. Vietnam is a patriarchal society, with strong traditional gender roles.</span>
 - Chỉ có khoảng 21% người trưởng thành có khả năng tiếp cận với các dịch vụ tài chính chính thức tại Việt Nam. Các dịch vụ tài chính vi mô phần lớn được cung cấp bởi hai ngân hàng thuộc sở hữu của nhà nước; (i) Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam và (ii) Ngân hàng Chính sách Xã hội Việt Nam, cùng với (iii) một vài nhà cung cấp là các ngân hàng tư nhân quy mô nhỏ hơn.<br><span class="en">Only 21% of the adults has access to formal financial services in Vietnam. Microfinance services are mainly offered by two state-owned banks; (i) the Vietnam Bank for Agriculture and Rural Development and (ii) the Vietnam Bank for Social Policies, and (iii) few smaller private providers banks.</span>
 - Tất cả các nữ khách hàng đi vay đều có cơ hội tiếp cận với các khoản vay tín dụng vi mô. Ngoài ra, những người phụ nữ vay vốn thuộc hai nhóm được nhận can thiệp (treatment conditions) còn được tiếp cận với một khóa đào tạo kinh doanh bổ sung. Trong điều kiện nhóm can thiệp thứ nhất, những phụ nữ vay vốn được nhận chương trình đào tạo mà ở đó các người chồng của họ cũng được mời tham gia cùng. Ở điều kiện nhóm can thiệp thứ hai, họ được nhận đào tạo một cách độc lập (chỉ có cá nhân người vợ).<br><span class="en">All female borrowers have access to microcredit loans. In addition, female borrowers in two treatment conditions received access to additional business training. In the first treatment condition female borrowers received access to training for which their husbands were also invited. In the second treatment condition they received training individually.</span>
 - Chương trình đào tạo bao gồm chín học phần (modules). Mỗi một module sẽ tập trung vào một chủ đề hoàn toàn khác nhau (xem **Bảng 1**). Bộ thang đo niềm tin kiểm soát cá nhân (cả bên trong lẫn bên ngoài) ở bốn mức độ được trình bày trong **Bảng 2**. Các thang đo đo lường quyền lực ra quyết định trong nội bộ hộ gia đình được trình bày tại **Bảng 3**.<br><span class="en">The training program consists of nine training modules. Each module focuses on a different theme (see Table 1). The four personal internal and external control belief scale is presented in Table 2. The intra-household decision making scales is presented in Table 3.</span>
 
-### Slide 13: Bảng 1 & 2 (Huis, et al., 2019) - <span class="en">Table 1 & Table 2</span>
+### Bảng 1 & 2 (Huis, et al., 2019) - <span class="en">Table 1 & Table 2</span>
 
 - **Bảng 1:** Các học phần của Gói đào tạo GET Ahead. Bao gồm 9 Module xoay quanh các chủ đề như: Giới và Bình đẳng giới, Nữ doanh nhân và sự tự tin, Dự án kinh doanh (Ý tưởng, Marketing, Tài chính, Kế toán...).
 - **Bảng 2:** Thang đo niềm tin kiểm soát cá nhân.
@@ -150,7 +150,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Table 1 Modules of the GET Ahead Training package.<br>• Table 2 Personal control belief scale. External locus of control vs Internal locus of control.</span>
 
-### Slide 14: Bảng 3 (Huis, et al., 2019) - <span class="en">Table 3</span>
+### Bảng 3 (Huis, et al., 2019) - <span class="en">Table 3</span>
 
 - **Bảng 3:** Các thang đo quyền quyết định trong nội bộ hộ gia đình.
 - *Việc ra quyết định cho các khoản chi tiêu lớn:* Ai quyết định vay vốn? Ai quyết định mua đồ gia dụng lớn (TV, tủ lạnh...)? Ai quyết định chi tiêu y tế? Ai quyết định việc tiết kiệm? Ai quyết định sửa chữa/mua nhà? Ai quyết định đầu tư? Ai quyết định giúp đỡ người thân?
@@ -158,13 +158,13 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Table 3 Intra-household decision making scales. Details Large expenditure decision making and Daily domain decision making.</span>
 
-### Slide 15: Kết quả (Huis, et al., 2019) - Phần 6/13 - <span class="en">Results 6(13)</span>
+### Kết quả (Huis, et al., 2019) - Phần 6/13 - <span class="en">Results 6(13)</span>
 
 - Kết quả của phép kiểm định cân bằng (balancing test) chỉ ra rằng không có lý do gì để nghi ngờ về quá trình phân bổ ngẫu nhiên (xem **Bảng 4**). Ngoài ra, cũng đã tiến hành các phép kiểm định ý nghĩa đồng thời (joint significance tests) trên toàn bộ tất cả các đặc điểm cơ sở (baseline characteristics) bằng cách chạy hàm hồi quy trạng thái nhóm (treatment status) dựa trên các đặc điểm này. Các hệ số ước lượng cho thấy tất cả các nhóm này đều hoàn toàn tương đồng với nhau ($p > 0.67$).<br><span class="en">The results of the balancing test indicated no reason to doubt the randomization (see Table 4). Also conducted joint significance tests across all baseline characteristics by regressing treatment status on the characteristics. The estimates suggest all groups are similar (p > 0.67).</span>
 - **Bảng 5** cho thấy có 4.041 người vay vốn nữ được phỏng vấn vào giai đoạn đầu tiên (baseline), tại thời điểm giữa chừng (midline) có 3.511 người vay tiếp tục được phỏng vấn lại. Tỷ lệ hao hụt (attrition rate - tỷ lệ bỏ cuộc) từ đầu kỳ cho đến giữa kỳ lại tỏ ra cao hơn ở cái nhóm mà những nữ khách hàng vay vốn được chỉ định tham gia nhận việc đào tạo theo hình thức cá nhân lẻ tẻ. Với mục tiêu nhằm để bù đắp lấp vào cho chỗ bị rơi rụng (hao hụt) mất đó, có bổ sung thêm 315 người khách vay nữ trong mạng lưới tín dụng vi mô đã được bốc ra lựa chọn ngẫu nhiên sau đó để đưa vào phòng phỏng vấn.<br><span class="en">Table 5 shows that 4,041 female microfinance borrowers were interviewed initially, at the midline 3,511 borrowers were interviewed again. The attrition rate from baseline to midline was higher where female borrowers were invited to receive training individually. To compensate for the attrition, an additional 315 female microfinance borrowers were randomly selected and interviewed.</span>
 - Đã tạo một biến giả hao hụt (attrition dummy); gán giá trị bằng 1 nếu một hộ gia đình đã không còn được phỏng vấn tại thời điểm giữa kỳ (midline) hoặc cuối kỳ (endline) và sử dụng hàm hồi quy logistic để kiểm tra xem có hay không hiện tượng hao hụt mang tính không ngẫu nhiên (non-random attrition) (xem **Bảng 6**). Tiến hành hồi quy biến hao hụt trên các nhóm can thiệp T1 (đào tạo có sự tham gia của chồng) và T2 (chỉ đào tạo riêng vợ), độ tuổi, chi nhánh cho vay, tình trạng hôn nhân, quy mô của hộ gia đình, các thước đo cơ sở của tất cả các biến phụ thuộc, và sự tương tác giữa các chỉ báo can thiệp với các đặc điểm về nhân khẩu học.<br><span class="en">Created an attrition dummy; equal to 1 if a household was not interviewed at the midline or endline and used a logistic regression to check for non-random attrition (see Table 6). Regressed attrition on the treatment groups T1 (training with husband) and T2 (training alone), age, lending branches, marital status, household size, baseline measures of all dependent variables, and interactions between treatment indicators and demographic characteristics.</span>
 
-### Slide 16: Bảng 4 (Huis, et al., 2019) - <span class="en">Table 4</span>
+### Bảng 4 (Huis, et al., 2019) - <span class="en">Table 4</span>
 
 - **Bảng 4 (Table 4):** Bảng tổng quan mô tả các biến kiểm soát, thống kê mô tả, các biến phụ thuộc và phép kiểm định sự cân bằng giữa các nhóm điều kiện.
 - Liệt kê đặc điểm của 3 nhóm: Nữ vay vốn học cùng chồng (T1), Nữ vay vốn học một mình (T2), Nữ vay vốn không được đào tạo (Nhóm C).
@@ -172,14 +172,14 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Table 4 Descriptive overview of control variables, descriptive statistics, and dependent variables and a balancing test between conditions. Female borrowers receiving training with husbands (T1), receiving training individually (T2), and receiving only a loan (C).</span>
 
-### Slide 17: Bảng 5 (Huis, et al., 2019) - <span class="en">Table 5</span>
+### Bảng 5 (Huis, et al., 2019) - <span class="en">Table 5</span>
 
 - **Bảng 5 (Table 5):** Mức độ hao hụt (attrition) theo nhóm ở mỗi thời điểm đo lường.
 - Cho thấy số lượng nữ khách hàng ở T1, T2 và C tại Baseline (Đầu kỳ), Midline (Giữa kỳ), và Endline (Cuối kỳ). Tỷ lệ hao hụt từ Baseline đến Midline dao động từ 12-16%.
 
 <span class="en">• Table 5 Attrition per condition per measurement-time. Shows number of female borrowers at baseline, midline, and end line, along with attrition rate baseline-midline and baseline-end line for groups T1, T2, and C.</span>
 
-### Slide 18: Ước lượng và Kết quả (Huis, et al., 2019) - Phần 9/13 - <span class="en">Estimation and Results 9(13)</span>
+### Ước lượng và Kết quả (Huis, et al., 2019) - Phần 9/13 - <span class="en">Estimation and Results 9(13)</span>
 
 - **Thứ nhất**, thực hiện các ước lượng ý định điều trị (intention to treat - ITT) tại thời điểm giữa kỳ (midline) và cuối kỳ (endline), kết hợp với các phép hồi quy sau quá trình can thiệp (post-treatment), sử dụng các biến kiểm soát:<br><span class="en">First conducted intention to treat (ITT) estimates at the midline and endline, with post-treatment regressions, using control variables:</span>
 - $$ Y_{ij} = eta_0 + eta_1 T1_{ij} + eta_2 T2_{ij} + eta_3 Z_{ij} + \epsilon_{ij} $$<br><span class="en">Y_{ij} = eta_0 + eta_1 T1_{ij} + eta_2 T2_{ij} + eta_3 Z_{ij} + \epsilon_{ij}</span>
@@ -190,7 +190,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 - **Bảng 9** chỉ ra rằng việc đào tạo giúp làm giảm bớt đi những xích mích rạn nứt trong các mối quan hệ (relational friction) tính tại thời điểm khảo sát ở cuối kỳ (endline) chứ chưa có tác dụng vào mốc giữa kỳ (midline), điều này đúng ở trên cả hai phương pháp ước lượng.<br><span class="en">Table 9 shows that training reduces relational friction at the endline but not at the midline, across both estimation methods.</span>
 - **Bảng 10** cho thấy các kết quả này là tương đồng nhau. Có thể sẽ cần phải có một khoảng thời gian chờ để quá trình đào tạo phát huy được sức ảnh hưởng. Không tìm thấy những tác động tạo sự khác biệt rõ rệt nào trong trường hợp các người chồng được mời gọi tham gia chung.<br><span class="en">Table 10 shows that these results are the same. It may take time before the training exert an impact. Do not find different impacts if husbands were invited to participate.</span>
 
-### Slide 19: Bảng 6, Bảng 8 & Bảng 9 (Huis, et al., 2019) - <span class="en">Table 6</span>
+### Bảng 6, Bảng 8 & Bảng 9 (Huis, et al., 2019) - <span class="en">Table 6</span>
 
 - Kết quả hao hụt không ngẫu nhiên được hiển thị trong Bảng 6.
 - **Bảng 6 (Table 6):** Hao hụt không ngẫu nhiên.
@@ -200,7 +200,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Table 6 Non-random attrition. Reports logit regression coefficients indicating differences in attrition.</span>
 
-### Slide 20: Bảng 10 & Bảng 11 (Huis, et al., 2019) - <span class="en">Table 8 & Table 9</span>
+### Bảng 10 & Bảng 11 (Huis, et al., 2019) - <span class="en">Table 8 & Table 9</span>
 
 - Bảng 10 cho thấy các kết quả này là giống nhau. Có thể sẽ cần một khoảng thời gian thì việc đào tạo mới phát huy tác dụng. Không tìm thấy các tác động khác biệt nếu các ông chồng được mời tham gia.
 - **Bảng 10 (Table 10):** Các kết quả về cảm giác bị áp bức trong các mối quan hệ (relational oppression) mà phụ nữ trải qua. Các hệ số T1*Endline và T2*Endline mang dấu âm (tức là giảm sự áp bức).
@@ -208,7 +208,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Table 8 Results on women's control beliefs.<br>• Table 9 Results in women's experienced relational friction.</span>
 
-### Slide 21: Kết luận (Huis, et al., 2019) - Phần 13/13 - <span class="en">Table 10 & Table 11</span>
+### Kết luận (Huis, et al., 2019) - Phần 13/13 - <span class="en">Table 10 & Table 11</span>
 
 - Nghiên cứu này chỉ ra rằng việc cung cấp cho những khách hàng vay vốn nữ quyền truy cập vào chương trình đào tạo GET giúp cải thiện sự trao quyền cho phụ nữ ở cấp độ cá nhân và trong các mối quan hệ.
 - Các kết quả cho thấy việc được tiếp cận với khóa đào tạo GET làm gia tăng niềm tin kiểm soát của các nữ khách hàng vay vốn cũng như gia tăng khả năng ra quyết định đối với các khoản chi tiêu lớn.
@@ -219,7 +219,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Table 10 Results on women's experienced relational oppression.<br>• Table 11 Results on women's intra-household decision making power.</span>
 
-### Slide 22: Tinh thần doanh nhân, các nước đang phát triển, và kinh tế học phát triển (Naudé, 2010) - Phần 1/5 - <span class="en">Conclusion 13(13)</span>
+### Tinh thần doanh nhân, các nước đang phát triển, và kinh tế học phát triển (Naudé, 2010) - Phần 1/5 - <span class="en">Conclusion 13(13)</span>
 
 - Naudé giới thiệu về một ấn phẩm đặc biệt của tạp chí *Kinh tế Doanh nghiệp Nhỏ* (Small Business Economics) chuyên đề cập đến quá trình tích hợp (đưa vào) yếu tố tinh thần doanh nhân vào trong nền tảng học thuật của bộ môn kinh tế học phát triển và qua đó rọi sáng vào vai trò của tinh thần doanh nhân tại các nước đang phát triển.
 - Tinh thần doanh nhân (khởi nghiệp) được xem như một sợi dây rào cản mang tính ràng buộc (binding constraint) đối với tiến trình phát triển kinh tế, nỗ lực xóa đói giảm nghèo và hành trình đuổi kịp (catching up) tại các quốc gia đang phát triển. Điều này đổi lại đòi hỏi cần phải có ít nhất là một mô hình hóa về mặt lý thuyết đào sâu hơn nữa về cái gọi là tinh thần doanh nhân trong hệ thống môn học kinh tế học phát triển.
@@ -229,7 +229,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• This study shows that providing female borrowers access to the GET training improves women's personal and relational empowerment.<br>• Results show that access to the GET training increased female borrowers' control beliefs as well as decision making on larger expenditures.<br>• The empowerment effects accumulate over time, resulting in more pronounced impacts in the endline rather than the midline, for almost all indicators and methods used.<br>• The exploratory analyses suggest that the observed findings may be driven partly by women's increased gender awareness and not solely by their increased business capacity.<br>• In comparison to other studies, find positive effects of training on women's empowerment. It may be that the joint offering of credit and human capital explains the positive results.<br>• Future research should examine the mechanism more systematically by comparing the additive impact of the GET training and microcredit on women's empowerment.</span>
 
-### Slide 23: Tinh thần doanh nhân và phát triển kinh tế - Phần 2/5 - <span class="en">Naudé, W. (2010). Entrepreneurship, developing countries, and development economics: new approaches and insights. SBE. 1(5)</span>
+### Tinh thần doanh nhân và phát triển kinh tế - Phần 2/5 - <span class="en">Naudé, W. (2010). Entrepreneurship, developing countries, and development economics: new approaches and insights. SBE. 1(5)</span>
 
 - Khi hai lĩnh vực liên quan đến tinh thần doanh nhân và quản trị đang xích lại gần nhau hơn (hội tụ) trong việc nhìn nhận tầm quan trọng của các hệ thống thể chế, các học giả nghiên cứu về khởi nghiệp đã lập luận rằng tinh thần doanh nhân là điều cực kỳ quan trọng đối với sự phát triển của nền kinh tế.
 - Còn tồn đọng hai lỗ hổng cực kỳ lớn, vốn là rào cản hạn chế đi tầm hiểu biết của chúng ta khi nhìn nhận vai trò chức năng từ thứ tinh thần cốt cách làm doanh nghiệp ngay tại những đất nước cũng còn ở quy mô đang nỗ lực vươn lên:
@@ -241,7 +241,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Naudé introduces the special issue of Small Business Economics dealing with the integration of entrepreneurship into the discipline of development economics and casting light on the role of entrepreneurship in developing countries.<br>• Entrepreneurship is viewed as a binding constraint on economic development, poverty reduction and catching up in developing countries. This in turn requires at least a deeper theoretical modeling of the entrepreneurship in development economics.<br>• This special edition contains contributions emanating from the UNU-WIDER project on Promoting Entrepreneurial Capacity, which integrates the disciplines of entrepreneurship and development economics.<br>• These contributions model and explore the role of the entrepreneurs in key areas of structural change and economic growth, income and wealth inequalities, welfare, poverty traps, and market failures.<br>• This introduction discusses and contextualizes these various contributions and their implications for further theoretical and empirical work.</span>
 
-### Slide 24: Điểm chung (Communalities) - Phần 3/5 - <span class="en">Entrepreneurship and economic development 2(5)</span>
+### Điểm chung (Communalities) - Phần 3/5 - <span class="en">Entrepreneurship and economic development 2(5)</span>
 
 - Sáu bài báo đóng góp đều có chung một số đặc điểm rộng lớn:
 - **Thứ nhất**, chúng trực tiếp đụng chạm giải quyết tới các vướng mắc nằm ở phần cốt lõi của kinh tế học phát triển và các hỏng hóc gây trục trặc do hệ thống các nền kinh tế chuyên mưu cầu dựa dẫm vào hoạt động tìm kiếm đặc lợi (rent economies) gây nên: đà thăng tiến, chuyển dịch trong cơ cấu hạ tầng, khối quyền lợi an sinh, vấn nạn cùng cực thiếu thốn, sự đối xử không bằng vai phải lứa, xu hướng sinh hoạt không có ràng buộc thể chế (informality), và tình cảnh thị trường khiếm khuyết không vận hành mượt mà hoàn thiện (market imperfections).
@@ -251,7 +251,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• As these two fields of entrepreneurship and management were converging on the importance of institutions, entrepreneurship scholars have been arguing that entrepreneurship is important for economic development.<br>• Two important gaps remain, which may constrain our understanding of the role of entrepreneurship in developing countries:<br>• (i) the role and function of entrepreneurship is still relatively underappreciated in the field of development economics, and<br>• (ii) although both fields recognize institutions, the 'institutional' explanations for outcomes are often still treated as a 'black box'.<br>• This special issue of Small Business Economics is devoted to promoting the integration of entrepreneurship and development economics to better understand entrepreneurship in developing countries.<br>• Ask why the development economics literature seems to have failed to influence the fields of entrepreneurship and management.<br>• All these failures, and the role of entrepreneurship therein, are examined in the six papers that make up this special issue.</span>
 
-### Slide 25: Ấn bản Đặc biệt của Tạp chí Kinh tế Doanh nghiệp Nhỏ (SBE) - Phần 4/5 - <span class="en">Communalities 3(5)</span>
+### Ấn bản Đặc biệt của Tạp chí Kinh tế Doanh nghiệp Nhỏ (SBE) - Phần 4/5 - <span class="en">Communalities 3(5)</span>
 
 - Volume 34, issue 1, January 2010, pp. 1-104.
 - *Giới thiệu: Tinh thần doanh nhân, các nước đang phát triển, và kinh tế học phát triển: những phương pháp tiếp cận và những hiểu biết mới*, Wim Naudé, Xuất bản: 07 Tháng 4 năm 2009, trang: 1-12.
@@ -264,7 +264,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• The six contributed papers share several broad commonalities:<br>• First, they address issues at the heart of development economics and the failure of rent economies: growth, structural change, welfare, poverty, inequality, informality, and market imperfections.<br>• Second, they all advance the formal conceptualization and modeling of the phenomenon of entrepreneurship with the process of economic development.<br>• Third, these papers showcase the promising future of cross-disciplinary academic fertilization between the two disciplines of entrepreneurship and development economics.<br>• Fourth, all the papers in this special edition come to a fundamentally optimistic conclusion concerning entrepreneurship as a driver for development in the poorest countries.</span>
 
-### Slide 26: Kết luận (Naudé, 2010) - Phần 5/5 - <span class="en">Special Issue of Small Business Economics (SBE) Volume 34, issue 1, January 2010, pp. 1-104 4(5)</span>
+### Kết luận (Naudé, 2010) - Phần 5/5 - <span class="en">Special Issue of Small Business Economics (SBE) Volume 34, issue 1, January 2010, pp. 1-104 4(5)</span>
 
 - Các bài báo minh họa rằng việc hội nhập tinh thần doanh nhân vào kinh tế học phát triển là một điều hoàn toàn có khả năng. Cho đến nay, giới doanh nhân phần lớn đã bị bỏ quên trong việc mô hình hóa của kinh tế học phát triển.
 - Rất nhiều thứ đã đổi thay ở tại suốt quãng đời của vài năm vừa qua, kêu gọi việc nhân vật người doanh nhân cần bắt buộc phải nhận được việc thu nhận kết nạp đưa vào một cách nghiêm túc có trật tự trong khối các định luật (nguyên lý) của mảng kinh tế học phát triển.
@@ -274,7 +274,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Introduction: Entrepreneurship, developing countries, and development economics: new approaches and insights, Wim Naudé, Published: 07 April 2009, pp: 1-12.<br>• Entrepreneurship and structural economic transformation, Thomas Gries and Wim Naudé, Published: 17 April 2009, pp: 13-29.<br>• High-growth entrepreneurial firms in Africa: a quantile regression approach, Micheline Goedhuys and Leo Sleuwaegen, Published: 18 April 2009, pp: 31-51.<br>• Informal firms in developing countries: entrepreneurial steppingstone or consolation prize?, John Bennett, Published: 05 May 2009, pp: 53-63.<br>• Entrepreneurship and welfare, Jagannadha Pawan Tamvada, Published: 06 May 2009, pp: 65-79.<br>• Entrepreneurship and income inequality in southern Ethiopia, Ayal Kimhi, Published: 07 April 2009, pp: 81-91.<br>• Credit constraints, entrepreneurial talent, and economic development, Milo Bianchi, Published: 10 April 2009, pp: 93-104.</span>
 
-### Slide 27: Quản trị, tinh thần doanh nhân và tăng trưởng kinh tế (Méndez-Picazo, et al., 2012) - Phần 1/8 - <span class="en">Conclusion 5(5)</span>
+### Quản trị, tinh thần doanh nhân và tăng trưởng kinh tế (Méndez-Picazo, et al., 2012) - Phần 1/8 - <span class="en">Conclusion 5(5)</span>
 
 - Trong vài chục năm xoay lại đây, giới hàn lâm kinh tế học đã chĩa dồn mọi sự dốc lòng cất công vào việc ấn định tìm cho ra những nhân tố đóng vai trò đầu tàu kéo lên sự tiến mạnh của nền kinh tế. Giới nghiên cứu gần đây thường gán cho tinh thần bươn chải kinh doanh khởi nghiệp là sắm vị trí của bộ phận nòng cốt - làm một trong những thông số tham chiếu chủ chốt hòng khích bồi cho bước đà bành trướng tăng trưởng về kinh tế.
 - Quản trị (Governance) có nghĩa là cách thức mà một tổ chức được lãnh đạo/quản lý. Đó là môn khoa học về hiệu suất và hành vi của chính phủ, và nó đề cập đến các quy trình mà trong đó phải bao gồm các yếu tố quyết định về mặt lịch sử, văn hóa, xã hội và chính trị. Rất có khả năng để thiết lập một mối quan hệ giữa công tác quản trị và các thể chế.
@@ -285,7 +285,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• The papers illustrate that it is possible to integrate entrepreneurship and development economics. Until now, the entrepreneur has been largely omitted from development economics modelling.<br>• Much has changed in recent years, requiring the entrepreneur to be taken up formally in the development economics canon.<br>• The papers show that not only can the entrepreneur be formally modelled to address issues of concern to development economics, such as structural change and growth, inequality and poverty, and market failures, but that such modeling extends not only to our understanding of the development process, but also of the accurate role of the entrepreneur in that process.<br>• If the most pressing binding constraints are, according to current thinking in development economics located in the institutional and policy environment of a particular country, then better understanding the role of the entrepreneur in economic development will amount to unpacking the 'black box' of institutional explanations.<br>• Black box describes a system or device whose internal workings are unknown or unobservable, but its inputs and outputs are known and predictable.</span>
 
-### Slide 28: Quản trị và Tăng trưởng Kinh tế - Phần 2/8 - <span class="en">Méndez-Picazo, M.T., Galindo-Martín, M.Á., & Ribeiro-Soriano, D. (2012). Governance, entrepreneurship and economic growth. ERD. 1(8)</span>
+### Quản trị và Tăng trưởng Kinh tế - Phần 2/8 - <span class="en">Méndez-Picazo, M.T., Galindo-Martín, M.Á., & Ribeiro-Soriano, D. (2012). Governance, entrepreneurship and economic growth. ERD. 1(8)</span>
 
 - Tràn trề khả năng để đi tới một việc thiết lập dựng nên đường nối kết móc xích được hệ thống hoạt động quản trị với chuỗi các cơ quan lập quy ban ngành (thể chế). Xin được viện ra đây một điển hình, các bộ máy tổ chức (thể chế) mang cái giá trị hết sức phù hợp liên quan mật thiết vào dòng chảy tăng tốc đi lên của một nền kinh tế nguyên do là vì bọn họ phác thảo điêu khắc nên hệ những bệ đỡ chứa đầy các liều doping thúc giục tạo động lực rường cột nhắm vô các cá thể hoạt động làm ăn (tác nhân kinh tế) chủ lực nắm giữ nền móng xương sống cho toàn cõi xã hội. Những biến tham chiếu tương quan hữu đụng đối với khía cạnh gia tốc tăng trưởng đi lên cho kinh tế là: sự rót vốn đầu tư, công nghệ máy móc kỹ nghệ cùng với quỹ năng lực của vốn tri thức ở con người.<br><span class="en">In recent decades, economists have focused their attention on determining the factors that promote economic growth. Recent studies consider entrepreneurship as one of the key variables to promote economic growth.</span>
 - Những thể chế này phải bao gồm một số đặc điểm để đạt được tác động tích cực đối với sự tăng trưởng kinh tế (Acemoglu 2003, 27):<br><span class="en">Governance means how an organization is governed. It is the science of government performance and behavior, and it refers to processes that must include historical, cultural, social and political determinants. It is possible to establish a relationship between governance and institutions.</span>
@@ -294,7 +294,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 - **(3)** Họ phải lồng ghép giới thiệu vào được những chuẩn mực về cơ may đồng hạng ngang bằng nhau dọn đường cho những bộ phận lớn của cả xã hội, sao cho số lượng người dân gia nhập dự phần vô khối các hoạt động cày cuốc hái ra tiền (hoạt động kinh tế mang tính sản xuất) là ngày một dồi dào.<br><span class="en">(ii) considering the economic results obtained by government.</span>
 - Trong lúc mang những hệ chiến lược để tạo đà tăng trưởng ra phân tích ngổ xẻ, chuyện cần làm với mức độ chú tâm cao đó chính là vạch ranh giới lột tả được sự sai khác của đôi bên giữa việc đánh mồi châm lửa (kích hoạt) thúc cho cái tăng trưởng ấy bốc lên với chuyện là làm như nào bảo bọc lưu giữ được phong độ duy trì tiếp cho nó vững mạnh.<br><span class="en">This paper, consider public governance and the channels through which it affects entrepreneurship activity. It analyzes the relationship between governance, entrepreneurship and economic growth, developing an empirical analysis for the case of 11 developed countries. It analyzes how economic policies and governance effect entrepreneurship activities.</span>
 
-### Slide 29: Chính sách, thể chế, và tăng trưởng kinh tế - Phần 3/8 - <span class="en">Governance and Economic Growth 2(8)</span>
+### Chính sách, thể chế, và tăng trưởng kinh tế - Phần 3/8 - <span class="en">Governance and Economic Growth 2(8)</span>
 
 - Hai nhóm chính sách chính có thể được phát triển (Rodrik 2005):
 - **Để kích thích tăng trưởng kinh tế:** các chính sách được thiết kế tập trung vào các khía cạnh của tổng cầu hoặc tổng cung.
@@ -312,7 +312,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• It is possible to establish a relationship between governance and institutions. For instance, institutions are relevant in the economic growth process because they create the main incentives of the key economic agents of the society. Investment, technology and human capital are the relevant variables of economic growth.<br>• These institutions must include some characteristics to achieve positive effect on economic growth (Acemoglu 2003, 27):<br>• (1) They must enforce the property rights for a broad section of the society. This promotes incentives to invest.<br>• (2) They must constrain the actions of some pressure groups, elites and politicians, to avoid actions that could damage property rights.<br>• (3) They must introduce degrees of equal opportunities for broad segments of the society, so more individuals can participate in productive economic activities.<br>• In analyzing growth strategies, it is important to differentiate between igniting economic growth and sustaining it.</span>
 
-### Slide 30: Phân tích Thực chứng (Empirical Analysis) - Phần 4/8 - <span class="en">Policies, institutions, and economic growth 3(8)</span>
+### Phân tích Thực chứng (Empirical Analysis) - Phần 4/8 - <span class="en">Policies, institutions, and economic growth 3(8)</span>
 
 - Xem xét một mô hình với hai phương trình. Dữ liệu bảng (Panel data) của 11 quốc gia: Đan Mạch, Phần Lan, Pháp, Đức, Ý, Nhật Bản, Hà Lan, Tây Ban Nha, Thụy Điển, Vương quốc Anh và Hoa Kỳ trong khoảng thời gian từ năm 2002-2007. Các phương trình là:
 - $$ \ln(y)_{it} = eta_0 + eta_1 \ln(In)_{it} + eta_2 \ln(\Phi)_{it} + eta_3 \ln(I)_{it} + \epsilon_{it} $$
@@ -327,7 +327,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Two main groups of policies could be developed (Rodrik 2005):<br>• To stimulate economic growth, polices designed focusing on demand or supply sides.<br>• To sustain economic growth, it is necessary to create and to improve appropriate institutions that improve market activity to avoid economic shocks.<br>• These institutions could be:<br>• Political environment: parliament, institutions of regulation and supervision.<br>• Economic environment: Central Bank and fiscal institutions.<br>• Entrepreneurial environment: Property rights, institutions of supervision for correcting market failures and social capital.<br>• In the relationship between economic growth as a goal and other economic policy objectives, it is necessary to consider:<br>• Level of employment: Economic growth would lead to higher income per capita, and higher levels of consumption.<br>• Income distribution: Government can shift incomes from the rich to the poor.<br>• Macroeconomic difficulties: Higher income would lead to a higher demand, generate inflation and balance of payment problems.<br>• Environmental resources: The relationship between economic growth and environment is not clear.<br>• Welfare and happiness: By avoiding some costs.</span>
 
-### Slide 31: Kết quả Ước lượng - Phần 5/8 - <span class="en">Empirical Analysis 4(8)</span>
+### Kết quả Ước lượng - Phần 5/8 - <span class="en">Empirical Analysis 4(8)</span>
 
 - Kết quả của các phương pháp ước lượng được trình bày trong **Bảng 1** và **Bảng 2**.
 - **Bảng 1** trình bày kết quả ước lượng đối với phương trình GDP. Các dấu (signs) đạt đúng như kỳ vọng và các biến đều có ý nghĩa thống kê. Chỉ số quản lý của chính phủ (Government index) cho thấy một tác động tích cực đến mức GDP.
@@ -336,19 +336,19 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Consider a model with two equations. Panel data of 11 countries: Denmark, Finland, France, Germany, Italy, Japan, Netherlands, Spain, Sweden, United Kingdom and United States for the period 2002-2007. The equations are:<br>• \ln(y)_{it} = eta_0 + eta_1 \ln(In)_{it} + eta_2 \ln(\Phi)_{it} + eta_3 \ln(I)_{it} + \epsilon_{it}<br>• \ln(\phi)_{it} = eta_4 + eta_5 \ln(\lambda)_{it} + eta_6 \ln(PE)_{it} + eta_7 \ln(GOV)_{it} + eta_8 \ln(ms)_{it} + e_{it}<br>• Equation (1) is the gross domestic product (GDP), where y is GDP measured in millions of USD. In is innovation measured in number of patents issued, \Phi is entrepreneurship, and I is investment measured by private investment in USD.<br>• Equation (2) is the entrepreneurship equation (\phi). It is the income distribution represented by the Gini index, GOV is governance, PE is public expenditure and ms is the money supply.<br>• Governance index is calculated using the principal components method considering World Bank's four key dimensions of institutional quality:<br>• Voice and accountability, which measures political, civil and human rights.<br>• Government effectiveness, measuring the competence of bureaucracy.<br>• Rule of law, measuring the quality of contract enforcement, the police and the courts.<br>• Control of corruption, measuring the exercise of public power for private gain.</span>
 
-### Slide 32: Bảng 1 (Méndez-Picazo, et al., 2012) - <span class="en">Estimation Results 5(8)</span>
+### Bảng 1 (Méndez-Picazo, et al., 2012) - <span class="en">Estimation Results 5(8)</span>
 
 - Bảng 1 trình bày kết quả ước lượng phương trình GDP. Các dấu (signs) đều như kỳ vọng và các biến đều có ý nghĩa. Chỉ số chính phủ (Government index) cho thấy tác động tích cực đến GDP. GEM = Global Economic Monitor (Giám sát Kinh tế Toàn cầu).
 - **Bảng 1 (Table 1):** Ước lượng phương trình (1). Biến phụ thuộc: LOG(Y) - GDP. Các biến độc lập: LOG(In) - Đổi mới, LOG($\Phi$) - Tinh thần doanh nhân, LOG(I) - Đầu tư. Tất cả các hệ số đều dương và có ý nghĩa thống kê (Probability = 0.0000 hoặc < 0.05). $R^2$ rất cao (0.9999).
 
 <span class="en">• The results of the estimations are presented in Tables 1 and Table 2.<br>• Table 1 presents the GDP equation estimation results. The signs are the expected and the variables are significant. Government index shows a positive effect on GDP.<br>• Table 2 presents the entrepreneurship estimation. The signs are as expected, and all the variables are significant. Governance has a positive effect on entrepreneurship.<br>• The results show that governance has a positive indirect effect on economic growth. However, as is shown in Equation (2), there are some negative effects (inequality and inflation) that must be avoided because they could have adverse effects on economic growth.</span>
 
-### Slide 33: Bảng 2 (Méndez-Picazo, et al., 2012) - <span class="en">Table 1</span>
+### Bảng 2 (Méndez-Picazo, et al., 2012) - <span class="en">Table 1</span>
 
 - Bảng 2 trình bày ước lượng về tinh thần doanh nhân. Các dấu đều như kỳ vọng, và tất cả các biến đều có ý nghĩa. Quản trị có tác động tích cực đến tinh thần doanh nhân.<br><span class="en">Table 1 presents the GDP equation estimation results. The signs are the expected and the variables are significant. Government index shows a positive effect on GDP. GEM Global Economic Monitor.</span>
 - **Bảng 2 (Table 2):** Ước lượng phương trình (2). Biến phụ thuộc: LOG($\Phi$) - Tinh thần doanh nhân. Các biến độc lập: LOG(GINI) - Bất bình đẳng, LOG(PE) - Chi tiêu công, LOG(GOV) - Quản trị, LOG(MS) - Cung tiền. Biến GOV có hệ số dương (0.61) và có ý nghĩa (Prob = 0.0037).<br><span class="en">Table 1. Equation (1) estimation.</span>
 
-### Slide 34: Kết luận (Méndez-Picazo, et al., 2012) - Phần 8/8 - <span class="en">Table 2</span>
+### Kết luận (Méndez-Picazo, et al., 2012) - Phần 8/8 - <span class="en">Table 2</span>
 
 - **Quản trị** là một khái niệm đã được đưa vào trong phân tích kinh tế, nhưng không có một định nghĩa duy nhất nào về quản trị. Nó đôi khi có liên quan đến các khái niệm về dân chủ, tham nhũng và các thể chế.
 - Đang có kha khá các công trình nghiên cứu đi phân tách mổ xẻ vào những cuộc luận chiến (sự tranh cãi) trong việc đem cân đo ở hệ quy chiếu để thị trường tự vận hành đặt đối chọi gay gắt với bàn tay quản lý chính phủ. Phương án để đánh dấu chọn lựabên ai giữa 2 cán cân đó ắt hẳn sẽ phó mặc lệ thuộc vô những hệ tiêu chí về năng lực độ làm việc ngon lành trơn tru cùng với tính hiệu nghiệm thành công trong sứ mệnh gặt hái về các trái ngọt (mục tiêu) của bộ máy kinh tế.
@@ -358,7 +358,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Table 2 presents the entrepreneurship estimation. The signs are as expected, and all the variables are significant. Governance has a positive effect on entrepreneurship. GEM Global Economic Monitor.<br>• Table 2. Equation (2) estimation.</span>
 
-### Slide 35: Bồi dưỡng các điều kiện cho tinh thần doanh nhân kỹ thuật số (Stein et al., 2026) - Phần 1/6 - <span class="en">Conclusion 8(8)</span>
+### Bồi dưỡng các điều kiện cho tinh thần doanh nhân kỹ thuật số (Stein et al., 2026) - Phần 1/6 - <span class="en">Conclusion 8(8)</span>
 
 - Bài viết này khám phá vai trò của tinh thần doanh nhân thể chế (institutional entrepreneurship) trong việc phát triển các Hệ sinh thái Doanh nhân Kỹ thuật số (Digital Entrepreneurial Ecosystems - DEE). Với phần lớn các tài liệu đều tập trung vào việc phân tích ở cấp độ tổ chức, vẫn cần có thêm nhiều nghiên cứu hơn nữa để bao hàm các hoạt động phân tích ở cấp độ hệ thống, và các nghiên cứu đi sâu khám phá cách thức mà các tác nhân trong hệ sinh thái hỗ trợ cho Tinh thần Doanh nhân Kỹ thuật số (DE) thông qua việc tạo điều kiện thuận lợi cho sự thích ứng của môi trường thể chế.
 - Các tác giả phân tích một nghiên cứu tình huống theo chiều dọc duy nhất (single longitudinal case study) về hệ sinh thái FinTech tại Đan Mạch, một DEE đã phát triển trong bối cảnh của một ngành công nghiệp truyền thống, chịu sự quản lý quy định cao độ và một bối cảnh bối cảnh FinTech toàn cầu đầy biến động. Các DEE FinTech đã xuất hiện trên toàn thế giới như một phản ứng trước sự tái định hình (reshaping) trên toàn cầu của các tổ chức tài chính bắt nguồn từ cuộc khủng hoảng tài chính toàn cầu và những thay đổi công nghệ đang diễn ra.
@@ -366,7 +366,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Governance is a concept that has been included in the economic analysis, but there is no single definition of governance. It is sometimes related to concepts of democracy, corruption and institutions.<br>• There is some literature that analyzes the controversy of market versus government. The choice between them will depend on the efficiency terms and their efficacy in achieving economic goals.<br>• The empirical analysis shows that governance would have a significant indirect effect on economic growth. There is a positive relationship between governance and entrepreneurship that is a growth-enhancing.<br>• Policies designed to promote economic growth have implications that must be considered when the justice issue is analyzed. Governments are judged by the economic growth rates they achieve.<br>• Government show individuals that there is a higher welfare, that they can satisfy their necessities using more goods and services. If the economic process does not stop, difficult to note the problems being created. In crisis, all the problems appear strongly (inequality, unemployment and reducing social benefits), and difficult to avoid them. It is necessary to ask what type of society that we wish to create and maintain.</span>
 
-### Slide 36: Bảng 1 & Bảng 2 (Stein et al., 2026) - <span class="en">Stein et al. (2026), Fostering conditions for digital entrepreneurship: The role of institutional entrepreneurs in driving FinTech ecosystem. Technovation. 1(6)</span>
+### Bảng 1 & Bảng 2 (Stein et al., 2026) - <span class="en">Stein et al. (2026), Fostering conditions for digital entrepreneurship: The role of institutional entrepreneurs in driving FinTech ecosystem. Technovation. 1(6)</span>
 
 - **Bảng 1 (Table 1):** Các nguồn dữ liệu thứ cấp (Secondary data sources).
 - Bao gồm các Báo cáo (Report), Biên bản cuộc họp (Meeting Minutes), Tạp chí (Magazine), Bài đăng trên blog (Blog post) liên quan đến FinTech Đan Mạch, ví dụ: CPH FinTech Hub, Nordic Fintech Report... từ năm 2013 đến 2024.
@@ -375,7 +375,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• This paper explores the role of institutional entrepreneurship in developing Digital Entrepreneurial Ecosystems (DEE). With much of the literature focused on organisational-level analysis, there is a need for further research that includes system-level analysis, and research that explores how ecosystem actors support Digital Entrepreneurship (DE) by facilitating adaptation of the institutional environment.<br>• The authors analyse a single longitudinal case study of the Danish FinTech ecosystem, a DEE that developed in the context of a traditional, highly regulated industry and a turbulent global FinTech scene. FinTech DEEs have emerged across the world as a response to a global reshaping of financial institutions that resulted from the global financial crisis and ongoing technological shifts.<br>• They use this case to explore two questions: (i) what institutional forces influence the development of the DEE?, and (ii) how do institutional entrepreneurs facilitate institutional changes to develop a DEE?</span>
 
-### Slide 37: Hình 1 (Stein et al., 2026) - <span class="en">Table 1 & Table 2</span>
+### Hình 1 (Stein et al., 2026) - <span class="en">Table 1 & Table 2</span>
 
 - **Hình 1 (Fig. 1):** Các giai đoạn phát triển của hệ sinh thái FinTech Đan Mạch.
 - Chia làm 3 giai đoạn: Pre-phase (Tiền giai đoạn: 2008-2015), Ecosystem Transformation (Chuyển đổi Hệ sinh thái: 2015-2017), và Ecosystem Development (Phát triển Hệ sinh thái: 2017-2023).
@@ -383,7 +383,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Table 1 Secondary data sources.<br>• Table 2 List of interview participants.</span>
 
-### Slide 38: Hình 2 (Stein et al., 2026) - <span class="en">Fig. 1</span>
+### Hình 2 (Stein et al., 2026) - <span class="en">Fig. 1</span>
 
 - **Hình 2 (Fig. 2):** Các lực lượng thể chế và tác nhân trong sự phát triển của DEE FinTech Đan Mạch.
 - Bản tóm tắt trực quan các động lực chính (Institutional forces) gồm: Công nghệ (Technology), Quy định (Regulations), và Văn hóa kinh doanh (Business culture) tác động lên các tác nhân ở nhiều cấp độ (Tổ chức - Tổ chức hỗ trợ - Chính phủ) xuyên suốt các giai đoạn Pre-phase $
@@ -393,7 +393,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Fig. 1. Phases of Danish FinTech ecosystem development.</span>
 
-### Slide 39: Bồi dưỡng các điều kiện cho tinh thần doanh nhân kỹ thuật số (Stein et al., 2026) - Phần 6/6 - <span class="en">Fig. 2</span>
+### Bồi dưỡng các điều kiện cho tinh thần doanh nhân kỹ thuật số (Stein et al., 2026) - Phần 6/6 - <span class="en">Fig. 2</span>
 
 - Các kết quả cho thấy rằng sự phát triển của hệ sinh thái khởi nghiệp số (DEE) FinTech của Đan Mạch đã được kích hoạt và định hình bởi những sự thay đổi đối với các tổ chức thể chế có nhiệm vụ hỗ trợ:
 - Sự xuất hiện các cơ chế hoạt động (động lực) và các công cụ hỗ trợ liên kết hợp tác phối hợp loại mới, đem đặt điểm nhấn rạch ròi tập trung vào mạng lưới ở ngay chặng giữa của nhóm băng nhóm doanh nghiệp đương nhiệm gạo cội từ lâu đời (incumbent firms) chung đụng với đội ngũ những công ty khởi nghiệp non trẻ mới nổi (start-ups),
@@ -404,7 +404,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Fig. 2. Institutional forces and agency in the development of the Danish FinTech DEE.</span>
 
-### Slide 40: Tinh thần doanh nhân và tính bền vững: phân tích tác động của các startup xanh đối với phát triển kinh tế (Sharma-Subba, 2025) - Phần 1/6 - <span class="en">Stein et al. (2026), Fostering conditions for digital entrepreneurship: The role of institutional entrepreneurs in driving FinTech ecosystem. Technovation. 6(6)</span>
+### Tinh thần doanh nhân và tính bền vững: phân tích tác động của các startup xanh đối với phát triển kinh tế (Sharma-Subba, 2025) - Phần 1/6 - <span class="en">Stein et al. (2026), Fostering conditions for digital entrepreneurship: The role of institutional entrepreneurs in driving FinTech ecosystem. Technovation. 6(6)</span>
 
 - Sự trỗi dậy của các công ty khởi nghiệp xanh (green startups) đã biến đổi vai trò của tinh thần doanh nhân bằng cách tích hợp tính bền vững vào trong các mô hình kinh doanh, vừa thúc đẩy tăng trưởng kinh tế vừa giải quyết các mối lo ngại khẩn cấp về sinh thái học.
 - Bài đánh giá này khám phá vai trò của các công ty khởi nghiệp xanh trong phát triển kinh tế, phân tích những đóng góp của họ đối với việc tạo ra việc làm, đổi mới công nghệ và chuyển đổi thị trường. Bằng cách ứng dụng các công nghệ thân thiện với môi trường, các nguyên tắc kinh tế tuần hoàn, và việc quản lý tài nguyên một cách bền vững, các dự án kinh doanh mạo hiểm (ventures) này đã nổi lên thành những động lực chính của một nền kinh tế carbon thấp. Nghiên cứu nêu bật cách mà tinh thần doanh nhân xanh điều hướng cho phù hợp với các mục tiêu bền vững toàn cầu, nhấn mạnh vai trò của các khuôn khổ chính sách, hoạt động đầu tư tạo tác động, và sở thích của người tiêu dùng trong việc định hình sự thành công của các doanh nghiệp này.
@@ -412,7 +412,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• The results show that the development of the Danish FinTech DEE was enabled and shaped by changes to institutions that support:<br>• New collaboration dynamics and mechanisms, particularly between incumbent firms and start-ups,<br>• Adaptations to the regulatory framework, and<br>• The development of global connections.<br>• Institutional change required collective efforts, depending on different institutional entrepreneurs at different times. Neutral leadership of institutional entrepreneurs became crucial for institutional change. Furthermore, both system and organisation-level agencies influenced institutional change during the development of the DEE.<br>• As such, this study contributes to a better understanding of DEE development and, therefore, the conditions that foster DE in the FinTech field.</span>
 
-### Slide 41: Bảng 1 & Bảng 3 (Sharma-Subba, 2025) - <span class="en">Sharma-Subba (2025), Entrepreneurship and sustainability: analyzing the impact of green startups on economic development. Innovation and Green Development. 1(6)</span>
+### Bảng 1 & Bảng 3 (Sharma-Subba, 2025) - <span class="en">Sharma-Subba (2025), Entrepreneurship and sustainability: analyzing the impact of green startups on economic development. Innovation and Green Development. 1(6)</span>
 
 - **Bảng 1 (Table 1):** So sánh giữa tinh thần doanh nhân truyền thống (Conventional) và xanh (Green).
 - *Tiêu chí (Parameter):* Trọng tâm tính bền vững, Sử dụng tài nguyên, Tác động thị trường, Mô hình kinh doanh...
@@ -423,7 +423,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• The rise of green startups transformed the role of entrepreneurship by integrating sustainability into business models, fostering economic growth while addressing urgent ecological concerns.<br>• This review explores the role of green startups in economic development, analyzing their contributions to job creation, technological innovation, and market transformation. By applying eco-friendly technologies, circular economy principles, and sustainable resource management, these ventures have emerged as key drivers of a low-carbon economy. The study highlights how green entrepreneurship aligns with global sustainability goals, emphasizing the role of policy frameworks, impact investment, and consumer preferences in shaping the success of these businesses.<br>• Furthermore, it examines the challenges faced by green startups, including funding constraints, market competition, and regulatory barriers, while discussing strategies to enhance their scalability and long-term profitability.</span>
 
-### Slide 42: Bảng 2, Hình 1 & Bảng 4 (Sharma-Subba, 2025) - <span class="en">Table 1 & Table 3</span>
+### Bảng 2, Hình 1 & Bảng 4 (Sharma-Subba, 2025) - <span class="en">Table 1 & Table 3</span>
 
 - **Bảng 2 (Table 2):** Những đóng góp về kinh tế của các startup xanh trên các ngành công nghiệp khác nhau. (Sáng tạo việc làm, Tăng trưởng doanh thu, Tác động môi trường, Nhu cầu thị trường, Hỗ trợ chính phủ, Đổi mới công nghệ).
 - **Bảng 4 (Table 4):** Những rào cản chính mà các startup xanh phải đối mặt và các chiến lược giảm nhẹ tiềm năng.
@@ -435,7 +435,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Table 1 Comparison of conventional and green entrepreneurship.<br>• Table 3 Environmental benefits of green startups across different sectors.</span>
 
-### Slide 43: Bảng 5 & Bảng 6 (Sharma-Subba, 2025) - <span class="en">Table 2 & Table 4</span>
+### Bảng 5 & Bảng 6 (Sharma-Subba, 2025) - <span class="en">Table 2 & Table 4</span>
 
 - **Bảng 5 (Table 5):** Sự so sánh giữa các khoản ưu đãi và chính sách của chính phủ hỗ trợ cho tinh thần doanh nhân xanh trên các quốc gia.
 - So sánh giữa Liên minh Châu Âu (EU), Mỹ (USA), Trung Quốc (China), Ấn Độ (India), Anh (UK), Canada. (Ví dụ: Mỹ có Inflation Reduction Act $369 tỷ, Anh có Green Finance Strategy).
@@ -445,7 +445,7 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Table 2 Economic contributions of green startups across different industries.<br>• Table 4 Key barriers faced by green startups and potential mitigation strategies.<br>• Fig. 1. Conceptual framework linking green entrepreneurship, sustainability, and economic development.</span>
 
-### Slide 44: Tinh thần doanh nhân và tính bền vững (Sharma-Subba, 2025) - Phần 6/6 - <span class="en">Table 5 & Table 6</span>
+### Tinh thần doanh nhân và tính bền vững (Sharma-Subba, 2025) - Phần 6/6 - <span class="en">Table 5 & Table 6</span>
 
 - Dựa trên các nghiên cứu thực nghiệm gần đây và các phân tích tình huống (case analyses) toàn cầu, bài đánh giá này cung cấp những hiểu biết sâu sắc về cách mà các công ty khởi nghiệp xanh có thể đóng vai trò như những chất xúc tác cho khả năng phục hồi kinh tế một cách bền vững. Các kết quả cho thấy rằng:
 - Các startup xanh thúc đẩy tăng trưởng bền vững thông qua năng lượng tái tạo, các mô hình tuần hoàn, và công nghệ thân thiện với môi trường.
@@ -456,23 +456,23 @@ Bản dịch bám sát gần như nguyên văn từng slide gốc của giáo s�
 
 <span class="en">• Table 5 Comparison of government incentives and policies supporting green entrepreneurship across countries.<br>• Table 6 Emerging technologies supporting green startups & their economic impact.</span>
 
-### Slide 45: Những điểm cần ghi nhớ (Take away) - Phần 1/2 - <span class="en">Take away 1(2)</span>
+### Những điểm cần ghi nhớ (Take away) - Phần 1/2 - <span class="en">Take away 1(2)</span>
 
 - **Nguyen (2023):** Định hướng khởi nghiệp (EO) tỏ ra rất đắc lực mang lại tác dụng trong việc sắm vai làm một máy dự đoán chỉ ra sự sinh lợi hiệu suất cho đối tượng là tập hợp các SMEs có bà chủ đứng tên làm lãnh đạo kinh doanh ở quốc gia Việt Nam. Những góc độ cấu tạo nên bức tranh EO gồm có yếu tố đổi mới làm mới (innovation), đi kèm chung trạng thái lanh lẹ đón đầu (proactiveness), năng lực chiến đấu hung hãn rực lửa nơi thương trường (competitive aggressiveness), và cả sự hoàn toàn độc lập tự quyết (autonomy), tất thảy cùng chĩa mũi nhọn đâm ra một áp lực bừng sáng tốt đẹp (positive impact) làm đòn bẩy độ hiệu quả cho thương vụ, ngoại trừ ra ở cái mục chấp nhận lao đầu chịu đòn từ rủi ro (risk-taking), thứ mà đang lại đang mang tới một sức tác động mang tính dìm hàng tiêu cực (negative impact) với lượng không nhỏ. Hệ quy chiếu (framework) này đã góp một phần khai mở cung ứng luồng ánh sáng tư duy tri thức lấp lánh (insights) cho tập thể các nhà làm doanh nghiệp cấp độ cỡ vừa và nhỏ (SMEs), khối các bà trùm nữ doanh nhân, cùng đánh giá sức vận hành làm ăn của tổ chức.<br><span class="en">Nguyen (2023): Entrepreneurial orientation (EO) is helpful as a predictor of the performance of women-owned SMEs in Vietnam. EO dimensions of innovation, proactiveness, competitive aggressiveness, and autonomy, have a positive impact on business performance, except risk-taking, which has a significant negative impact. The framework provide insights for SMEs, women entrepreneurs, business performance.</span>
 - **Huis et al. (2019):** Cấp quyền cho đội ngũ những người vay vốn phái nữ được góp mặt vào gói chỉ dẫn GET tiến tới đem lại lực đẩy đắp bồi cho trạng thái cường hóa tự chủ cá nhân và cả nội trong các sợi dây ràng buộc tương quan của những bông hoa (women's personal and relational empowerment). Việc cấp thêm điều kiện cho sự chen chân theo học GET đã thổi bung lên sức nặng ở năng lực ngự trị với tín niệm bản thân (control beliefs) của phía người vay nữ đồng thời với năng lực vung tay ký duyệt hạ màn quyết các khoản tiền tiêu pha bự chảng. Chùm hệ lụy gây nên sức chi phối của sự trao quyền đó được ghi nhận là tịnh tiến dần và tích lũy dồn cục (accumulate) lớn dần theo từng bước thời gian. Lớp những thứ phát hiện ra rất có khả năng đã được làm ngọn nguồn lèo lái nhào nặn ra một cách có thiên lệch nguyên cớ xuất phát từ quá trình nới rộng sức thấu cảm đánh thức tính ý niệm về đặc quyền của giới (gender awareness) đến từ nội tâm nữ giới chứ không chịu tác động tuyệt đối từ duy độc mỗi yếu tố rèn mài nới giãn bộ kỹ năng năng lực điều hành làm ăn buôn bán.<br><span class="en">Huis et al. (2019): Providing female borrowers access to the GET training improves women's personal and relational empowerment. Access to the GET training increased female borrowers' control beliefs as well as decision making on larger expenditures. The empowerment effects appear to accumulate over time. The findings may be driven partly by women's increased gender awareness and not solely by increased business capacity.</span>
 - **Naudé (2010):** Chân dung nhà doanh nhân tuyệt nhiên chẳng những có khả năng gọt giũa nặn ra theo lối đường lối vô cùng mẫu mực trong các trang vẽ công thức (formally modelled) cốt để chạm ngõ vô nhóm rắc rối nhức đầu bao trùm lên công cuộc hoán đổi trong hạ tầng và lớn mạnh lên (growth), khoảng hố sâu giai cấp cùng rỗng bóp nghèo nàn, và cả sự đổ vỡ đứt gãy của ngã tư phân phối thị trường, mà ngược lại nó còn rải tay vươn sải sự rành rọt bao vây luôn trọn quá trình dắt dìu ta qua cả thảy diễn biến tiến bộ của sự phát triển (development process) cộng gộp vào đó chức năng vận hành sắm diễn của đặc thù nhà kinh doanh đứng ngay ở tại cái lằn ranh tiến trình đó. Lĩnh ngộ cho rạch ròi đến cùng về thân phận vai trò do nhà khởi nghiệp sắm lấy ở bên trong của dòng tiến hóa đi lên cho một nền kinh tế sẽ có độ trĩu nặng tương thích cùng mức ngang bằng hệt với trò chơi bóc trần mở toang cái nắp đậy cho chiếc 'hộp đen' đậy chặt lấy chuỗi mớ những luận giải giải vây mang tính chất đậy điệm của bên trong phía cấu trúc quản lý các hội đoàn cơ quan (institutional explanations).<br><span class="en">Naudé (2010): Not only can entrepreneur be formally modelled to address structural change and growth, inequality and poverty, and market failures, but it extends our understanding of the development process and of the role of entrepreneur in that process. To understand the role of entrepreneur in economic development will amount to unpack the 'black box' of institutional explanations.</span>
 
-### Slide 46: Những điểm cần ghi nhớ (Take away) - Phần 2/2 - <span class="en">Take away 2(2)</span>
+### Những điểm cần ghi nhớ (Take away) - Phần 2/2 - <span class="en">Take away 2(2)</span>
 
 - **Méndez-Picazo et al. (2012):** Không có một định nghĩa nào là duy nhất cho khái niệm quản trị. Nó có liên quan đến dân chủ, tham nhũng, các thể chế, và cuộc tranh cãi giữa thị trường với chính phủ. Việc đưa ra sự lựa chọn giữa chúng sẽ phụ thuộc vào tính hiệu quả của chúng trong việc đạt được các mục tiêu kinh tế. Mối quan hệ tích cực (tương quan thuận) giữa quản trị và tinh thần doanh nhân là một yếu tố thúc đẩy tăng trưởng.<br><span class="en">Méndez-Picazo et al. (2012): There is no single definition of governance. It is related to democracy, corruption, institutions, and controversy of market versus government. The choice between the latter depend on their efficacy in achieving economic goals. The positive relationship between governance and entrepreneurship is a growth-enhancing.</span>
 - **Stein et al. (2026)**, Bồi dưỡng các điều kiện cho tinh thần doanh nhân kỹ thuật số. Kết quả chỉ ra rằng sự phát triển của hệ sinh thái khởi nghiệp số (DEE) FinTech của Đan Mạch đã được kích hoạt và định hình bởi những thay đổi đối với các tổ chức thể chế có nhiệm vụ hỗ trợ: Các cơ chế hợp tác mới, đặc biệt là giữa các công ty lâu đời và các startup, Sự thích ứng với khung pháp lý, và Việc phát triển các kết nối toàn cầu. Nghiên cứu này đóng góp vào sự thấu hiểu tốt hơn về sự phát triển của DEE và, theo đó, là những điều kiện để thúc đẩy tinh thần doanh nhân số (DE) trong lĩnh vực FinTech.<br><span class="en">Stein et al. (2026), Fostering conditions for digital entrepreneurship. The results show that the development of the Danish FinTech DEE was enabled and shaped by changes to institutions that support: New collaboration dynamics and mechanisms, particularly between incumbent firms and start-ups, Adaptations to the regulatory framework, and The development of global connections. The study contributes to a better understanding of DEE development and, therefore, the conditions that foster DE in the FinTech field.</span>
 - **Sharma-Subba (2025)**, Tinh thần doanh nhân và tính bền vững. Dựa trên các nghiên cứu thực nghiệm gần đây và phân tích tình huống toàn cầu, cung cấp những hiểu biết về cách mà các công ty khởi nghiệp xanh có thể đóng vai trò như chất xúc tác cho khả năng phục hồi kinh tế bền vững. Kết quả cho thấy: Các startup xanh thúc đẩy tăng trưởng bền vững thông qua năng lượng tái tạo, các mô hình kinh tế tuần hoàn, và công nghệ thân thiện với môi trường. Họ tạo ra việc làm và năng lực cạnh tranh, thu hút đầu tư, và giảm phát thải thông qua các hoạt động sử dụng tài nguyên hiệu quả. Việc mở rộng quy mô cần sự hỗ trợ: các chính sách, ưu đãi thuế, tài chính xanh, và công nghệ số (AI, blockchain).<br><span class="en">Sharma-Subba (2025), Entrepreneurship and sustainability. Drawing on recent empirical studies and global case analyses, provides insights into how green startups can serve as catalysts for sustainable economic resilience. Results show that: Green startups drive sustainable growth via renewables, circular models, and eco-friendly tech. They create jobs and competitiveness, attract investment, and cut emissions through resource-efficient practices. Scaling needs support: policies, tax incentives, green finance, and digital tech (AI, blockchain).</span>
 
-### Slide 47: Lời cảm ơn - <span class="en">Thank You</span>
+### Lời cảm ơn - <span class="en">Thank You</span>
 
 - **Thank You for Your Attention!:** Cảm ơn bạn đã chú ý lắng nghe!<br><span class="en">Thank You for Your Attention!</span>
 
-### Slide 48: Thank You - <span class="en">Thank You</span>
+### Thank You - <span class="en">Thank You</span>
 
 ## Liên kết
 
