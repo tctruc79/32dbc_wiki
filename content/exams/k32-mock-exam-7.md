@@ -11,12 +11,12 @@ also_covers: []
 # K32 Mock Exam — Set 7 (shortlist CHÍNH THỨC, LN6–LN10 + 3 câu so sánh cặp) - <span class="en">K32 Mock Exam — Set 7 (OFFICIAL Shortlist, LN6–LN10 + 3 Pair-Comparison Questions)</span>
 
 ⚠️ **Đây KHÔNG phải đề thi thật** — đề mô phỏng do Claude soạn sau khi có shortlist chính thức
-28/8/2026 ([[k32-shortlist-2026]]). Cùng với [[k32-mock-exam-6]], hai set này phủ trọn **20/20** bài
-chính thức khi cộng với các câu còn hợp lệ của [[k32-mock-exam-1]]…[[k32-mock-exam-5]].<br><span
+28/8/2026 ([[k32-shortlist-2026]]). Cùng với [[k32-mock-exam-6]], [[k32-mock-exam-8]] và [[k32-mock-exam-9]], các set này phủ trọn
+**20/20** bài chính thức và **10/10** cặp so sánh trong buổi học.<br><span
 class="en">⚠️ **This is NOT a real exam** — a mock paper written by Claude after the official
-shortlist arrived on 28/8/2026 ([[k32-shortlist-2026]]). Together with [[k32-mock-exam-6]], these
-two sets cover all **20/20** official papers once the still-valid questions from
-[[k32-mock-exam-1]]…[[k32-mock-exam-5]] are counted.</span>
+shortlist arrived on 28/8/2026 ([[k32-shortlist-2026]]). Together with [[k32-mock-exam-6]],
+[[k32-mock-exam-8]] and [[k32-mock-exam-9]], these sets cover all **20/20** official papers and all
+**10/10** within-lecture comparison pairs.</span>
 
 **Điểm khác biệt của set này**: 3 câu đầu lấy 3 bài shortlist LN6–LN10 chưa có câu hỏi (L71, L85,
 L107); **3 câu sau là dạng SO SÁNH CẶP TRONG CÙNG BUỔI HỌC** — dạng giáo sư ưa dùng nhất. Nay khi
