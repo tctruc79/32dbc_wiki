@@ -222,12 +222,12 @@ outranks inference from a single spoken sentence.</span>
    poverty/inequality), L71↔L73 (infrastructure ↔ human capital), L85↔L86 (measuring the circular
    economy ↔ applying it), L93↔L95 (artificial intelligence ↔ digitalization barriers), L104↔L107
    (Chinese exporters ↔ Vietnamese imports/exports).</span>
-4. **Luyện đề**: [[k32-mock-exam-6]] và [[k32-mock-exam-7]] là 2 set soạn riêng cho 20 bài chính
-   thức này; 5 set cũ ([[k32-mock-exam-1]]…[[k32-mock-exam-5]]) vẫn dùng được nhưng 19/30 câu của
-   chúng nằm ngoài shortlist.<br><span class="en">**Practice**: [[k32-mock-exam-6]] and
-   [[k32-mock-exam-7]] are two sets written specifically for these official 20; the five earlier
-   sets ([[k32-mock-exam-1]]…[[k32-mock-exam-5]]) remain usable, but 19 of their 30 questions fall
-   outside the shortlist.</span>
+4. **Luyện đề**: [[k32-mock-exam-1]]…[[k32-mock-exam-10]] — 10 set × 6 câu (60 câu tổng, viết lại
+   31/8/2026), toàn bộ dạng đơn-bài đúng văn phong K30/K31, dùng ĐÚNG 20 bài chính thức này, mỗi
+   bài xuất hiện đúng 3 lần.<br><span class="en">**Practice**: [[k32-mock-exam-1]]…
+   [[k32-mock-exam-10]] — 10 sets × 6 questions (60 total, rewritten 31/8/2026), all single-paper
+   format matching K30/K31 phrasing, using EXACTLY these 20 official papers, each appearing
+   exactly 3 times.</span>
 5. **Luật thi** giữ nguyên như K30/K31: 2 câu bắt buộc + chọn tối thiểu 2 trong 4 câu tự chọn,
    mỗi câu 12.5 điểm — xem [[k31-final-exam]] mục luật thi.<br><span class="en">**Exam rules**
    remain as in K30/K31: 2 compulsory questions + at least 2 of 4 elective questions, 12.5 points

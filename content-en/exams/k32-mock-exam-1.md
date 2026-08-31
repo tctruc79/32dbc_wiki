@@ -1,236 +1,105 @@
 ---
 type: exam
-title: "K32 Mock Exam — Set 1 (LN1 & LN2)"
-tags: [exam, mock-exam, k32, convergence, deep-roots, institutions, corruption, fdi-informal-economy]
-created: 2026-07-30
-updated: 2026-08-11
+title: "K32 Mock Exam — Set 1 (LN1 compulsory + LN2 elective)"
+tags: [exam, mock-exam, k32, k32-shortlist, l14, l15, l25, l26]
+created: 2026-08-31
+updated: 2026-08-31
 status: complete
 also_covers: []
 ---
 
-# K32 Mock Exam — Set 1 (LN1 & LN2)
+# K32 Mock Exam — Set 1 (LN1 compulsory + LN2 elective)
 
-⚠️ **This is NOT a real exam** — the professor has not yet released the shortlist of 20 papers
-(expected 30 Aug) or the K32 exam itself. This is a **mock exam authored by Claude**, following
-the exact format/rules of [[k31-final-exam]] (the previous cohort, same course/professor) but
-using papers from K32's own reading list that have already been deep-ingested (LN1–LN2, 11
-papers). Purpose: to practice the **question format** ("present the findings +
-drivers/mechanism/impacts of a specific paper") and to practice writing answers within the real
-exam's rules — NOT to predict the actual exam questions. The answers below are grounded in wiki
-content already deep-ingested (unlike [[k31-final-exam]], which required web research for papers
-outside the reading list).
+⚠️ **This is NOT a real exam** — a REFERENCE exam authored by Claude, completely rewritten on 31/8/2026 to match the single-paper phrasing style of the two real K30/K31 exams (verified: all 12/12 real questions ask about one paper each, with no comparison questions). Set 1: compulsory questions 1–2 use L14 + L15 (LN1, method + main-findings angle); elective questions 3–6 use L25 + L26 (LN2, two angles each: mechanism/robustness + policy implications). All 10 sets (Set 1–10) together cover exactly 20/20 shortlist papers, each appearing exactly 3 times. See the full 10 sets with an interactive interface in the 3 Mindmap Artifacts linked from [[k32-shortlist-2026]] / [[exam-prep]].
 
-See also: [[k32-mock-exam-2]] (Set 2, LN3–LN5) · [[k32-mock-exam-3]] (Set 3, LN6–LN8) ·
-[[k32-mock-exam-4]] (Set 4, LN9–LN10) · [[k32-mock-exam-5]] (Set 5, aligned with the real K31
-shortlist) · [[exam-prep]] (master exam-prep synthesis).
+## Exam Rules &amp; Grading Structure
 
-## 0. Exam rules & grading (mirroring K31, ⚠️ K32's question structure has CHANGED — see the 2026-08-11 update below)
+**120 minutes, closed-book**, modeled exactly on the real K31 exam rules. 2 compulsory questions (Q1–2) are both mandatory; 4 elective questions (Q3–6), choose at least 2 — if more than 2 are answered, only the best 2 scores count. 12.5 points each, 50 points per set.
 
-- **Format**: Written exam (50 points) + Essay (50 points) — 50/50, PASS ≥50% on each part per
-  [[syllabus-2026]] (K31 applied a 55%/27.5-point threshold — it is not yet known which threshold
-  K32 will use, see [[k31-final-exam]] section 0).
-- **Duration**: K31 used 120 minutes; the professor announced K32 is **tentatively 2 hours**
-  (see [[ln0-course-intro]]) — effectively unchanged, still using 120 minutes for these mock
-  exams.
-- **Closed-book**: confirmed for both K31 and K32.
-- ⚠️ **Question structure (CHANGED, updated 2026-08-11)**: the professor announced in class that
-  K32's structure is **Part 1: 2 compulsory questions + Part 2: elective, answer 4 questions**
-  (see [[ln0-course-intro]]) — DIFFERENT from K31's real structure below (elective required only
-  a MINIMUM of 2/4). The actual elective pool size the professor will offer for K32 is NOT YET
-  KNOWN, only that exactly 4 must be answered; the point allocation for the new structure is also
-  UNCONFIRMED (total questions answered rises from 4 to 6, so keeping 12.5 pts/question = 50
-  total is unlikely without a rescale). Mock Sets 1–5 currently have exactly 4 elective questions
-  each (Questions 3–6, per the old K31 structure) — for THESE sets, "elective, answer 4" means
-  answering ALL 4, with no real "choice" element until new elective questions are added. K31's
-  real structure (for reference, NO LONGER applicable to K32): A. Compulsory — Questions 1, 2
-  (12.5 points each, BOTH required). B. Elective — Questions 3–6 (12.5 points each, choose at
-  least 2; if more are answered, only the top 2 scores count). Total: 2 compulsory + 2 best
-  elective × 12.5 = 50 points. Practicing all 4 elective questions in each set still has value
-  for the SKILL of writing answers, even though K32's real point allocation/elective count may
-  differ.
-
-## 1. Questions
+## Questions
 
 ### A. Compulsory questions (each 12.5 points)
 
-**Question 1**: Acemoglu, Johnson and Robinson (AER, 2001) examined the colonial origins of
-comparative development. Discuss their identification strategy, findings concerning the causal
-role of institutions, and the main threats to the validity of their approach.
+**Question 1**: Sasges and Takahashi (International Economics, 2025) examined the relative influence of globalization, electricity infrastructure and privatization on Vietnam's economic development. Discuss their findings concerning how the explanatory power of globalization, electricity infrastructure and privatization changed between the two sample periods.
 
-**Question 2**: Patel, Sandefur and Subramanian (JDE, 2021) examined unconditional convergence
-in the post-1990 growth literature. Discuss their findings, the evidence they present, and its
-implications for the "middle-income trap" framework.
+**Question 2**: Yin, Bai and Sun (Sustainable Futures, 2025) examined the spatiotemporal evolution of China's high-quality economic development. Discuss their findings concerning how China's high-quality development index evolved across provinces and regions.
+
 
 ### B. Elective questions (choose a minimum of 2 questions, each 12.5 points)
 
-**Question 3**: Spolaore and Wacziarg (JEL, 2013) survey the "deep roots" literature on economic
-development. Discuss their findings concerning the fundamental factors that explain the
-persistence of development outcomes, and how their argument relates to the institutions-based
-explanation of comparative development.
+**Question 3**: Bizikova et al. (Environmental and Sustainability Indicators, 2025) examined what water-energy-food nexus research reveals about governance and policy. Explain why nexus research struggles to translate evidence into governance action, and what factors are needed to close this gap.
 
-**Question 4**: Nunn (CJE, 2019) offers a critical reflection on Western intervention in
-developing countries. Discuss his findings and arguments concerning the effects of aid, trade
-policy, and randomized controlled trials (RCTs) on development outcomes.
+**Question 4**: Bizikova et al. (Environmental and Sustainability Indicators, 2025) examined what water-energy-food nexus research reveals about governance and policy. Explain the policy lesson for governments and one limitation of applying nexus research directly to policy design.
 
-**Question 5**: Mauro (QJE, 1995) examined corruption and growth. Discuss his findings concerning
-the identification strategy, the channels through which corruption affects investment and growth,
-and the economic magnitude of the effect.
+**Question 5**: Huynh and Tran (International Economics, 2025) examined the effects of FDI, growth and governance quality on Vietnam's informal economy. Explain the causal logic linking quality FDI to formalization, and why poverty and unemployment work in the opposite direction.
 
-**Question 6**: Huynh and Tran (2025) examined FDI, economic growth, governance quality and the
-informal economy in Vietnam. Discuss their findings concerning the channels through which FDI
-affects the informal economy, and the implications for Vietnam's development policy.
+**Question 6**: Huynh and Tran (International Economics, 2025) examined the effects of FDI, growth and governance quality on Vietnam's informal economy. Explain the policy lesson for Vietnam and one qualification about when FDI actually reduces informality.
 
-## 2. Detailed answers
+## Detailed Answers
 
-### Question 1 — Colonial origins of comparative development (Acemoglu, Johnson & Robinson, AER 2001)
+### Question 1 — Assessing the Influence of Three Policies on Vietnam's Economic Development (Sasges and Takahashi 2025)
 
-See in full: [[l21-acemoglu-2001-colonial-origins]].
+*Compulsory · Method + main findings*
 
-**Identification strategy**: the causal chain runs from settler mortality (exogenous, from
-colonial-era disease environments) → European settlement viability → colonization strategy
-(extractive vs. settlement) → early institutions → present-day institutions → present-day
-income/capita. Settler mortality is used as an instrument (2SLS) for the quality of current
-institutions (measured via the "risk of expropriation" index).
+See in full: [[l14-sasges-2025-vietnam-policies]].
 
-**Findings**: 2SLS α=0.94 (versus OLS α=0.52) — institutions have a LARGER causal effect than
-the standard OLS estimate (OLS is attenuated by measurement error plus reverse-causality
-endogeneity). First stage: settler mortality explains 27% of the variation in institutions.
-Central conclusion: institutions are the **fundamental cause** of modern economic development,
-outperforming competing explanations based purely on geography or climate.
+- VAR + impulse response + variance decomposition, Vietnam 1980–2018, structural break at 1997.
+- Period I (1980–97): globalization + electrification explain up to <span class="stat">97%</span> of growth volatility, but high growth comes with instability.
+- Period II (1998–2018): the three policies explain only <span class="stat">25–40%</span> — growth becomes both high and stable; privatization emerges as the new driver.
 
-**Threats to validity**: (1) The exclusion restriction could be violated if historical settler
-mortality affects present-day income through channels OTHER than institutions (e.g., via human
-capital, or diseases that persist today) — the paper tests this by adding controls for
-climate/geography/resources, with results holding up; (2) [[l13-spolaore-2013-deep-roots]] (L13)
-later shows that the "reversal of fortune" evidence underlying the AJR framework disappears once
-European countries are added to the sample and the data are adjusted for ancestry (Putterman &
-Weil 2010), casting doubt on the robustness of the identification; (3) the original paper's
-overidentification test does not reject the null, but this remains a recurring point of debate
-in the later literature (see [[exam-prep]] sections 3.1, 3.2).
+### Question 2 — Measurement and Spatiotemporal Dynamic Evolution of China's High-Quality Economic Development (Yin, Bai and Sun 2025)
 
-**Related**: [[institutions]] · [[deep-roots-of-development]].
+*Compulsory · Method + main findings*
 
-### Question 2 — Unconditional convergence & the middle-income trap (Patel, Sandefur & Subramanian, JDE 2021)
+See in full: [[l15-yin-2025-china-hqed]].
 
-See in full: [[l11-patel-2021-unconditional-convergence]].
+- Entropy-weighted composite index across 5 dimensions (innovation, coordination, green, openness, sharing), Chinese provincial panel 2011–2021.
+- Eastern provinces lead consistently; the overall distribution shifts upward (improvement) but tri-modal polarization emerges.
+- The leader–laggard gap widens despite the overall upward trend; development remains uneven and uncoordinated in many provinces.
 
-**Findings**: using non-linear least squares on three datasets (Maddison, PWT, WDI) covering
-1960–2019, the paper shows that unconditional convergence (β-convergence without conditioning
-variables) — which had "disappeared" in 1990s-vintage data, prompting the literature's shift
-toward conditional convergence — has **returned** since roughly 1995. Cross-sectional growth is
-now inverted-U shaped: middle-income countries have grown FASTEST since the 1980s, 0.50–0.75
-percentage points faster than before 1985.
+### Question 3 — Water-Energy-Food Nexus Research: What Can It Tell Us About Governance and Policy? (Bizikova et al. 2025)
 
-**Evidence**: the paper measures both declining volatility and rising persistence of growth to
-confirm this reflects genuine σ-convergence rather than a transient β-convergence blip.
+*Elective · Mechanism / robustness*
 
-**Implications for the middle-income trap**: the results directly rebut the "middle-income trap"
-framework (Gill & Kharas 2015), which holds that middle-income countries get "stuck," with growth
-slowing once cheap-labor advantages are exhausted. Patel et al. call the opposite pattern "more
-trampoline than trap." This is a notable tension within K32's own course design —
-[[essays-instructions]] suggests using the middle-income trap as an essay framework (via
-[[technology-upgrading]], [[creative-accumulation]]), so this rebutting evidence needs to be
-engaged with rather than ignored (see [[exam-prep]] section 3.3).
+See in full: [[l25-bizikova-2025-water-energy-food-nexus]].
 
-**Related**: [[unconditional-convergence]] · [[middle-income-trap]].
+- Sectoral ministries typically work in silos — nexus models REVEAL cross-sector links but evidence alone does not automatically change policy.
+- Only when institutions ASSIGN clear responsibility, coordinate across sectors, and involve affected groups does evidence translate into action.
+- The authors note most WEF nexus research appears "created by researchers for researchers".
 
-### Question 3 — Deep roots of development (Spolaore & Wacziarg, JEL 2013)
+### Question 4 — Water-Energy-Food Nexus Research: What Can It Tell Us About Governance and Policy? (Bizikova et al. 2025)
 
-See in full: [[l13-spolaore-2013-deep-roots]].
+*Elective · Policy implications / critique*
 
-**Findings**: a theoretical survey (not a single standalone empirical study) with illustrative
-regressions (genetic distance/FST, ancestry composition, 1500 population density) arguing that
-the growth literature has shifted its focus from **proximate determinants** (capital
-accumulation, technology) to **fundamental factors** rooted in deep history, to answer "why"
-rather than merely "how." Four channels transmit persistence across generations: genetic,
-epigenetic, behavioural, and symbolic (culture/language).
+See in full: [[l25-bizikova-2025-water-energy-food-nexus]].
 
-**Relationship to the institutions framework**: L13 argues geography/ancestry are a **direct**
-transmission channel for persistence — unlike AJR (L21, Question 1), which argues the
-transmission channel is institutions. L13 cites AJR's (2002) "reversal of fortune" as an
-illustrative example, then shows this evidence **disappears** once Europe is added to the sample
-and the data are adjusted for ancestry (Putterman & Weil 2010) — i.e., L13 questions the
-robustness of the institutions-only framework, without fully denying a role for institutions
-(both channels could operate simultaneously).
+- Policy: connect nexus analysis to existing policy systems, build cross-ministry coordination, test practical governance mechanisms, monitor real outcomes.
+- Limitation: the nexus is a FRAMEWORK for better decisions, not a ready-made policy — governance arrangements must fit the specific country/scale/political context.
+- Especially relevant to the Mekong Delta — where water-energy-food trade-offs are stark in Vietnam.
 
-**Related**: [[deep-roots-of-development]] · [[institutions]] — see also [[exam-prep]] section 3.1.
+### Question 5 — FDI, Economic Growth, Governance Quality and the Informal Economy (Huynh and Tran 2025)
 
-### Question 4 — Rethinking economic development (Nunn, CJE 2019)
-
-See in full: [[l12-nunn-2019-rethinking-econ-dev]].
-
-**Findings**: a policy reflection (not a standalone empirical model) arguing that aid and
-proactive Western policies often harm developing countries more than they help. Evidence: aid is
-often "leaked" (49–87% in African education); antidumping duties are 10–20 times higher than MFN
-tariffs and are positively correlated with the initiating country's GDP per capita (r=0.55) —
-rich countries actively target poor ones; the Vietnamese catfish case (2003): income for
-specialized farmers fell 40% after the U.S. imposed antidumping duties — larger than any
-development intervention/aid programme ever recorded.
-
-**Critique of RCTs**: high fixed costs, an assumption of universal causal validity, and low
-involvement of local scholars (J-PAL: only 2 of 170 affiliates outside Europe/the U.S.) —
-overlooking local context.
-
-**Conclusion**: the West helps most by **STOPPING** actively causing harm (tariffs, antidumping,
-migration restrictions) rather than simply focusing on "fixing" poor countries through more aid.
-
-**Related**: contrasts with Question 5 (Mauro) and
-[[l23-besley-ghatak-2010-property-rights]], both more optimistic about the potential for policy
-improvement — see [[exam-prep]] section 3.4.
-
-### Question 5 — Corruption and growth (Mauro, QJE 1995)
-
-See in full: [[l22-mauro-1995-corruption-growth]].
-
-**Identification**: ethnolinguistic fractionalization (ELF) is used as an instrument for
-corruption — ethnically fragmented societies tend to have weaker patronage/bureaucratic quality
-(strongly correlated with corruption) but can plausibly be treated as exogenous to current
-economic outcomes.
-
-**Mechanism**: higher corruption → investors are deterred by risk/transaction costs (bribes,
-red tape) → lower investment → lower growth.
-
-**Magnitude**: a one-standard-deviation improvement in the corruption index raises investment by
-roughly 2.9% of GDP. The paper's illustrative example: if Bangladesh raised its bureaucratic
-integrity to Uruguay's level, investment would rise by 5% and GDP growth by 0.5 percentage
-points.
-
-**Related**: in the same Institutions cluster as
-[[l21-acemoglu-2001-colonial-origins]] (Question 1) — Mauro offers more concrete, more optimistic
-policy recommendations than Nunn (Question 4) regarding the potential for domestic policy reform.
-See [[institutions]] · [[exam-prep]] section 3.4.
-
-### Question 6 — FDI, growth, governance and the informal economy in Vietnam (Huynh & Tran, 2025)
+*Elective · Mechanism / robustness*
 
 See in full: [[l26-huynh-tran-2025-fdi-informal-economy]].
 
-**Method**: a panel of 63 Vietnamese provinces, 2006–2021, System GMM (addressing dynamic
-endogeneity).
+- Quality FDI creates formal jobs, production linkages, and pressure for clearer regulation.
+- Effective governance lowers the cost and uncertainty of operating formally — encouraging firms/workers to register formally.
+- Conversely, poverty and unemployment PUSH workers into informal work as a survival strategy, regardless of governance quality.
 
-**Two channels through which FDI affects the informal economy**:
-- **Growth channel**: FDI boosts growth → creates formal-sector jobs → reduces the incentive to
-  participate in the informal economy (modernization theory/Lewis dual economy).
-- **Governance channel**: FDI creates pressure to improve local governance quality (measured via
-  the 6-dimension PAPI index — reform pressure to retain investment) → shrinks the space
-  available for informal activity (institutional theory).
+### Question 6 — FDI, Economic Growth, Governance Quality and the Informal Economy (Huynh and Tran 2025)
 
-**Findings**: both channels operate SIMULTANEOUSLY — the FDI×GROW and FDI×GOV interaction
-coefficients are both negative and statistically significant; GOV has the largest negative
-coefficient in the model, meaning the governance channel is stronger than the pure growth
-channel; the formal and informal economies act as substitutes. Robust to two alternative
-specifications (arcsinh(FDI), a TAX/GDP proxy).
+*Elective · Policy implications / critique*
 
-**Policy implications for Vietnam**: attracting FDI benefits the economy not only through direct
-job creation but also indirectly by improving local governance quality — policy should link FDI
-attraction with provincial governance reform to maximize the reduction in informal-economy
-activity.
+See in full: [[l26-huynh-tran-2025-fdi-informal-economy]].
 
-**Related**: [[institutions]], section on empirical applications in Vietnam.
+- Policy: attract quality FDI, strengthen transparent provincial governance, reduce administrative burden, while addressing poverty/unemployment.
+- Limitation: FDI is NOT automatically beneficial — its effect depends on investment quality, local institutions, and whether domestic firms/workers can connect to it.
+- The aim is not to punish informal workers but to make formalization more attractive and beneficial.
 
 ## Links
 
-- [[k32-mock-exam-2]] · [[k31-final-exam]] · [[exam-prep]] · [[overview]]
-- Papers featured: [[l21-acemoglu-2001-colonial-origins]],
-  [[l11-patel-2021-unconditional-convergence]], [[l13-spolaore-2013-deep-roots]],
-  [[l12-nunn-2019-rethinking-econ-dev]], [[l22-mauro-1995-corruption-growth]],
-  [[l26-huynh-tran-2025-fdi-informal-economy]]
+- [[k32-shortlist-2026]] — the full official 20-paper shortlist.
+- [[exam-prep]] — the exam-prep synthesis page, linking the 3 Mindmap Artifacts with all 10 sets in interactive form.
+- [[k30-final-exam]], [[k31-final-exam]] — the two REAL past exams used to derive this set's question phrasing.
+- [[k32-mock-exam-2]] — next set.

@@ -2502,31 +2502,27 @@ trade diversion (L104) and tariff-driven relocation to Vietnam (L106/L107) (3.30
   K32.<br><span class="en">Main value: getting familiar with the **question type** ("present the
   findings + drivers/impacts/mechanism of one specific paper") — likely to reappear on the K32
   exam.</span>
-- [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8),
-  [[k32-mock-exam-4]] (LN9–LN10, chủ đề tự do) và [[k32-mock-exam-5]] (6 bài còn thiếu trong Top
-  20 dự đoán, xem [[shortlist-prediction]]) — đề thi **mô phỏng cho K32** (Claude tự soạn, KHÔNG
-  phải đề thật), bám đúng format/luật thi của [[k31-final-exam]] nhưng thay bằng 30/62 paper đã
-  deep-ingest của K32, trải đều cả 12 cụm chủ đề. Từ khi phát hiện [[k31-shortlist-2025]] (văn bản
-  shortlist THẬT của K31), Set 5 được chọn TRỰC TIẾP theo bằng chứng shortlist thay vì suy luận
-  cụm chủ đề như Set 1-4 — ⚠️ nay lỗi thời về ưu tiên nội dung: GS xác nhận 2026-08-11 KHÔNG lặp
-  lại shortlist K31, 6 bài Set 5 đã bị loại khỏi Top 20 mới ở [[shortlist-prediction]] (xem
-  [[k32-mock-exam-5]], chỉ còn giá trị luyện kỹ năng).<br><span class="en">[[k32-mock-exam-1]]
-  (LN1–LN2), [[k32-mock-exam-2]]
-  (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8), [[k32-mock-exam-4]] (LN9–LN10, open theme) and
-  [[k32-mock-exam-5]] (the 6 papers still missing from the Top-20 prediction, see
-  [[shortlist-prediction]]) — **mock exams for K32** (authored by Claude, NOT the real exam),
-  closely following [[k31-final-exam]]'s format/rules but substituting 30/62 of K32's
-  deep-ingested papers, spread across all 12 thematic clusters. Since discovering
-  [[k31-shortlist-2025]] (K31's REAL shortlist document), Set 5 was chosen DIRECTLY from shortlist
-  evidence rather than cluster-reasoning inference as in Sets 1-4 — ⚠️ now outdated in content
-  priority: the professor confirmed on 2026-08-11 he will NOT repeat the K31 shortlist, so Set 5's
-  6 papers have been excluded from the new Top 20 in [[shortlist-prediction]] (see
-  [[k32-mock-exam-5]] — skill-practice value only now).</span>
-  Dùng để luyện dạng câu hỏi + luyện viết đáp án đúng khuôn khổ thi thật. Sẽ mở rộng thêm set/câu
-  hỏi mỗi khi có reading mới được deep-ingest (xem CLAUDE.md).<br><span class="en">Used to
-  practice the question type + practice writing answers within the real exam's constraints. Will
-  be expanded with more sets/questions whenever a new reading is deep-ingested (see
-  CLAUDE.md).</span>
+- [[k32-mock-exam-1]]…[[k32-mock-exam-10]] — đề thi **mô phỏng cho K32** (Claude tự soạn, KHÔNG
+  phải đề thật) — **viết lại hoàn toàn 31/8/2026** sau khi đối chiếu văn phong 2 đề thật
+  [[k30-final-exam]] + [[k31-final-exam]]: cả 12/12 câu thật đều hỏi **1 bài đơn lẻ** ("Discuss
+  findings concerning X"), KHÔNG có câu so sánh 2 bài — nên toàn bộ 10 set (thay hẳn 9 set cũ
+  Set 1–9) nay cũng theo đúng dạng đơn bài này, dùng ĐÚNG 20 bài shortlist chính thức
+  ([[k32-shortlist-2026]]). Cấu trúc: Set N = 2 câu bắt buộc dùng 2 bài LN N (góc độ phương pháp +
+  phát hiện chính) + 4 câu tự chọn dùng 2 bài LN N+1 (mỗi bài 2 góc độ: cơ chế/tính vững + hàm ý
+  chính sách) — mỗi bài trong 20 bài shortlist xuất hiện đúng 3 lần ở 2 set khác nhau, 20 câu bắt
+  buộc + 40 câu tự chọn = 60 câu, phủ đúng 20/20 bài. Đáp án gạch đầu dòng, ngắn gọn. Xem đầy đủ
+  10 set dạng tương tác tại 3 Mindmap Artifact liên kết cuối trang này.<br><span class="en">
+  [[k32-mock-exam-1]]…[[k32-mock-exam-10]] — **mock exams for K32** (authored by Claude, NOT the
+  real exam) — **completely rewritten on 31/8/2026** after checking the phrasing of the two real
+  exams [[k30-final-exam]] + [[k31-final-exam]]: all 12/12 real questions ask about **one single
+  paper** ("Discuss findings concerning X"), with NO two-paper comparison questions — so all 10
+  sets (replacing the old 9 sets, Set 1–9) now follow this single-paper format too, using EXACTLY
+  the 20 official shortlist papers ([[k32-shortlist-2026]]). Structure: Set N = 2 compulsory
+  questions using LN N's 2 papers (method + main-findings angle) + 4 elective questions using
+  LN N+1's 2 papers (two angles each: mechanism/robustness + policy implications) — each of the 20
+  shortlist papers appears exactly 3 times across 2 different sets, 20 compulsory + 40 elective =
+  60 questions, covering exactly 20/20 papers. Answers are bullet-point and concise. See all 10
+  sets in interactive form in the 3 Mindmap Artifacts linked at the end of this page.</span>
 
 ## Liên kết
 

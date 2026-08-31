@@ -1,227 +1,106 @@
 ---
 type: exam
-title: "K32 Mock Exam — Set 2 (LN3, LN4 & LN5)"
-tags: [exam, mock-exam, k32, banking-crisis, land-institutions, climate-vulnerability, entrepreneurship, microfinance]
-created: 2026-07-30
-updated: 2026-08-11
+title: "K32 Mock Exam — Set 2 (LN2 compulsory + LN3 elective)"
+tags: [exam, mock-exam, k32, k32-shortlist, l25, l26, l32, l34]
+created: 2026-08-31
+updated: 2026-08-31
 status: complete
 also_covers: []
 ---
 
-# K32 Mock Exam — Set 2 (LN3, LN4 & LN5)
+# K32 Mock Exam — Set 2 (LN2 compulsory + LN3 elective)
 
-⚠️ **This is NOT a real exam** — the professor has not yet released the shortlist of 20 papers
-(expected 30 Aug) or the K32 exam itself. This is a **mock exam authored by Claude**, following
-the exact format/rules of [[k31-final-exam]] (the previous cohort, same course/professor) but
-using papers from K32's own reading list that have already been deep-ingested (LN3–LN5, 18
-papers). Purpose: to practice the **question format** ("present the findings +
-drivers/mechanism/impacts of a specific paper") and to practice writing answers within the real
-exam's rules — NOT to predict the actual exam questions.
+⚠️ **This is NOT a real exam** — a REFERENCE exam authored by Claude, completely rewritten on 31/8/2026 to match the single-paper phrasing style of the two real K30/K31 exams (verified: all 12/12 real questions ask about one paper each, with no comparison questions). Set 2: compulsory questions 1–2 use L25 + L26 (LN2, method + main-findings angle); elective questions 3–6 use L32 + L34 (LN3, two angles each: mechanism/robustness + policy implications). All 10 sets (Set 1–10) together cover exactly 20/20 shortlist papers, each appearing exactly 3 times. See the full 10 sets with an interactive interface in the 3 Mindmap Artifacts linked from [[k32-shortlist-2026]] / [[exam-prep]].
 
-See also: [[k32-mock-exam-1]] (Set 1, LN1–LN2) · [[k32-mock-exam-3]] (Set 3, LN6–LN8) ·
-[[k32-mock-exam-4]] (Set 4, LN9–LN10) · [[k32-mock-exam-5]] (Set 5, aligned with the real K31
-shortlist) · [[exam-prep]] (master exam-prep synthesis).
+## Exam Rules &amp; Grading Structure
 
-## 0. Exam Rules & Grading Structure
+**120 minutes, closed-book**, modeled exactly on the real K31 exam rules. 2 compulsory questions (Q1–2) are both mandatory; 4 elective questions (Q3–6), choose at least 2 — if more than 2 are answered, only the best 2 scores count. 12.5 points each, 50 points per set.
 
-⚠️ See [[k32-mock-exam-1]] section 0 (updated 2026-08-11) — K32's real question
-structure has changed (2 compulsory + elective answer-4, see [[ln0-course-intro]]), different
-from the K31 "minimum 2/4" structure this set still uses for now since it has exactly 4 elective
-questions.
-
-## 1. Questions
+## Questions
 
 ### A. Compulsory questions (each 12.5 points)
 
-**Question 1**: Baron, Verner and Xiong (QJE, 2021) examined banking crises without panics.
-Discuss their findings based on a sample of episodes of banking distress with and without
-banking panics, and explain what characterized the bank equity declines and the mechanism for
-its economic consequences.
+**Question 1**: Bizikova et al. (Environmental and Sustainability Indicators, 2025) examined what water-energy-food nexus research reveals about governance and policy. Discuss their findings concerning the extent and type of governance recommendations that water-energy-food nexus studies actually provide.
 
-**Question 2**: Do, Nguyen and Grote (EAP, 2023) examined land consolidation, rice production,
-and agricultural transformation in Vietnam. Discuss their findings concerning land consolidation,
-its drivers, and economic and social impacts.
+**Question 2**: Huynh and Tran (International Economics, 2025) examined the effects of FDI, growth and governance quality on Vietnam's informal economy. Discuss their findings concerning the channels through which FDI affects Vietnam's informal economy.
+
 
 ### B. Elective questions (choose a minimum of 2 questions, each 12.5 points)
 
-**Question 3**: Ho (World Development, 2021) examined land tenure and economic development in
-Vietnam. Discuss the findings concerning the effect of land-use certificates on local economic
-development, and explain why the estimated effect is more modest than cross-country evidence on
-property rights.
+**Question 3**: Jiang, Levine and Lin (Journal of Financial and Quantitative Analysis, 2019) examined the effect of bank competition on liquidity creation. Explain the mechanism through which competition reduces liquidity creation, and why the effect concentrates in weaker banks.
 
-**Question 4**: Vo and Tran (HERA, 2022) examined climate change and rural vulnerability in
-Vietnam using the Livelihood Vulnerability Index (LVI). Discuss their findings concerning which
-regions of Vietnam are most vulnerable, and why.
+**Question 4**: Jiang, Levine and Lin (Journal of Financial and Quantitative Analysis, 2019) examined the effect of bank competition on liquidity creation. Explain the policy implication for financial liberalization and one qualification to the claim that competition is harmful.
 
-**Question 5**: Naudé (SBE, 2010) examined the role of entrepreneurship in development economics.
-Discuss his findings concerning the two gaps he identifies in the literature, and his central
-argument about the nature of the entrepreneurship problem in developing countries.
+**Question 5**: Cai and Le (Resources Policy, 2023) examined the roles of natural resources, financial development and CSR in Vietnam's green growth. Explain why the short-run and long-run relationships reverse, and the role CSR plays as a mediating mechanism.
 
-**Question 6**: Huis, Lensink, Vu and Hansen (World Development, 2019) examined the impacts of
-the GET Ahead training programme on the empowerment of female microfinance borrowers in northern
-Vietnam. Discuss their findings and explain why the effects differ between midline and endline.
+**Question 6**: Cai and Le (Resources Policy, 2023) examined the roles of natural resources, financial development and CSR in Vietnam's green growth. Explain the policy lesson for Vietnam and one limitation of generalizing these findings beyond the Vietnamese context.
 
-## 2. Detailed answers
+## Detailed Answers
 
-### Question 1 — Banking crises without panics (Baron, Verner & Xiong, QJE 2021)
+### Question 1 — Water-Energy-Food Nexus Research: What Can It Tell Us About Governance and Policy? (Bizikova et al. 2025)
 
-See in full: [[l31-baron-2021-banking-crises-without-panics]].
+*Compulsory · Method + main findings*
 
-**Data & method**: bank equity data (share prices) for 46 countries, 1870–2016 (~2,500
-country-years, over 100 banking crises at monthly frequency); macro forecasting regressions (GDP,
-future bank credit-to-GDP) on bank-equity return bins, plus local projections (IRFs).
+See in full: [[l25-bizikova-2025-water-energy-food-nexus]].
 
-**Fact 1**: a ≥30% bank equity crash predicts a 3.4% decline in real GDP and a 5.7 percentage
-point decline in bank credit-to-GDP over the following 3 years.
+- PRISMA systematic review, screening <span class="stat">683→40</span> WEF-nexus studies (2011–2023).
+- <span class="stat">63%</span> of studies focus on technical quantitative modeling; only <span class="stat">17.5%</span> give direct, clear governance/policy recommendations.
+- Most contributions are INDIRECT — via technology assessment, stakeholder engagement, coordination, indicator-building.
 
-**Fact 2 — the crux of "with and without panics"**: even WITHOUT a panic, a ≥30% bank equity
-crash still predicts GDP −2.7%/credit-to-GDP −3.5pp after 3 years — a panic makes the outcome
-worse (GDP −3.4%/−5.7pp), but panic is NOT a necessary condition. Illustrative non-panic
-episodes: Japan 1991–1996, Spain 1977–1982, the U.S. 1990–1992.
+### Question 2 — FDI, Economic Growth, Governance Quality and the Informal Economy (Huynh and Tran 2025)
 
-**Characteristics of the bank equity decline & the mechanism for economic consequences**: bank
-equity reflects the erosion of bank capital — as bank capital is eroded, financial intermediation
-capacity (lending) declines regardless of whether a panic occurs → credit contracts → investment
-and consumption fall → GDP declines. Panic (when it occurs) follows AFTER bank equity has already
-fallen sharply (7 months on average, with equity having already lost ~55% of its total eventual
-decline before panic breaks out) — so panic is an **amplifying** mechanism for consequences
-already set in motion by capital erosion, not the root cause.
+*Compulsory · Method + main findings*
 
-**Policy implications**: prioritize early bank recapitalization, not merely liquidity backstops
-aimed at preventing panic.
+See in full: [[l26-huynh-tran-2025-fdi-informal-economy]].
 
-**Related**: shares the same methodological argument ("financial-market data reflects
-near-immediate expectations") as
-[[l33-lastunen-2023-forecasting-covid-recovery-vietnam]] — see [[banking-crisis]] ·
-[[exam-prep]] section 3.6.
+- System GMM, panel of <span class="stat">63</span> Vietnamese provinces (<span class="stat">2006–2021</span>), cross-checked with pooled OLS + fixed/random effects.
+- FDI reduces the informal-economy size through BOTH channels: growth and governance quality — the governance channel is strongest.
+- Formal and informal sectors SUBSTITUTE for each other, not complement; poverty/unemployment are the main drivers of informality.
 
-### Question 2 — Land consolidation, rice production, Vietnam (Do, Nguyen & Grote, EAP 2023)
+### Question 3 — Competition and Bank Liquidity Creation (Jiang, Levine and Lin 2019)
 
-See in full: [[l42-do-2023-land-consolidation-vietnam]].
+*Elective · Mechanism / robustness*
 
-**Source**: TVSEP (Thailand Vietnam Socio-Economic Panel) data, 995 rice-farming households, 3
-central provinces (Hà Tĩnh, Thừa Thiên Huế, Đắk Lắk), 3 survey rounds (2010/2013/2017).
+See in full: [[l32-jiang-2019-competition-bank-liquidity-creation]].
 
-**Method**: land fragmentation is measured with the Simpson index; farming efficiency is
-estimated via a true random-effects stochastic frontier (translog, Greene 2005) plus Mundlak
-(1978); a simultaneous-equations system links farming efficiency and land-consolidation
-participation, estimated via 3SLS combined with heteroscedasticity-based instrumental variables
-(Lewbel 2012); PSM-DD is used for production costs and poverty.
+- Competition squeezes bank profit margins and capital buffers.
+- Smaller buffers → weaker banks become less able/willing to hold risky illiquid assets → reduced lending and liquidity creation.
+- The mechanism works mainly through the ASSET side of liquidity creation, not the funding side.
 
-**Drivers**: farming efficiency has a significant POSITIVE effect on the probability of
-participating in land consolidation (more efficient households are more likely to participate) —
-but the reverse direction (participation → efficiency) is NOT statistically significant —
-self-selection matters more than reverse causation.
+### Question 4 — Competition and Bank Liquidity Creation (Jiang, Levine and Lin 2019)
 
-**Economic impacts (PSM-DD)**: land consolidation reduces land-preparation costs by
-PPP$24.35/ha and harvest costs by PPP$41.82/ha; it raises per-labor farm income and the share of
-farm income in total household income (evidence of rural transformation).
+*Elective · Policy implications / critique*
 
-**Social impacts**: reduces poverty as measured by the FGT (Foster-Greer-Thorbecke) index at two
-thresholds, PPP$2.05 and PPP$3.20/day.
+See in full: [[l32-jiang-2019-competition-bank-liquidity-creation]].
 
-**Related**: shares the theme of "Vietnam's land institutions" with
-[[l41-ho-2021-land-tenure-vietnam]] (Question 3) but through a different channel (tenure security
-in L41 vs. fragmentation/consolidation in L42) — see [[institutions]], section on empirical
-applications in LN4.
+- Policy: bank liberalization/competition should be paired with strong supervision and adequate capital requirements, especially for weak banks.
+- Limitation: theory is ambiguous — competition can also improve innovation, screening, service quality; this is a TRADE-OFF, not proof competition is always harmful.
+- Vietnam relevance: a direct warning for the foreign-bank-entry/domestic-competition debate — competition is not automatically good for the economy.
 
-### Question 3 — Land tenure and economic development in Vietnam (Ho, World Development 2021)
+### Question 5 — Natural Resources and Financial Development: The Role of CSR in Vietnam's Green Growth (Cai and Le 2023)
 
-See in full: [[l41-ho-2021-land-tenure-vietnam]].
+*Elective · Mechanism / robustness*
 
-**Method**: nighttime-lights data as a proxy for commune-level economic development, combined
-with panel FE/RE plus Oster (2019) bias-adjustment to assess sensitivity to omitted variables.
+See in full: [[l34-cai-2023-natural-resources-financial-development-vietnam]].
 
-**Findings**: a bivariate coefficient of 1.7% (a 1% increase in land-use certificates → +1.7%
-nighttime light) falls to 0.6% once full controls plus province fixed effects are added; the
-Oster (2019) bias-adjustment shows the coefficient could approach zero under the most
-conservative scenario (δ=0.9, R=0.8) — a modest, fragile effect.
+- The reversal implies an initial ADJUSTMENT COST (technology/process transition) must be paid before genuine green benefits appear.
+- Finance funds clean technology, but capital alone can also fund polluting activity without proper direction.
+- CSR is the MEDIATING channel turning environmental commitments into accountable firm behavior — without strong CSR, finance/resources don't automatically yield green growth.
 
-**Why the effect is more modest than cross-country evidence (e.g., AJR 2001, Question 1 of
-[[k32-mock-exam-1]])**: land-use certificates in Vietnam are an **INCOMPLETE** property right —
-the state can still reclaim land (lingering insecurity), and transaction costs/time for land
-dealings are high. Implication: it is the "completeness" of an institution, not merely its formal
-existence, that determines the magnitude of its real economic effect — cross-country results may
-overstate the effect when local confounders are not controlled for.
+### Question 6 — Natural Resources and Financial Development: The Role of CSR in Vietnam's Green Growth (Cai and Le 2023)
 
-**Related**: [[institutions]] · [[exam-prep]] section 3.7 (direct comparison with AJR).
+*Elective · Policy implications / critique*
 
-### Question 4 — Climate vulnerability in Vietnam (Vo & Tran, HERA 2022)
+See in full: [[l34-cai-2023-natural-resources-financial-development-vietnam]].
 
-See in full: [[l44-vo-tran-2022-rural-vulnerability-vietnam]].
-
-**Method**: the Livelihood Vulnerability Index (LVI) plus LVI-IPCC (the IPCC framework:
-Exposure minus Adaptive capacity, multiplied by Sensitivity), using 2018 VARHS data — 1,852
-households across 12 provinces spanning 5 of Vietnam's socio-economic regions.
-
-**Findings — most vulnerable regions**: the **North-Central and South-Central Coast** are the
-most vulnerable (LVI-IPCC = 0.012, the only POSITIVE value among the 5 regions) — driven by high
-Exposure (0.30 — storms/floods/tropical depressions) that outweighs otherwise fairly good
-adaptive capacity/sensitivity in this region. The **Mekong Delta** is particularly vulnerable on
-the food/water component — threatened by drought and saltwater intrusion, despite not having the
-highest overall LVI-IPCC score.
-
-**Methodological significance**: the primary goal is **regional targeting** — identifying which
-regions should be prioritized for adaptation policy — in contrast to
-[[l45-tran-2022-rice-farmers-vulnerability-nghean]] (using the same LVI formula but at
-household/district resolution to identify drivers for household-level intervention).
-
-**Related**: [[livelihood-vulnerability-index]] · [[exam-prep]] sections 3.8, 3.9.
-
-### Question 5 — Entrepreneurship and development economics (Naudé, SBE 2010)
-
-See in full: [[l53-naude-2010-entrepreneurship-development-economics]].
-
-**Type of paper**: a programmatic/agenda-setting essay introducing a Small Business Economics
-special issue, not a standalone empirical study.
-
-**Two gaps in the literature**: (i) the role/function of entrepreneurship is undervalued in
-development economics — despite this being the field directly concerned with growth and
-resource allocation; (ii) institutions remain a "black box" — while both development economics
-and entrepreneurship scholarship acknowledge institutions' importance, the specific mechanisms of
-HOW they operate remain unclear.
-
-**Central argument**: the problem in developing countries is NOT a SHORTAGE of entrepreneurship,
-but rather that entrepreneurship is **MISALLOCATED** — drawing on Baumol's (1990)
-productive/unproductive/destructive typology; many "entrepreneurs" in developing countries
-operate in the informal sector or in rent-seeking activity rather than value-creating activity.
-
-**Related**: sets the theoretical agenda that
-[[l55-stein-2026-digital-entrepreneurship-fintech-denmark]] later "opens" 16 years on with
-concrete empirical evidence — see [[entrepreneurship-and-development]] · [[exam-prep]] section
-3.11.
-
-### Question 6 — GET Ahead training and women's empowerment (Huis, Lensink, Vu & Hansen, World Development 2019)
-
-See in full: [[l52-huis-2019-get-training-microfinance-vietnam]].
-
-**Design**: an RCT with TYM (the largest microfinance institution in northern Vietnam), 4,041
-borrowers at baseline, 3 arms: training with husband, training alone (women only), and control.
-Measured via ITT + DID at two time points: midline and endline (12 months).
-
-**Findings**: the GET Ahead training programme increases women's "control beliefs" (confidence in
-their ability to control their own life/finances) and their decision-making power over large
-household expenditures, while also reducing relational friction (conflict) within the household.
-There is no significant difference in effect between inviting husbands to participate and
-training women alone.
-
-**Why effects are clear at endline but not at midline**: this suggests empowerment is a
-**cumulative process** rather than an immediate change following the training's conclusion — time
-is needed for new beliefs/behaviors to be reinforced through repeated practice (applying the
-training to real financial decisions), consistent with long-run behavior-change intervention
-models.
-
-**Related**: [[entrepreneurship-and-development]] — a micro/household-level channel in Vietnam,
-contrasted with
-[[l51-nguyen-2023-entrepreneurial-orientation-women-smes-vietnam]] (a similar theme of women and
-economics, but through a different channel: EO/SME business performance rather than microfinance
-empowerment).
+- Policy: a full and strictly-enforced CSR/regulatory framework, direct finance toward green investment, effective fiscal management to avoid public-debt risk from resource dependence.
+- Limitation: weak administration or uneven CSR implementation can break this chain; findings are specific to Vietnam's institutional/resource context.
+- Shares the "financial development" theme with L32 but from a different angle (US micro-banking vs Vietnam macro environment-finance).
 
 ## Links
 
-- [[k32-mock-exam-1]] · [[k31-final-exam]] · [[exam-prep]] · [[overview]]
-- Papers featured: [[l31-baron-2021-banking-crises-without-panics]],
-  [[l42-do-2023-land-consolidation-vietnam]], [[l41-ho-2021-land-tenure-vietnam]],
-  [[l44-vo-tran-2022-rural-vulnerability-vietnam]],
-  [[l53-naude-2010-entrepreneurship-development-economics]],
-  [[l52-huis-2019-get-training-microfinance-vietnam]]
+- [[k32-shortlist-2026]] — the full official 20-paper shortlist.
+- [[exam-prep]] — the exam-prep synthesis page, linking the 3 Mindmap Artifacts with all 10 sets in interactive form.
+- [[k30-final-exam]], [[k31-final-exam]] — the two REAL past exams used to derive this set's question phrasing.
+- [[k32-mock-exam-1]] — previous set.
+- [[k32-mock-exam-3]] — next set.

@@ -1,279 +1,106 @@
 ---
 type: exam
-title: "K32 Mock Exam — Set 4 (LN9 & LN10)"
-tags: [exam, mock-exam, k32, artificial-intelligence, digitalization, trade-war, tariff-evasion, trade-diversion]
-created: 2026-08-08
-updated: 2026-08-11
+title: "K32 Mock Exam — Set 4 (LN4 compulsory + LN5 elective)"
+tags: [exam, mock-exam, k32, k32-shortlist, l45, l46, l52, l55]
+created: 2026-08-31
+updated: 2026-08-31
 status: complete
 also_covers: []
 ---
 
-# K32 Mock Exam — Set 4 (LN9 & LN10)
+# K32 Mock Exam — Set 4 (LN4 compulsory + LN5 elective)
 
-⚠️ **This is NOT a real exam** — the professor has not yet published the 20-paper shortlist
-(expected 30/8) or the K32 exam. This is a **mock exam authored by Claude**, closely following
-the real exam format/rules of [[k31-final-exam]] (a previous cohort, same course/professor) but
-substituting papers from K32's deep-ingested reading list (LN9–LN10, 13 papers). Purpose: to
-practice the correct **question type** ("present the findings + drivers/mechanism/impacts of one
-specific paper") and to practice writing answers within the real exam rules — NOT to guess the
-actual exam. The answers below closely follow content already deep-ingested in the wiki.
+⚠️ **This is NOT a real exam** — a REFERENCE exam authored by Claude, completely rewritten on 31/8/2026 to match the single-paper phrasing style of the two real K30/K31 exams (verified: all 12/12 real questions ask about one paper each, with no comparison questions). Set 4: compulsory questions 1–2 use L45 + L46 (LN4, method + main-findings angle); elective questions 3–6 use L52 + L55 (LN5, two angles each: mechanism/robustness + policy implications). All 10 sets (Set 1–10) together cover exactly 20/20 shortlist papers, each appearing exactly 3 times. See the full 10 sets with an interactive interface in the 3 Mindmap Artifacts linked from [[k32-shortlist-2026]] / [[exam-prep]].
 
-See also: [[k32-mock-exam-1]] (Set 1, LN1–LN2) · [[k32-mock-exam-2]] (Set 2, LN3–LN5) ·
-[[k32-mock-exam-3]] (Set 3, LN6–LN8) · [[k32-mock-exam-5]] (Set 5, aligned with the real K31
-shortlist) · [[exam-prep]] (consolidated exam review).
+## Exam Rules &amp; Grading Structure
 
-## 0. Exam Rules & Grading Structure
+**120 minutes, closed-book**, modeled exactly on the real K31 exam rules. 2 compulsory questions (Q1–2) are both mandatory; 4 elective questions (Q3–6), choose at least 2 — if more than 2 are answered, only the best 2 scores count. 12.5 points each, 50 points per set.
 
-⚠️ See [[k32-mock-exam-1]] section 0 (updated 2026-08-11) — K32's real question
-structure has changed (2 compulsory + elective answer-4, see [[ln0-course-intro]]), different
-from the K31 "minimum 2/4" structure this set still uses for now since it has exactly 4 elective
-questions.
-
-## 1. Questions
+## Questions
 
 ### A. Compulsory questions (each 12.5 points)
 
-**Question 1**: Kuosmanen, Pajarinen and Heshmati (Telecommunications Policy, 2025) examined
-digital technology adoption and firm performance in Finland's service sector. Discuss their
-findings concerning the relationship between digital intensity and firm performance outcomes,
-and explain why this relationship suggests an emerging "digital divide" rather than digitalization
-narrowing performance gaps.
+**Question 1**: Tran et al. (Environmental Challenges, 2022) examined the livelihood vulnerability of rice farmers in North-Central Vietnam under climate change. Discuss their findings concerning the level and sources of livelihood vulnerability among rice farmers in Nghe An.
 
-**Question 2**: Sheng, Song and Zheng (Journal of International Money and Finance, 2025)
-examined how Chinese exporters managed the recent US tariff increases. Discuss their findings
-concerning vertical versus horizontal trade diversion, and explain the mechanism driving China's
-choice of destination markets.
+**Question 2**: Hastuti et al. (World Development Perspectives, 2025) examined how climate variability affects labor mobility among Indonesian agricultural households. Discuss their findings concerning how rainfall and temperature variability affect the probability of Indonesian households shifting labor out of agriculture.
+
 
 ### B. Elective questions (choose a minimum of 2 questions, each 12.5 points)
 
-**Question 3**: Rakholia, Le, Vu, Ho and Carbajo (Urban Climate, 2022) examined AI-based PM2.5
-air-quality forecasting models for Ho Chi Minh City. Discuss their findings concerning the
-comparative performance of the forecasting models tested, and explain why the simplest model
-outperformed the more complex ones.
+**Question 3**: Huis, Lensink, Vu and Hansen (World Development, 2019) examined the impact of the GET Ahead training programme on female microfinance borrowers' empowerment. Explain why daily spending decisions show less improvement than major decisions, and why inviting husbands did not add measurable benefit.
 
-**Question 4**: Nguyen Van Tam, Nguyen Quoc Toan and Vu Van Phong (International Journal of
-Information Management Data Insights, 2024) examined barriers to construction digitalization in
-Vietnam. Discuss their findings concerning the ranking of barriers and the differences across
-stakeholder groups, and explain what this reveals about the nature of digitalization barriers in
-an emerging economy.
+**Question 4**: Huis, Lensink, Vu and Hansen (World Development, 2019) examined the impact of the GET Ahead training programme on female microfinance borrowers' empowerment. Explain the policy lesson for microfinance program design and one limitation of the study's ability to isolate training's effect.
 
-**Question 5**: Che, Lin and Zhang (Journal of International Economics, 2025) examined tariff
-evasion during the US-China trade war. Discuss their findings concerning the scale of evasion and
-its relationship to local demand, and explain the implications for interpreting official
-US-China trade deficit statistics.
+**Question 5**: Stein, Evers and O'Gorman (Technovation, 2026) examined the role of institutional entrepreneurs in Denmark's FinTech ecosystem development. Explain the causal logic connecting institutional entrepreneurs to ecosystem formation, and why regulation is a double-edged factor.
 
-**Question 6**: Dang, Yawei and Abdullah (Journal of Trade Science, 2024) examined the impact of
-the US-China trade war on Vietnamese exports to the United States. Discuss their findings
-concerning the heterogeneous effects across export sectors, and explain the mechanisms driving
-Vietnam's export gains.
+**Question 6**: Stein, Evers and O'Gorman (Technovation, 2026) examined the role of institutional entrepreneurs in Denmark's FinTech ecosystem development. Explain the policy lesson for building a digital entrepreneurial ecosystem and how Vietnam might apply it.
 
-## 2. Detailed Answers
+## Detailed Answers
 
-### Question 1 — Digital technology adoption and firm performance in Finland (Kuosmanen, Pajarinen & Heshmati, Telecommunications Policy 2025)
+### Question 1 — Climate Change and Livelihood Vulnerability of Rice Farmers in North-Central Vietnam (Tran et al. 2022)
 
-See in full: [[l96-kuosmanen-2026-digital-adoption-firm-performance-finland]].
+*Compulsory · Method + main findings*
 
-**Data & method**: a unique Finnish linked employer-employee dataset, 2015–2021, combining
-financial information, workforce data, and firm-level IT use. Digital intensity is measured via
-Eurostat's **Digital Intensity Index (DII)** — the degree of adoption of 12 digital technologies.
-Quantile regression (alongside OLS) links DII to 3 performance outcomes: revenue, value added,
-and labor productivity.
+See in full: [[l45-tran-2022-rice-farmers-vulnerability-nghean]].
 
-**Findings — the digital intensity-performance relationship (the focus of the question)**:
-digital intensity correlates POSITIVELY and consistently with all 3 performance outcomes. Higher-
-digital-intensity firms systematically show: larger size, international activity, larger market
-share, foreign ownership, higher labor productivity, a more educated workforce. OLDER firms tend
-toward LOWER digital intensity (structural inertia).
+- Livelihood Vulnerability Index (LVI) + an IPCC-framework variant, correlation matrix + beta regression, rice-farming households in coastal Nghe An.
+- <span class="stat">76%</span> of surveyed households are only SLIGHTLY vulnerable, retaining coping capacity.
+- Floods, droughts, irrigation conditions, institutional support, and household characteristics all significantly shape vulnerability.
 
-**Why this indicates a "digital divide" rather than digitalization narrowing performance gaps
-(the focus of the question)**: the quantile regression shows the digitalization-performance link
-is UNEVEN across the distribution — STRONGEST among already top-performing firms (the upper end
-of the performance distribution), WEAKER or insignificant among low-performing firms. If
-digitalization narrowed performance gaps, the link should be STRONGER for low-performing firms
-(which have the most room to improve) — the opposite holds: digitalization appears to amplify top
-firms' existing advantages rather than lifting weaker ones, even in an already digitally advanced
-country like Finland.
+### Question 2 — Climate Change and Labor Mobility: Agricultural Households in Indonesia (Hastuti et al. 2025)
 
-**Course connection**: shares an author, Prof. Heshmati, with
-[[l61-heshmati-rashidghalam-2020-tfp-technology-shifters]] (LN6) and
-[[l71-heshmati-rashidghalam-2020-urban-infrastructure-china]] (LN7) — providing a developed-
-country counterweight to the 3 Vietnam-focused LN9 papers (L93/94/95); illustrates the same motif
-of "an aggregate growth/association can mask underlying distributional inequality" already seen
-in L61 (negative TC/TFP despite rising inputs) — see [[digital-transformation-and-productivity]]
-and [[exam-prep]] sections 3.25, 3.26.
+*Compulsory · Method + main findings*
 
-### Question 2 — Vertical vs. horizontal trade diversion by Chinese exporters (Sheng, Song & Zheng, JIMF 2025)
+See in full: [[l46-hastuti-2025-climate-labor-mobility-indonesia]].
 
-See in full: [[l104-sheng-2025-chinese-exporters-trade-diversion]].
+- Exogenous instrumental variables (altitude for temperature, latitude for rainfall), 2SLS estimation on an Indonesian household panel, combined with mediation analysis.
+- Rainfall +1% raises the labor-shift probability by <span class="stat">0.47 pp</span>; temperature +1% by <span class="stat">1.38 pp</span> — both statistically significant.
+- The response is stronger in Java, among more educated farmers, and among smaller landholders.
 
-✅ **Source note**: the professor's original 6/8/2026 slide for this paper had mispasted content
-from an unrelated paper (climate change/green innovation) — the professor corrected it in the
-8/9/2026 update. The answer below is based entirely on the actual PDF by Sheng, Song & Zheng
-(2025), verified to match the title/authors/journal exactly; see the source page for detail.
+### Question 3 — The Impact of GET Ahead Training on Empowerment of Female Microfinance Borrowers in Northern Vietnam (Huis, Lensink, Vu and Hansen 2019)
 
-**Data & method**: Chinese firm-product-destination microdata on exports, a structural quality-
-ladder gravity model estimating the impact of US tariffs on Chinese exporters' re-routing
-strategies to third markets.
+*Elective · Mechanism / robustness*
 
-**Findings — VTD vs. HTD (the focus of the question)**: contrary to conventional wisdom about
-Horizontal Trade Diversion (China diverting goods to other Northern countries), the paper finds
-China's dominant strategy is Vertical Trade Diversion (VTD): China moves down the quality ladder,
-pushing high-quality goods toward the South (poorer countries) rather than competing head-on in
-the North. The quality-upgrading effect ALWAYS DOMINATES the price-depressing supply effect —
-China's gross FOB export price in third markets RISES even though the quality-adjusted price
-falls, particularly pronounced in poor countries and for products with a wide quality scope.
+See in full: [[l52-huis-2019-get-training-microfinance-vietnam]].
 
-**The destination-choice mechanism (the focus of the question)**: the primary driver is directly
-confirmed — the higher the high-quality-goods competition in a third country (measured by import
-share from the US/Germany/Japan, a proxy for existing high-quality supply), the LESS China
-diverts there. China "escapes" intense competition in markets with many high-quality rivals (the
-North) by pushing goods to the South, where China's high-quality goods are perceived as an
-UPGRADE (less direct competition) rather than a pure low-cost substitute — meaning China's gross
-terms of trade in those markets IMPROVE rather than worsen.
+- Women already managed most ROUTINE spending beforehand — little room for improvement; MAJOR decisions reveal the real shift in household bargaining power.
+- Microcredit provides RESOURCES but does not automatically create control — training adds skills, gender awareness, and confidence that convert resources into real agency.
+- Inviting husbands created NO significant difference — possibly due to low actual participation rates; sensitive household conflict may also be under-reported.
 
-**Course connection**: Vietnam is NOT a primary destination of this VTD flow (VTD points toward
-the poorer South, while Vietnam is integrated into Chinese supply chains through a different
-channel) — an interesting contrast with [[l106-dang-2024-vietnam-exports-us-trade-war-did]]
-(Question 6 of this exam) and [[l107-toai-2025-vietnam-import-export-trade-war]], where Vietnam
-benefits through a COMPLETELY DIFFERENT mechanism (direct US-China tariff evasion, not receiving
-China's diverted goods) — see [[trade-war-and-protectionism]] and [[exam-prep]] section 3.30.
+### Question 4 — The Impact of GET Ahead Training on Empowerment of Female Microfinance Borrowers in Northern Vietnam (Huis, Lensink, Vu and Hansen 2019)
 
-### Question 3 — AI-based PM2.5 forecasting for Ho Chi Minh City (Rakholia, Le, Vu, Ho & Carbajo, Urban Climate 2022)
+*Elective · Policy implications / critique*
 
-See in full: [[l92-rakholia-2022-air-quality-ai-hcmc]].
+See in full: [[l52-huis-2019-get-training-microfinance-vietnam]].
 
-**Data & method**: data from 6 monitoring stations installed by the Ireland-Vietnam "HealthyAir"
-collaboration across different HCMC areas (traffic, residential, industrial). 4 machine-learning
-PM2.5 one-shot multi-step forecasting models: a Stochastic Gradient Descent (SGD) Regressor, a
-hybrid 1D CNN-LSTM network, an eXtreme Gradient Boosting (XGBoost) Regressor, and Prophet —
-forecasting both hourly (1–24 hours) and a 24-hour rolling mean.
+- Policy: dedicated skills/agency training for female microfinance borrowers is an effective tool; longer-term (not just midline) evaluation is needed to see the true effect.
+- Limitation: the design identifies the effect of TRAINING, not microcredit in general — cannot be generalized to all credit programs without training.
+- Provides stronger causal evidence than L51 (same theme of women's economic empowerment) thanks to the RCT design.
 
-**Findings — comparing the 4 models (the focus of the question)**: the **SGD Regressor** — the
-simplest linear model of the 4 — consistently OUTPERFORMS both the complex deep-learning model
-(1D CNN-LSTM) and Prophet, at BOTH forecasting tasks (hourly and rolling-mean).
+### Question 5 — Fostering Conditions for Digital Entrepreneurship: The Role of Institutional Entrepreneurs in FinTech Ecosystem Development (Stein, Evers and O'Gorman 2026)
 
-**Why the simplest model wins (the focus of the question)**: 2 plausible reasons are given. (1)
-SMALL training sets (only ~3 months each) resulting from the authors' specific training protocol
-designed to address the NON-STATIONARITY of the PM2.5 time series — this causes the more complex
-model (CNN-LSTM, many parameters) to be more prone to OVERFITTING than the simple linear model.
-(2) Prophet is optimized for time series with STRONG SEASONALITY (designed for cyclical business
-data), so it underperforms on PM2.5 — highly volatile, weakly seasonal, not matching the model's
-assumptions.
+*Elective · Mechanism / robustness*
 
-**Methodological implication**: a "more advanced" AI model (deep learning) does not automatically
-outperform a simple one — model selection must fit the actual DATA STRUCTURE (sample size,
-seasonality) rather than algorithmic complexity per se, especially important in a developing
-country where monitoring data are often limited.
+See in full: [[l55-stein-2026-digital-entrepreneurship-fintech-denmark]].
 
-**Course connection**: shares cluster K (LN9) with [[l91-pham-2020-flood-risk-ai-vietnam]] — the
-2 papers form an interesting contrasting pair on whether a more complex AI model wins (L91: the
-complex BDT ensemble wins for flood forecasting) — see [[ai-for-environmental-risk-vietnam]] and
-[[exam-prep]] section 3.24.
+- Startups need knowledge, legitimacy, customers, and regulatory clarity — things no single firm can build alone.
+- Institutional entrepreneurs connect fragmented actors, negotiate rules, build shared platforms — turning isolated firms into an ecosystem.
+- Regulation both PROTECTS market trust and can FAVOR incumbents while BLOCKING new entry — this balance shifts as the ecosystem matures.
 
-### Question 4 — Barriers to construction digitalization in Vietnam (Nguyen Van Tam, Nguyen Quoc Toan & Vu Van Phong, IJIMDI 2024)
+### Question 6 — Fostering Conditions for Digital Entrepreneurship: The Role of Institutional Entrepreneurs in FinTech Ecosystem Development (Stein, Evers and O'Gorman 2026)
 
-See in full: [[l95-tam-2024-construction-digitalization-barriers-vietnam]].
+*Elective · Policy implications / critique*
 
-**Data & method**: a survey of 248 Vietnamese construction professionals across 3 stakeholder
-groups — clients, contractors, consultants — on their perceptions of 31 potential digitalization
-barriers. Statistical techniques: reliability testing, descriptive statistics, exploratory factor
-analysis (EFA, grouping the 31 barriers into 5 factor groups), and analysis of variance (ANOVA)
-comparing the 3 stakeholder groups.
+See in full: [[l55-stein-2026-digital-entrepreneurship-fintech-denmark]].
 
-**Findings — the barrier ranking (the focus of the question)**: "Social and habitual resistance
-to change" (B1) leads all 31 barriers by a clear margin (mean=4.31, well above the #2 barrier at
-mean=3.94). The next 4 barriers in the top 5 (high software/hardware costs, lack of market data,
-security issues, lack of standards/guidelines) all belong to the financial/technical/legal
-group — "Management barriers" is the LOWEST-mean factor group (3.86) of the 5.
-
-**Differences across the 3 stakeholder groups (the focus of the question)**: significant
-differences appear for 4/31 barriers (B1, B3, B11, B30, all p<0.05) — most notably B1: contractors
-perceive resistance to change far more acutely (mean=4.51) than clients (3.96) and consultants
-(4.29), reflecting differing roles: clients prioritize risk/cost aversion, contractors directly
-confront internal skill gaps/cultural resistance, consultants worry about professional
-obsolescence/ROI.
-
-**What this reveals about digitalization barriers in an emerging economy**: the top barrier is
-HUMAN/HABITUAL, not unavailable technology — rebutting the common assumption that developing
-countries lag in digitalization mainly due to lacking technology/finance. The international
-comparison (Table 6) reinforces this: Vietnam's #1 barrier is nearly absent/low-ranked in most
-comparator countries — confirming a culturally/socially specific factor unique to the Vietnamese
-context that cannot simply be inferred from developed-country literature.
-
-**Course connection**: shares the "cultural/human barriers rank first, technology ranks last"
-motif with [[l83-kirchherr-2018-barriers-circular-economy-eu]] (LN8, EU circular economy) despite
-2 completely different contexts — see [[digital-transformation-and-productivity]] and
-[[exam-prep]] section 3.27.
-
-### Question 5 — Tariff evasion during the US-China trade war (Che, Lin & Zhang, JIE 2025)
-
-See in full: [[l103-che-2025-tariff-evasion-trade-war]].
-
-**Data & method**: US-China customs data, a difference-in-differences (DiD) approach combined
-with input-output analysis to measure evasion — approximated via the statistical gap between
-China-reported exports to the US and US-reported imports from China for the same product lines.
-
-**Findings — the scale of evasion and its relationship to local demand (the focus of the
-question)**: the 24.9% decline (equivalent to USD 110.54 billion by 2020) in the US-China trade
-deficit that the Trump administration touted as a trade-war achievement largely does NOT reflect
-a genuine change in trade flows — it is the consequence of increasingly widespread tariff evasion
-by US importers. By 2021, evasion explains **69.70%** of the US-China statistical gap. Evasion is
-tied to LOCAL DEMAND at port areas (a 1-SD demand increase → a 1.312-fold evasion increase),
-concentrated in intermediate goods — firms treat evasion as a way to lower input costs to sustain
-domestic production under tariff pressure.
-
-**Implications for interpreting official trade deficit statistics (the focus of the question)**:
-if the evasion factor is ignored, policymakers risk misinterpreting the trade war's true
-effectiveness — the "paper" decline in the deficit is largely ILLUSORY, not evidence that US
-domestic production recovered or that imports from China genuinely fell. Even a strongly governed
-country like the US (EAPA investigation cases rising 7→64, 2018–2020) sees genuinely rising
-evasion — challenging the common assumption that evasion is mainly a developing-country/weak-
-governance problem.
-
-**Course connection**: shares the "evasion behavior distorts official statistics" motif with
-[[l26-huynh-tran-2025-fdi-informal-economy]] (LN2, Vietnam's informal economy) despite sitting at
-opposite governance extremes (a strong US vs. a developing Vietnam) — see
-[[trade-war-and-protectionism]] and [[exam-prep]] section 3.29.
-
-### Question 6 — Impact of the US-China trade war on Vietnamese exports (Dang, Yawei & Abdullah, JTS 2024)
-
-See in full: [[l106-dang-2024-vietnam-exports-us-trade-war-did]].
-
-**Data & method**: secondary 6-digit (HS code) Vietnamese-export-to-US data from UN Comtrade. A
-difference-in-differences (DiD) approach comparing Vietnamese exports to the US before/after the
-US-China trade war (2018), disaggregated by product group to measure heterogeneous effects.
-
-**Findings — the heterogeneous sectoral impact (the focus of the question)**: the US-China trade
-war INCREASED total Vietnamese exports to the US by 14% — direct causal evidence for trade-
-diversion theory. But the benefit concentrates UNEVENLY: INTERMEDIATE-goods sectors (plastics,
-iron/steel products, textiles, mechanical machinery/equipment) see statistically significant,
-meaningful gains; in contrast, no significant effect is found for sectors like electrical
-machinery products, agriculture/forestry, and furniture.
-
-**The mechanism driving Vietnam's export gains (the focus of the question)**: 3 mechanisms are
-proposed. (1) Vietnamese goods became RELATIVELY cheaper than Chinese goods once China was
-directly tariffed by the US. (2) Vietnam could import cheap raw materials from BOTH the US (e.g.
-plastics) AND China (e.g. steel for machinery) since the two countries tariffed each other —
-explaining why the benefit concentrates in INTERMEDIATE goods needing imported inputs rather than
-final consumer goods. (3) Possible Chinese investment/production relocation to Vietnam to evade
-the bilateral tariffs. Product groups NOT directly tariffed by the US show no effect — Vietnamese
-agriculture/seafood already faced separate pre-existing US trade barriers (anti-dumping suits on
-shrimp/catfish), which may dominate any trade-diversion effect.
-
-**Course connection**: shares "benefiting from trade diversion" with
-[[l107-toai-2025-vietnam-import-export-trade-war]] but differs in tone (an optimistic
-quantitative DiD vs. a cautious qualitative review of risk) — and differs entirely in mechanism
-from [[l104-sheng-2025-chinese-exporters-trade-diversion]] (Question 2 of this exam), where
-Vietnam is NOT a destination of China's VTD flow — see [[trade-war-and-protectionism]] and
-[[exam-prep]] sections 3.30, 3.31.
+- Policy: create neutral collaborative platforms, regulatory sandboxes, international knowledge networks.
+- Vietnam can apply this logic but must adapt it to its own financial-institution and regulatory capacity — not simply copy the Danish model.
+- The same "institutions/behavior matter more than technology" theme reappears in L93/L95 (AI & digitalization in Vietnam) — technology alone is not enough without matching institutions.
 
 ## Links
 
-- [[k32-mock-exam-1]] · [[k32-mock-exam-2]] · [[k32-mock-exam-3]] · [[k31-final-exam]] ·
-  [[exam-prep]] · [[overview]]
-- Papers in this exam: [[l96-kuosmanen-2026-digital-adoption-firm-performance-finland]],
-  [[l104-sheng-2025-chinese-exporters-trade-diversion]],
-  [[l92-rakholia-2022-air-quality-ai-hcmc]],
-  [[l95-tam-2024-construction-digitalization-barriers-vietnam]],
-  [[l103-che-2025-tariff-evasion-trade-war]],
-  [[l106-dang-2024-vietnam-exports-us-trade-war-did]]
+- [[k32-shortlist-2026]] — the full official 20-paper shortlist.
+- [[exam-prep]] — the exam-prep synthesis page, linking the 3 Mindmap Artifacts with all 10 sets in interactive form.
+- [[k30-final-exam]], [[k31-final-exam]] — the two REAL past exams used to derive this set's question phrasing.
+- [[k32-mock-exam-3]] — previous set.
+- [[k32-mock-exam-5]] — next set.

@@ -415,16 +415,16 @@ pooled OLS, Models 4-6 fixed-effects) with the urbanization rate as the dependen
   triangle sharing a cluster with Q2):
   [[l63-tran-alkire-klasen-2015-monetary-multidimensional-poverty-vietnam]],
   [[l65-nguyen-2019-energy-transition-poverty-inequality-vietnam]]
-- **Mock exams for K32** (same format/rules as this page, using K32 readings instead):
-  [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8).
+- **Mock exams for K32** (same format/rules as this page, using the 20 official shortlist papers):
+  [[k32-mock-exam-1]]…[[k32-mock-exam-10]] (10 sets × 6 questions, rewritten 31/8/2026).
 
 ## Interactive Version (Artifact)
 
 All 6 K31 questions with full answers (source, methodology, key findings, Vietnam relevance) —
 added 2026-07-31 as a dedicated **"K31 Exam"** tab in the 3 Mindmap Artifacts, updated 2026-08-04
-with a callout pointing to 2 new tabs, **"🔮 Predicted Shortlist"** (the K31↔K32 analysis +
-20-paper Tier S/A/B) and **"🧪 K32 Mock Exam"** (18 K32 mock-exam questions) (all private; click
-Share on that page if you want to send it to someone else):
+with a callout pointing to 2 new tabs, **"⭐ K32 Shortlist"** (the official 20 papers) and
+**"🧪 K32 Mock Exam"** (10 sets × 6 questions = 60 questions, rewritten 31/8/2026) (all private;
+click Share on that page if you want to send it to someone else):
 
 - Bilingual (original, Vietnamese explanation + English terminology kept): https://claude.ai/code/artifact/b1704073-2623-44b9-8b64-b0cf8461d866
 - Fully Vietnamese: https://claude.ai/code/artifact/c65cd0f4-2ac9-413e-890f-f82651314290

@@ -1510,20 +1510,17 @@ diversion (L104) and tariff-driven relocation to Vietnam (L106/L107) (3.30)**
   by this course's own professor. Main value: getting used to the **question format** ("present
   the findings + drivers/impacts/mechanism of a specific paper") — likely to reappear on the
   K32 exam.
-- [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8),
-  [[k32-mock-exam-4]] (LN9–LN10, open theme) and [[k32-mock-exam-5]] (the 6 papers still missing
-  from the Top-20 prediction, see [[shortlist-prediction]]) — **mock exams for K32**
-  (Claude-authored, NOT a real exam — the professor has not yet released the K32 shortlist or
-  exam), following the exact format/rules of [[k31-final-exam]] but using 30/62 of K32's already
-  deep-ingested papers, spanning all 12 thematic clusters. Since discovering
-  [[k31-shortlist-2025]] (K31's REAL shortlist document), Set 5 was chosen DIRECTLY from
-  shortlist evidence rather than cluster-reasoning inference as in Sets 1-4 — ⚠️ now outdated in
-  content priority: the professor confirmed on 2026-08-11 he will NOT repeat the K31 shortlist, so
-  Set 5's 6 papers have been excluded from the new Top 20 in [[shortlist-prediction]] (see
-  [[k32-mock-exam-5]] — skill-practice value only now). Use these to
-  practice the question format and to practice writing answers within the real exam's
-  constraints. Will be extended with more sets/questions as new readings are deep-ingested (see
-  CLAUDE.md).
+- [[k32-mock-exam-1]]…[[k32-mock-exam-10]] — **mock exams for K32** (authored by Claude, NOT the
+  real exam) — **completely rewritten on 31/8/2026** after checking the phrasing of the two real
+  exams [[k30-final-exam]] + [[k31-final-exam]]: all 12/12 real questions ask about **one single
+  paper** ("Discuss findings concerning X"), with NO two-paper comparison questions — so all 10
+  sets (replacing the old 9 sets, Set 1–9) now follow this single-paper format too, using EXACTLY
+  the 20 official shortlist papers ([[k32-shortlist-2026]]). Structure: Set N = 2 compulsory
+  questions using LN N's 2 papers (method + main-findings angle) + 4 elective questions using
+  LN N+1's 2 papers (two angles each: mechanism/robustness + policy implications) — each of the 20
+  shortlist papers appears exactly 3 times across 2 different sets, 20 compulsory + 40 elective =
+  60 questions, covering exactly 20/20 papers. Answers are bullet-point and concise. See all 10
+  sets in interactive form in the 3 Mindmap Artifacts linked at the end of this page.
 
 ## Links
 

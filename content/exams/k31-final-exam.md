@@ -668,20 +668,20 @@ Vietnamese urban infrastructure development**:</span>
   Q6): [[l15-yin-2025-china-hqed]]; LN6 (tam giác đo nghèo VN cùng cụm với Q2):
   [[l63-tran-alkire-klasen-2015-monetary-multidimensional-poverty-vietnam]],
   [[l65-nguyen-2019-energy-transition-poverty-inequality-vietnam]]
-- **Đề thi mô phỏng cho K32** (dùng đúng format/luật thi trang này nhưng thay bằng reading K32):
-  [[k32-mock-exam-1]] (LN1–LN2), [[k32-mock-exam-2]] (LN3–LN5), [[k32-mock-exam-3]] (LN6–LN8).
+- **Đề thi mô phỏng cho K32** (dùng đúng format/luật thi trang này nhưng thay bằng 20 bài shortlist
+  K32): [[k32-mock-exam-1]]…[[k32-mock-exam-10]] (10 set × 6 câu, viết lại 31/8/2026).
 
 ## Bản tương tác (Artifact) - <span class="en">Interactive Version (Artifact)</span>
 
 Cả 6 câu hỏi K31 kèm đáp án đầy đủ (nguồn, phương pháp, findings, liên hệ Việt Nam) — bổ sung
 2026-07-31 dưới dạng tab riêng **"📝 Đề K31"**/**"K31 Exam"** trong 3 Mindmap Artifact, cập nhật
-2026-08-04 với callout trỏ sang 2 tab mới **"🔮 Dự đoán Shortlist"** (phân tích K31↔K32 + Tier
-S/A/B 20 paper) và **"🧪 Đề K32 (mô phỏng)"** (18 câu mock exam K32) (đều
+2026-08-04 với callout trỏ sang 2 tab mới **"⭐ Shortlist K32"** (20 bài chính thức) và
+**"🧪 Đề K32 (mô phỏng)"** (10 set × 6 câu = 60 câu, viết lại 31/8/2026) (đều
 private, cần bấm Share trên trang đó nếu muốn gửi cho người khác):<br><span class="en">All 6
 K31 questions with full answers (source, method, findings, Vietnam relevance) — added
 2026-07-31 as a dedicated **"📝 Đề K31"**/**"K31 Exam"** tab in the 3 Mindmap Artifacts, updated
-2026-08-04 with a callout pointing to 2 new tabs, **"🔮 Predicted Shortlist"** (the K31↔K32
-analysis + 20-paper Tier S/A/B) and **"🧪 K32 Mock Exam"** (18 K32 mock-exam questions) (all
+2026-08-04 with a callout pointing to 2 new tabs, **"⭐ K32 Shortlist"** (the official 20 papers)
+and **"🧪 K32 Mock Exam"** (10 sets × 6 questions = 60 questions, rewritten 31/8/2026) (all
 private, click Share on that page if you want to send it to someone else):</span>
 
 - Song ngữ (bản gốc, VI diễn giải + giữ thuật ngữ EN): https://claude.ai/code/artifact/b1704073-2623-44b9-8b64-b0cf8461d866

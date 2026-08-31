@@ -1,351 +1,105 @@
 ---
 type: exam
-title: "K32 Mock Exam — Set 1 (LN1 & LN2)"
-tags: [exam, mock-exam, k32, convergence, deep-roots, institutions, corruption, fdi-informal-economy]
-created: 2026-07-30
-updated: 2026-08-11
+title: "K32 Mock Exam — Set 1 (LN1 bắt buộc + LN2 tự chọn)"
+tags: [exam, mock-exam, k32, k32-shortlist, l14, l15, l25, l26]
+created: 2026-08-31
+updated: 2026-08-31
 status: complete
 also_covers: []
 ---
 
-# K32 Mock Exam — Set 1 (LN1 & LN2)
+# K32 Mock Exam — Set 1 (LN1 bắt buộc + LN2 tự chọn)<br><span class="en">K32 Mock Exam — Set 1 (LN1 compulsory + LN2 elective)</span>
 
-⚠️ **Đây KHÔNG phải đề thi thật** — giáo sư chưa công bố shortlist 20 bài (dự kiến 30/8) hay đề
-thi K32.<br><span class="en">⚠️ **This is NOT a real exam** — the professor has not yet
-published the 20-paper shortlist (expected 30/8) or the K32 exam.</span> Đây là đề thi **mô
-phỏng do Claude tự soạn**, bám sát nguyên format/luật thi thật của [[k31-final-exam]] (khóa
-trước, cùng môn/GS) nhưng thay bằng các paper trong reading list K32 đã deep-ingest (LN1–LN2, 11
-papers).<br><span class="en">This is a **mock exam authored by Claude**, closely following the
-real exam format/rules of [[k31-final-exam]] (a previous cohort, same course/professor) but
-substituting papers from K32's deep-ingested reading list (LN1–LN2, 11 papers).</span> Mục
-đích: luyện đúng **dạng câu hỏi** ("trình bày findings + drivers/mechanism/impacts của 1 paper cụ
-thể") và luyện viết đáp án trong khuôn khổ luật thi thật, KHÔNG phải để đoán trúng đề.<br><span
-class="en">Purpose: to practice the correct **question type** ("present the findings +
-drivers/mechanism/impacts of one specific paper") and to practice writing answers within the
-real exam rules — NOT to guess the actual exam.</span> Đáp án dưới bám sát nội dung đã
-deep-ingest trong wiki (không phải web search như [[k31-final-exam]] phải làm với paper ngoài
-reading list).<br><span class="en">The answers below closely follow content already
-deep-ingested in the wiki (not web search, unlike [[k31-final-exam]], which required it for
-papers outside the reading list).</span>
+⚠️ **Đây KHÔNG phải đề thi thật** — đề THAM KHẢO do Claude tự soạn, viết lại hoàn toàn ngày 31/8/2026 theo đúng văn phong đơn-bài của 2 đề thật K30/K31 (đã đối chiếu: cả 12/12 câu thật đều hỏi 1 bài riêng lẻ, KHÔNG có câu so sánh). Set 1: câu 1–2 bắt buộc dùng L14 + L15 (LN1, góc độ phương pháp + phát hiện chính); câu 3–6 tự chọn dùng L25 + L26 (LN2, mỗi bài 2 góc độ: cơ chế/tính vững + hàm ý chính sách). Toàn bộ 10 set (Set 1–10) phủ đúng 20/20 bài shortlist, mỗi bài xuất hiện đúng 3 lần. Xem đầy đủ 10 set kèm giao diện tương tác tại 3 Mindmap Artifact liên kết ở [[k32-shortlist-2026]] / [[exam-prep]].<br><span class="en">⚠️ **This is NOT a real exam** — a REFERENCE exam authored by Claude, completely rewritten on 31/8/2026 to match the single-paper phrasing style of the two real K30/K31 exams (verified: all 12/12 real questions ask about one paper each, with no comparison questions). Set 1: compulsory questions 1–2 use L14 + L15 (LN1, method + main-findings angle); elective questions 3–6 use L25 + L26 (LN2, two angles each: mechanism/robustness + policy implications). All 10 sets (Set 1–10) together cover exactly 20/20 shortlist papers, each appearing exactly 3 times. See the full 10 sets with an interactive interface in the 3 Mindmap Artifacts linked from [[k32-shortlist-2026]] / [[exam-prep]].</span>
 
-Xem thêm: [[k32-mock-exam-2]] (Set 2, LN3–LN5) · [[k32-mock-exam-3]] (Set 3, LN6–LN8) ·
-[[k32-mock-exam-4]] (Set 4, LN9–LN10) · [[k32-mock-exam-5]] (Set 5, bám shortlist K31 thật) ·
-[[exam-prep]] (ôn thi tổng hợp).<br><span class="en">See also: [[k32-mock-exam-2]] (Set 2,
-LN3–LN5) · [[k32-mock-exam-3]] (Set 3, LN6–LN8) · [[k32-mock-exam-4]] (Set 4, LN9–LN10) ·
-[[k32-mock-exam-5]] (Set 5, aligned with the real K31 shortlist) · [[exam-prep]] (consolidated
-exam review).</span>
+## 0. Luật thi &amp; cơ cấu điểm<br><span class="en">0. Exam Rules &amp; Grading Structure</span>
 
-## 0. Luật thi & cơ cấu điểm (mô phỏng theo K31, ⚠️ cấu trúc câu hỏi ĐÃ ĐỔI cho K32 — xem cập nhật 2026-08-11 bên dưới) - <span class="en">Exam Rules & Grading Structure (modeled on K31, ⚠️ K32's question structure has CHANGED — see the 2026-08-11 update below)</span>
+**120 phút, đề đóng** (closed-book), mô phỏng đúng luật thi thật K31. 2 câu bắt buộc (Q1–2) PHẢI làm cả hai; 4 câu tự chọn (Q3–6) chọn tối thiểu 2, làm hơn 2 thì chỉ 2 câu điểm cao nhất được tính. Mỗi câu 12,5 điểm, tổng 50 điểm/set.<br><span class="en">**120 minutes, closed-book**, modeled exactly on the real K31 exam rules. 2 compulsory questions (Q1–2) are both mandatory; 4 elective questions (Q3–6), choose at least 2 — if more than 2 are answered, only the best 2 scores count. 12.5 points each, 50 points per set.</span>
 
-- **Hình thức**: Written exam (50 điểm) + Essay (50 điểm) — 50/50, PASS ≥50% mỗi phần theo
-  [[syllabus-2026]] (K31 áp dụng ngưỡng 55%/27.5 điểm — chưa rõ K32 theo ngưỡng nào, xem
-  [[k31-final-exam]] mục 0).<br><span class="en">**Format**: Written exam (50 points) + Essay
-  (50 points) — 50/50, PASS ≥50% per part per [[syllabus-2026]] (K31 applied a 55%/27.5-point
-  threshold — unclear which threshold K32 follows, see [[k31-final-exam]] section 0).</span>
-- **Thời gian**: K31 dùng 120 phút; GS thông báo K32 **tạm tính (tentative) 2 giờ** (xem
-  [[ln0-course-intro]]) — coi như không đổi, vẫn dùng 120 phút cho các đề mô phỏng.<br><span
-  class="en">**Duration**: K31 used 120 minutes; the professor announced K32 is **tentatively 2
-  hours** (see [[ln0-course-intro]]) — effectively unchanged, still using 120 minutes for these
-  mock exams.</span>
-- **Closed-book**: xác nhận cho cả K31 lẫn K32.<br><span class="en">**Closed-book**: confirmed
-  for both K31 and K32.</span>
-- ⚠️ **Cơ cấu câu hỏi (ĐÃ ĐỔI, cập nhật 2026-08-11)**: GS thông báo trong lớp cấu trúc K32 là
-  **Phần 1 bắt buộc 2 câu + Phần 2 tự chọn, trả lời 4 câu** (xem [[ln0-course-intro]]) — KHÁC cấu
-  trúc K31 thật ở dưới đây (elective chỉ cần TỐI THIỂU 2/4). Số câu elective GS thực sự đưa ra
-  cho K32 (pool size) CHƯA RÕ, chỉ biết cần trả lời đúng 4 câu; thang điểm cho cấu trúc mới cũng
-  CHƯA XÁC NHẬN (tổng số câu phải làm tăng từ 4 lên 6, nên khó giữ nguyên 12.5đ/câu = 50đ như K31
-  nếu không đổi thang). Các đề mô phỏng Set 1–5 hiện chỉ có đúng 4 câu elective (Câu 3–6, theo cấu
-  trúc K31 cũ) — với bộ đề NÀY, "tự chọn trả lời 4 câu" nghĩa là làm CẢ 4, không còn yếu tố "chọn"
-  thật cho tới khi có thêm câu elective mới. Cấu trúc K31 thật (tham khảo, KHÔNG còn áp dụng cho
-  K32): A. Compulsory — Câu 1, 2 (mỗi câu 12.5đ, PHẢI làm cả hai). B. Elective — Câu 3–6 (mỗi câu
-  12.5đ, chọn tối thiểu 2 câu; làm nhiều hơn thì chỉ 2 câu điểm cao nhất tính vào tổng). Tổng: 2
-  compulsory + 2 elective tốt nhất × 12.5 = 50 điểm. Luyện đủ cả 4 câu elective ở mỗi set vẫn có
-  giá trị luyện KỸ NĂNG viết đáp án, dù thang điểm/số câu elective thật của K32 có thể
-  khác.<br><span class="en">⚠️ **Question structure (CHANGED, updated 2026-08-11)**: the
-  professor announced in class that K32's structure is **Part 1: 2 compulsory questions + Part 2:
-  elective, answer 4 questions** (see [[ln0-course-intro]]) — DIFFERENT from K31's real structure
-  below (elective required only a MINIMUM of 2/4). The actual elective pool size the professor
-  will offer for K32 is NOT YET KNOWN, only that exactly 4 must be answered; the point allocation
-  for the new structure is also UNCONFIRMED (total questions answered rises from 4 to 6, so
-  keeping 12.5 pts/question = 50 total is unlikely without a rescale). Mock Sets 1–5 currently
-  have exactly 4 elective questions each (Questions 3–6, per the old K31 structure) — for THESE
-  sets, "elective, answer 4" means answering ALL 4, with no real "choice" element until new
-  elective questions are added. K31's real structure (for reference, NO LONGER applicable to
-  K32): A. Compulsory — Questions 1, 2 (12.5 points each, BOTH required). B. Elective — Questions
-  3–6 (12.5 points each, choose at least 2; if more are answered, only the top 2 scores count).
-  Total: 2 compulsory + 2 best elective × 12.5 = 50 points. Practicing all 4 elective questions in
-  each set still has value for the SKILL of writing answers, even though K32's real point
-  allocation/elective count may differ.</span>
-
-## 1. Đề bài - <span class="en">Questions</span>
+## 1. Đề bài<br><span class="en">1. Questions</span>
 
 ### A. Compulsory questions (each 12.5 points)
 
-**Question 1**: Acemoglu, Johnson and Robinson (AER, 2001) examined the colonial origins of
-comparative development. Discuss their identification strategy, findings concerning the causal
-role of institutions, and the main threats to the validity of their approach.
+**Question 1**: Sasges and Takahashi (International Economics, 2025) examined the relative influence of globalization, electricity infrastructure and privatization on Vietnam's economic development. Discuss their findings concerning how the explanatory power of globalization, electricity infrastructure and privatization changed between the two sample periods.
 
-**Question 2**: Patel, Sandefur and Subramanian (JDE, 2021) examined unconditional convergence
-in the post-1990 growth literature. Discuss their findings, the evidence they present, and its
-implications for the "middle-income trap" framework.
+**Question 2**: Yin, Bai and Sun (Sustainable Futures, 2025) examined the spatiotemporal evolution of China's high-quality economic development. Discuss their findings concerning how China's high-quality development index evolved across provinces and regions.
+
 
 ### B. Elective questions (choose a minimum of 2 questions, each 12.5 points)
 
-**Question 3**: Spolaore and Wacziarg (JEL, 2013) survey the "deep roots" literature on economic
-development. Discuss their findings concerning the fundamental factors that explain the
-persistence of development outcomes, and how their argument relates to the institutions-based
-explanation of comparative development.
+**Question 3**: Bizikova et al. (Environmental and Sustainability Indicators, 2025) examined what water-energy-food nexus research reveals about governance and policy. Explain why nexus research struggles to translate evidence into governance action, and what factors are needed to close this gap.
 
-**Question 4**: Nunn (CJE, 2019) offers a critical reflection on Western intervention in
-developing countries. Discuss his findings and arguments concerning the effects of aid, trade
-policy, and randomized controlled trials (RCTs) on development outcomes.
+**Question 4**: Bizikova et al. (Environmental and Sustainability Indicators, 2025) examined what water-energy-food nexus research reveals about governance and policy. Explain the policy lesson for governments and one limitation of applying nexus research directly to policy design.
 
-**Question 5**: Mauro (QJE, 1995) examined corruption and growth. Discuss his findings concerning
-the identification strategy, the channels through which corruption affects investment and growth,
-and the economic magnitude of the effect.
+**Question 5**: Huynh and Tran (International Economics, 2025) examined the effects of FDI, growth and governance quality on Vietnam's informal economy. Explain the causal logic linking quality FDI to formalization, and why poverty and unemployment work in the opposite direction.
 
-**Question 6**: Huynh and Tran (2025) examined FDI, economic growth, governance quality and the
-informal economy in Vietnam. Discuss their findings concerning the channels through which FDI
-affects the informal economy, and the implications for Vietnam's development policy.
+**Question 6**: Huynh and Tran (International Economics, 2025) examined the effects of FDI, growth and governance quality on Vietnam's informal economy. Explain the policy lesson for Vietnam and one qualification about when FDI actually reduces informality.
 
-## 2. Đáp án chi tiết - <span class="en">Detailed Answers</span>
+## 2. Đáp án chi tiết<br><span class="en">2. Detailed Answers</span>
 
-### Question 1 — Colonial origins of comparative development (Acemoglu, Johnson & Robinson, AER 2001)
+### Question 1 — Đánh giá Ảnh hưởng của Ba Chính sách đến Phát triển Kinh tế Việt Nam (Sasges &amp; Takahashi 2025)
 
-Xem đầy đủ: [[l21-acemoglu-2001-colonial-origins]].<br><span class="en">See in full:
-[[l21-acemoglu-2001-colonial-origins]].</span>
+*Bắt buộc · Phương pháp + phát hiện chính<br><span class="en">Compulsory · Method + main findings</span>*
 
-**Identification strategy**: chuỗi nhân quả settler mortality (ngoại sinh, do bệnh dịch thời
-thuộc địa) → khả năng định cư của người châu Âu → chiến lược thuộc địa (extractive vs
-settlement) → early institutions → institutions hiện tại → thu nhập/capita hiện tại.<br><span
-class="en">**Identification strategy**: a causal chain from settler mortality (exogenous, due to
-colonial-era disease) → European settlement feasibility → colonization strategy (extractive vs.
-settlement) → early institutions → present-day institutions → present-day income/capita.</span>
-Dùng settler mortality làm biến công cụ (2SLS) cho chất lượng institutions hiện tại (đo bằng
-"risk of expropriation" index).<br><span class="en">Settler mortality is used as an instrumental
-variable (2SLS) for present-day institutional quality (measured by the "risk of expropriation"
-index).</span>
+Xem đầy đủ: [[l14-sasges-2025-vietnam-policies]].<br><span class="en">See in full: [[l14-sasges-2025-vietnam-policies]].</span>
 
-**Findings**: 2SLS α=0.94 (so với OLS α=0.52) — institutions có tác động nhân quả LỚN HƠN ước
-lượng OLS thông thường (OLS bị attenuation bias do đo lường sai số + endogeneity ngược
-chiều).<br><span class="en">**Findings**: 2SLS α=0.94 (versus OLS α=0.52) — institutions have a
-LARGER causal effect than the standard OLS estimate suggests (OLS suffers attenuation bias from
-measurement error + reverse-direction endogeneity).</span> First stage: settler mortality giải
-thích 27% biến thiên institutions.<br><span class="en">First stage: settler mortality explains
-27% of the variation in institutions.</span> Kết luận trung tâm: institutions là **fundamental
-cause** (nguyên nhân gốc) của phát triển kinh tế hiện đại, vượt trội các giải thích cạnh tranh
-dựa trên geography hay khí hậu thuần túy.<br><span class="en">Central conclusion: institutions
-are the **fundamental cause** of modern economic development, outperforming competing
-explanations based on geography or climate alone.</span>
+- VAR + hàm phản ứng xung + phân rã phương sai, Việt Nam 1980–2018, điểm gãy cấu trúc 1997.<br><span class="en">VAR + impulse response + variance decomposition, Vietnam 1980–2018, structural break at 1997.</span>
+- Giai đoạn I (1980–97): toàn cầu hóa + điện khí hóa giải thích tới <span class="stat">97%</span> biến động tăng trưởng, nhưng tăng trưởng cao đi kèm bất ổn.<br><span class="en">Period I (1980–97): globalization + electrification explain up to <span class="stat">97%</span> of growth volatility, but high growth comes with instability.</span>
+- Giai đoạn II (1998–2018): 3 chính sách chỉ còn giải thích <span class="stat">25–40%</span> — tăng trưởng vừa cao vừa ổn định hơn; tư nhân hóa nổi lên là yếu tố mới.<br><span class="en">Period II (1998–2018): the three policies explain only <span class="stat">25–40%</span> — growth becomes both high and stable; privatization emerges as the new driver.</span>
 
-**Threats to validity**: (1) Exclusion restriction có thể vi phạm nếu settler mortality lịch sử
-ảnh hưởng thu nhập hiện tại qua kênh KHÁC ngoài institutions (vd qua human capital, dịch bệnh vẫn
-tồn tại) — bài kiểm định bằng cách thêm kiểm soát khí hậu/địa lý/tài nguyên, kết quả robust;<br><span
-class="en">**Threats to validity**: (1) the exclusion restriction could be violated if
-historical settler mortality affects present-day income through a channel OTHER than
-institutions (e.g., via human capital, persisting disease) — the paper tests this by adding
-climate/geography/resource controls, and the results are robust;</span> (2)
-[[l13-spolaore-2013-deep-roots]] (L13) sau đó chỉ ra "reversal of fortune" — bằng chứng nền tảng
-của khung AJR — biến mất khi thêm nước châu Âu vào mẫu và điều chỉnh theo ancestry (Putterman &
-Weil 2010), đặt nghi vấn cho độ vững của identification;<br><span class="en">(2)
-[[l13-spolaore-2013-deep-roots]] (L13) later shows that "reversal of fortune" — the foundational
-evidence for the AJR framework — disappears once Europe is added to the sample and ancestry
-adjustments are made (Putterman & Weil 2010), casting doubt on the robustness of the
-identification;</span> (3) overidentification test trong bài gốc không bác bỏ giả thuyết, nhưng
-đây vẫn là điểm tranh luận xuyên suốt literature sau này (xem [[exam-prep]] mục 3.1,
-3.2).<br><span class="en">(3) the overidentification test in the original paper does not reject
-the hypothesis, but this remains a recurring point of contention in later literature (see
-[[exam-prep]] sections 3.1, 3.2).</span>
+### Question 2 — Đo lường và Diễn biến Động Không gian-Thời gian của Phát triển Kinh tế Chất lượng cao Trung Quốc (Yin, Bai &amp; Sun 2025)
 
-**Liên hệ**: [[institutions]] · [[deep-roots-of-development]].<br><span class="en">**Course
-connection**: [[institutions]] · [[deep-roots-of-development]].</span>
+*Bắt buộc · Phương pháp + phát hiện chính<br><span class="en">Compulsory · Method + main findings</span>*
 
-### Question 2 — Unconditional convergence & the middle-income trap (Patel, Sandefur & Subramanian, JDE 2021)
+Xem đầy đủ: [[l15-yin-2025-china-hqed]].<br><span class="en">See in full: [[l15-yin-2025-china-hqed]].</span>
 
-Xem đầy đủ: [[l11-patel-2021-unconditional-convergence]].<br><span class="en">See in full:
-[[l11-patel-2021-unconditional-convergence]].</span>
+- Chỉ số entropy tổng hợp 5 khía cạnh (đổi mới, phối hợp, xanh, mở cửa, chia sẻ), panel tỉnh Trung Quốc 2011–2021.<br><span class="en">Entropy-weighted composite index across 5 dimensions (innovation, coordination, green, openness, sharing), Chinese provincial panel 2011–2021.</span>
+- Miền Đông dẫn đầu ổn định suốt giai đoạn; phân phối chung dịch chuyển lên (cải thiện) nhưng xuất hiện phân cực ba đỉnh.<br><span class="en">Eastern provinces lead consistently; the overall distribution shifts upward (improvement) but tri-modal polarization emerges.</span>
+- Khoảng cách tỉnh dẫn đầu–tụt hậu ngày càng doãng rộng dù xu hướng chung đi lên; phát triển vẫn không đồng đều, thiếu phối hợp ở nhiều tỉnh.<br><span class="en">The leader–laggard gap widens despite the overall upward trend; development remains uneven and uncoordinated in many provinces.</span>
 
-**Findings**: dùng non-linear least squares trên 3 bộ dữ liệu (Maddison, PWT, WDI) 1960–2019,
-bài chỉ ra unconditional convergence (β-convergence không kiểm soát) — vốn "biến mất" trong dữ
-liệu thập niên 1990 làm literature chuyển sang khung conditional convergence — đã **quay trở
-lại** kể từ khoảng 1995.<br><span class="en">**Findings**: using non-linear least squares across
-3 datasets (Maddison, PWT, WDI), 1960–2019, the paper shows that unconditional convergence
-(uncontrolled β-convergence) — which had "disappeared" in 1990s data, pushing the literature
-toward a conditional-convergence framework — has **returned** since roughly 1995.</span> Growth
-theo cross-section hiện có dạng inverted-U (hình chữ U ngược): middle-income countries tăng
-trưởng NHANH NHẤT kể từ 1980s, cao hơn 0.50–0.75 điểm % so với trước 1985.<br><span class="en">
-Cross-sectional growth now takes an inverted-U shape: middle-income countries have grown
-FASTEST since the 1980s, 0.50–0.75 percentage points higher than before 1985.</span>
+### Question 3 — Nghiên cứu Mối liên kết Nước-Năng lượng-Lương thực: Nó cho ta biết gì về Quản trị và Chính sách? (Bizikova et al. 2025)
 
-**Bằng chứng**: đo cả volatility (giảm) và persistence (tăng) của tăng trưởng để củng cố đây là
-σ-convergence thực sự chứ không chỉ β-convergence nhất thời.<br><span class="en">**Evidence**:
-both growth volatility (declining) and persistence (rising) are measured to confirm this is
-genuine σ-convergence rather than a transient β-convergence.</span>
+*Tự chọn · Cơ chế / tính vững<br><span class="en">Elective · Mechanism / robustness</span>*
 
-**Implications cho middle-income trap**: kết quả trực tiếp phản bác khung "middle-income trap"
-(Gill & Kharas 2015) — vốn cho rằng nước middle-income "mắc kẹt", tăng trưởng chậm lại sau khi
-hết lợi thế lao động rẻ.<br><span class="en">**Implications for the middle-income trap**: the
-results directly rebut the "middle-income trap" framework (Gill & Kharas 2015) — which holds
-that middle-income countries get "stuck," growth slowing once cheap-labor advantages run
-out.</span> Patel et al. gọi hiện tượng ngược lại là "more trampoline than trap".<br><span
-class="en">Patel et al. call the opposite phenomenon "more trampoline than trap."</span> Đây là
-điểm căng thẳng đáng chú ý với chính course design K32 — [[essays-instructions]] gợi ý
-middle-income trap làm khung essay (qua [[technology-upgrading]], [[creative-accumulation]]), nên
-cần đối thoại với bằng chứng phản bác này thay vì bỏ qua (xem [[exam-prep]] mục 3.3).<br><span
-class="en">This is a notable point of tension with K32's own course design —
-[[essays-instructions]] suggests the middle-income trap as an essay framework (via
-[[technology-upgrading]], [[creative-accumulation]]), so this rebutting evidence needs to be
-engaged with rather than ignored (see [[exam-prep]] section 3.3).</span>
+Xem đầy đủ: [[l25-bizikova-2025-water-energy-food-nexus]].<br><span class="en">See in full: [[l25-bizikova-2025-water-energy-food-nexus]].</span>
 
-**Liên hệ**: [[unconditional-convergence]] · [[middle-income-trap]].<br><span class="en">
-**Course connection**: [[unconditional-convergence]] · [[middle-income-trap]].</span>
+- Bộ ngành thường hoạt động cát cứ (silo) — mô hình nexus PHÁT HIỆN quan hệ liên ngành nhưng bằng chứng đơn thuần không tự động thay đổi chính sách.<br><span class="en">Sectoral ministries typically work in silos — nexus models REVEAL cross-sector links but evidence alone does not automatically change policy.</span>
+- Chỉ khi thể chế GÁN TRÁCH NHIỆM rõ ràng, điều phối liên ngành, và có sự tham gia của nhóm bị ảnh hưởng thì bằng chứng mới chuyển hóa thành hành động.<br><span class="en">Only when institutions ASSIGN clear responsibility, coordinate across sectors, and involve affected groups does evidence translate into action.</span>
+- Tác giả nhận định: phần lớn nghiên cứu WEF nexus dường như "được tạo ra bởi nhà nghiên cứu cho nhà nghiên cứu".<br><span class="en">The authors note most WEF nexus research appears "created by researchers for researchers".</span>
 
-### Question 3 — Deep roots of development (Spolaore & Wacziarg, JEL 2013)
+### Question 4 — Nghiên cứu Mối liên kết Nước-Năng lượng-Lương thực: Nó cho ta biết gì về Quản trị và Chính sách? (Bizikova et al. 2025)
 
-Xem đầy đủ: [[l13-spolaore-2013-deep-roots]].<br><span class="en">See in full:
-[[l13-spolaore-2013-deep-roots]].</span>
+*Tự chọn · Hàm ý chính sách / phê phán<br><span class="en">Elective · Policy implications / critique</span>*
 
-**Findings**: bài survey lý thuyết (không phải 1 nghiên cứu thực nghiệm đơn lẻ) + hồi quy minh
-họa (genetic distance/FST, ancestry composition, population density 1500) lập luận rằng
-literature tăng trưởng đã dịch trọng tâm từ **proximate determinants** (tích lũy vốn, công nghệ)
-sang **fundamental factors** bắt rễ lịch sử dài hạn để trả lời "tại sao" thay vì chỉ "như thế
-nào".<br><span class="en">**Findings**: a theoretical survey (not a single empirical study) +
-illustrative regressions (genetic distance/FST, ancestry composition, 1500 population density)
-argues that the growth literature has shifted focus from **proximate determinants** (capital
-accumulation, technology) to **fundamental factors** rooted in long-run history, to answer "why"
-rather than just "how."</span> 4 kênh truyền persistence qua thế hệ: genetic, epigenetic,
-behavioural, symbolic (văn hóa/ngôn ngữ).<br><span class="en">4 channels transmitting
-persistence across generations: genetic, epigenetic, behavioural, symbolic (culture/language).</span>
+Xem đầy đủ: [[l25-bizikova-2025-water-energy-food-nexus]].<br><span class="en">See in full: [[l25-bizikova-2025-water-energy-food-nexus]].</span>
 
-**Quan hệ với khung institutions**: L13 lập luận geography/ancestry là kênh truyền persistence
-**trực tiếp** — khác với AJR (L21, Question 1) vốn cho rằng kênh truyền là institutions.<br><span
-class="en">**Relationship to the institutions framework**: L13 argues geography/ancestry is a
-**direct** persistence-transmission channel — unlike AJR (L21, Question 1), which holds that
-institutions are the transmission channel.</span> L13 dẫn lại "reversal of fortune" của AJR 2002
-làm ví dụ minh họa, rồi chỉ ra bằng chứng này **biến mất** khi thêm Europe vào mẫu và điều chỉnh
-ancestry (Putterman & Weil 2010) — tức L13 đặt câu hỏi ngược lại độ vững của khung
-institutions-thuần-túy, dù không phủ nhận hoàn toàn vai trò institutions (có thể cả 2 kênh cùng
-hoạt động).<br><span class="en">L13 revisits AJR 2002's "reversal of fortune" as an illustrative
-example, then shows this evidence **disappears** once Europe is added to the sample and ancestry
-adjustments are made (Putterman & Weil 2010) — i.e., L13 questions the robustness of the
-institutions-only framework, though without fully denying institutions' role (both channels may
-operate simultaneously).</span>
+- Hàm ý CS: kết nối phân tích nexus với hệ thống chính sách hiện có, lập cơ chế điều phối liên bộ, thử nghiệm cơ chế quản trị thực tế, giám sát kết quả thật.<br><span class="en">Policy: connect nexus analysis to existing policy systems, build cross-ministry coordination, test practical governance mechanisms, monitor real outcomes.</span>
+- Giới hạn: nexus là KHUNG cải thiện quyết định, không phải chính sách làm sẵn — cơ chế quản trị phải khớp với bối cảnh quốc gia/quy mô/chính trị cụ thể.<br><span class="en">Limitation: the nexus is a FRAMEWORK for better decisions, not a ready-made policy — governance arrangements must fit the specific country/scale/political context.</span>
+- Đặc biệt liên quan đồng bằng sông Cửu Long — nơi đánh đổi nước-năng lượng-lương thực rất rõ nét ở Việt Nam.<br><span class="en">Especially relevant to the Mekong Delta — where water-energy-food trade-offs are stark in Vietnam.</span>
 
-**Liên hệ**: [[deep-roots-of-development]] · [[institutions]] — xem thêm [[exam-prep]] mục
-3.1.<br><span class="en">**Course connection**: [[deep-roots-of-development]] ·
-[[institutions]] — see also [[exam-prep]] section 3.1.</span>
+### Question 5 — FDI, Tăng trưởng Kinh tế, Chất lượng Quản trị và Kinh tế Phi chính thức (Huynh &amp; Tran 2025)
 
-### Question 4 — Rethinking economic development (Nunn, CJE 2019)
+*Tự chọn · Cơ chế / tính vững<br><span class="en">Elective · Mechanism / robustness</span>*
 
-Xem đầy đủ: [[l12-nunn-2019-rethinking-econ-dev]].<br><span class="en">See in full:
-[[l12-nunn-2019-rethinking-econ-dev]].</span>
+Xem đầy đủ: [[l26-huynh-tran-2025-fdi-informal-economy]].<br><span class="en">See in full: [[l26-huynh-tran-2025-fdi-informal-economy]].</span>
 
-**Findings**: bài phản tư chính sách (không có mô hình thực nghiệm riêng) lập luận viện trợ và
-chính sách chủ động của phương Tây thường gây hại nhiều hơn giúp đỡ.<br><span class="en">
-**Findings**: a policy-reflection paper (no dedicated empirical model of its own) argues that
-Western aid and active policy often do more harm than good.</span> Bằng chứng: aid thường
-"thất thoát" 49–87% ở giáo dục châu Phi; antidumping duties cao gấp 10–20 lần MFN tariffs, tương
-quan dương với GDP/capita nước khởi xướng (r=0.55) — nước giàu chủ động nhắm nước nghèo; case cá
-tra Việt Nam 2003: thu nhập nông dân chuyên canh giảm 40% sau khi Mỹ áp thuế antidumping — lớn
-hơn bất kỳ can thiệp phát triển/aid nào từng ghi nhận.<br><span class="en">Evidence: aid is
-often "leaked" 49–87% in African education; antidumping duties run 10–20 times MFN tariffs,
-positively correlated with the initiating country's GDP/capita (r=0.55) — rich countries
-actively target poor ones; the Vietnamese catfish (pangasius) case, 2003: specialized farmers'
-income fell 40% after the US imposed antidumping duties — larger than any development
-intervention/aid effect ever recorded.</span>
+- FDI chất lượng tạo việc làm chính thức, liên kết sản xuất, áp lực cải thiện quy định rõ ràng hơn.<br><span class="en">Quality FDI creates formal jobs, production linkages, and pressure for clearer regulation.</span>
+- Quản trị hiệu quả hạ chi phí và tính bất định khi hoạt động chính thức — khuyến khích doanh nghiệp/lao động đăng ký chính thức.<br><span class="en">Effective governance lowers the cost and uncertainty of operating formally — encouraging firms/workers to register formally.</span>
+- Ngược lại, nghèo đói và thất nghiệp ĐẨY người lao động vào khu vực phi chính thức như phương án sinh tồn, bất kể chất lượng quản trị.<br><span class="en">Conversely, poverty and unemployment PUSH workers into informal work as a survival strategy, regardless of governance quality.</span>
 
-**Phê phán RCT**: fixed cost cao, giả định causal phổ quát, ít hợp tác học giả địa phương (J-PAL:
-chỉ 2/170 affiliate ngoài Âu-Mỹ) — bỏ qua bối cảnh local.<br><span class="en">**Critique of
-RCTs**: high fixed costs, assume universal causal validity, little collaboration with local
-scholars (J-PAL: only 2/170 affiliates outside Europe-US) — ignoring local context.</span>
+### Question 6 — FDI, Tăng trưởng Kinh tế, Chất lượng Quản trị và Kinh tế Phi chính thức (Huynh &amp; Tran 2025)
 
-**Kết luận**: phương Tây giúp nhiều nhất bằng cách **NGỪNG** chủ động gây hại (tariffs,
-antidumping, hạn chế di dân) hơn là chỉ tập trung "sửa" nước nghèo bằng thêm aid.<br><span
-class="en">**Conclusion**: the West helps most by **STOPPING** actively causing harm (tariffs,
-antidumping, migration restrictions) rather than focusing only on "fixing" poor countries with
-more aid.</span>
+*Tự chọn · Hàm ý chính sách / phê phán<br><span class="en">Elective · Policy implications / critique</span>*
 
-**Liên hệ**: đối lập với Question 5 (Mauro) và [[l23-besley-ghatak-2010-property-rights]] vốn lạc
-quan hơn về khả năng cải thiện chính sách — xem [[exam-prep]] mục 3.4.<br><span class="en">
-**Course connection**: contrasts with Question 5 (Mauro) and
-[[l23-besley-ghatak-2010-property-rights]], which are more optimistic about the potential for
-policy improvement — see [[exam-prep]] section 3.4.</span>
+Xem đầy đủ: [[l26-huynh-tran-2025-fdi-informal-economy]].<br><span class="en">See in full: [[l26-huynh-tran-2025-fdi-informal-economy]].</span>
 
-### Question 5 — Corruption and growth (Mauro, QJE 1995)
+- Hàm ý CS: thu hút FDI chất lượng, tăng minh bạch quản trị cấp tỉnh, giảm gánh nặng hành chính, đồng thời xử lý nghèo đói/thất nghiệp.<br><span class="en">Policy: attract quality FDI, strengthen transparent provincial governance, reduce administrative burden, while addressing poverty/unemployment.</span>
+- Giới hạn: FDI KHÔNG tự động có lợi — tác động phụ thuộc chất lượng dòng vốn, thể chế địa phương, và khả năng kết nối của DN/lao động trong nước với FDI.<br><span class="en">Limitation: FDI is NOT automatically beneficial — its effect depends on investment quality, local institutions, and whether domestic firms/workers can connect to it.</span>
+- Mục tiêu không phải trừng phạt lao động phi chính thức mà làm cho việc chính thức hóa hấp dẫn và có lợi hơn.<br><span class="en">The aim is not to punish informal workers but to make formalization more attractive and beneficial.</span>
 
-Xem đầy đủ: [[l22-mauro-1995-corruption-growth]].<br><span class="en">See in full:
-[[l22-mauro-1995-corruption-growth]].</span>
+## 3. Liên kết<br><span class="en">3. Links</span>
 
-**Identification**: dùng ethnolinguistic fractionalization (ELF) làm instrument cho corruption —
-xã hội phân mảnh sắc tộc thường có patronage/bureaucracy kém (tương quan cao với corruption)
-nhưng có thể coi ngoại sinh với biến kinh tế hiện tại.<br><span class="en">**Identification**:
-ethnolinguistic fractionalization (ELF) is used as an instrument for corruption — ethnically
-fragmented societies tend to have weaker patronage/bureaucracy (highly correlated with
-corruption) but can be treated as exogenous to present-day economic variables.</span>
-
-**Cơ chế**: corruption cao → nhà đầu tư e ngại rủi ro/chi phí giao dịch (hối lộ, thủ tục) →
-investment giảm → growth giảm.<br><span class="en">**Mechanism**: high corruption → investors
-fear risk/transaction costs (bribery, red tape) → investment falls → growth falls.</span>
-
-**Độ lớn**: 1 độ lệch chuẩn cải thiện corruption index → investment tăng ~2.9% GDP.<br><span
-class="en">**Magnitude**: a 1-standard-deviation improvement in the corruption index →
-investment rises ~2.9% of GDP.</span> Minh họa cụ thể trong bài: nếu Bangladesh nâng bureaucratic
-integrity lên mức Uruguay, investment +5%, GDP growth +0.5 điểm phần trăm.<br><span class="en">
-Concrete illustration in the paper: if Bangladesh raised bureaucratic integrity to Uruguay's
-level, investment would rise +5%, and GDP growth +0.5 percentage points.</span>
-
-**Liên hệ**: cùng cụm Institutions với [[l21-acemoglu-2001-colonial-origins]] (Question 1) —
-Mauro khuyến nghị chính sách cụ thể, lạc quan hơn Nunn (Question 4) về khả năng cải thiện chính
-sách từ bên trong quốc gia.<br><span class="en">**Course connection**: shares the Institutions
-cluster with [[l21-acemoglu-2001-colonial-origins]] (Question 1) — Mauro offers concrete policy
-recommendations, more optimistic than Nunn (Question 4) about the potential for policy
-improvement from within a country.</span> Xem [[institutions]] · [[exam-prep]] mục 3.4.<br><span
-class="en">See [[institutions]] · [[exam-prep]] section 3.4.</span>
-
-### Question 6 — FDI, growth, governance and the informal economy in Vietnam (Huynh & Tran, 2025)
-
-Xem đầy đủ: [[l26-huynh-tran-2025-fdi-informal-economy]].<br><span class="en">See in full:
-[[l26-huynh-tran-2025-fdi-informal-economy]].</span>
-
-**Phương pháp**: panel 63 tỉnh Việt Nam 2006–2021, System GMM (xử lý nội sinh động).<br><span
-class="en">**Method**: a panel of 63 Vietnamese provinces, 2006–2021, System GMM (addressing
-dynamic endogeneity).</span>
-
-**2 kênh tác động của FDI lên informal economy**:<br><span class="en">**2 channels through which
-FDI affects the informal economy**:</span>
-- **Kênh growth**: FDI thúc đẩy tăng trưởng → tạo việc làm chính thức → giảm động lực tham gia
-  khu vực phi chính thức (modernization theory/Lewis dual economy).<br><span class="en">
-  **Growth channel**: FDI boosts growth → creates formal employment → reduces incentives to
-  join the informal sector (modernization theory/Lewis dual economy).</span>
-- **Kênh governance**: FDI tạo áp lực cải thiện chất lượng quản trị địa phương (đo bằng chỉ số
-  PAPI 6 chiều — áp lực cải cách để giữ chân đầu tư) → giảm không gian cho hoạt động informal
-  (institutional theory).<br><span class="en">**Governance channel**: FDI creates pressure to
-  improve local governance quality (measured by the 6-dimension PAPI index — reform pressure to
-  retain investment) → shrinks space for informal activity (institutional theory).</span>
-
-**Findings**: cả 2 kênh hoạt động ĐỒNG THỜI — hệ số tương tác FDI×GROW và FDI×GOV đều âm có ý
-nghĩa thống kê; GOV là biến có hệ số âm lớn nhất trong mô hình, tức kênh governance mạnh hơn kênh
-growth thuần túy; formal và informal economy là substitutes.<br><span class="en">**Findings**:
-both channels operate SIMULTANEOUSLY — the FDI×GROW and FDI×GOV interaction coefficients are
-both significantly negative; GOV has the largest negative coefficient in the model, i.e., the
-governance channel is stronger than the pure growth channel; the formal and informal economies
-are substitutes.</span> Robust qua 2 kiểm định thay thế (arcsinh(FDI), proxy TAX/GDP).<br><span
-class="en">Robust across 2 alternative specifications (arcsinh(FDI), a TAX/GDP proxy).</span>
-
-**Hàm ý chính sách cho Việt Nam**: thu hút FDI không chỉ có lợi qua tạo việc làm trực tiếp mà còn
-gián tiếp cải thiện chất lượng quản trị địa phương — chính sách nên gắn thu hút FDI với cải cách
-governance cấp tỉnh để tối đa hóa tác động giảm informal economy.<br><span class="en">**Policy
-implication for Vietnam**: attracting FDI is beneficial not only through direct job creation but
-also indirectly by improving local governance quality — policy should link FDI attraction with
-provincial governance reform to maximize the informal-economy-reducing effect.</span>
-
-**Liên hệ**: [[institutions]] mục ứng dụng thực nghiệm Việt Nam.<br><span class="en">**Course
-connection**: [[institutions]], section on empirical applications in Vietnam.</span>
-
-## Liên kết
-
-- [[k32-mock-exam-2]] · [[k31-final-exam]] · [[exam-prep]] · [[overview]]
-- Papers trong đề: [[l21-acemoglu-2001-colonial-origins]],
-  [[l11-patel-2021-unconditional-convergence]], [[l13-spolaore-2013-deep-roots]],
-  [[l12-nunn-2019-rethinking-econ-dev]], [[l22-mauro-1995-corruption-growth]],
-  [[l26-huynh-tran-2025-fdi-informal-economy]]
+- [[k32-shortlist-2026]] — danh sách đầy đủ 20 bài shortlist chính thức.<br><span class="en">[[k32-shortlist-2026]] — the full official 20-paper shortlist.</span>
+- [[exam-prep]] — trang tổng hợp ôn thi, liên kết 3 Mindmap Artifact có toàn bộ 10 set dạng tương tác.<br><span class="en">[[exam-prep]] — the exam-prep synthesis page, linking the 3 Mindmap Artifacts with all 10 sets in interactive form.</span>
+- [[k30-final-exam]], [[k31-final-exam]] — 2 đề thi THẬT dùng để xác định văn phong câu hỏi cho set này.<br><span class="en">[[k30-final-exam]], [[k31-final-exam]] — the two REAL past exams used to derive this set's question phrasing.</span>
+- [[k32-mock-exam-2]] — set kế tiếp.<br><span class="en">[[k32-mock-exam-2]] — next set.</span>

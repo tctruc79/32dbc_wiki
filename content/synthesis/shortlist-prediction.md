@@ -410,10 +410,10 @@ section 2 is PURE inference from the remaining 42 candidates, with no lecture un
   section 1c (5/6 papers survived onto the K31 shortlist, 3/6 re-asked verbatim).</span>
 - [[exam-prep]] — bảng tra cứu 62 paper + 12 cụm chủ đề.<br><span class="en">[[exam-prep]] —
   the 62-paper lookup table + 12 thematic clusters.</span>
-- [[k32-mock-exam-1]] · [[k32-mock-exam-2]] · [[k32-mock-exam-3]] · [[k32-mock-exam-4]] ·
-  [[k32-mock-exam-5]] — đề thi mô phỏng luyện tập, ưu tiên phủ các bài trong Top 20 dự đoán ở
-  trang này.<br><span class="en">[[k32-mock-exam-1]] · [[k32-mock-exam-2]] · [[k32-mock-exam-3]]
-  · [[k32-mock-exam-4]] · [[k32-mock-exam-5]] — mock practice exams, prioritized to cover the
-  papers in this page's Top-20 prediction.</span>
+- [[k32-mock-exam-1]]…[[k32-mock-exam-10]] — đề thi mô phỏng hiện hành (viết lại 31/8/2026, dùng
+  20 bài shortlist CHÍNH THỨC ở [[k32-shortlist-2026]], không còn liên quan Top 20 dự đoán ở
+  trang này).<br><span class="en">[[k32-mock-exam-1]]…[[k32-mock-exam-10]] — the current mock
+  exams (rewritten 31/8/2026, using the OFFICIAL 20-paper shortlist at [[k32-shortlist-2026]], no
+  longer tied to this page's Top-20 prediction).</span>
 - [[all-papers-mindmap]] — bản mindmap trực quan 62 paper theo cụm.<br><span class="en">
   [[all-papers-mindmap]] — the visual mindmap of all 62 papers by cluster.</span>

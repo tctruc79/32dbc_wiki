@@ -145,6 +145,6 @@ The most notable runner-ups: **L81** (LN8 — the professor is also a co-author,
 - [[k31-final-exam]] — K31's real exam, cross-confirming all 6/6 questions.
 - [[k30-final-exam]] — the real exam of a cohort even earlier than K31 — the evidence source for the K30-exam section above (5/6 papers survived onto the K31 shortlist, 3/6 re-asked verbatim).
 - [[exam-prep]] — the 62-paper lookup table + 12 thematic clusters.
-- [[k32-mock-exam-1]] · [[k32-mock-exam-2]] · [[k32-mock-exam-3]] · [[k32-mock-exam-4]] · [[k32-mock-exam-5]] — mock practice exams, prioritized to cover the papers in this page's Top-20 prediction.
+- [[k32-mock-exam-1]]…[[k32-mock-exam-10]] — the current mock exams (rewritten 31/8/2026, using the OFFICIAL 20-paper shortlist at [[k32-shortlist-2026]], no longer tied to this page's Top-20 prediction).
 - [[all-papers-mindmap]] — the visual mindmap of all 62 papers by cluster.
 
