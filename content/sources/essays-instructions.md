@@ -3,7 +3,7 @@ type: source
 title: "Essays Topics and Instructions — Class 32, 2026"
 tags: [essay, course-admin]
 created: 2026-07-20
-updated: 2026-08-01
+updated: 2026-09-02
 status: complete
 source_file: "raw/1. SYLLABUS/List of essays and instructions Class 32 MSc Course Development Issues.pdf"
 also_covers:

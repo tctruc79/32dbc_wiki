@@ -3,7 +3,7 @@ type: exam
 title: "Shortlist chính thức K32 (2026) — 20 bài đọc cho kỳ thi viết 06/9"
 tags: [exam-prep, shortlist, k32, official, k31-shortlist-2025, k30-final-exam, k31-final-exam]
 created: 2026-08-28
-updated: 2026-08-28
+updated: 2026-09-02
 status: complete
 source_file: "raw/3. LECTURE NOTES/Short List K32/Short Reading list-2026 UEH DIBC Class 32.pdf"
 also_covers:
@@ -45,6 +45,23 @@ file by file: **19/20 files are byte-identical** to the copies already ingested 
 **extracted text is character-for-character identical**. Conclusion: the professor drew entirely
 from papers already distributed across the 10 lectures — **no new paper needs reading** — and all
 20 corresponding wiki pages were already at `status: complete`.</span>
+
+📎 **Nguồn tham khảo khác — không phải bài báo khoa học**: `raw/3. LECTURE NOTES/Summary.pdf`
+là tài liệu ôn thi tự soạn của bạn Nghi (cùng lớp K32), tóm tắt cả 20 bài theo văn phong "dễ
+thuộc" riêng. Không phải nguồn học thuật nên **không ingest thành trang wiki riêng** và không
+tính là `also_covers` (không phải bản trùng của một bài cụ thể) — nhưng đã dùng làm nguồn cảm
+hứng trực tiếp cho tính năng "🎯 Likely Question Focus" thêm vào cả 20 thẻ tab Ôn thi của 3
+Mindmap Artifact và file `K32 Exam Sheet (EN).docx` (đợt 2026-08-31–09-01, xem `log.md`), cũng
+như cấu trúc rút gọn "L## | Tác giả (Năm): Tiêu đề" và khung 9 mục ghi nhớ đã tham khảo một phần
+khi thiết kế lại file `.docx` (đợt 2026-09-02).<br><span class="en">📎 **Another reference
+source — not an academic paper**: `raw/3. LECTURE NOTES/Summary.pdf` is a self-authored exam-prep
+document by Nghi (a K32 classmate), summarizing all 20 papers in her own "easy to memorize"
+style. Not an academic source, so it was **not ingested as its own wiki page** and isn't counted
+as `also_covers` (it isn't a duplicate copy of any single paper) — but it directly inspired the
+"🎯 Likely Question Focus" feature added to all 20 cards in the Ôn thi tab of the 3 Mindmap
+Artifacts and the `K32 Exam Sheet (EN).docx` file (2026-08-31–09-01 round, see `log.md`), as well
+as the condensed "L## | Author (Year): Title" heading style and 9-section memorization framework
+partly referenced when redesigning the `.docx` file (2026-09-02 round).</span>
 
 ## 1. Danh sách 20 bài chính thức - <span class="en">The Official 20 Papers</span>
 
