@@ -1,0 +1,31 @@
+=== Essay_main.R (unified) run started: 2026-07-14 21:31:37 ===
+
+indexing partA_panel_OECD.csv [====================================================================================] 57.25GB/s, eta:  0s                                                                                                                                        [LOAD] E1 OECD <- data/clean/partA_panel_OECD.csv | 975 obs
+indexing partA_panel_EM.csv [======================================================================================] 67.07GB/s, eta:  0s                                                                                                                                        [LOAD] E1 EM <- data/clean/partA_panel_EM.csv | 650 obs
+indexing partB_panel_OECD.csv [===================================================================================] 149.93GB/s, eta:  0s                                                                                                                                        [LOAD] E2 OECD <- data/clean/partB_panel_OECD.csv | 2274 obs
+indexing partB_panel_EM.csv [======================================================================================] 37.78GB/s, eta:  0s                                                                                                                                        [LOAD] E2 EM <- data/clean/partB_panel_EM.csv | 642 obs
+indexing partC_panel_OECD.csv [===================================================================================] 381.28GB/s, eta:  0s                                                                                                                                        [LOAD] E3 OECD <- data/clean/partC_panel_OECD.csv | 3250 obs
+indexing partC_panel_EM.csv [======================================================================================] 52.14GB/s, eta:  0s                                                                                                                                        [LOAD] E3 EM <- data/clean/partC_panel_EM.csv | 567 obs
+
+[S1] Estimated 6 of 6 main FE-IV models: PartA_OECD, PartA_EM, PartB_OECD, PartB_EM, PartC_OECD, PartC_EM 
+[S2] Table S1 saved
+wrote 1.00TB in  0s, 322.64PB/s                                                                                                                                      [S3] Table S2 saved
+[S4] Figure S1 saved
+
+[S5] Synthesis reading (fill into the chapter):
+  - Part A (environment): does AI intensity raise or cut CO2 intensity, and
+    does the sign flip between OECD and EM (composition vs technique)?
+  - Part B (efficiency): is the green-tech productivity dividend attenuated
+    in EM (absorptive capacity: governance, human capital, broadband)?
+  - Part C (distribution): is the labor-share effect of AI null/offsetting in
+    OECD (wage vs employment channels) and different in EM?
+  - Triangle: technology x sustainability x inclusion - one technology
+    shock, three margins of structural transformation; EM institutions
+    (WGI) condition all three.
+
+=== ESSAY (UNIFIED) COMPLETE ===
+PART A (E1): output/partA/ | PART B (E2): output/partB/ | PART C (E3): output/partC/ | PART D: output/synthesis/
+Alpha = 0.10 throughout. SE clustered at pair level.
+
+=== Essay_main.R run finished: 2026-07-14 21:35:14 ===
+Log saved to: output/log/Essay_run_log_20260714_213137.txt 

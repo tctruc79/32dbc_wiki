@@ -1,0 +1,7 @@
+Part,Sample,Outcome,Key regressor,Countries,Pairs,Obs,Years,beta (FE-IV),SE,p<0.10
+Part A,OECD,ln CO2 intensity,AIPI,25,75,936,2010-2022,-0.0965,0.0327,yes
+Part A,EM,ln CO2 intensity,AIPI_EM,43,74,591,2012-2022,0.8012,0.6953,no
+Part B,OECD,ln labour productivity,ln_GTI,25,175,1847,2012-2022,0.0187,0.0069,yes
+Part B,EM,ln labour productivity,ln_GTI_EM,43,72,536,2012-2022,0.2132,0.2033,no
+Part C,OECD,ln labour income share,AIPI,25,250,3120,2010-2022,0.0114,0.0255,no
+Part C,EM,ln labour income share,AIPI_EM,39,67,530,2012-2022,0.455,0.3392,no
